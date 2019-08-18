@@ -24,6 +24,9 @@
 - Install .NET Core 2
 - Download latest release
 - Run with `dotnet PatheUpcomingMovies.dll`
+    - Optionally, you can create a cron job to automatically update the creation of the file.
+- Import .ics file in your calendar app.
+    - Optionally, you can put the ics file on your server and subscrite to it.
 
 ### Arguments
 | Parameters        | Shortcuts | Descriptions  | Mandatory |
