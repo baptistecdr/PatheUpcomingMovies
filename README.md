@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">PatheUpcomingMovies</h3>
+  <h3 align="center">Pathe - UpcomingMovies</h3>
 
   <p align="center">
     Follow upcoming movies in Pathé cinemas in Switzerland directly in your calendar.
@@ -36,8 +36,8 @@
 
 ## How to build
 
-- Install [Visual Studio](https://code.visualstudio.com)
-- Install [.NET Core 2](https://platformio.org)
+- Install [Visual Studio](https://visualstudio.microsoft.com/downloads)
+- Install [.NET Core 2](https://dotnet.microsoft.com/download)
 - Clone the project
 - Open project in Visual Studio
 
