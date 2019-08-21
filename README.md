@@ -57,3 +57,4 @@ Contributions are welcome!
 ## Thanks to
 - [iCal.NET](https://github.com/rianjs/ical.net)
 - [Quicktype](https://quicktype.io)
+- [Command Line Parser](https://github.com/commandlineparser/commandline)
