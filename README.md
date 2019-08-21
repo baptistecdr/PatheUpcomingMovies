@@ -21,7 +21,7 @@
 - [Thanks to](#thanks-to)
 
 ## Quick start
-- Install .NET Core 2
+- Install [.NET Core 2 Runtime](https://dotnet.microsoft.com/download)
 - Download latest release
 - Run with `dotnet PatheUpcomingMovies.dll`
     - Optionally, you can create a cron job to automatically update the creation of the file.
@@ -40,7 +40,7 @@
 ## How to build
 
 - Install [Visual Studio](https://visualstudio.microsoft.com/downloads)
-- Install [.NET Core 2](https://dotnet.microsoft.com/download)
+- Install [.NET Core 2 SDK](https://dotnet.microsoft.com/download)
 - Clone the project
 - Open project in Visual Studio
 
