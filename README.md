@@ -1,14 +1,13 @@
+<h3 align="center">Pathe - UpcomingMovies</h3>
 <p align="center">
-  <h3 align="center">Pathe - UpcomingMovies</h3>
-
-  <p align="center">
-    Follow upcoming movies in Pathé cinemas in Switzerland directly in your calendar.
-    <br>
-    <a href="https://github.com/baptistecdr/PatheUpcomingMovies/issues/new">Report bug</a>
-    ·
-    <a href="https://github.com/baptistecdr/PatheUpcomingMovies/issues/new">Request feature</a>
-  </p>
-  <img src="https://i.snipboard.io/Ep1yul.jpg"/>
+  Follow upcoming movies in Pathé cinemas in Switzerland directly in your calendar.
+  <br>
+  <a href="https://github.com/baptistecdr/PatheUpcomingMovies/issues/new">Report bug</a>
+  ·
+  <a href="https://github.com/baptistecdr/PatheUpcomingMovies/issues/new">Request feature</a>
+</p>
+<p align="center">
+  <img src="https://i.snipboard.io/Ep1yul.jpg" alt="Calendar example"/>
 </p>
 
 ## Table of contents
