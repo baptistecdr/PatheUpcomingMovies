@@ -31,7 +31,7 @@
 | Parameters        | Shortcuts | Descriptions  | Mandatory |
 |-------------------|-----------|---------------|-----------|
 | --city            | -c        | (Default: Geneva) City of the cinema. Valid values: Basel, Bern, Geneva, LausanneFlo, LausanneGal, Lucern, Spreitenbach, Zurich  | No |
-| --language        | -l        | Default: Fr) Language of the informations. Valid values: De, En, Fr | No |
+| --language        | -l        | (Default: Fr) Language of the informations. Valid values: De, En, Fr | No |
 | --output          | -o        | (Default: ./PatheUpcomingMovies.ics) Path to export ics file.  | No |
 | --help            | -h        | Display this help screen.   | No |
 
