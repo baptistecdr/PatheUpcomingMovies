@@ -20,7 +20,7 @@
 - [Thanks to](#thanks-to)
 
 ## Quick start
-- Install [.NET Core 2 Runtime](https://dotnet.microsoft.com/download)
+- Install [.NET Core 3 Runtime](https://dotnet.microsoft.com/download)
 - Download latest release
 - Run with `dotnet PatheUpcomingMovies.dll`
     - Optionally, you can create a cron job to automatically update the creation of the file.
