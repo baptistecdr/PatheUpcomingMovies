@@ -39,7 +39,7 @@
 ## How to build
 
 - Install [Visual Studio](https://visualstudio.microsoft.com/downloads)
-- Install [.NET Core 2 SDK](https://dotnet.microsoft.com/download)
+- Install [.NET Core 3 SDK](https://dotnet.microsoft.com/download)
 - Clone the project
 - Open project in Visual Studio
 
