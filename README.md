@@ -24,6 +24,7 @@
 - Download latest release
 - Run with `dotnet PatheUpcomingMovies.dll`
     - Optionally, you can create a cron job to automatically update the creation of the file.
+    - If you want to have trailers, put bypass_vimeo.php on your server and pass -t "http(s)://yourserver.com/bypass_vimeo.php"
 - Import .ics file in your calendar app.
     - Optionally, you can put the ics file on your server and subscribe to it.
 
@@ -32,6 +33,8 @@
 |-------------------|-----------|---------------|-----------|
 | --city            | -c        | (Default: Geneva) City of the cinema. Valid values: Basel, Bern, Geneva, LausanneFlo, LausanneGal, Lucern, Spreitenbach, Zurich  | No |
 | --language        | -l        | (Default: Fr) Language of the informations. Valid values: De, En, Fr | No |
+| --trailer-language | -t       | (Default: Ov) Language of trailers. Valid Values: De, Ov, Fr | No |
+| --vimeo-bypass-url | -v       | (Default: ) Url to bypass Vimeo. Example: https://example.com/vimeo\_bypass.php | No |
 | --output          | -o        | (Default: ./PatheUpcomingMovies.ics) Path to export ics file.  | No |
 | --help            | -h        | Display this help screen.   | No |
 

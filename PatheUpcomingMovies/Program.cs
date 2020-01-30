@@ -34,34 +34,18 @@ namespace PatheUpcomingMovies
         static void Main(string[] args)
         {
             Parser.Default.ParseArguments<Options>(args).WithParsed<Options>(o => {
-                ICinema cinema = null;
-                switch (o.City)
+                ICinema cinema = o.City switch
                 {
-                    case City.Basel:
-                        cinema = new BaselCinema();
-                        break;
-                    case City.Bern:
-                        cinema = new BernCinema();
-                        break;
-                    case City.Geneva:
-                        cinema = new GenevaCinema();
-                        break;
-                    case City.LausanneFlo:
-                        cinema = new LausanneFloCinema();
-                        break;
-                    case City.LausanneGal:
-                        cinema = new LausanneGalCinema();
-                        break;
-                    case City.Lucerne:
-                        cinema = new LucerneCinema();
-                        break;
-                    case City.Spreitenbach:
-                        cinema = new SpreitenbachCinema();
-                        break;
-                    case City.Zurich:
-                        cinema = new ZurichCinema();
-                        break;
-                }
+                    City.Basel => new BaselCinema(),
+                    City.Bern => new BernCinema(),
+                    City.Geneva => new GenevaCinema(),
+                    City.LausanneFlo => new LausanneFloCinema(),
+                    City.LausanneGal => new LausanneGalCinema(),
+                    City.Lucerne => new LucerneCinema(),
+                    City.Spreitenbach => new SpreitenbachCinema(),
+                    City.Zurich => new ZurichCinema(),
+                    _ => new GenevaCinema()
+                };
 
                 /* Retrieve from pathe.ch upcoming movies */
                 RestClient client = new RestClient("https://pathe.ch/solr/pathe-movies");
