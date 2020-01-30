@@ -34,7 +34,7 @@
 | --city            | -c        | (Default: Geneva) City of the cinema. Valid values: Basel, Bern, Geneva, LausanneFlo, LausanneGal, Lucern, Spreitenbach, Zurich  | No |
 | --language        | -l        | (Default: Fr) Language of the informations. Valid values: De, En, Fr | No |
 | --trailer-language | -t       | (Default: Ov) Language of trailers. Valid Values: De, Ov, Fr | No |
-| --vimeo-bypass-url | -v       | (Default: ) Url to bypass Vimeo. Example: https://example.com/vimeo\_bypass.php | No |
+| --vimeo-bypass-url | -v       | (Default: ) Url to bypass Vimeo. Example: https://example.com/vimeo_bypass.php | No |
 | --output          | -o        | (Default: ./PatheUpcomingMovies.ics) Path to export ics file.  | No |
 | --help            | -h        | Display this help screen.   | No |
 
