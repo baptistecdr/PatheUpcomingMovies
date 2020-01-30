@@ -1,9 +1,9 @@
 ﻿namespace PatheUpcomingMovies
 {
-    public enum Language
+    public enum TrailerLanguage
     {
         De,
-        En,
+        Ov,
         Fr
     }
 }

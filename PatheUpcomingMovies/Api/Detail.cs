@@ -31,8 +31,17 @@ namespace PatheUpcomingMovies.DetailApi
 
     public partial class Doc
     {
+        [JsonProperty("trailer_embed_de", NullValueHandling = NullValueHandling.Ignore)]
+        public string TrailerEmbedDe { get; set; }
+
         [JsonProperty("synopsis_en", NullValueHandling = NullValueHandling.Ignore)]
         public string SynopsisEn { get; set; }
+
+        [JsonProperty("poster_de", NullValueHandling = NullValueHandling.Ignore)]
+        public string PosterDe { get; set; }
+
+        [JsonProperty("poster_fr", NullValueHandling = NullValueHandling.Ignore)]
+        public string PosterFr { get; set; }
 
         [JsonProperty("title_fr")]
         public string TitleFr { get; set; }
@@ -51,6 +60,9 @@ namespace PatheUpcomingMovies.DetailApi
 
         [JsonProperty("oneline_en", NullValueHandling = NullValueHandling.Ignore)]
         public string OnelineEn { get; set; }
+
+        [JsonProperty("trailer_embed_fr", NullValueHandling = NullValueHandling.Ignore)]
+        public string TrailerEmbedFr { get; set; }
 
         [JsonProperty("duration")]
         public long Duration { get; set; }
@@ -80,6 +92,9 @@ namespace PatheUpcomingMovies.DetailApi
         [JsonProperty("cast_voice")]
         public bool CastVoice { get; set; }
 
+        [JsonProperty("poster_ov", NullValueHandling = NullValueHandling.Ignore)]
+        public string PosterOv { get; set; }
+
         [JsonProperty("release_de_ch", NullValueHandling = NullValueHandling.Ignore)]
         public DateTimeOffset? ReleaseDeCh { get; set; }
 
@@ -103,27 +118,6 @@ namespace PatheUpcomingMovies.DetailApi
 
         [JsonProperty("_version_")]
         public double Version { get; set; }
-
-        [JsonProperty("trailer_embed_de", NullValueHandling = NullValueHandling.Ignore)]
-        public string TrailerEmbedDe { get; set; }
-
-        [JsonProperty("poster_de", NullValueHandling = NullValueHandling.Ignore)]
-        public string PosterDe { get; set; }
-
-        [JsonProperty("poster_fr", NullValueHandling = NullValueHandling.Ignore)]
-        public string PosterFr { get; set; }
-
-        [JsonProperty("trailer_embed_fr", NullValueHandling = NullValueHandling.Ignore)]
-        public string TrailerEmbedFr { get; set; }
-
-        [JsonProperty("poster_ov", NullValueHandling = NullValueHandling.Ignore)]
-        public string PosterOv { get; set; }
-
-        [JsonProperty("cast_de", NullValueHandling = NullValueHandling.Ignore)]
-        public List<string> CastDe { get; set; }
-
-        [JsonProperty("cast_fr", NullValueHandling = NullValueHandling.Ignore)]
-        public List<string> CastFr { get; set; }
     }
 
     public partial class ResponseHeader
@@ -152,7 +146,7 @@ namespace PatheUpcomingMovies.DetailApi
 
     public enum Genre { Action, Adventure, Animation, Comedy, Crime, Docu, Drama, Family, Fantasy, Horror, Music, Musical, Mystery, Romance, Scifi, Thriller };
 
-    public enum LangOv { Ar, Da, De, En, Es, Fr, Hi, Is, It, Pt, Ru, Zh };
+    public enum LangOv { Ar, De, En, Es, Fr, Gsw, Is, It, Mn, Pl, Pt, Ru, Sq };
 
     public enum TypeEnum { Movie };
 
@@ -336,8 +330,6 @@ namespace PatheUpcomingMovies.DetailApi
             {
                 case "ar":
                     return LangOv.Ar;
-                case "da":
-                    return LangOv.Da;
                 case "de":
                     return LangOv.De;
                 case "en":
@@ -346,18 +338,22 @@ namespace PatheUpcomingMovies.DetailApi
                     return LangOv.Es;
                 case "fr":
                     return LangOv.Fr;
-                case "hi":
-                    return LangOv.Hi;
+                case "gsw":
+                    return LangOv.Gsw;
                 case "is":
                     return LangOv.Is;
                 case "it":
                     return LangOv.It;
+                case "mn":
+                    return LangOv.Mn;
+                case "pl":
+                    return LangOv.Pl;
                 case "pt":
                     return LangOv.Pt;
                 case "ru":
                     return LangOv.Ru;
-                case "zh":
-                    return LangOv.Zh;
+                case "sq":
+                    return LangOv.Sq;
             }
             throw new Exception("Cannot unmarshal type LangOv");
         }
@@ -375,9 +371,6 @@ namespace PatheUpcomingMovies.DetailApi
                 case LangOv.Ar:
                     serializer.Serialize(writer, "ar");
                     return;
-                case LangOv.Da:
-                    serializer.Serialize(writer, "da");
-                    return;
                 case LangOv.De:
                     serializer.Serialize(writer, "de");
                     return;
@@ -390,8 +383,8 @@ namespace PatheUpcomingMovies.DetailApi
                 case LangOv.Fr:
                     serializer.Serialize(writer, "fr");
                     return;
-                case LangOv.Hi:
-                    serializer.Serialize(writer, "hi");
+                case LangOv.Gsw:
+                    serializer.Serialize(writer, "gsw");
                     return;
                 case LangOv.Is:
                     serializer.Serialize(writer, "is");
@@ -399,14 +392,20 @@ namespace PatheUpcomingMovies.DetailApi
                 case LangOv.It:
                     serializer.Serialize(writer, "it");
                     return;
+                case LangOv.Mn:
+                    serializer.Serialize(writer, "mn");
+                    return;
+                case LangOv.Pl:
+                    serializer.Serialize(writer, "pl");
+                    return;
                 case LangOv.Pt:
                     serializer.Serialize(writer, "pt");
                     return;
                 case LangOv.Ru:
                     serializer.Serialize(writer, "ru");
                     return;
-                case LangOv.Zh:
-                    serializer.Serialize(writer, "zh");
+                case LangOv.Sq:
+                    serializer.Serialize(writer, "sq");
                     return;
             }
             throw new Exception("Cannot marshal type LangOv");

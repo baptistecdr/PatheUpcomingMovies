@@ -18,8 +18,14 @@ namespace PatheUpcomingMovies
             [Option('c', "city", Required = false, Default = City.Geneva, HelpText = "City of the cinema. Valid values: Basel, Bern, Geneva, LausanneFlo, LausanneGal, Lucern, Spreitenbach, Zurich")]
             public City City { get; set; }
 
-            [Option('l', "language", Required = false, Default = Language.Fr, HelpText = "Language of the informations. Valid values: De, En, Fr")]
+            [Option('l', "language", Required = false, Default = Language.Fr, HelpText = "Language of synopsis. Valid values: De, En, Fr")]
             public Language Language { get; set; }
+
+            [Option('t', "trailer-language", Required = false, Default = TrailerLanguage.Ov, HelpText = "Language of trailers. Valid values: De, Ov, Fr")]
+            public TrailerLanguage TrailerLanguage { get; set; }
+
+            [Option('v', "vimeo-bypass-url", Required = false, Default = "", HelpText = "Url to bypass Vimeo. Example: https://example.com/bypass_vimeo.php")]
+            public string VimeoBypassUrl { get; set; }
 
             [Option('o', "output", Required = false, Default = "./PatheUpcomingMovies.ics",  HelpText = "Path to export ics file.")]
             public string Output { get; set; }
@@ -92,20 +98,75 @@ namespace PatheUpcomingMovies
                 }
 
                 Calendar calendar = new Calendar();
-
-                detailResponse.Data.Response.Docs.ForEach((doc) =>
+                foreach (DetailApi.Doc doc in detailResponse.Data.Response.Docs)
                 {
-                    CalendarEvent calendarEvent = new CalendarEvent
+                    CalendarEvent calendarEvent = new CalendarEvent();
+                    switch (o.Language)
                     {
-                        Summary = o.Language == Language.De ? doc.TitleDe : o.Language == Language.En ? doc.Title : doc.TitleFr,
-                        Description = o.Language == Language.De ? doc.SynopsisDe : o.Language == Language.En ? doc.SynopsisEn : doc.SynopsisFr,
-                        Start = new CalDateTime(o.City == City.Geneva || o.City == City.LausanneFlo || o.City == City.LausanneGal || !doc.ReleaseDeCh.HasValue ? doc.ReleaseFrCh.Value.DateTime : doc.ReleaseDeCh.Value.DateTime),
-                        End = new CalDateTime(o.City == City.Geneva || o.City == City.LausanneFlo || o.City == City.LausanneGal || !doc.ReleaseDeCh.HasValue ? doc.ReleaseFrCh.Value.DateTime : doc.ReleaseDeCh.Value.DateTime),
-                        Location = cinema.Address,
-                        GeographicLocation = new GeographicLocation(cinema.Latitude, cinema.Longitude)
+                        case Language.De:
+                            calendarEvent.Summary = doc.TitleDe;
+                            calendarEvent.Description = doc.SynopsisDe;
+                            break;
+                        case Language.En:
+                            calendarEvent.Summary = doc.Title;
+                            calendarEvent.Description = doc.SynopsisEn;
+                            break;
+                        case Language.Fr:
+                            calendarEvent.Summary = doc.TitleFr;
+                            calendarEvent.Description = doc.SynopsisFr;
+                            break;
                     };
+                    switch (o.City)
+                    {
+                        case City.Basel:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            break;
+                        case City.Bern:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            break;
+                        case City.Geneva:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseFrCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseFrCh.Value.DateTime);
+                            break;
+                        case City.LausanneFlo:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseFrCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseFrCh.Value.DateTime);
+                            break;
+                        case City.LausanneGal:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseFrCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseFrCh.Value.DateTime);
+                            break;
+                        case City.Lucerne:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            break;
+                        case City.Spreitenbach:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            break;
+                        case City.Zurich:
+                            calendarEvent.Start = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            calendarEvent.End = new CalDateTime(doc.ReleaseDeCh.Value.DateTime);
+                            break;
+                    }
+                    calendarEvent.Location = cinema.Address;
+                    calendarEvent.GeographicLocation = new GeographicLocation(cinema.Latitude, cinema.Longitude);
+                    string vimeoId = o.TrailerLanguage switch
+                    {
+                        TrailerLanguage.De => !string.IsNullOrEmpty(doc.TrailerEmbedDe) ? doc.TrailerEmbedDe.Remove(0, 1) : "",
+                        TrailerLanguage.Ov => !string.IsNullOrEmpty(doc.TrailerEmbedOv) ? doc.TrailerEmbedOv.Remove(0, 1) : "",
+                        TrailerLanguage.Fr => !string.IsNullOrEmpty(doc.TrailerEmbedFr) ? doc.TrailerEmbedFr.Remove(0, 1) : "",
+                        _ => ""
+                    };
+                    if (!string.IsNullOrEmpty(o.VimeoBypassUrl) && !string.IsNullOrEmpty(vimeoId))
+                    {
+                        calendarEvent.Url = new Uri($"{o.VimeoBypassUrl}?v={vimeoId}");
+                    }
+
                     calendar.Events.Add(calendarEvent);
-                });
+                }
                 CalendarSerializer serializer = new CalendarSerializer();
                 string serializedCalendar = serializer.SerializeToString(calendar);
                 try
