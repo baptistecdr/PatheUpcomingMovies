@@ -6,12 +6,12 @@ Create a calendar (ics) of new upcoming movies in Pathé (Suisse).
 
 ## Subscribe
 
-You can directly subscribe to one the three calendars available:
-* [PatheUpcomingMovies_EN.ics](output%2FPatheUpcomingMovies_EN.ics)
+You can directly subscribe to one of the three calendars available:
+* [PatheUpcomingMovies_EN.ics](https://raw.githubusercontent.com/baptistecdr/PatheUpcomingMovies/main/calendars/PatheUpcomingMovies_EN.ics)
   * Movie's details in English
-* [PatheUpcomingMovies_FR.ics](output%2FPatheUpcomingMovies_FR.ics)
+* [PatheUpcomingMovies_FR.ics](https://raw.githubusercontent.com/baptistecdr/PatheUpcomingMovies/main/calendars/PatheUpcomingMovies_FR.ics)
   * Movie's details in French
-* [PatheUpcomingMovies_DE.ics](output%2FPatheUpcomingMovies_DE.ics)
+* [PatheUpcomingMovies_DE.ics](https://raw.githubusercontent.com/baptistecdr/PatheUpcomingMovies/main/calendars/PatheUpcomingMovies_DE.ics)
   * Movie's details in Deutsch
 
 ## Run
