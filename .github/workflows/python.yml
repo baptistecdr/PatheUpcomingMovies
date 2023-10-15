@@ -1,0 +1,41 @@
+name: Update Pathe Upcoming Movies
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * MON'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout
+
+      - name: Setup python
+        uses: actions/setup-python
+        with:
+          python-version: 3.x
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Update EN calendar
+        run: ./pathe_upcoming_movies.py --language EN --output ./calendars/PatheUpcomingMovies_EN.ics
+
+      - name: Update FR calendar
+        run: ./pathe_upcoming_movies.py --language FR --output ./calendars/PatheUpcomingMovies_FR.ics
+
+      - name: Update DE calendar
+        run: ./pathe_upcoming_movies.py --language DE --output ./calendars/PatheUpcomingMovies_DE.ics
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          fetch: true
+          default_author: github_actions
+          message: Update EN, FR and DE calendars
+          pathspec_error_handling: exitImmediately
+          push: true
