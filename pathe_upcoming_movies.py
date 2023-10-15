@@ -6,6 +6,8 @@ from enum import Enum
 import requests
 from ics import Calendar, Event
 
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0"
+
 
 class Language(Enum):
     EN = "en"
@@ -19,8 +21,6 @@ class Language(Enum):
     @staticmethod
     def values():
         return [l.value for l in Language]
-
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0"
 
 
 def get_shows(language: Language):
@@ -62,17 +62,20 @@ def create_event(show, language: Language):
 
 if __name__ == '__main__':
     args_parser = ArgumentParser()
-    args_parser.add_argument("-l", "--language", help="Language of movie's information", choices=Language.names(), required=True)
+    args_parser.add_argument("-l", "--language", help="Language of movie's information", choices=Language.names(),
+                             required=True)
     args_parser.add_argument("-o", "--output", help="Path to write the calendar", required=True)
     args = vars(args_parser.parse_args())
     language = Language[args["language"]]
     output = args["output"]
-    shows = get_shows(Language.FR)
+
     calendar = Calendar()
+    shows = get_shows(language)
     for show in shows:
         slug = show["slug"]
-        show = get_show(slug, Language.FR)
-        event = create_event(show, Language.FR)
+        show = get_show(slug, language)
+        event = create_event(show, language)
         calendar.events.add(event)
+
     with open(output, "w") as f:
         f.write(calendar.serialize())
