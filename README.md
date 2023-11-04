@@ -1,4 +1,4 @@
-# PatheUpcomingMovies.ics
+# PatheUpcomingMovies
 
 Subscribe to a calendar of new upcoming movies in Pathé (Suisse).
 
