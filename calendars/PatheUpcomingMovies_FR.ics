@@ -2,955 +2,1032 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Corse\, 1995. Lesia vit son premier été d’adolescente. Un jour\, un homme fait irruption et la conduit à moto dans une villa isolée où elle retrouve son père\, en planque\, entouré de ses hommes. Une guerre éclate dans le Milieu et l’étau se resserre autour du clan. La mort frappe. Commence alors une cavale au cours de laquelle père et fille vont apprendre à se regarder\, à se comprendre et à s’aimer.
-DTEND:20241113T040000Z
-DTSTART:20241113T040000Z
-SUMMARY:Le Royaume
-UID:d61b52bd-7ebc-4d6b-8d02-8349a54c3814@d61b.org
-URL:https://www.pathe.ch/fr/films-evenements/le-royaume-40243
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A new adaptation of the famous novel by Alexandre Dumas.
-DTEND:20240626T040000Z
-DTSTART:20240626T040000Z
-SUMMARY:Le Comte de Monte-Cristo
-UID:82077c09-13fd-4bb0-a726-191ac3644a5d@8207.org
-URL:https://www.pathe.ch/fr/films-evenements/le-comte-de-monte-cristo-36845
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Un chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! FLOW plonge dans un monde fantastique rempli d'éléments métaphoriques et symboliques. Destiné aux adultes et aux enfants\, le film offre une réflexion profonde sur l'adaptabilité et la solidarité. 
-DTEND:20241030T040000Z
-DTSTART:20241030T040000Z
-SUMMARY:Flow
-UID:570f6b9a-6bb4-4792-ab3a-21ea42254619@570f.org
-URL:https://www.pathe.ch/fr/films-evenements/flow-40242
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20250326T040000Z
-DTSTART:20250326T040000Z
-SUMMARY:The Woman in the Yard
-UID:2552e125-0f70-4441-879e-42256b595fb7@2552.org
-URL:https://www.pathe.ch/fr/films-evenements/the-woman-in-the-yard-38628
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Gerda et Kay sont des compagnons de jeu inséparables jusqu’à ce jour où\, blessé par deux cristaux d’un miroir brisé\, le jeune garçon change de caractère et devienne colérique. Il disparaît alors\, enlevé par la mystérieuse Reine des neiges. Sans nouvelles de lui\, Gerda décide de partir à travers le monde à la recherche de son frère de cœur…
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:CF: La Reine des Neiges
-UID:34bd86b7-455f-4b5a-a161-6daa820cdb55@34bd.org
-URL:https://www.pathe.ch/fr/films-evenements/cf-la-reine-des-neiges-42443
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Autodidacte de génie\, le pianiste Erroll Garner a marqué à jamais le visage du jazz. Son titre Misty\, composé dit-il dans un avion entre deux concerts\, est devenu un standard dès sa sortie et reste encore l’une de ballades les plus reprises au monde. Enchaînant les succès\, il a pourtant connu une vie tumultueuse… Qui se cachait derrière le sourire charmeur de cet enfant des ghettos de Pittsburgh que le talent a propulsé sur les plus grandes scènes internationales ?
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Misty – The Erroll Garner Story
-UID:5d87969b-56cb-4a19-86fa-93220a7e87f0@5d87.org
-URL:https://www.pathe.ch/fr/films-evenements/misty-the-erroll-garner-story-40643
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nous sommes dans les années 1930. Antoine de Saint-Exupéry est pilote de l’Aéropostale en Argentine. Lorsque Henri Guillaumet\, son meilleur ami et pilote émérite de l’Aéropostale\, disparaît dans la Cordillère des Andes\, Saint-Ex décide coûte que coûte de partir à sa recherche. Cette quête impossible l'oblige à se surpasser\, en faisant de sa capacité à rêver sa plus grande force...
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:Saint-Ex
-UID:6dcd88b6-42c4-499f-b9c3-398c0cb5cb4e@6dcd.org
-URL:https://www.pathe.ch/fr/films-evenements/saint-ex-38956
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Carole\, maire d'une petite ville\, s'implique à fond dans les festivités de Noël de sa commune pendant qu'Alain\, son mari moderne et dévoué\, s'occupe d'organiser le réveillon. Mais lorsque les enfants arrivent\, le rêve d'un Noël serein s'effondre et le couple subit une attaque en règle de toutes les traditions familiales...
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:Un Noël en famille
-UID:0d268ced-2907-4527-b6ad-a8395c8f8ede@0d26.org
-URL:https://www.pathe.ch/fr/films-evenements/un-noel-en-famille-40400
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Auf den ersten Blick sieht Carag aus wie ein ganz normaler Junge\, doch hinter seinen leuchtenden Augen verbirgt sich ein unglaubliches Geheimnis: Carag ist ein Gestaltwandler. Als Berglöwe ist er in der Wildnis aufgewachsen und lebt nun in seiner Jungengestalt in der Menschenwelt. Erst als Carag in der Clearwater High aufgenommen wird\, einem geheimen Internat für Woodwalker wie ihn\, verspürt er ein Gefühl von Heimat. In Holly\, einem frechen Rothörnchen\, und Brandon\, einem schüchternen Bison\, findet er schnell Freunde. Und die kann Carag gut gebrauchen – denn die Welt der Woodwalker steckt voller Rätsel und Gefahren …
-DTEND:20241024T040000Z
-DTSTART:20241024T040000Z
-SUMMARY:Woodwalkers
-UID:5e62b312-7fba-4c94-889c-83dcf6be730e@5e62.org
-URL:https://www.pathe.ch/fr/films-evenements/woodwalkers-38689
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Laufey\, artiste islando-chinoise de 25 ans\, lauréate d'un GRAMMY\, écrit des chansons inspirées par les grands noms du jazz et les maîtres de la musique classique\, tout en adoptant un point de vue qui ne peut être transmis que par une jeune femme du XXIe siècle. Cette approche romantique et novatrice a conquis le public du monde entier\, créant une communauté mondiale de « Lauvers » et faisant salle comble à chaque date de tournée que la « Gen Z It Girl » (NY Times) a mise en vente. Le film A Night at the Symphony : Hollywood Bowl a été tourné à Los Angeles\, la ville d'adoption de Laufey. Réalisé par Sam Wrench (Taylor Swift | The Eras Tour)\, Laufey emmène le public dans un voyage sonore envoûtant\, sous les étoiles\, aux côtés du légendaire orchestre philharmonique de Los Angeles. Jouant dans la salle emblématique où Ella Fitzgerald et tant d'autres héros de Laufey ont joué avant elle\, le film donne un aperçu des coulisses de ce spectacle monumental. Comme le résume Variety\, « Laufey a l'impression d'être née pour jouer au Hollywood Bowl ». 
-DTEND:20241208T040000Z
-DTSTART:20241208T040000Z
-SUMMARY:Laufey's A Night at the Symphony: Hollywood Bowl
-UID:8b1e8523-5d97-4007-a6e0-826ae26e217d@8b1e.org
-URL:https://www.pathe.ch/fr/films-evenements/laufey-s-a-night-at-the-symphony-hollywood-bowl-43030
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Après avoir fui la Guinée\, le jeune Souleymane tente de trouver asile en France. Sans-papiers et sans argent\, il se débrouille comme il peut à Paris\, en travaillant comme coursier à vélo pour un service de livraison de repas\, dans des conditions épouvantables. À 48 heures de son entretien de demande d’asile\, Souleymane n’est pas prêt... Lauréat du Prix du public de la Piazza Grande en 2019 avec «Camille»\, Boris Lojkine nous raconte aujourd’hui «L’Histoire de Souleymane»\, drame bouleversant de justesse et d’émotion sur la migration\, l’uberisation et la survie à la ville. À Cannes\, l’acteur Abou Sangare incarnant le rôle-titre a été récompensé du Prix d’interprétation Un Certain Regard et le film couronné du Prix du Jury.
-DTEND:20241009T040000Z
-DTSTART:20241009T040000Z
-SUMMARY:L'histoire de Souleymane
-UID:dbd5fe51-7858-458a-8343-69bac2fdce7c@dbd5.org
-URL:https://www.pathe.ch/fr/films-evenements/l-histoire-de-souleymane-40240
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LUAN and AMIR - THE TROUBLESHOOTERS - are two failed\, down-and-out best friends from Tirana who dream of becoming the first private detectives in Albania ever.Their first job takes them straight into the heart of a crazy murder mystery to a five-star resort in Durrës. Undercover and disguised as rich dandies they check in - and so the chaos gets started. The guys are real amateurs\, try to pose like pros. Without any experience\, clue or plan\, the TROUBLESHOOTERS still give it their all!Here\, on the beautiful Albanian coast\, they must prove to the world what they are made of. But do they really have what it takes to become heroes? Will they fall in love\, solve their first case and defeat the bad guys\, or will they fail miserably?Until we find out\, however\, the TROUBLESHOOTERS will cause spectacular chaos of relentless fun and action on Tirana's streets\, in luxurious casinos\, football stadiums or on construction sites high above the city\, until they face the bad guys in a furious showdown in the port of Durres.
-DTEND:20241205T040000Z
-DTSTART:20241205T040000Z
-SUMMARY:Troubleshooters
-UID:2e8e00c2-86be-41b2-9fe5-4b158d06f587@2e8e.org
-URL:https://www.pathe.ch/fr/films-evenements/troubleshooters-43149
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dans VENOM: THE LAST DANCE\, Tom Hardy reprend son rôle de Venom\, l’un des personnages les plus importants et les plus complexes de l’univers MARVEL\, pour le grand final de la trilogie. Eddie et Venom sont en fuite. Alors qu’ils sont pourchassés par leurs deux mondes\, l’étau se resserre autour d’eux et ils sont contraints de prendre une décision dévastatrice\, qui marquera leur dernière aventure.
-DTEND:20241023T040000Z
-DTSTART:20241023T040000Z
-SUMMARY:Venom: The Last Dance
-UID:4453e069-ebcd-42ca-98b1-cea9be02f3e9@4453.org
-URL:https://www.pathe.ch/fr/films-evenements/venom-the-last-dance-38530
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Anora\, une jeune travailleuse du sexe de Brooklyn\, a la chance de vivre une histoire à la Cendrillon lorsqu'elle rencontre le fils d'un oligarque et l'épouse impulsivement. Lorsque la nouvelle parvient en Russie\, son conte de fées est menacé car les parents du fils partent pour New York afin de faire annuler le mariage.
-DTEND:20241030T040000Z
-DTSTART:20241030T040000Z
-SUMMARY:Anora
-UID:afbb302b-5e1e-4e2f-8bc7-eb5cfb7b640f@afbb.org
-URL:https://www.pathe.ch/fr/films-evenements/anora-40298
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le nouveau film de Jesse Eisenberg\, A REAL PAIN\, dont il est le scénariste et le réalisateur et pour lequel il tient le rôle principal aux côtés de Kieran Culkin\, a reçu le Waldo Salt Screenwriting Award du meilleur scénario au festival du film de Sundance.  Les cousins David (Jesse Eisenberg) et Benji (Kieran Culkin) se retrouvent pour un voyage en Pologne en l'honneur de leur grand-mère bien-aimée. Ce road trip\, qui devait être un voyage dans le passé\, les confronte au présent\, les amenant à s'interroger sur leur relation et leur histoire familiale.
-DTEND:20250108T040000Z
-DTSTART:20250108T040000Z
-SUMMARY:A Real Pain
-UID:3f9a6e26-ca0b-4752-8fad-77ae5ea1182b@3f9a.org
-URL:https://www.pathe.ch/fr/films-evenements/a-real-pain-40047
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Anna (Janina Uhse) und Thomas (Florian David Fitz) wollen heiraten und haben die Familie in die <br/>Tiroler Alpen eingeladen. Stephan (Christoph Maria Herbst) sinniert typisch schlecht gelaunt im Ski-Lift <br/>über das aktuelle Leben der Böttchers\, Wittmanns\, Bergers und Königs: Anna hat überraschend doch <br/>noch Karriere als Schauspielerin gemacht\, Thomas steht kurz davor\, in den Vorstand eines <br/>Immobilienkonzerns aufzusteigen – vorausgesetzt\, er besteht die obligatorische Sensibility-Schulung. <br/>Stephans Frau Elisabeth (Caroline Peters) arbeitet zwar noch als Lehrerin\, bessert die Haushaltskasse<br/>aber heimlich mit Bitcoin-Handel auf. Und René (Justus von Dohnányi)\, verheiratet mit Dorothea (Iris <br/>Berben) und seit drei Jahren Eltern von Zwillingen\, entpuppt sich als überfürsorglicher Helikopter-Vater. <br/>Stephan selbst wurde kürzlich als Professor aus der Uni entlassen\; es gab da einen Vorfall. Und mit <br/>Cajus (Jona Volkmann)\, 18\, und Antigone (Kya-Celina Barucki)\, 17\, bringt Stephan und Elisabeths <br/>jugendlich-woker Nachwuchs zusätzlich Chaos in die erhoffte Winteridylle. Am Ende steht nicht nur die <br/>geplante Hochzeit auf der Kippe…
-DTEND:20241219T040000Z
-DTSTART:20241219T040000Z
-SUMMARY:Der Spitzname
-UID:2eaca153-8f3c-42d0-a41a-d4f14663927f@2eac.org
-URL:https://www.pathe.ch/fr/films-evenements/der-spitzname-38029
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Thibaut\, chef d'orchestre parisien au sommet de sa carrière\, remplit des salles de concert dans le monde entier. Un jour\, lors d'un examen médical\, il s'avère que lui et sa sœur ne sont pas du tout de la même famille\, Thibaut ayant été adopté. En revanche il apprend qu’il a un frère : Jimmy\, employé́ de cantine scolaire et qui joue du trombone dans la fanfare d’une ville ouvrière du nord de la France. En apparence\, tout sépare les deux frères\, sauf leur amour et leur don pour la musique. Fils adoptif d’une famille privilégiée\, Thibaut tente de réparer les injustices du destin. Jimmy se prend alors à rêver d’une autre vie…  Lors de sa première au Festival de Cannes\, « En fanfare » a été acclamé frénétiquement par le public. Le réalisateur Emmanuel Courcol sait tenir avec adresse l’équilibre subtil entre moments tragiques et situations hilarantes. Une comédie sur le hasard et le destin\, pleine d’humour et de tendresse qui raconte l’histoire d’un amour fraternel nourri de passion de la musique qui fait fi de tous les obstacles.
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:En fanfare
-UID:7b853fd4-0ff5-4306-bea9-7ea665470df0@7b85.org
-URL:https://www.pathe.ch/fr/films-evenements/en-fanfare-40041
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dans cinq histoires enchanteresses\, des animaux partent pour de grandes aventures pleines de suspense et de merveilles. De la France aux aurores boréales en passant par le Japon\, la magie de Noël n'a pas de frontières ! 
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:Le Grand Noël des animaux
-UID:1f86ae5f-bb6a-4fd7-a67c-027aa6313a27@1f86.org
-URL:https://www.pathe.ch/fr/films-evenements/le-grand-noel-des-animaux-38027
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Joker: Folie À Deux finds Arthur Fleck institutionalized at Arkham awaiting trial for his crimes as Joker. While struggling with his dual identity\, Arthur not only stumbles upon true love\, but also finds the music that's always been inside him.
-DTEND:20241002T040000Z
-DTSTART:20241002T040000Z
-SUMMARY:Joker: Folie à Deux
-UID:1f9cb9c4-7d1a-4d4c-a714-b92cf02a5a89@1f9c.org
-URL:https://www.pathe.ch/fr/films-evenements/joker-folie-a-deux-36726
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
+DESCRIPTION:Tous les jours\, Jérôme parcourt Tokyo au volant de son taxi à la recherche de sa fille\, Lily. Séparé depuis 9 ans\, il n’a jamais pu obtenir sa garde. Alors qu’il a cessé d’espérer la revoir et qu’il s’apprête à rentrer en France\, la porte de son taxi s’ouvre et il est absolument sûr d’avoir enfin retrouvé sa fille…<br/><br/> <br/>Après « Nos batailles »\, le réalisateur Guillaume Senez tourne à nouveau avec Romain Duris dans « Une part manquante » et continue d’explorer avec délicatesse le thème de la parentalité. L’envoûtant acteur de « L’Auberge espagnole » et « Les trois mousquetaires : D’Artagnan » revient ainsi sur grand écran en père de famille convaincant et prêt à tout pour retrouver sa fille.
 DTEND:20241204T040000Z
 DTSTART:20241204T040000Z
-SUMMARY:Solo Leveling: ReAwakening
-UID:1de42113-2492-45c9-9ffa-8c0180d7577a@1de4.org
-URL:https://www.pathe.ch/fr/films-evenements/solo-leveling-reawakening-43001
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Despite the risk and prejudices\, a very successful CEO begins an illicit affair with her much younger intern.
-DTEND:20250116T040000Z
-DTSTART:20250116T040000Z
-SUMMARY:Babygirl
-UID:5107b084-04e9-4b1a-b637-6507e4fadf52@5107.org
-URL:https://www.pathe.ch/fr/films-evenements/babygirl-42277
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Les Cadeaux
-UID:4043eb8d-49fc-4d32-bea2-8dea2a05b1a4@4043.org
-URL:https://www.pathe.ch/fr/films-evenements/les-cadeaux-40157
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A gothic tale of obsession between a haunted young woman in 19th century Germany and the ancient Transylvanian vampire who stalks her\, bringing untold horror with him.
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Nosferatu
-UID:3c81687c-aad0-4832-8496-5cbb5b9b2d11@3c81.org
-URL:https://www.pathe.ch/fr/films-evenements/nosferatu-38302
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Michel et Cathy\, un couple usé par le temps et les difficultés financières\, ne se parle plus vraiment. Jusqu’au jour où Michel\, pour éviter un ours sur la route\, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre\, forcément\, ça donne envie de se reparler. Et surtout de se taire.
-DTEND:20250101T040000Z
-DTSTART:20250101T040000Z
-SUMMARY:Un ours dans le jura
-UID:eb3e6a58-e288-4d41-b25d-36ae5a3ae74c@eb3e.org
-URL:https://www.pathe.ch/fr/films-evenements/un-ours-dans-le-jura-42203
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Joseph Cross ressemble à son métier : solide comme du béton. Marié\, deux enfants\, son existence est parfaitement organisée. Pourtant cette nuit\, seul au volant de sa voiture\, on découvre au fur et à mesure du trajet et des appels téléphoniques\, qu'il doit prendre de lourdes décisions pour tenter de résoudre un trio de crises liées entre elles. Son sens de l'éthique et des responsabilités\, face à cette tragédie de la vie\, le pousse dans ses retranchements. 
-DTEND:20241204T040000Z
-DTSTART:20241204T040000Z
-SUMMARY:Le choix
-UID:120b13ee-0782-43c4-8eb3-b00bc38a670f@120b.org
-URL:https://www.pathe.ch/fr/films-evenements/le-choix-43087
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:A Complete Unknown
-UID:897b6b89-af97-49b7-b666-02565623dec7@897b.org
-URL:https://www.pathe.ch/fr/films-evenements/a-complete-unknown-42279
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:I'm Still Here
-UID:b5c32959-7497-4a45-be50-37a268f0eafc@b5c3.org
-URL:https://www.pathe.ch/fr/films-evenements/i-m-still-here-42572
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le Déluge montre les derniers jours de Louis XVI et de Marie-Antoinette avant leur exécution.
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Le Déluge
-UID:4b91abe0-1419-4159-afbe-f077c2f671ba@4b91.org
-URL:https://www.pathe.ch/fr/films-evenements/le-deluge-40508
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:Sarah Bernhardt - La Divine
-UID:2f3ac9ba-315b-41a8-9d6c-ab1336855058@2f3a.org
-URL:https://www.pathe.ch/fr/films-evenements/sarah-bernhardt-la-divine-40641
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:WICKED suit le parcours des sorcières légendaires du monde d’Oz. Cynthia Erivo incarne Elphaba\, une jeune femme incomprise à cause de la couleur inhabituelle de sa peau verte qui ne soupçonne même pas l’étendue de ses pouvoirs. À ses côtés\, la superstar mondiale de la Pop\, Ariana Grande\, interprète Glinda qui\, aussi populaire que privilégiée\, ne connaît pas encore la vraie nature de son cœur.  Leur rencontre à l'Université de Shiz\, dans le fantastique monde d'Oz\, marque le début d’une amitié improbable mais profonde. Cependant\, leur rapport avec Le Magicien d'Oz va mettre à mal cette amitié et voir leurs chemins s’éloigner. Tandis que Glinda\, assoiffée de popularité\, se laisse séduire par le pouvoir\, la détermination d'Elphaba à rester fidèle à elle-même et à son entourage aura des conséquences aussi malheureuses qu’inattendues. Leurs aventures extraordinaires au pays d’Oz les mèneront finalement à accomplir leur destinée en devenant respectivement la Bonne et la Méchante Sorcière de l'Ouest.  Wicked will be brought to the screen by visionary director Jon M. Chu  (In the Heights\, Crazy Rich Asians) and producer Marc Platt (Into the Woods\, Bridge of Spies). The three-time Tony Award-winning stage musical was adapted from Gregory Maguire’s bestselling novel by book writer Winnie Holzman (My So-Called Life) and three-time Oscar®-winning composer/lyricist Stephen Schwartz (Godspell\, Pippin)\, who are also collaborating on the screenplay adaptation. Wicked is produced on Broadway by Platt\, Universal Stage Productions\, the Araca Group\, Jon B. Platt and David Stone. 
-DTEND:20241204T040000Z
-DTSTART:20241204T040000Z
-SUMMARY:Wicked
-UID:99e1a028-d53f-4e18-849a-85ee01426bc6@99e1.org
-URL:https://www.pathe.ch/fr/films-evenements/wicked-36673
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:VAIANA 2 reunites Vaiana and Maui three years later for an expansive new voyage alongside a crew of unlikely seafarers. After receiving an unexpected call from her wayfinding ancestors\, Vaiana must journey to the far seas of Oceania and into dangerous\, long-lost waters for an adventure unlike anything she’s ever faced.
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:Vaiana 2
-UID:9c7156d6-d943-4658-a53a-64b71f60f36b@9c71.org
-URL:https://www.pathe.ch/fr/films-evenements/vaiana-2-38236
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ancienne vedette de cinéma\, Elisabeth\, quinqua\, anime une émission de fitness quand son chef la licencie. Il veut la remplacer par une femme plus jeune et plus attirante. Une solution à ce problème existe: un liquide appelé «The Substance» qui promet de créer un sosie plus jeune\, plus beau et plus parfait. Seule condition : partager le temps avec son alter ego. Une semaine pour l’une\, une semaine pour l’autre. On ne risque rien à essayer\, non ?
-DTEND:20241106T040000Z
-DTSTART:20241106T040000Z
-SUMMARY:The Substance
-UID:ba5a3f5e-56df-4f65-86a5-4b240223fc99@ba5a.org
-URL:https://www.pathe.ch/fr/films-evenements/the-substance-40827
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sur une petite île japonaise\, la vie tourne autour des changements de saison. L’hiver\, c’est l’heure du hockey sur glace à l’école\, mais Takuya n’est pas très enthousiaste. Son véritable intérêt se porte sur Sakura\, une étoile montante du patinage artistique originaire de Tokyo\, pour laquelle il commence à développer une véritable fascination. L’entraîneur et ancien champion Arakawa décèle le potentiel de Takuya et décide de l’encadrer pour qu’il forme un duo avec Sakura lors d’une prochaine compétition. Alors que l’hiver persiste\, les sentiments grandissent et les deux enfants forment un lien harmonieux. Mais même la première neige finit par fondre.
-DTEND:20250108T040000Z
-DTSTART:20250108T040000Z
-SUMMARY: My Sunshine
-UID:b08a0c2c-e16e-41a4-9aef-0868e192fa7b@b08a.org
-URL:https://www.pathe.ch/fr/films-evenements/my-sunshine-42275
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<br/>Ce nouveau chapitre\, situé 183 ans avant la trilogie du SEIGNEUR DES ANNEAUX\, explore l'histoire de la Maison de Helm Hammerhand\, roi de Rohan. Face à l'attaque soudaine de Wulf\, un seigneur vengeur et cruel\, Helm et son peuple se barricadent dans la forteresse de Hornburg\, rebaptisée Gouffre de Helm. Dans cette lutte désespérée\, Héra\, la fille de Helm\, doit rassembler le courage nécessaire pour diriger la résistance contre un ennemi déterminé à détruire son peuple. 
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:The Lord of the Rings: The War of the Rohirrim
-UID:da7cc4a1-fe8f-4f35-a9cb-fd7b9bf3f473@da7c.org
-URL:https://www.pathe.ch/fr/films-evenements/the-lord-of-the-rings-the-war-of-the-rohirrim-36647
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Il était une fois\, dans un grand bois\, un pauvre bûcheron et une pauvre bûcheronne. Le froid\, la faim\, la misère\, et partout autour d´eux la guerre\, leur rendaient la vie bien difficile. Un jour\, pauvre bûcheronne recueille un bébé. Un bébé jeté d’un des nombreux trains qui traversent sans cesse leur bois. Protégée quoi qu’il en coûte\, ce bébé\, cette petite marchandise va bouleverser la vie de cette femme\, de son mari\, et de tous ceux qui vont croiser son destin\, jusqu’à l’homme qui l’a jeté du train. Leur histoire va révéler le pire comme le meilleur du cœur des hommes. 
-DTEND:20241120T040000Z
-DTSTART:20241120T040000Z
-SUMMARY:La Plus Précieuse Des Marchandises
-UID:ad845b3f-b953-4df3-9fd8-89271c4d759a@ad84.org
-URL:https://www.pathe.ch/fr/films-evenements/la-plus-precieuse-des-marchandises-40152
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Signé du réalisateur légendaire Ridley Scott\, Gladiator II poursuit sa plongée épique dans la Rome Antique sur fond de pouvoir\, intrigue et vengeance. Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle\, Lucius (Paul Mescal) est forcé d’entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d’une main de fer. La rage au cœur et l’avenir de l’Empire en jeu\, Lucius doit se tourner vers son passé pour trouver la force et l’honneur de rendre la gloire de Rome à son peuple. 
-DTEND:20241113T040000Z
-DTSTART:20241113T040000Z
-SUMMARY:Gladiator II
-UID:c0069e7e-1c82-48a7-814e-45117dcd6f2f@c006.org
-URL:https://www.pathe.ch/fr/films-evenements/gladiator-ii-39909
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:C’est bien connu\, les chats ont plusieurs vies ! Croquette vient de gâcher celle de trop et il ferait tout pour retrouver Rose\, sa maîtresse adorée. On lui accorde une dernière chance\, cependant une règle a changé : Croquette peut revenir\, mais à un détail près… Désormais transformé en cheval\, chien\, perroquet ou poisson\, l’aventure ne fait que commencer !
-DTEND:20241016T040000Z
-DTSTART:20241016T040000Z
-SUMMARY:Croquette le chat merveilleux
-UID:f6ff6e6e-2562-4f61-aff4-e10dd7ea89c5@f6ff.org
-URL:https://www.pathe.ch/fr/films-evenements/croquette-le-chat-merveilleux-38300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Devenue journaliste\, Shiori Ito voulait documenter le monde et les autres. Mais c’est son propre drame qu’elle a choisi de dévoiler au grand jour. Dans Black Box Diaries\, elle relate l’agression sexuelle dont elle a été victime et son combat pour que justice soit faite. Sa quête de réparation a fait d’elle une figure emblématique du mouvement #MeToo. Et son film pourtant si intime et personnel touche à l’universel en déconstruisant un système patriarcal archaïque\, révélateur de l'oppression des femmes au Japon et au-delà.<br/><br/>En 2015\, Shiori Ito est violée par un journaliste influent. Déterminée à obtenir justice\, elle porte plainte mais se heurte à l’indifférence de l’appareil judiciaire japonais. Confrontée à une institution qui protège les hommes et perpétue la domination masculine\, elle décide de rendre son affaire publique – un acte impensable dans un pays où les femmes sont dissuadées de témoigner des violences et oppressions qu’elles subissent. Tout en écrivant un livre sur son combat\, elle prend la caméra et réalise Black Box Diaries sur le vif\, à la manière d’un journal intime réunissant vidéos personnelles\, archives\, séquences d’enquête\, confrontations et témoignages poignants filmés en cachette. De ses 27 à ses 33 ans\, elle documente sa lutte sans relâche: la collecte de preuves\, les entraves rencontrées\, les collusions aux plus hauts niveaux de l’État\, les pressions et la surveillance qu’elle subit. Sélectionnée à Sundance et doublement récompensée au Festival de Zurich\, l’œuvre qui en résulte émerge comme un cri de révolte et une dénonciation cinglante du système oppressif\, qui chancelle partout où luttent les femmes avec tant d’intelligence et de courage.
-DTEND:20241120T040000Z
-DTSTART:20241120T040000Z
-SUMMARY:Black Box Diaries
-UID:2d002e1d-f636-4e19-bcff-6f09f6c4d34f@2d00.org
-URL:https://www.pathe.ch/fr/films-evenements/black-box-diaries-40394
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Niko quitte sa famille pour tenter de devenir membre de l’équipe des rennes volants du Père Noël et y fait la connaissance de Stella\, une jeune renne talentueuse. Alors que le traineau du Père Noël a disparu\, Niko et ses amis prennent la direction du Nord glacé pour le retrouver à temps et sauver Noël.
-DTEND:20241204T040000Z
-DTSTART:20241204T040000Z
-SUMMARY:Niko le petit renne\, mission père noël
-UID:a846da09-a524-463e-8b3c-ddacd23066fd@a846.org
-URL:https://www.pathe.ch/fr/films-evenements/niko-le-petit-renne-mission-pere-noel-38301
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250116T040000Z
-DTSTART:20250116T040000Z
-SUMMARY:Reise der Schatten
-UID:a5aef1fe-1b17-4871-bdb8-9748c1985f2d@a5ae.org
-URL:https://www.pathe.ch/fr/films-evenements/reise-der-schatten-40401
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mahin\, veuve de 70 ans\, vit seule à Téhéran depuis le départ de sa fille pour l’Europe. Après avoir passé un après-midi convivial avec ses amies\, Mahin décide de laisser son quotidien derrière elle et de réveiller sa vie amoureuse. Alors qu’elle s’ouvre à une nouvelle romance\, ce qui commence comme une rencontre fortuite se transforme rapidement en une nuit forte et marquante.
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:Mon gâteau préféré
-UID:bb0c427a-0e0b-4cd2-a468-686e8819165b@bb0c.org
-URL:https://www.pathe.ch/fr/films-evenements/mon-gateau-prefere-40510
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Zehn Freunde\, drei Jahre\, sieben Feste: David Dietls intensive und turbulente Ensemblekomödie FESTE & FREUNDE begleitet eine Gruppe von Freunden durch die Höhen und Tiefen des Lebens. Jedes Fest ist eine Momentaufnahme ihrer Freundschaft. Dazwischen warten grosse Veränderungen\, Geheimnisse\, Entscheidungen und manchmal auch das grosse Glück.
-DTEND:20250102T040000Z
-DTSTART:20250102T040000Z
-SUMMARY:Feste & Freunde - Ein Hoch auf uns!
-UID:b71a1d6c-3a01-4466-9d82-8d67d62bf924@b71a.org
-URL:https://www.pathe.ch/fr/films-evenements/feste-freunde-ein-hoch-auf-uns-40509
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le Dr Béranger est un célèbre psychanalyste à qui tout réussit. Sa vie serait parfaite s’il n’y avait pas ce patient très angoissé et extrêmement collant : Damien Leroy.<br/>Pour enfin s’en débarrasser\, il lui fait croire que le seul moyen de guérir est de trouver le grand amour. Mais alors qu’il s’apprête à fêter ses 30 ans de mariage\, sa fille lui annonce qu’elle a enfin trouvé l’homme de sa vie qui n’est autre que… Damien. La fête va virer au cauchemar.
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:Jamais sans mon psy
-UID:009088de-7ebe-4ae6-aafd-f94ce06bbab8@0090.org
-URL:https://www.pathe.ch/fr/films-evenements/jamais-sans-mon-psy-40156
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Maloney ermittelt wieder: Das Kult-Hörspiel «Die haarsträubenden Fälle des Philip Maloney» von Roger Graf wird verfilmt. In die Rolle des legendären Privatdetektivs schlüpft Marcus Signer. Sein Gegenspieler\, der Polizist\, wird von Stefan Kurt verkörpert. <br/>Bei seinen Ermittlungen taucht Philip Maloney in unterschiedliche Welten ein und begegnet dort gierigen Unternehmerinnen\, korrupten Politikern\, untreuen Ehefrauen und -männern und gefährlichen Verbrecherinnen. Dem Polizist\, seinem liebsten Feind\, Rivalen und Wegbegleiter\, ist er immer einen Schritt voraus. Die Zuschauenden sind dabei seine Komplizen\, mit denen er seine Beobachtungen teilt.
-DTEND:20241128T040000Z
-DTSTART:20241128T040000Z
-SUMMARY:Maloney - Die ersten drei haarsträubenden Fälle
-UID:92d0b90a-e136-4f42-aac7-0e6437a3d443@92d0.org
-URL:https://www.pathe.ch/fr/films-evenements/maloney-die-ersten-drei-haarstraubenden-falle-43086
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: Après l’assassinat d’un sicario dans une petite ville mexicaine\, Sujo son fils de quatre ans se retrouve orphelin et en danger. Sa tante est obligée de l’élever isolé à la campagne\, mais l'ombre de la violence va poursuivre Sujo à chaque étape de sa vie. Comme si le destin de son père devait se confondre avec le sien… 
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:Hijo de Sicario
-UID:f1ca081a-4e1c-4f1a-a0ce-c6d84253e0bd@f1ca.org
-URL:https://www.pathe.ch/fr/films-evenements/hijo-de-sicario-40396
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MUFASA: LE ROI LION fait appel à Rafiki pour transmettre à la jeune lionne Kiara - la fille de Simba et Nala – la légende de Mufasa. Il sera aidé en cela par Timon et Pumbaa\, dont les formules choc sont désormais bien connues. Relatée sous forme de flashbacks\, l'histoire de Mufasa est celle d’un lionceau orphelin\, seul et désemparé\, qui un jour fait la connaissance du sympathique Taka\, héritier d'une lignée royale. Cette rencontre fortuite marquera le point de départ du voyage riche en péripéties d'un groupe « d’indésirables » à la recherche de leur destin et dont les liens d’amitié seront mis à rude épreuve lorsqu’il leur faudra faire équipe pour échapper à un ennemi aussi menaçant que mortel…
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:Mufasa: le roi lion
-UID:78978e5f-2a95-4b1d-811f-9b85ea2c3f2a@7897.org
-URL:https://www.pathe.ch/fr/films-evenements/mufasa-le-roi-lion-36713
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Andreas Veiel versucht anhand von neuem Material aus den Archiven und dem Nachlass Leni Riefenstahls heruaszufinden\, wie Riefenstahls Ästhetik mit ihrer Biografie erklärt werden kann.
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:Leni Riefenstahl - La lumière et les ombres
-UID:96441549-b6de-4a07-be96-ddfbc6fb36c1@9644.org
-URL:https://www.pathe.ch/fr/films-evenements/leni-riefenstahl-la-lumiere-et-les-ombres-40735
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:From the reunited director\, writer\, and stars of Forrest Gump\, Here is an original film about multiple families and a special place they inhabit. The story travels through generations\, capturing the human experience in its purest form. Directed by Robert Zemeckis\, screenplay by Eric Roth & Zemeckis and told much in the style of the acclaimed graphic novel by Richard McGuire on which it is based\, Tom Hanks and Robin Wright star in a tale of love\, loss\, laughter and life\, all of which happen right Here.
-DTEND:20241212T040000Z
-DTSTART:20241212T040000Z
-SUMMARY:Here
-UID:3a339a30-d211-4a2f-9c28-dbb869a1918c@3a33.org
-URL:https://www.pathe.ch/fr/films-evenements/here-42682
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ida (Emilia Maier) möchte mit ihrer Klasse beim jährlichen Waldtag auftreten\, um sich für den Schutz des lokalen Waldes einzusetzen. Sogar Helene (Emilia Pieske) ist dabei\, da sie hofft\, mit den Aufnahmen der Performance ihren Influencer-Kanal aufzubauen. Was niemand weiß: Helenes Familie steht kurz vor dem Bankrott und Helene braucht dringend Follower\, um die drohende Pleite abzuwenden. Zusätzlich wird Helene durch die hohen Ansprüche ihres magischen Tiers\, Kater Karajan aus Paris (Stimme Ralf Schmitz)\, unter Druck gesetzt\, der sich ein Leben im puren Luxus vorstellt. Auch Silas (Luis Vorbach)\, der beste Freund von Jo (Loris Sichrovsky)\, erhält einen magischen Begleiter: Ihm wird das vegane Krokodil Rick (Stimme Felix Kramer) zur Seite gestellt\, das zwar furchteinflößend aussieht\, aber insgeheim Angst hat\, nicht mit dem tough wirkenden Silas mithalten zu können. Silas hat ein Auge auf Helene geworfen und glaubt\, nur mit einem Designershirt eine Chance bei ihr zu haben. Um an Geld dafür zu kommen\, erpresst er jüngere Schüler\, wird dabei aber von Jo erwischt und zur Rede gestellt. Jo ist sowieso schon sauer\, da Silas nicht bei den Proben für den Waldtag war und Silas ist eifersüchtig\, dass Jo so viel Zeit mit Ida verbringt. Und dann sorgt auch noch Helene für zusätzliche Konflikte: Als sie erfährt\, dass im Naturkundemuseum die Modenschau ihrer Ikone stattfinden soll\, überredet sie die Museumsdirektorin\, dass die Klasse dort als Showact auftreten darf. Doch die Modenschau findet ausgerechnet am selben Tag statt wie Idas Waldtag...
-DTEND:20240926T040000Z
-DTSTART:20240926T040000Z
-SUMMARY:Die Schule der magischen Tiere 3
-UID:dfc999c1-380a-4cb8-8c30-61758f80fa71@dfc9.org
-URL:https://www.pathe.ch/fr/films-evenements/die-schule-der-magischen-tiere-3-37557
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le réalisateur Edward Berg\, oscarisé pour ALL QUIET ON THE WESTERN FRONT\, revient avec le thriller CONCLAVE qui est basé sur le best-seller éponyme de Robert Harris. Avec Ralph Fiennes\, Stanley Tucci\, John Lithgow\, Sergio Castellitto & Isabella Rossellini. Pour l'Église catholique romaine\, le conclave désigne le lieu où sont enfermés les cardinaux rassemblés pour élire le Pape pendant la période dite Sede vacante. À ce jour\, le conclave reste un des événements les plus mystérieux du monde tant le grand public en sait peu sur le processus de choix du nouveau Pape. Après la mort d'un Pape bien-aimé\, le cardinal Lawrence (Fiennes) est chargé de diriger secrètement la recherche d'un nouveau Pape dans les recoins les plus reculés du Vatican. Lawrence se retrouve rapidement au centre d'une conspiration\, car les cardinaux forgent des factions et des rivalités pour servir leurs propres ambitions. Alors que les manœuvres politiques s'intensifient au Vatican\, Lawrence comprend que le défunt Pape leur cachait un secret qu'il doit découvrir avant qu'un nouveau pape ne soit élu.
-DTEND:20241204T040000Z
-DTSTART:20241204T040000Z
-SUMMARY:Conclave
-UID:129442de-8cfa-4915-bfd3-6b29d9677cf1@1294.org
-URL:https://www.pathe.ch/fr/films-evenements/conclave-38773
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Les années 80\, dans le nord de la France. Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie\, il traîne. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait\, ces deux-là sont comme les deux ventricules du même  cœur...
-DTEND:20241016T040000Z
-DTSTART:20241016T040000Z
-SUMMARY:L'Amour ouf
-UID:63aac92d-2839-441f-83aa-b48b7f41b499@63aa.org
-URL:https://www.pathe.ch/fr/films-evenements/l-amour-ouf-38025
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250123T040000Z
-DTSTART:20250123T040000Z
-SUMMARY:Frieda's Fall
-UID:ed98d08a-796b-44bf-a150-da53f67f8a50@ed98.org
-URL:https://www.pathe.ch/fr/films-evenements/frieda-s-fall-42278
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TSCHUGGER goes Kino! Nach dem grandiosen Erfolg der ersten drei Staffeln gibt’s ein Wiedersehen mit Bax\, Smetterling\, Valmira & Co. im Kino in TSCHUGGER – DER LÄTSCHT FALL.  Bax und Pirmin sind zurück im Polizeidienst. Die beiden Walliser Kultcops müssen sich jedoch um einen einfachen Sprayer-Fall kümmern\, während die restliche Abteilung den Fund einer verkohlten Leiche aufklären darf. Bax\, der sich in Pirmins Garage eingenistet hat\, ist immer noch Biffigers Geheimnis auf der Spur. Dabei verdächtigt er bald den gesamten Bekanntenkreis\, während Pirmin selbst in die Schusslinie seiner Tschugger-Kolleginnen und -Kollegen gerät. Gleichzeitig droht dem Wallis\, ja der ganzen Welt die Katastrophe und sogar das Pentagon\, das US-Verteidigungsministerium\, ist involviert.
-DTEND:20241010T040000Z
-DTSTART:20241010T040000Z
-SUMMARY:Tschugger - Der lätscht Fall
-UID:792784b8-960d-477a-aa7d-adc1743ae5db@7927.org
-URL:https://www.pathe.ch/fr/films-evenements/tschugger-der-latscht-fall-42088
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LE ROBOT SAUVAGE suit l’incroyable épopée d'un robot – l'unité ROZZUM 7134 alias “Roz” – qui après avoir fait naufrage sur une île déserte doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île. Il finit par adopter le petit d’une oie\, un oison\, qui se retrouve orphelin.
-DTEND:20241009T040000Z
-DTSTART:20241009T040000Z
-SUMMARY:Le Robot Sauvage
-UID:4d75c1c5-5f56-408c-808c-8e43fa6da13f@4d75.org
-URL:https://www.pathe.ch/fr/films-evenements/le-robot-sauvage-37759
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Août 92. Une vallée perdue dans l’Est de la France\, des hauts fourneaux qui ne brûlent plus. Anthony\, quatorze ans\, s'ennuie ferme. Un après-midi de canicule au bord du lac\, il rencontre Stéphanie. Le coup de foudre est tel que le soir même\, il emprunte secrètement la moto de son père pour se rendre à une soirée où il espère la retrouver. Lorsque le lendemain matin\, il s’aperçoit que la moto a disparu\, sa vie bascule
-DTEND:20241204T040000Z
-DTSTART:20241204T040000Z
-SUMMARY:Leurs Enfants après eux
-UID:4322b7bc-72e4-4422-89e3-46335abf03a3@4322.org
-URL:https://www.pathe.ch/fr/films-evenements/leurs-enfants-apres-eux-42485
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pour la première fois en sept ans\, Gru\, le super-vilain le plus populaire du monde\, devenu super agent de l’A.V. L\, revient dans un nouveau chapitre aussi hilarant que chaotique de la célébrissime saga d’illumination : MOI MOCHE ET MÉCHANT 4. Après le succès des MINIONS 2 : IL ÉTAIT UNE FOIS GRU\, qui a rapporté près d'un milliard de dollars dans le monde entier\, la plus grande franchise d'animation de l'histoire ouvre un nouveau chapitre où Gru\, Lucy et les filles\, Margo\, Edith et Agnès accueillent le petit dernier de la famille\, Gru Junior\, qui semble n’avoir qu’une passion : faire tourner son père en bourrique. Mais Gru est confronté à un nouvel ennemi Maxime Le Mal (Will Ferrell) qui\, avec l’aide de sa petite amie\, la fatale Valentina (Sofia Vergara)\, va obliger toute la famille à fuir. Le film met en scène de nouveaux personnages interprétés par Joey King (BULLET TRAIN)\, Stephen Colbert (du Late Show With Stephen Colbert) et Chloe Fineman (du Saturday Night Live). Pierre Coffin reprend l’interprétation devenue légendaire des voix de tous les Minions\, et Steve Coogan celle de Silas De La Mollefesse. Pour la version française le public retrouvre les voix de Gad Elmaleh et Audrey Lamy\, dans les rôles de Gru et Lucy. MOI\, MOCHE ET MÉCHANT 4 est un chapitre trépidant\, bourré d’action et de rebondissements. Il est réalisé par Chris Renaud (cité aux Oscars® pour MOI\, MOCHE ET MECHANT 2\, COMME DES BÊTES) un des deux co-créateurs des Minions\, et produit par Chris Meledandri le fondateur visionnaire et PDG d’Illumination. Coréalisé par Patrick Delage (directeur de l’animation sur TOUS EN SCÈNE 2 et COMME DES BÊTES 2)\, le scénario est signé par Mike White (le créateur de White Lotus récompensé aux Emmy Awards) et Ken Daurio\, l’auteur de la franchise depuis le tout premier MOI MOCHE ET MÉCHANT. 
-DTEND:20240703T040000Z
-DTSTART:20240703T040000Z
-SUMMARY:Moi\, Moche et Méchant 4
-UID:098ef345-7f2e-4f32-980f-875f264bad82@098e.org
-URL:https://www.pathe.ch/fr/films-evenements/moi-moche-et-mechant-4-36548
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Colin\, un jeune bègue\, fait sa rentrée dans un nouveau collège. Pas facile de passer du monde de l’enfance à celui des grands\, surtout quand on est “différent”. La route est semée d’embûches. Mais une rencontre déterminante avec son professeur de théâtre\, figure paternelle et bienveillante\, guidera ses pas vers un nouvel essor\, comme une nouvelle naissance.
-DTEND:20241120T040000Z
-DTSTART:20241120T040000Z
-SUMMARY:Le Panache
-UID:9672c682-cbe6-46b8-88cf-4aa515bb0e22@9672.org
-URL:https://www.pathe.ch/fr/films-evenements/le-panache-38959
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Totone's carefree teenage life of drinking and dancing takes a turn when he must provide for his 7-year-old sister. Seeking income\, he channels his energy into producing an award-winning comté cheese to claim a competition prize.
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:Vingt Dieux
-UID:4240b787-fbb4-4d68-8af3-414bc4affff1@4240.org
-URL:https://www.pathe.ch/fr/films-evenements/vingt-dieux-40044
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le film suit Justin Kemp\, un père de famille ordinaire\, qui se retrouve juré dans un procès pour meurtre très médiatisé. Alors qu'il est confronté à un dilemme moral déchirant\, Justin réalise qu'il détient le pouvoir d'influencer le verdict du jury\, ce qui pourrait soit condamner\, soit libérer l'accusé.
-DTEND:20241030T040000Z
-DTSTART:20241030T040000Z
-SUMMARY:Juré n°2
-UID:d166c0d0-1e57-4ab9-8af3-63f11b801a76@d166.org
-URL:https://www.pathe.ch/fr/films-evenements/jure-n-2-42753
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Suite à THE GENTLEMEN\, WRATH OF MAN et RULES OF FORTUNE\, Ascot Elite Entertainment présente IN THE GREY du génial GUY RICHIE.<br/>Un thriller d'extraction plein d'action avec un casting de stars composé de HENRY CAVILL\, JAKE GYLLENHAAL et EIZA GONZÁLEZ\, qui s'étend sur plusieurs continents. Cavill\, Gyllenhaal et González se lancent ensemble à la poursuite de milliards de dollars d'argent liquide volé et suivent un groupe qui agit entre le crime et la loi. Du matériel Ritchie de première classe avec une note d'humour et beaucoup d'action. Une expérience cinématographique à ne pas manquer.
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:In the Grey
-UID:b974a59f-16f2-41ac-a40e-5ea8fefed230@b974.org
-URL:https://www.pathe.ch/fr/films-evenements/in-the-grey-38303
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A l’aube d’une nouvelle tournée mondiale\, la star de la pop Skye Riley (Naomi Scott) se met à vivre des événements aussi terrifiants qu’inexplicables. Submergée par la pression de la célébrité et devant un quotidien qui bascule de plus en plus dans l’horreur\, Skye est forcée de se confronter à son passé obscur pour tenter de reprendre le contrôle de sa vie avant qu’il ne soit trop tard.
-DTEND:20241016T040000Z
-DTSTART:20241016T040000Z
-SUMMARY:Smile 2
-UID:846f2695-b82c-4b3e-ad24-36e833c0c112@846f.org
-URL:https://www.pathe.ch/fr/films-evenements/smile-2-39908
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Alors qu’il entreprend des fouilles dans une station spatiale abandonnée\, un groupe de jeunes voyageurs se retrouve confronté à la forme de vie la plus terrifiante de l'univers…
-DTEND:20240814T040000Z
-DTSTART:20240814T040000Z
-SUMMARY:Alien : Romulus
-UID:5586cc67-bb79-4022-9a9c-8ae3f7684255@5586.org
-URL:https://www.pathe.ch/fr/films-evenements/alien-romulus-38235
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:Vos en haas redden het bos
-UID:54bc2676-4640-4e9d-a631-f7de107c6738@54bc.org
-URL:https://www.pathe.ch/fr/films-evenements/vos-en-haas-redden-het-bos-42202
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Aïda\, princesse éthiopienne\, est retenue captive en Égypte. Amneris\, la fille du roi\, la tient pour rivale car elle est aimée de Radamès\, le chef des armées. Lorsque ce dernier rentre vainqueur d'une campagne contre l'Éthiopie\, Aïda est convaincue que son père\, le roi Amonasro\, est mort au combat. Mais\, déguisé en simple soldat\, il a survécu et propose à sa fille un complot pour découvrir les secrets militaires des Égyptiens. - Avec sa partition palpitante et son histoire d'amour et d'héroïsme poignante\, Aïda revient au Met dans une toute nouvelle production qui téléporte les spectateurs au cœur de l’Égypte antique à l’aide de projections élaborées et d’animations éblouissantes. La soprano Angel Blue\, découverte dans Porgy and Bess\, incarne le rôle-titre. - Musique : Giuseppe Verdi Mise en scène : Michael Mayer Direction musicale : Yannick Nézet-Séguin  Opéra en quatre actes présenté en italien sous-titré en français. 
-DTEND:20250125T040000Z
-DTSTART:20250125T040000Z
-SUMMARY:Aïda (Metropolitan Opera)
-UID:3ce0de0e-1fd9-4df1-b2ca-bbab3b8bdc19@3ce0.org
-URL:https://www.pathe.ch/fr/films-evenements/aida-metropolitan-opera-38760
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:Criminal Squad 2: Pantera - Den of Thieves 2
-UID:715fc882-44bb-4a5e-ac93-f741f79d20f2@715f.org
-URL:https://www.pathe.ch/fr/films-evenements/criminal-squad-2-pantera-den-of-thieves-2-42276
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:Wolf Man
-UID:b29c04e8-2d17-443c-9875-7fd4c3fa3b28@b29c.org
-URL:https://www.pathe.ch/fr/films-evenements/wolf-man-37761
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Par les producteurs à succès de FEMALE PLEASURE et BRUNO MANSER: LA VOIX DE LA FORÊT TROPICALE et en collaboration avec Richard Gere. WISDOM OF HAPPINESS est l'héritage du 14ème Dalaï-Lama pour le 21ème siècle. Une expérience cinématographique inédite\, inoubliable et qui rend heureux.<br/>WISDOM OF HAPPINESS est un portrait cinématographique émouvant de la pensée du Dalaï- Lama. Dans l'une de ses dernières apparitions sur grand écran\, l'infatigable ambassadeur de la paix et de la non-violence s'adresse directement aux spectateurs en les emmenant à la recherche de la source du bonheur. Grâce à son esprit vif et à son humour\, le film montre le Dalaï-Lama de manière humaine\, laïque et émotionnelle\, comme on ne l'a encore jamais vu. Les réalisateurs empruntent des voies inédites et mêlent les réflexions du Dalaï-Lama à des prises de vue émouvantes de notre planète et à des images d'archives encore jamais vues pour dresser un portrait très actuel de sa pensée et de son savoir. Un tel film n'a encore jamais été réalisé avec le Dalaï-Lama\, âgé de bientôt 90 ans.
-DTEND:20250219T040000Z
-DTSTART:20250219T040000Z
-SUMMARY:Wisdom of Happiness - A heart-to-heart with the Dalai Lama
-UID:ade74d29-319c-4312-bf93-e4565b92b6c7@ade7.org
-URL:https://www.pathe.ch/fr/films-evenements/wisdom-of-happiness-a-heart-to-heart-with-the-dalai-lama-40033
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pour la famille de Nathalie et Antonin\, chaque année\, le réveillon de Noël vire au cauchemar. Convaincue qu’elle est victime d’une malédiction\, Nathalie prend une décision radicale: cette année on ne le fêtera pas! Mais c’est sans compter sur Antonin et ses enfants qui décident de reprendre les choses en mains en invitant Nicole\, la sœur de Nathalie qu’elle a perdue de vue. Vont-ils enfin échapper au désastre cette année?
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:Les Boules de Noël
-UID:720c8a5a-a48e-4ac5-b8ba-6e80623e1742@720c.org
-URL:https://www.pathe.ch/fr/films-evenements/les-boules-de-noel-43253
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Henri et Jean\, deux amis de toujours vivent sur une petite ile de Bretagne et découvrent que l'un des habitants a gagné le gros lot à la loterie nationale. Les deux vieilles canailles se mettent alors à la recherche du mystérieux gagnant afin de s'assurer ses faveurs avant que la nouvelle ne se répande. Mais lorsqu’ils découvrent que ce dernier est mort\, ticket gagnant en main\, ils décident d’organiser avec la complicité de tout le village une grande arnaque au loto pour prendre sa place. 
-DTEND:20240904T040000Z
-DTSTART:20240904T040000Z
-SUMMARY:À l’ancienne
-UID:1a368d86-372c-4253-93d5-271f42cf79db@1a36.org
-URL:https://www.pathe.ch/fr/films-evenements/a-l-ancienne-38070
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tirant le diable par la queue\, elle ne se résout pas à sa précaire condition et\, par-ci par-là\, vole quelques euros à tous ces braves gens dont elle s’occupe avec une dévotion extrême… et qui\, pour cela\, l’adorent! Pourtant une plainte pour abus de faiblesse conduira Maria en garde à vue…
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:La Pie voleuse
-UID:4e5d9898-06cc-4743-95f6-8733ba87f2db@4e5d.org
-URL:https://www.pathe.ch/fr/films-evenements/la-pie-voleuse-42280
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Amber\, a happiness agent\, travels the Bhutanese Himalayas surveying people's happiness. On his remote mountain journey\, he searches for fulfillment.
-DTEND:20250109T040000Z
-DTSTART:20250109T040000Z
-SUMMARY:Agent of Happiness
-UID:41824ec5-3eb2-4ef2-9982-8834ddb3bcca@4182.org
-URL:https://www.pathe.ch/fr/films-evenements/agent-of-happiness-41091
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nach dem Erfolg vom ersten Teil kehren an Weihnachten 2024 die liebenswerten\, roten Zipfelmützen in DIE HEINZELS - NEUE MÜTZEN\, NEUE MISSON zurück auf die grosse Leinwand. Wenn das mutige Heinzelmädchen Helvi ein Abenteuer wittert\, kann sie nichts und niemand aufhalten. Weder die grantige Vendla\, Anführerin der Heinzels\, noch drohender Stubenarrest können sie daran hindern\, ihre neugierige Nase in die Menschenwelt zu stecken. Als sie bei einem ihrer Ausflüge auf ihr unbekannte Heinzels trifft\, ist Helvi total aus dem Häuschen: Die sind viel cooler als ihre eigene Familie! Aufregende Abenteuer erwarten Helvi und ihre neuen Freunde\, bis sich eines Tages die taffe Kommissarin Lanski an die Fersen der Zipfelmützen heftet. Die überambitionierte Polizistin will mit ihrer fintenreichen Katze Polipette\, die eine ausgebildete Spürnase hat\, unbedingt beweisen\, dass es die wuseligen Helferlein wirklich gibt. Da bedarf es eines helvinösen Plans und der gemeinsamen Kraft aller Heinzels\, wenn sie nicht auffliegen wollen ...
-DTEND:20241224T040000Z
-DTSTART:20241224T040000Z
-SUMMARY:Die Heinzels – Neue Mützen\, neue Mission
-UID:daa397e4-833d-4ad5-9e74-20c0e0ad3076@daa3.org
-URL:https://www.pathe.ch/fr/films-evenements/die-heinzels-neue-mutzen-neue-mission-42123
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sienna a survécu au massacre d'Halloween et a tiré un trait sur l'horreur. Mais juste avant la veille de Noël\, Art le Clown revient dans le comté de Miles. Déguisé en Père Noël\, il sème la terreur dans la ville. Sans pitié\, il recherche Sienna et son frère et laisse derrière lui une trace sanglante de désolation. Art va transformer ce Noël en un véritable cauchemar. Plus aucune fête n'est à l'abri...
-DTEND:20241030T040000Z
-DTSTART:20241030T040000Z
-SUMMARY:Terrifier 3
-UID:c765f98e-63dc-48bc-b0a3-0337c70decd9@c765.org
-URL:https://www.pathe.ch/fr/films-evenements/terrifier-3-42846
+SUMMARY:Une part manquante
+UID:46738d27-db34-4a86-85de-b45b3ecdff19@4673.org
+URL:https://www.pathe.ch/fr/films-evenements/une-part-manquante-42065
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Le comte Almaviva est prêt à tout pour séduire Rosina dont il est amoureux. Comme celle-ci est jalousement gardée par son vieux tuteur qui souhaite l’épouser\, Almaviva fait appel à son ancien valet\, le joyeux barbier Figaro\, pour jouer l’entremetteur et l’aider à la conquérir. - Considéré comme la référence de l'opéra-bouffe italien\, Le Barbier de Séville est une œuvre de génie qui retranscrit toute l’insolence de la pièce de Beaumarchais dont elle s’inspire. Après avoir interprété une Carmen incandescente au cinéma en janvier 2024\, la flamboyante mezzo Aigul Akhmetshina prend les traits de Rosina pour le bouquet final de cette saison ! - Musique : Gioacchino Rossini Mise en scène : Bartlett Sher Direction musicale : Giacomo Sagripanti  Opéra en deux actes présenté en italien sous-titré en français. 
 DTEND:20250531T040000Z
 DTSTART:20250531T040000Z
 SUMMARY:Le Barbier de Séville (Metropolitan Opera)
-UID:cc12fa0a-d07d-4b52-861d-589e62232096@cc12.org
+UID:64634b15-49de-489d-b686-215b3c77aad5@6463.org
 URL:https://www.pathe.ch/fr/films-evenements/le-barbier-de-seville-metropolitan-opera-38748
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Le film suit Justin Kemp\, un père de famille ordinaire\, qui se retrouve juré dans un procès pour meurtre très médiatisé. Alors qu'il est confronté à un dilemme moral déchirant\, Justin réalise qu'il détient le pouvoir d'influencer le verdict du jury\, ce qui pourrait soit condamner\, soit libérer l'accusé.
+DTEND:20241030T040000Z
+DTSTART:20241030T040000Z
+SUMMARY:Juré n°2
+UID:b717c4c8-3ded-4cfa-93e9-d7c776613d5f@b717.org
+URL:https://www.pathe.ch/fr/films-evenements/jure-n-2-42753
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250108T040000Z
 DTSTART:20250108T040000Z
-SUMMARY:Karantina
-UID:d4761582-44ff-4444-8e18-4620b7192004@d476.org
-URL:https://www.pathe.ch/fr/films-evenements/karantina-43283
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Surqualifiée et surexploitée\, Rita use de ses talents d’avocate au service d’un gros cabinet plus enclin à blanchir des criminels qu’à servir la justice. Mais une porte de sortie inespérée s’ouvre à elle\, aider le chef de cartel Manitas à se retirer des affaires et réaliser le plan qu’il peaufine en secret depuis des années : devenir enfin la femme qu’il a toujours rêvé d’être.
-DTEND:20240821T040000Z
-DTSTART:20240821T040000Z
-SUMMARY:Emilia Perez
-UID:e972b5a2-f5af-4777-9bee-8748ab45b945@e972.org
-URL:https://www.pathe.ch/fr/films-evenements/emilia-perez-38837
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Cette année\, Noël devrait être parfait ! Sauf qu’avec Shaun et son troupeau d’amis rien ne se passe jamais comme prévu… Les joyeux préparatifs se transforment rapidement en une mission quasi impossible : entre les guirlandes tyroliennes\, les paquets cadeaux surprises et les enfants pas vraiment sages\, ça ne va pas être une mince affaire de réunir tout le monde autour du sapin. Prêts pour une course poursuite en traineau ? À vos marques\, prêts\, moutonnez !
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:L'incroyable noël de Shaun le mouton et de Timmy
-UID:a870000c-8cae-4444-a8ec-1e51543079ce@a870.org
-URL:https://www.pathe.ch/fr/films-evenements/l-incroyable-noel-de-shaun-le-mouton-et-de-timmy-40395
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:1889. Envoyée dans un village de la campagne française\, l’institutrice Louise Violet doit y imposer l’école de la République (gratuite\, obligatoire et laïque). Une mission qui ne la rend populaire ni auprès des enfants… ni auprès des parents.
-DTEND:20241106T040000Z
-DTSTART:20241106T040000Z
-SUMMARY:Louise Violet
-UID:13634468-6ff4-4e5a-8c88-0bb0ab6be47f@1363.org
-URL:https://www.pathe.ch/fr/films-evenements/louise-violet-38531
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:France\, 2039. Une nuit\, des activistes traqués par l’Etat\, disparaissent sans laisser aucune trace.<br/>Julia Bombarth se trouve parmi eux. A son réveil\, elle se découvre enfermée dans un monde totalement inconnu : PLANÈTE B.
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Planète B
-UID:48ec5722-3488-4c3a-948b-4e46aa8d8f99@48ec.org
-URL:https://www.pathe.ch/fr/films-evenements/planete-b-40246
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Qu’est-ce que c’est\, aller au cinéma ? Pourquoi y allons-nous depuis plus de 100 ans ? Je voulais célébrer les salles de cinéma\, leurs magies. Aussi\, j’ai suivi le chemin du jeune Paul Dédalus\, comme le roman d’apprentissage d’un spectateur. Nous avons mêlé souvenirs\, fiction\, enquêtes… Un torrent d’images qui nous emporte.  - Arnaud Desplechin
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:Spectateurs !
-UID:02e713f3-9130-4cec-974c-fa96617f3a06@02e7.org
-URL:https://www.pathe.ch/fr/films-evenements/spectateurs-40043
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NCT DREAM’s third world tour\, ‘THE DREAM SHOW 3: DREAM()SCAPE\,’ is coming to the big screen once again\, bringing back the vibrant world bathed in Pearl Neo Champagne!<br/>Join the journey as the story of the Mystery Lab unfolds—a special laboratory where the secrets of growth are discovered on the path to one’s dreams\, and where the prescription for comfort and healing is shared.<br/><br/>Captured from Seoul's Gocheok Sky Dome\, witness their breathtaking performances that radiated youthful energy\, plus the passionate efforts behind the scenes.<br/><br/>Don’t miss NCT DREAM Mystery Lab: DREAM()SCAPE in Cinemas—a stage for both escaping into dreams and embracing new beginnings.<br/>
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:NCT DREAM Mystery Lab: DREAM( )SCAPE in Cinemas
-UID:4d5c0495-7412-46ff-8133-0791751c6910@4d5c.org
-URL:https://www.pathe.ch/fr/films-evenements/nct-dream-mystery-lab-dream-scape-in-cinemas-43324
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:Mon inséparable
-UID:7797e02e-0f27-4ec2-a9be-7851317f44d6@7797.org
-URL:https://www.pathe.ch/fr/films-evenements/mon-inseparable-43004
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sonic the Hedgehog returns to the big screen this holiday season in his most thrilling adventure yet. Sonic\, Knuckles\, and Tails reunite against a powerful new adversary\, Shadow\, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way\, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.<br/><br/>Director Jeff Fowler returns along with our all-star cast including Jim Carrey\, Ben Schwartz\, James Marsden\, Tika Sumpter\, Idris Elba\, Colleen O’Shaughnessey\, Natasha Rothwell\, Shemar Moore\, Adam Pally\, Lee Majdoub\, newcomers Alyla Browne and Krysten Ritter\, with Keanu Reeves joining the franchise as Shadow the Hedgehog.
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Sonic 3 - Le Film
-UID:05210f36-015f-4fba-ac7e-33ea8b349fc8@0521.org
-URL:https://www.pathe.ch/fr/films-evenements/sonic-3-le-film-36644
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250122T040000Z
-DTSTART:20250122T040000Z
-SUMMARY:Les Courageux
-UID:a9df0ffb-b9f9-401b-ae30-d43427aca21c@a9df.org
-URL:https://www.pathe.ch/fr/films-evenements/les-courageux-42124
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250122T040000Z
-DTSTART:20250122T040000Z
-SUMMARY:Jouer avec le feu
-UID:43204d7c-c567-40f7-bd1d-a01a5a55658c@4320.org
-URL:https://www.pathe.ch/fr/films-evenements/jouer-avec-le-feu-40402
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Touda is a Sheikha\, a traditional Moroccan singer. Performing in the bars of her provincial town under the gaze of men\, she plans to leave for the lights of Casablanca\, to gain recognition and ensure a better future for her son.
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Everybody Loves Touda
-UID:a6b5e0c4-a3d9-4963-bb77-eb00208460e4@a6b5.org
-URL:https://www.pathe.ch/fr/films-evenements/everybody-loves-touda-40153
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kraven the Hunter is the visceral story of how and why one of Marvel’s most iconic villains came to be. Set before his notorious vendetta with Spider-Man\, Aaron Taylor-Johnson stars as the titular character in the R-rated film.
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:Kraven The Hunter
-UID:a1b03879-1213-4846-8b12-8fadde85570b@a1b0.org
-URL:https://www.pathe.ch/fr/films-evenements/kraven-the-hunter-35183
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lorsqu’elle entend la voix du prophète Jokanaan\, Salomé s’en éprend immédiatement et tente de le séduire. Il repousse ses avances\, elle jure qu’elle baisera sa bouche. Le roi Hérode\, fou de Salomé\, est prêt à tout pour la satisfaire. - La pièce d’Oscar Wilde a inspiré à Richard Strauss une tragédie cruelle et veloutée dont l’intrigue tient en un seul acte. Le metteur en scène en vogue Claus Guth installe ce récit d’origine biblique à l’époque victorienne\, apportant une perspective totalement fraîche à cette œuvre qui a fait basculer l’opéra dans l’ère de la modernité. - Musique : Richard Strauss Mise en scène : Claus Guth Direction musicale : Yannick Nézet-Séguin  Opéra en un acte présenté en allemand sous-titré en français. 
-DTEND:20250517T040000Z
-DTSTART:20250517T040000Z
-SUMMARY:Salomé (Metropolitan Opera)
-UID:db4f8a88-3557-47e9-b033-41b54b5d9979@db4f.org
-URL:https://www.pathe.ch/fr/films-evenements/salome-metropolitan-opera-38759
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Claire et Jeanne\, jumelles pianistes virtuoses\, sont admises dans une prestigieuse université de musique dirigée par l’intraitable professeur Klaus Lenhardt. Elles portent ainsi l’ambition de leur père qui a tout sacrifié pour faire d'elles les meilleures. Mais\, une maladie orpheline\, fragilise peu à peu leurs mains\, et compromet brusquement leur ascension. Refusant de renoncer à leur rêve\, elles vont devoir se battre et se réinventer pour devenir\, plus que jamais\, prodigieuses.
-DTEND:20241120T040000Z
-DTSTART:20241120T040000Z
-SUMMARY:Prodigieuses
-UID:e4bc5a2c-983f-4a71-83a3-ece743b6ab2f@e4bc.org
-URL:https://www.pathe.ch/fr/films-evenements/prodigieuses-40244
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Liane\, 19 ans\, téméraire et incandescente\, vit avec sa mère et sa petite sœur sous le soleil poussiéreux de Fréjus. Obsédée par la beauté et le besoin de devenir quelqu’un\, elle voit en la télé-réalité la possibilité d’être aimée. Le destin semble enfin lui sourire lorsqu’elle passe un casting pour « Miracle Island ».  « Diamant brut » est le premier long métrage de la réalisatrice française Agathe Riedinger. Elle l'a développé à partir de son court-métrage « J'attends Jupiter ». Le film a été présenté en compétition au Festival de Cannes.
-DTEND:20241120T040000Z
-DTSTART:20241120T040000Z
-SUMMARY:Diamant brut
-UID:e9efa8c8-6823-4f91-9860-f10518a00f4e@e9ef.org
-URL:https://www.pathe.ch/fr/films-evenements/diamant-brut-40031
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Follows the life in the kitchen of a NYC restaurant where cultures from all over the world blend during the lunchtime rush.
-DTEND:20250102T040000Z
-DTSTART:20250102T040000Z
-SUMMARY:La Cocina
-UID:57cd6609-508e-4500-94cf-a7acc5ca987b@57cd.org
-URL:https://www.pathe.ch/fr/films-evenements/la-cocina-42684
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fils de réfugiés\, petit\, pauvre\, à la voix voilée\, on disait de lui qu’il n’avait rien pour réussir. À force de travail\, de persévérance et d’une volonté hors norme\, Charles Aznavour est devenu un monument de la chanson et un symbole de la culture française. Avec près de 1200 titres interprétés dans le monde entier et dans toutes les langues\, il a inspiré des générations entières. Découvrez le parcours exceptionnel et intemporel de MONSIEUR AZNAVOUR.
-DTEND:20241023T040000Z
-DTSTART:20241023T040000Z
-SUMMARY:Monsieur Aznavour
-UID:ad3f5b4b-312c-4672-ae69-72af623be0f9@ad3f.org
-URL:https://www.pathe.ch/fr/films-evenements/monsieur-aznavour-36844
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:À la mort de son père\, la vie heureuse et marginale de Grace Pudel\, collectionneuse d’escargots et passionnée de lecture\, vole en éclats. Arrachée à son frère jumeau Gilbert\, elle atterrit dans une famille d’accueil à l’autre bout de l’Australie. Suspendue aux lettres de son frère\, ignorée par ses tuteurs et harcelée par ses camarades de classe\, Grace s’enfonce dans le désespoir. Jusqu’à la rencontre salvatrice avec Pinky\, une octogénaire excentrique qui va lui apprendre à aimer la vie et à sortir de sa coquille…
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:Memoir of a Snail
-UID:d67d9691-07ef-4ae7-b312-2869f3c09821@d67d.org
-URL:https://www.pathe.ch/fr/films-evenements/memoir-of-a-snail-42127
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250130T040000Z
-DTSTART:20250130T040000Z
-SUMMARY:Wir Erben
-UID:8deeeaf3-276d-4216-999a-e42bf1a6e97e@8dee.org
-URL:https://www.pathe.ch/fr/films-evenements/wir-erben-42125
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:After a villain kidnaps Santa from the North Pole\, an E.L.F (Extremely Large and Formidable) operative (Dwayne Johnson) must partner with the world’s most accomplished tracker (Chris Evans) to find Santa and save Christmas.
-DTEND:20241106T040000Z
-DTSTART:20241106T040000Z
-SUMMARY:Red One
-UID:94e12b85-214a-44c1-8867-9dee25c0ec20@94e1.org
-URL:https://www.pathe.ch/fr/films-evenements/red-one-38028
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:À Sokcho\, petite ville balnéaire de Corée du Sud\, Soo-Ha\, une jeune femme de 23 ans\, mène une vie routinière entre ses visites à sa mère\, marchande de poissons\, et sa relation avec son petit ami\, Jun-oh. L'arrivée d'un Français\, Yan Kerrand\, dans la pension où elle travaille\, réveille des questions sur sa propre identité. Alors que l'hiver engourdit la ville\, ils vont s'observer\, se jauger et tisser un lien fragile.
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:Un hiver à Sokcho
-UID:e09d247e-4a03-432f-9211-d0920c0068ab@e09d.org
-URL:https://www.pathe.ch/fr/films-evenements/un-hiver-a-sokcho-40685
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250122T040000Z
-DTSTART:20250122T040000Z
-SUMMARY:Jane Austen a gâché ma vie
-UID:9e5c3a48-476a-442a-a09d-888701f26974@9e5c.org
-URL:https://www.pathe.ch/fr/films-evenements/jane-austen-a-gache-ma-vie-42486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Marcellina rêve d'épouser Fidelio\, le nouvel assistant de son père geôlier. Dans la forteresse est enfermé Florestan\, que le gouverneur Don Pizarro veut abattre. Il ordonne à Rocco\, le père de Marcellina\, de creuser une tombe pour le prisonnier. Mais Fidelio\, intimement lié à Florestan\, est déterminé à empêcher son assassinat. - Le Met propose de découvrir au cinéma l’unique opéra de Beethoven\, auquel Jürgen Flimm a offert une production envoûtante. La partition flamboie sous la direction passionnée de Susanna Mälkki\, tout comme la superbe distribution portée par Lise Davidsen. - Musique : Ludwig van Beethoven Mise en scène : Jürgen Flimm Direction musicale : Susanna Mälkki  Opéra en deux actes présenté en allemand sous-titré en français. 
-DTEND:20250315T040000Z
-DTSTART:20250315T040000Z
-SUMMARY:Fidelio (Metropolitan Opera)
-UID:d0724d67-b01c-4b8c-a613-69c4322d4909@d072.org
-URL:https://www.pathe.ch/fr/films-evenements/fidelio-metropolitan-opera-38762
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:Companion
-UID:eabd3228-0ae1-4462-a0e8-244f54bc859e@eabd.org
-URL:https://www.pathe.ch/fr/films-evenements/companion-40046
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:On Becoming a Guinea Fowl
-UID:9d680437-474f-422c-b36e-10913f2510f5@9d68.org
-URL:https://www.pathe.ch/fr/films-evenements/on-becoming-a-guinea-fowl-42849
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:In Mumbai\, Nurse Prabha's routine is troubled when she receives an unexpected gift from her estranged husband. Her younger roommate\, Anu\, tries in vain to find a spot in the city to be intimate with her boyfriend. A trip to a beach town allows them to find a space for their desires to manifest.
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:All We Imagine as Light
-UID:f26719f4-1f73-4633-85b9-c957e1c0d5b5@f267.org
-URL:https://www.pathe.ch/fr/films-evenements/all-we-imagine-as-light-40399
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bailey lives with his brother Hunter and his father Bug\, who raises them alone in a squat in northern Kent. Bug doesn't have much time to devote to them. Bailey looks for attention and adventure elsewhere.
-DTEND:20250108T040000Z
-DTSTART:20250108T040000Z
-SUMMARY:Bird
-UID:6728de68-eb2f-4265-adc7-ca9443684fdf@6728.org
-URL:https://www.pathe.ch/fr/films-evenements/bird-40158
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Plot unknown
-DTEND:20250205T040000Z
-DTSTART:20250205T040000Z
-SUMMARY:September 5
-UID:e25ca82d-0a23-4311-99fc-8812fe242471@e25c.org
-URL:https://www.pathe.ch/fr/films-evenements/september-5-38023
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Qu’est-ce que l’Europe ? Vadim Jendreyko sillonne le conti­nent sur les traces de son Histoire tour­mentée. Au fil du voyage\, la crainte\, légitime\, de voir l’Histoire se répéter laisse peu à peu place à l’espoir\, incarné par la rencontre de celles et ceux qui ont su trans­former les héritages sombres en des pratiques lumi­neuses. Un essai cinémato­gra­phique personnel et urgent.
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY: Le chant des autres
-UID:45c4f206-5d2f-447d-9915-dadb1def7ded@45c4.org
-URL:https://www.pathe.ch/fr/films-evenements/le-chant-des-autres-41089
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nachdem sie ihren letzten Fall in einem rumänischen Schloss erfolgreich gelöst haben\, sind Justus Jonas (JULIUS WECKAUF)\, Peter Shaw (NEVIO WENDT) und Bob Andrews (LEVI BRANDL) als Detektiv-Trio Die drei ??? in Rocky Beach\, Kalifornien\, zu einigem Ruhm gelangt. Das Telefon in ihrer geheimen Zentrale auf dem Schrottplatz von Justus‘ Onkel Titus (FLORIAN LUKAS) und Tante Mathilda (JÖRDIS TRIEBEL) steht nicht mehr still. Dennoch lässt ein interessanter\, neuer Fall erstmal auf sich warten. Denn die Jungs wollen keine verlorenen Plüschtiere und entlaufene Kater wiederfinden\, sondern ihrer Leidenschaft für Mysterien und scheinbar unerklärliche Geheimnisse nachgehen. Endlich gibt es einen aufregenden Fall! In der Wohnung von Mr. Prentice (ULRICH TUKUR) geschehen rätselhafte Dinge. Laute Geräusche ertönen\, Dinge vibrieren und Gegenstände bewegen sich. Und dann wird auch noch eine wertvolle Kristallskulptur gestohlen: der Karpatenhund. Ausserdem geistert eine unheimliche Gestalt durch den Apartmentkomplex und versetzt alle Bewohner in Angst und Schrecken. Die wenigen Spuren weisen Justus\, Peter und Bob in verschiedene Richtungen – und machen alle Bewohner zu Verdächtigen\, besonders die kratzbürstige Hausmeisterin Evelyn Boogle (SUNNYI MELLES).
-DTEND:20250123T040000Z
-DTSTART:20250123T040000Z
-SUMMARY:Die drei ??? und der Karpatenhund
-UID:00a9e60e-5e86-4554-ac10-be993bedc02b@00a9.org
-URL:https://www.pathe.ch/fr/films-evenements/die-drei-und-der-karpatenhund-42036
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Deux jeunes missionnaires de l'église mormone d'une petite ville du Colorado font du porte à porte dans l'espoir de convertir les habitants.<br/>Le soir venu\, après une journée infructueuse\, elles décident de frapper à la porte d'une maison isolée.<br/>C'est le charmant Mr Reed (Hugh Grant) qui les y accueille.<br/>Mais très vite\, les jeunes femmes réalisent qu’elles sont tombées dans un piège.<br/>La maison est un véritable labyrinthe où elles ne pourront compter que sur leur ingéniosité et leur intelligence pour rester en vie...
-DTEND:20241127T040000Z
-DTSTART:20241127T040000Z
-SUMMARY:Heretic
-UID:bbf534ee-f440-4970-9377-3f41d7f8f8d9@bbf5.org
-URL:https://www.pathe.ch/fr/films-evenements/heretic-40397
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250123T040000Z
-DTSTART:20250123T040000Z
-SUMMARY:The Brutalist
-UID:c778a181-402b-4d7b-b368-f7aa22f157d4@c778.org
-URL:https://www.pathe.ch/fr/films-evenements/the-brutalist-42573
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le valet Figaro et Susanna\, la chambière de la comtesse préparent leurs noces. Le comte Almaviva entend bien profiter de son droit de cuissage\, ce qui n’enchante guère Figaro. Quant à la comtesse\, elle est courtisée par le jeune et romantique Cherubino… Figaro a plus d’un tour dans son sac pour remettre de l’ordre dans ce charivari ! - L’intrigue puissante et divertissante du brillant opéra-bouffe de Mozart en fait l’un des grands favoris du public ! Dans une narration aussi harmonieuse que la partition musicale\, l’humour sait faire place à une profonde et juste expression des sentiments. - Musique : Wolfgang Amadeus Mozart Mise en scène : Richard Eyre Direction musicale : Joana Mallwitz  Opéra en quatre actes présenté en italien sous-titré en français. 
-DTEND:20250426T040000Z
-DTSTART:20250426T040000Z
-SUMMARY:Les Noces de Figaro (Metropolitan Opera)
-UID:6d044af6-de99-4f05-80b2-cc33a2cb924e@6d04.org
-URL:https://www.pathe.ch/fr/films-evenements/les-noces-de-figaro-metropolitan-opera-38761
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20241211T040000Z
-DTSTART:20241211T040000Z
-SUMMARY:Me contro Te - Cattivissimi a Natale
-UID:cd0896ff-4e9f-48c7-a699-c29132508a6b@cd08.org
-URL:https://www.pathe.ch/fr/films-evenements/me-contro-te-cattivissimi-a-natale-43002
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250122T040000Z
-DTSTART:20250122T040000Z
-SUMMARY:Un monde merveilleux
-UID:893f8c36-870b-4c7a-8789-fa02589fd5af@893f.org
-URL:https://www.pathe.ch/fr/films-evenements/un-monde-merveilleux-43364
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sophie (Julia Koschitz) liebt ihren Job\, Paul (Florian David Fitz) liebt seinen Thermomix. Sophie will noch mal durchstarten\, Paul will lieber zusammen abhängen. Der einzige Punkt\, in dem sich beide einig sind: Es muss sich etwas ändern. Ein „Vierer“ könnte der Beziehung ein bisschen Pfeffer zurückbringen. Wobei Theorie und Praxis dann doch deutlich auseinanderliegen. In der Bar wartet bereits das Date des Abends: die impulsive Mia (Lucía Barrado) und der leicht verstockte Lukas (Friedrich Mücke). Während die Beiden dort schon einmal vorglühen\, laufen auch Sophie und Paul zu Hause warm – nur leider anders als gedacht. Sie müssen feststellen\, dass nicht nur ihr Plan für die Nacht auf einigen falschen Annahmen beruht\, sondern auch der für ihr Leben. Als der Abend eskaliert\, bleibt keine Lüge unangetastet\, kein Geheimnis verschont und kein Auge trocken.
-DTEND:20241128T040000Z
-DTSTART:20241128T040000Z
-SUMMARY:Der Vierer
-UID:1b22c939-ef95-4da9-99be-8b73aaf7698b@1b22.org
-URL:https://www.pathe.ch/fr/films-evenements/der-vierer-40300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Biographie musicale à gros budget sur le plus grand « entertainer » des années 2000 : Robbie Williams ! Michael Gracey (The Greatest Showman) met en scène la vie fascinante<br/>de l'ex-membre du boys band Take That\, avec ses hauts et ses bas. Robbie Williams\, qui a été impliqué dans le projet dès le début et qui le soutient à tous les niveaux\, réenregistrera ses chansons spécialement pour le film.<br/>Robbie Williams est l'un des artistes les plus populaires et les plus appréciés au monde avec plus de 80 millions de disques vendus. Better Man raconte l'histoire de son ascension\, de son boys band jusqu'à sa carrière solo rythmée de hits incontournables. L'histoire met en lumière les expériences et les succès qui ont fait de lui ce qu'il est aujourd'hui et montre son combat contre ses démons\, qu'il a dû affronter sur et en dehors de la scène.
-DTEND:20250115T040000Z
-DTSTART:20250115T040000Z
-SUMMARY:Better Man
-UID:a857254e-5742-42d0-8cec-691967d1af87@a857.org
-URL:https://www.pathe.ch/fr/films-evenements/better-man
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Début des années 50\, sur les bords de Marne\, François\, un jeune garçon de 11 ans\, découvre avec intérêt que ses parents entament\, dans le petit jardin familial\, la construction d’un bateau\, réplique du voilier du célèbre marin Joshua Slocum. Au long des années\, dans une France d’après-guerre\, le jeune François va voguer de l’adolescence à l’âge adulte. Au fil de la construction du bateau\, tout en portant un regard tendre et poétique sur sa mère et son père\, le jeune garçon entamera sa propre aventure\, celle qui le mènera sur le chemin de ses pas- sions\, la mer et le dessin.
-DTEND:20250129T040000Z
-DTSTART:20250129T040000Z
-SUMMARY:Slocum et moi
-UID:8cdf442e-6c0d-49d7-9682-8359497a1744@8cdf.org
-URL:https://www.pathe.ch/fr/films-evenements/slocum-et-moi-40247
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tous les jours\, Jérôme parcourt Tokyo au volant de son taxi à la recherche de sa fille\, Lily. Séparé depuis 9 ans\, il n’a jamais pu obtenir sa garde. Alors qu’il a cessé d’espérer la revoir et qu’il s’apprête à rentrer en France\, la porte de son taxi s’ouvre et il est absolument sûr d’avoir enfin retrouvé sa fille…<br/><br/> <br/>Après « Nos batailles »\, le réalisateur Guillaume Senez tourne à nouveau avec Romain Duris dans « Une part manquante » et continue d’explorer avec délicatesse le thème de la parentalité. L’envoûtant acteur de « L’Auberge espagnole » et « Les trois mousquetaires : D’Artagnan » revient ainsi sur grand écran en père de famille convaincant et prêt à tout pour retrouver sa fille.
-DTEND:20241204T040000Z
-DTSTART:20241204T040000Z
-SUMMARY:Une part manquante
-UID:2535f70c-a6d9-4d01-9405-4b4a3b52f28e@2535.org
-URL:https://www.pathe.ch/fr/films-evenements/une-part-manquante-42065
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Die Schwester der Filme­ma­cherin\, Nasreen\, eine Haus­frau mit zwei Kindern\, ist mit einem tradi­ti­o­nellen und oft abwe­senden Mann verhei­ratet. Trotz der Einschränkungen für Frauen im Iran beschliesst sie\, ihren Lebens­traum vom Singen zu verfolgen.
-DTEND:20241219T040000Z
-DTSTART:20241219T040000Z
-SUMMARY: A Sisters' Tale
-UID:f23e4ebf-f3a2-4247-bf49-c2d0134d8d26@f23e.org
-URL:https://www.pathe.ch/fr/films-evenements/a-sisters-tale-40737
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tout à la fois militant\, révolutionnaire\, dandy\, voyou\, majordome ou sans abri\, il fut un poète enragé et belliqueux\, un agitateur politique et le romancier de sa propre grandeur. La vie d'Edouard Limonov\, comme une trainée de soufre\, est un voyage à travers les rues agitées de Moscou et les gratte-ciels de New-York\, des ruelles de Paris au cœur des geôles de Sibérie pendant la seconde moitié du XXe siècle.
-DTEND:20241218T040000Z
-DTSTART:20241218T040000Z
-SUMMARY:Limonov : La ballade
-UID:2f36de66-1020-4618-b241-5ec89c7bcffc@2f36.org
-URL:https://www.pathe.ch/fr/films-evenements/limonov-la-ballade-40302
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20241225T040000Z
-DTSTART:20241225T040000Z
-SUMMARY:Cortina Express
-UID:af932a67-10f6-4497-ae82-12ef4f35a93d@af93.org
-URL:https://www.pathe.ch/fr/films-evenements/cortina-express-43003
+SUMMARY:Aiming High
+UID:8322a42f-8963-43af-97fd-b09da576befc@8322.org
+URL:https://www.pathe.ch/fr/films-evenements/aiming-high-43428
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Accompagné de la famille Brown\, Paddington part en voyage au Pérou pour rendre visite à Lucy\, sa tante bien-aimée\, qui réside dans une maison de retraite pour ours. Mais Tante Lucy a mystérieusement disparu. Pour Paddington et la famille Brown\, c’est le début d’une expédition rocambolesque qui les mènera de la jungle amazonienne jusqu’aux sommets des montagnes péruviennes.
 DTEND:20250205T040000Z
 DTSTART:20250205T040000Z
 SUMMARY:Paddington au Pérou
-UID:8363c2ea-8608-462d-825c-b8a1bdbe06cc@8363.org
+UID:46cc45f7-f0f8-4335-9143-8003fe760243@46cc.org
 URL:https://www.pathe.ch/fr/films-evenements/paddington-au-perou-39118
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:I'm Still Here
+UID:19c8637d-fb74-4a3e-8e09-01b9ad544beb@19c8.org
+URL:https://www.pathe.ch/fr/films-evenements/i-m-still-here-42572
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:Rafadan Tayfa: Kapadokya
+UID:f2ec6571-fb3d-4792-a79f-0ef137674221@f2ec.org
+URL:https://www.pathe.ch/fr/films-evenements/rafadan-tayfa-kapadokya-43285
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250122T040000Z
+DTSTART:20250122T040000Z
+SUMMARY:Un monde merveilleux
+UID:d57619fe-732c-4486-b414-231fbc8d3c04@d576.org
+URL:https://www.pathe.ch/fr/films-evenements/un-monde-merveilleux-43364
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le nouveau film de Jesse Eisenberg\, A REAL PAIN\, dont il est le scénariste et le réalisateur et pour lequel il tient le rôle principal aux côtés de Kieran Culkin\, a reçu le Waldo Salt Screenwriting Award du meilleur scénario au festival du film de Sundance.  Les cousins David (Jesse Eisenberg) et Benji (Kieran Culkin) se retrouvent pour un voyage en Pologne en l'honneur de leur grand-mère bien-aimée. Ce road trip\, qui devait être un voyage dans le passé\, les confronte au présent\, les amenant à s'interroger sur leur relation et leur histoire familiale.
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY:A Real Pain
+UID:2216e76d-57b3-472f-b9fe-7a54ea4a3d4a@2216.org
+URL:https://www.pathe.ch/fr/films-evenements/a-real-pain-40047
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sonic the Hedgehog returns to the big screen this holiday season in his most thrilling adventure yet. Sonic\, Knuckles\, and Tails reunite against a powerful new adversary\, Shadow\, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way\, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.<br/><br/>Director Jeff Fowler returns along with our all-star cast including Jim Carrey\, Ben Schwartz\, James Marsden\, Tika Sumpter\, Idris Elba\, Colleen O’Shaughnessey\, Natasha Rothwell\, Shemar Moore\, Adam Pally\, Lee Majdoub\, newcomers Alyla Browne and Krysten Ritter\, with Keanu Reeves joining the franchise as Shadow the Hedgehog.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Sonic 3 - Le Film
+UID:e3bfabab-f701-4115-82ca-e8eae229a3ec@e3bf.org
+URL:https://www.pathe.ch/fr/films-evenements/sonic-3-le-film-36644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plus d’une décennie s’est écoulée depuis l’apparition soudaine d’étranges portails reliant notre monde à une autre dimension. Depuis\, certains humains se sont découverts des pouvoirs surnaturels. On appelle ces individus des chasseurs. Ils gagnent leur vie en utilisant leurs pouvoirs pour conquérir des donjons à l’intérieur de ces portails. Parmi ces valeureux chasseurs\, Jinwoo Sung\, toutefois connu pour être "le plus faible de toute l’humanité". Un jour\, Jinwoo est mortellement blessé lorsqu’il tombe par hasard sur un double donjon caché. Miraculeusement rescapé et au bord de la mort\, Jinwoo entrevoit une quête et saisit une opportunité qui lui permet dès lors de gagner en puissance très rapidement…
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Solo Leveling: ReAwakening
+UID:6ea51fb3-d515-4423-ac17-dfa9d848e362@6ea5.org
+URL:https://www.pathe.ch/fr/films-evenements/solo-leveling-reawakening-43001
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Signé du réalisateur légendaire Ridley Scott\, Gladiator II poursuit sa plongée épique dans la Rome Antique sur fond de pouvoir\, intrigue et vengeance. Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle\, Lucius (Paul Mescal) est forcé d’entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d’une main de fer. La rage au cœur et l’avenir de l’Empire en jeu\, Lucius doit se tourner vers son passé pour trouver la force et l’honneur de rendre la gloire de Rome à son peuple. 
+DTEND:20241113T040000Z
+DTSTART:20241113T040000Z
+SUMMARY:Gladiator II
+UID:fb7687a6-cbd7-4dc4-b1c6-411e48e63e32@fb76.org
+URL:https://www.pathe.ch/fr/films-evenements/gladiator-ii-39909
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pour la famille de Nathalie et Antonin\, chaque année\, le réveillon de Noël vire au cauchemar. Convaincue qu’elle est victime d’une malédiction\, Nathalie prend une décision radicale: cette année on ne le fêtera pas! Mais c’est sans compter sur Antonin et ses enfants qui décident de reprendre les choses en mains en invitant Nicole\, la sœur de Nathalie qu’elle a perdue de vue. Vont-ils enfin échapper au désastre cette année?
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:Les Boules de Noël
+UID:87925656-e939-4681-9f70-39ee726c1bf6@8792.org
+URL:https://www.pathe.ch/fr/films-evenements/les-boules-de-noel-43253
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250226T040000Z
+DTSTART:20250226T040000Z
+SUMMARY:With Love
+UID:577ef41a-dc09-4ec7-83fa-33c582bfcbf2@577e.org
+URL:https://www.pathe.ch/fr/films-evenements/with-love-38847
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liane\, 19 ans\, téméraire et incandescente\, vit avec sa mère et sa petite sœur sous le soleil poussiéreux de Fréjus. Obsédée par la beauté et le besoin de devenir quelqu’un\, elle voit en la télé-réalité la possibilité d’être aimée. Le destin semble enfin lui sourire lorsqu’elle passe un casting pour « Miracle Island ».  « Diamant brut » est le premier long métrage de la réalisatrice française Agathe Riedinger. Elle l'a développé à partir de son court-métrage « J'attends Jupiter ». Le film a été présenté en compétition au Festival de Cannes.
+DTEND:20241120T040000Z
+DTSTART:20241120T040000Z
+SUMMARY:Diamant brut
+UID:22cd94b4-55b1-42b6-865f-892a752f2762@22cd.org
+URL:https://www.pathe.ch/fr/films-evenements/diamant-brut-40031
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ida (Emilia Maier) möchte mit ihrer Klasse beim jährlichen Waldtag auftreten\, um sich für den Schutz des lokalen Waldes einzusetzen. Sogar Helene (Emilia Pieske) ist dabei\, da sie hofft\, mit den Aufnahmen der Performance ihren Influencer-Kanal aufzubauen. Was niemand weiß: Helenes Familie steht kurz vor dem Bankrott und Helene braucht dringend Follower\, um die drohende Pleite abzuwenden. Zusätzlich wird Helene durch die hohen Ansprüche ihres magischen Tiers\, Kater Karajan aus Paris (Stimme Ralf Schmitz)\, unter Druck gesetzt\, der sich ein Leben im puren Luxus vorstellt. Auch Silas (Luis Vorbach)\, der beste Freund von Jo (Loris Sichrovsky)\, erhält einen magischen Begleiter: Ihm wird das vegane Krokodil Rick (Stimme Felix Kramer) zur Seite gestellt\, das zwar furchteinflößend aussieht\, aber insgeheim Angst hat\, nicht mit dem tough wirkenden Silas mithalten zu können. Silas hat ein Auge auf Helene geworfen und glaubt\, nur mit einem Designershirt eine Chance bei ihr zu haben. Um an Geld dafür zu kommen\, erpresst er jüngere Schüler\, wird dabei aber von Jo erwischt und zur Rede gestellt. Jo ist sowieso schon sauer\, da Silas nicht bei den Proben für den Waldtag war und Silas ist eifersüchtig\, dass Jo so viel Zeit mit Ida verbringt. Und dann sorgt auch noch Helene für zusätzliche Konflikte: Als sie erfährt\, dass im Naturkundemuseum die Modenschau ihrer Ikone stattfinden soll\, überredet sie die Museumsdirektorin\, dass die Klasse dort als Showact auftreten darf. Doch die Modenschau findet ausgerechnet am selben Tag statt wie Idas Waldtag...
+DTEND:20240926T040000Z
+DTSTART:20240926T040000Z
+SUMMARY:Die Schule der magischen Tiere 3
+UID:58c724b9-74f8-41c7-b528-4851060df2b8@58c7.org
+URL:https://www.pathe.ch/fr/films-evenements/die-schule-der-magischen-tiere-3-37557
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250122T040000Z
+DTSTART:20250122T040000Z
+SUMMARY:Jouer avec le feu
+UID:0a4e56d6-6fa1-4045-a8c0-a87851d5e67b@0a4e.org
+URL:https://www.pathe.ch/fr/films-evenements/jouer-avec-le-feu-40402
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250326T040000Z
+DTSTART:20250326T040000Z
+SUMMARY:The Woman in the Yard
+UID:e8308b4b-ad11-459c-8fdb-1b5410ebb64c@e830.org
+URL:https://www.pathe.ch/fr/films-evenements/the-woman-in-the-yard-38628
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:France\, 2039. Une nuit\, des activistes traqués par l’Etat\, disparaissent sans laisser aucune trace.<br/>Julia Bombarth se trouve parmi eux. A son réveil\, elle se découvre enfermée dans un monde totalement inconnu : PLANÈTE B.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Planète B
+UID:832a6824-a411-4b8c-8b30-61b9b7058e8d@832a.org
+URL:https://www.pathe.ch/fr/films-evenements/planete-b-40246
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tirant le diable par la queue\, elle ne se résout pas à sa précaire condition et\, par-ci par-là\, vole quelques euros à tous ces braves gens dont elle s’occupe avec une dévotion extrême… et qui\, pour cela\, l’adorent! Pourtant une plainte pour abus de faiblesse conduira Maria en garde à vue…
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:La Pie voleuse
+UID:add28359-917e-4769-a81e-d59cce8ac8b3@add2.org
+URL:https://www.pathe.ch/fr/films-evenements/la-pie-voleuse-42280
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After a villain kidnaps Santa from the North Pole\, an E.L.F (Extremely Large and Formidable) operative (Dwayne Johnson) must partner with the world’s most accomplished tracker (Chris Evans) to find Santa and save Christmas.
+DTEND:20241106T040000Z
+DTSTART:20241106T040000Z
+SUMMARY:Red One
+UID:fa6a2ec8-74e0-4f49-bc22-0e86fbd07c2e@fa6a.org
+URL:https://www.pathe.ch/fr/films-evenements/red-one-38028
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le réalisateur Edward Berg\, oscarisé pour ALL QUIET ON THE WESTERN FRONT\, revient avec le thriller CONCLAVE qui est basé sur le best-seller éponyme de Robert Harris. Avec Ralph Fiennes\, Stanley Tucci\, John Lithgow\, Sergio Castellitto & Isabella Rossellini.<br/>Pour l'Église catholique romaine\, le conclave désigne le lieu où sont enfermés les cardinaux rassemblés pour élire le Pape pendant la période dite Sede vacante. À ce jour\, le conclave reste un des événements les plus mystérieux du monde tant le grand public en sait peu sur le processus de choix du nouveau Pape. Après la mort d'un Pape bien-aimé\, le cardinal Lawrence (Fiennes) est chargé de diriger secrètement la recherche d'un nouveau Pape dans les recoins les plus reculés du Vatican. Lawrence se retrouve rapidement au centre d'une conspiration\, car les cardinaux forgent des factions et des rivalités pour servir leurs propres ambitions. Alors que les manœuvres politiques s'intensifient au Vatican\, Lawrence comprend que le défunt Pape leur cachait un secret qu'il doit découvrir avant qu'un nouveau pape ne soit élu.
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Conclave
+UID:2857e176-e35e-492b-af9d-892df9a47e01@2857.org
+URL:https://www.pathe.ch/fr/films-evenements/conclave-38773
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zehn Freunde\, drei Jahre\, sieben Feste: David Dietls intensive und turbulente Ensemblekomödie FESTE & FREUNDE begleitet eine Gruppe von Freunden durch die Höhen und Tiefen des Lebens. Jedes Fest ist eine Momentaufnahme ihrer Freundschaft. Dazwischen warten grosse Veränderungen\, Geheimnisse\, Entscheidungen und manchmal auch das grosse Glück.
+DTEND:20250102T040000Z
+DTSTART:20250102T040000Z
+SUMMARY:Feste & Freunde - Ein Hoch auf uns!
+UID:02f42db3-f9fa-4bb4-80b6-0e8cdb1b8034@02f4.org
+URL:https://www.pathe.ch/fr/films-evenements/feste-freunde-ein-hoch-auf-uns-40509
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250123T040000Z
+DTSTART:20250123T040000Z
+SUMMARY:Frieda's Fall
+UID:5d05b921-b498-492b-8a9f-0d278cb9adb0@5d05.org
+URL:https://www.pathe.ch/fr/films-evenements/frieda-s-fall-42278
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250122T040000Z
+DTSTART:20250122T040000Z
+SUMMARY:Les Courageux
+UID:920d0bc2-fae4-43e3-b2cb-a46476fe9f7d@920d.org
+URL:https://www.pathe.ch/fr/films-evenements/les-courageux-42124
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follows the life story of the world's greatest opera singer\, Maria Callas\, during her final days in 1970s Paris.
+DTEND:20250212T040000Z
+DTSTART:20250212T040000Z
+SUMMARY:Maria
+UID:56affdbb-bdb6-4959-ba5a-3f9c0bc6e07d@56af.org
+URL:https://www.pathe.ch/fr/films-evenements/maria-42374
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY:Woodwalkers
+UID:2bfcfaa0-0528-47fb-bd40-af75ef0db22c@2bfc.org
+URL:https://www.pathe.ch/fr/films-evenements/woodwalkers-38689
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250130T040000Z
+DTSTART:20250130T040000Z
+SUMMARY:Wir Erben
+UID:cb8dbf83-1f67-4f2c-864d-85f658cdd23b@cb8d.org
+URL:https://www.pathe.ch/fr/films-evenements/wir-erben-42125
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kéria\, onze ans\, vit avec son père dans la banlieue paysanne d’une ville de la province du Sarawak\, sur l’île de Bornéo. C’est une petite fille urbaine\, qui aime les coupes de cheveux stylées et la musique hip-hop. Sa mère est morte quand elle était toute petite. Kéria n’en a plus aucun souvenir\, mais son père lui a raconté qu’elle a été dévorée par une panthère. 
+DTEND:20241016T040000Z
+DTSTART:20241016T040000Z
+SUMMARY:Sauvages
+UID:232267de-634c-449e-8fe6-04efb248b75b@2322.org
+URL:https://www.pathe.ch/fr/films-evenements/sauvages-36926
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:La vie d'une jeune fille coréenne prend une tournure inattendue lorsqu'un artiste français visite son pays\, bouleversant son quotidien.
+DTEND:20241218T040000Z
+DTSTART:20241218T040000Z
+SUMMARY:Un hiver à Sokcho
+UID:5a7e507a-7718-43b3-a4c1-d8fdc83274ff@5a7e.org
+URL:https://www.pathe.ch/fr/films-evenements/un-hiver-a-sokcho-40685
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jede Minute ist wertvoll.<br/>WE LIVE IN TIME erzählt die Geschichte von Almut & Tobias\, die sich zufällig eines Tages begegnen und deren Leben sich dadurch für immer verändern wird. Ein wunderschöner und poetischer Film über das Kennenlernen\, die Liebe und das Loslassen.<br/>In WE LIVE IN TIME sind die Superstars Andrew Garfield (SPIDER MAN: NO WAY HOME) und Florence Pugh (DUNE: PART TWO) endlich in einem gemeinsamen Projekt vereint.<br/>Die Regie übernahm John Crowley (BROOKLYN)\, Benedict Cumberbatch ist einer der Produzenten des Films.
+DTEND:20250109T040000Z
+DTSTART:20250109T040000Z
+SUMMARY:We Live in Time
+UID:8ff28f19-08a5-4f47-8c9b-1a5d601d4001@8ff2.org
+URL:https://www.pathe.ch/fr/films-evenements/we-live-in-time-40829
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dans son film récompensé par le Grand Prix au Festival de Cannes\, Payal Kapadia raconte l’histoire de Prabha\, Anu et Parvati\, toutes trois employées dans un hôpital de la ville tourbillonnante de Mumbai. Grâce à son approche à la fois réaliste\, sensorielle et lyrique\, la cinéaste indienne pose notre regard sur la condition des femmes de son pays. En quête d’amour\, ses héroïnes magnifiques font preuve d’une grande sororité et se révèlent à elles-mêmes\, allant ainsi à l’encontre du déterminisme social si marquant en Inde.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:All We Imagine as Light
+UID:8a41fbe6-a0b5-476a-bd86-8b643a3d50f2@8a41.org
+URL:https://www.pathe.ch/fr/films-evenements/all-we-imagine-as-light-40399
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:WICKED suit le parcours des sorcières légendaires du monde d’Oz. Cynthia Erivo incarne Elphaba\, une jeune femme incomprise à cause de la couleur inhabituelle de sa peau verte qui ne soupçonne même pas l’étendue de ses pouvoirs. À ses côtés\, la superstar mondiale de la Pop\, Ariana Grande\, interprète Glinda qui\, aussi populaire que privilégiée\, ne connaît pas encore la vraie nature de son cœur.<br/><br/>Leur rencontre à l'Université de Shiz\, dans le fantastique monde d'Oz\, marque le début d’une amitié improbable mais profonde. Cependant\, leur rapport avec Le Magicien d'Oz va mettre à mal cette amitié et voir leurs chemins s’éloigner. Tandis que Glinda\, assoiffée de popularité\, se laisse séduire par le pouvoir\, la détermination d'Elphaba à rester fidèle à elle-même et à son entourage aura des conséquences aussi malheureuses qu’inattendues. Leurs aventures extraordinaires au pays d’Oz les mèneront finalement à accomplir leur destinée en devenant respectivement la Bonne et la Méchante Sorcière de l'Ouest. <br/>Wicked will be brought to the screen by visionary director Jon M. Chu  (In the Heights\, Crazy Rich Asians) and producer Marc Platt (Into the Woods\, Bridge of Spies). The three-time Tony Award-winning stage musical was adapted from Gregory Maguire’s bestselling novel by book writer Winnie Holzman (My So-Called Life) and three-time Oscar®-winning composer/lyricist Stephen Schwartz (Godspell\, Pippin)\, who are also collaborating on the screenplay adaptation. Wicked is produced on Broadway by Platt\, Universal Stage Productions\, the Araca Group\, Jon B. Platt and David Stone.<br/>
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Wicked
+UID:ea38a067-b319-4029-b13a-b80361d36929@ea38.org
+URL:https://www.pathe.ch/fr/films-evenements/wicked-36673
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:1792\, L’Ancien Régime touche à sa fin. À Paris\, Louis XVI et son épouse Marie-Antoinette sont arrêtés et conduits au donjon de la Tour du Temple. Librement inspiré des carnets de Cléry\, valet de chambre du Roi resté auprès de lui jusqu’à sa mort.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Le Déluge
+UID:4d8a40ed-048c-4e8c-b545-8cabaace9cab@4d8a.org
+URL:https://www.pathe.ch/fr/films-evenements/le-deluge-40508
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der Amerikaner James White gerät in der Schweiz in eine unerwartete Situation\, als er fälschlicherweise für den verschwundenen Bildhauer Anatol Stiller gehalten und verhaftet wird. Entgegen der Behauptungen der Behörden besteht James darauf\, dass er tatsächlich James White ist. Während der Ermittlungen entwickelt sich eine enge Verbindung zwischen James und Julika\, der Ehefrau von Anatol Stiller. Mit jeder Annäherung zwischen den beiden kommen immer mehr Fragen nach der wahren Identität des geheimnisvollen Amerikaners auf.  
+DTEND:20250206T040000Z
+DTSTART:20250206T040000Z
+SUMMARY:Stiller
+UID:5ed7ccc8-9107-4d1e-9095-77064e738982@5ed7.org
+URL:https://www.pathe.ch/fr/films-evenements/stiller-36715
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:À la fin des années 90\, Nevenka Fernández\, est élue à 24 ans conseillère municipale auprès du maire de Ponferrada\, le charismatique et populaire Ismael Alvarez. C’est le début d’une descente aux enfers pour Nevenka\, manipulée et harcelée pendant des mois par le maire. Pour s’en sortir\, elle décide de dénoncer ses agissements et lui intente un procès.<br/>
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY:L'affaire Nevenka
+UID:decdc3ce-3c27-46e4-9caf-c057927c3161@decd.org
+URL:https://www.pathe.ch/fr/films-evenements/l-affaire-nevenka-40642
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Carole\, maire d'une petite ville\, s'implique à fond dans les festivités de Noël de sa commune pendant qu'Alain\, son mari moderne et dévoué\, s'occupe d'organiser le réveillon. Mais lorsque les enfants arrivent\, le rêve d'un Noël serein s'effondre et le couple subit une attaque en règle de toutes les traditions familiales...
+DTEND:20241218T040000Z
+DTSTART:20241218T040000Z
+SUMMARY:Un Noël en famille
+UID:9451b7c4-c3b6-4067-a46e-297db4363b46@9451.org
+URL:https://www.pathe.ch/fr/films-evenements/un-noel-en-famille-40400
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Qu’est-ce que c’est\, aller au cinéma ? Pourquoi y allons-nous depuis plus de 100 ans ? Je voulais célébrer les salles de cinéma\, leurs magies. Aussi\, j’ai suivi le chemin du jeune Paul Dédalus\, comme le roman d’apprentissage d’un spectateur. Nous avons mêlé souvenirs\, fiction\, enquêtes… Un torrent d’images qui nous emporte.<br/><br/>- Arnaud Desplechin
+DTEND:20241211T040000Z
+DTSTART:20241211T040000Z
+SUMMARY:Spectateurs !
+UID:46101e4e-6137-406a-ac71-46efa1edc167@4610.org
+URL:https://www.pathe.ch/fr/films-evenements/spectateurs-40043
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Maloney ermittelt wieder: Das Kult-Hörspiel «Die haarsträubenden Fälle des Philip Maloney» von Roger Graf wird verfilmt. In die Rolle des legendären Privatdetektivs schlüpft Marcus Signer. Sein Gegenspieler\, der Polizist\, wird von Stefan Kurt verkörpert. <br/>Bei seinen Ermittlungen taucht Philip Maloney in unterschiedliche Welten ein und begegnet dort gierigen Unternehmerinnen\, korrupten Politikern\, untreuen Ehefrauen und -männern und gefährlichen Verbrecherinnen. Dem Polizist\, seinem liebsten Feind\, Rivalen und Wegbegleiter\, ist er immer einen Schritt voraus. Die Zuschauenden sind dabei seine Komplizen\, mit denen er seine Beobachtungen teilt.<br/>
+DTEND:20241128T040000Z
+DTSTART:20241128T040000Z
+SUMMARY:Maloney - Die ersten drei haarsträubenden Fälle
+UID:47c626d1-6c6a-4961-a1f4-dccd3c53db3c@47c6.org
+URL:https://www.pathe.ch/fr/films-evenements/maloney-die-ersten-drei-haarstraubenden-falle-43086
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Avril\, jeune avocate spécialisée dans la défense de animaux est prête à tout pour sauver de la peine capitale son client\, un chien récidiviste. Entre croyance en la justice et difficultés grandissantes à supporter le mépris des humains pour les animaux\, c’est ce chien qui va aider Avril à accepter sa complexité humaine.
+DTEND:20240911T040000Z
+DTSTART:20240911T040000Z
+SUMMARY:Le Procès du chien
+UID:74a1fd37-b757-4984-a148-09d847bbf29c@74a1.org
+URL:https://www.pathe.ch/fr/films-evenements/le-proces-du-chien-39030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dans cinq histoires enchanteresses\, des animaux partent pour de grandes aventures pleines de suspense et de merveilles. De la France aux aurores boréales en passant par le Japon\, la magie de Noël n'a pas de frontières ! 
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:Le Grand Noël des animaux
+UID:72e9e9dc-72c9-4c53-a8be-a80d643f3394@72e9.org
+URL:https://www.pathe.ch/fr/films-evenements/le-grand-noel-des-animaux-38027
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A l’aube d’une nouvelle tournée mondiale\, la star de la pop Skye Riley (Naomi Scott) se met à vivre des événements aussi terrifiants qu’inexplicables. Submergée par la pression de la célébrité et devant un quotidien qui bascule de plus en plus dans l’horreur\, Skye est forcée de se confronter à son passé obscur pour tenter de reprendre le contrôle de sa vie avant qu’il ne soit trop tard.
+DTEND:20241016T040000Z
+DTSTART:20241016T040000Z
+SUMMARY:Smile 2
+UID:ac90daf1-ab56-49ad-8e86-15a946398bcf@ac90.org
+URL:https://www.pathe.ch/fr/films-evenements/smile-2-39908
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Aïda\, princesse éthiopienne\, est retenue captive en Égypte. Amneris\, la fille du roi\, la tient pour rivale car elle est aimée de Radamès\, le chef des armées. Lorsque ce dernier rentre vainqueur d'une campagne contre l'Éthiopie\, Aïda est convaincue que son père\, le roi Amonasro\, est mort au combat. Mais\, déguisé en simple soldat\, il a survécu et propose à sa fille un complot pour découvrir les secrets militaires des Égyptiens. - Avec sa partition palpitante et son histoire d'amour et d'héroïsme poignante\, Aïda revient au Met dans une toute nouvelle production qui téléporte les spectateurs au cœur de l’Égypte antique à l’aide de projections élaborées et d’animations éblouissantes. La soprano Angel Blue\, découverte dans Porgy and Bess\, incarne le rôle-titre. - Musique : Giuseppe Verdi Mise en scène : Michael Mayer Direction musicale : Yannick Nézet-Séguin  Opéra en quatre actes présenté en italien sous-titré en français. 
+DTEND:20250125T040000Z
+DTSTART:20250125T040000Z
+SUMMARY:Aïda (Metropolitan Opera)
+UID:6dd03f15-eee5-4382-8786-c51d326d767f@6dd0.org
+URL:https://www.pathe.ch/fr/films-evenements/aida-metropolitan-opera-38760
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:1889. Envoyée dans un village de la campagne française\, l’institutrice Louise Violet doit y imposer l’école de la République (gratuite\, obligatoire et laïque). Une mission qui ne la rend populaire ni auprès des enfants… ni auprès des parents.
+DTEND:20241106T040000Z
+DTSTART:20241106T040000Z
+SUMMARY:Louise Violet
+UID:6f6c79f3-785c-4487-a3a4-dae8eff3c06f@6f6c.org
+URL:https://www.pathe.ch/fr/films-evenements/louise-violet-38531
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Passionné de voile\, Jean­Paul traverse une passe difficile. Il accumule les dettes et s’éloigne des siens. Bien décidé à reprendre sa vie en main\, il s’inscrit à Virtual Regatta la course virtuelle du Vendée Globe. Il se met dans les conditions d’un vrai skipper en s’isolant pendant 3 mois sur son bateau dans son jardin... Ce voyage pas comme les autres\, lui permettra derenouer avec sa famille mais surtout avec lui-­même.
 DTEND:20241113T040000Z
 DTSTART:20241113T040000Z
 SUMMARY:La Vallée des fous
-UID:4edfed0a-e7e3-46a4-b41b-dbbbddd68c08@4edf.org
+UID:c007d35d-4c2d-441b-ae0d-7bf48df4c390@c007.org
 URL:https://www.pathe.ch/fr/films-evenements/la-vallee-des-fous-38957
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Chaque minute est précieuse.<br/>L'AMOUR AU PRÉSENT raconte l’histoire d’Almut & Tobias\, qui se rencontrent un jour par hasard et dont la vie va en être changée à jamais. Une histoire d’amour profondément touchante et de longue durée. Par le réalisateur de BROOKLYN. Avec les superstars Florence Pugh & Andrew Garfield\, nominés aux Academy Awards.
+DESCRIPTION:LE ROBOT SAUVAGE suit l’incroyable épopée d'un robot – l'unité ROZZUM 7134 alias “Roz” – qui après avoir fait naufrage sur une île déserte doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île. Il finit par adopter le petit d’une oie\, un oison\, qui se retrouve orphelin.
+DTEND:20241009T040000Z
+DTSTART:20241009T040000Z
+SUMMARY:Le Robot Sauvage
+UID:17d6a838-ca7b-419d-b555-2c80f2ccc000@17d6.org
+URL:https://www.pathe.ch/fr/films-evenements/le-robot-sauvage-37759
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mahin\, veuve de 70 ans\, vit seule à Téhéran depuis le départ de sa fille pour l’Europe. Après avoir passé un après-midi convivial avec ses amies\, Mahin décide de laisser son quotidien derrière elle et de réveiller sa vie amoureuse. Alors qu’elle s’ouvre à une nouvelle romance\, ce qui commence comme une rencontre fortuite se transforme rapidement en une nuit forte et marquante.
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:Mon gâteau préféré
+UID:046d806e-ddec-45b1-933b-9ca540feb2af@046d.org
+URL:https://www.pathe.ch/fr/films-evenements/mon-gateau-prefere-40510
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Il était une fois\, dans un grand bois\, un pauvre bûcheron et une pauvre bûcheronne. Le froid\, la faim\, la misère\, et partout autour d´eux la guerre\, leur rendaient la vie bien difficile. Un jour\, pauvre bûcheronne recueille un bébé. Un bébé jeté d’un des nombreux trains qui traversent sans cesse leur bois. Protégée quoi qu’il en coûte\, ce bébé\, cette petite marchandise va bouleverser la vie de cette femme\, de son mari\, et de tous ceux qui vont croiser son destin\, jusqu’à l’homme qui l’a jeté du train. Leur histoire va révéler le pire comme le meilleur du cœur des hommes. 
+DTEND:20241120T040000Z
+DTSTART:20241120T040000Z
+SUMMARY:La Plus Précieuse Des Marchandises
+UID:ad20a65a-daab-45b2-9c47-a9530a2b418e@ad20.org
+URL:https://www.pathe.ch/fr/films-evenements/la-plus-precieuse-des-marchandises-40152
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250122T040000Z
+DTSTART:20250122T040000Z
+SUMMARY:Jane Austen a gâché ma vie
+UID:1a6fe0c8-9f0d-4f96-ab03-683856ec6a32@1a6f.org
+URL:https://www.pathe.ch/fr/films-evenements/jane-austen-a-gache-ma-vie-42486
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:C’est bien connu\, les chats ont plusieurs vies ! Croquette vient de gâcher celle de trop et il ferait tout pour retrouver Rose\, sa maîtresse adorée. On lui accorde une dernière chance\, cependant une règle a changé : Croquette peut revenir\, mais à un détail près… Désormais transformé en cheval\, chien\, perroquet ou poisson\, l’aventure ne fait que commencer !
+DTEND:20241016T040000Z
+DTSTART:20241016T040000Z
+SUMMARY:Croquette le chat merveilleux
+UID:d98af133-2767-436d-877f-d5c7256a1fe0@d98a.org
+URL:https://www.pathe.ch/fr/films-evenements/croquette-le-chat-merveilleux-38300
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Romy (Nicole Kidman) est une brillante femme d’affaires\, a un mari aimant (Antonio Banderas) et deux filles qu’elle adore. Mais cette existence bien ordonnée vole en éclats avec l’arrivée de Samuel (Harris Dickinson)\, un stagiaire aussi séduisant qu’insolent. Alors qu’elle cède peu à peu à son charme\, Romy en découvre de plus en plus sur elle-même et sur ses désirs intimes. Mais jusqu’où est-elle prête à perdre le contrôle ?
+DTEND:20240115T040000Z
+DTSTART:20240115T040000Z
+SUMMARY:Babygirl
+UID:f6a6ceff-8b14-4e58-8f18-85dff3afce57@f6a6.org
+URL:https://www.pathe.ch/fr/films-evenements/babygirl-42277
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Autodidacte de génie\, le pianiste Erroll Garner a marqué à jamais le visage du jazz. Son titre Misty\, composé dit-il dans un avion entre deux concerts\, est devenu un standard dès sa sortie et reste encore l’une de ballades les plus reprises au monde. Enchaînant les succès\, il a pourtant connu une vie tumultueuse… Qui se cachait derrière le sourire charmeur de cet enfant des ghettos de Pittsburgh que le talent a propulsé sur les plus grandes scènes internationales ?
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Misty – The Erroll Garner Story
+UID:30ebe9de-2094-43d6-9dd1-1a9815747579@30eb.org
+URL:https://www.pathe.ch/fr/films-evenements/misty-the-erroll-garner-story-40643
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Henri et Jean\, deux amis de toujours vivent sur une petite ile de Bretagne et découvrent que l'un des habitants a gagné le gros lot à la loterie nationale. Les deux vieilles canailles se mettent alors à la recherche du mystérieux gagnant afin de s'assurer ses faveurs avant que la nouvelle ne se répande. Mais lorsqu’ils découvrent que ce dernier est mort\, ticket gagnant en main\, ils décident d’organiser avec la complicité de tout le village une grande arnaque au loto pour prendre sa place. 
+DTEND:20240904T040000Z
+DTSTART:20240904T040000Z
+SUMMARY:À l’ancienne
+UID:d7154533-cfd3-4ef8-9c11-75476e94db59@d715.org
+URL:https://www.pathe.ch/fr/films-evenements/a-l-ancienne-38070
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Adapté du roman What Are You Going Through de Sigrid Nunez.<br/><br/>Ingrid (Julianne Moore) et Martha (Tilda Swinton)\, amies de longue date\, ont débuté leur carrière au sein du même magazine. Lorsqu’Ingrid devient romancière à succès et Martha\, reporter de guerre\, leurs chemins se séparent. Mais des années plus tard\, leurs routes se recroisent dans des circonstances troublantes…
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY:La Chambre d'à côté
+UID:fbe24c78-6f73-407f-8f94-30ce67d06e62@fbe2.org
+URL:https://www.pathe.ch/fr/films-evenements/la-chambre-d-a-cote-43390
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:À la mort de son père\, la vie heureuse et marginale de Grace Pudel\, collectionneuse d’escargots et passionnée de lecture\, vole en éclats. Arrachée à son frère jumeau Gilbert\, elle atterrit dans une famille d’accueil à l’autre bout de l’Australie. Suspendue aux lettres de son frère\, ignorée par ses tuteurs et harcelée par ses camarades de classe\, Grace s’enfonce dans le désespoir. Jusqu’à la rencontre salvatrice avec Pinky\, une octogénaire excentrique qui va lui apprendre à aimer la vie et à sortir de sa coquille…
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:Memoir of a Snail
+UID:b96e1506-77b2-4870-b5d1-5cf494d72d8e@b96e.org
+URL:https://www.pathe.ch/fr/films-evenements/memoir-of-a-snail-42127
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nous sommes dans les années 1930. Antoine de Saint-Exupéry est pilote de l’Aéropostale en Argentine. Lorsque Henri Guillaumet\, son meilleur ami et pilote émérite de l’Aéropostale\, disparaît dans la Cordillère des Andes\, Saint-Ex décide coûte que coûte de partir à sa recherche. Cette quête impossible l'oblige à se surpasser\, en faisant de sa capacité à rêver sa plus grande force...
+DTEND:20241211T040000Z
+DTSTART:20241211T040000Z
+SUMMARY:Saint-Ex
+UID:4343667a-e1cc-47c5-acea-44f75512936b@4343.org
+URL:https://www.pathe.ch/fr/films-evenements/saint-ex-38956
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Joker: Folie À Deux finds Arthur Fleck institutionalized at Arkham awaiting trial for his crimes as Joker. While struggling with his dual identity\, Arthur not only stumbles upon true love\, but also finds the music that's always been inside him.
+DTEND:20241002T040000Z
+DTSTART:20241002T040000Z
+SUMMARY:Joker: Folie à Deux
+UID:bf7a80b1-4f15-4f7d-8a3e-2b9b43098a37@bf7a.org
+URL:https://www.pathe.ch/fr/films-evenements/joker-folie-a-deux-36726
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fils de réfugiés\, petit\, pauvre\, à la voix voilée\, on disait de lui qu’il n’avait rien pour réussir. À force de travail\, de persévérance et d’une volonté hors norme\, Charles Aznavour est devenu un monument de la chanson et un symbole de la culture française. Avec près de 1200 titres interprétés dans le monde entier et dans toutes les langues\, il a inspiré des générations entières. Découvrez le parcours exceptionnel et intemporel de MONSIEUR AZNAVOUR.
+DTEND:20241023T040000Z
+DTSTART:20241023T040000Z
+SUMMARY:Monsieur Aznavour
+UID:ed8825e4-6fdf-4a2e-9c67-bfce6bf9e75f@ed88.org
+URL:https://www.pathe.ch/fr/films-evenements/monsieur-aznavour-36844
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Gerda et Kay sont des compagnons de jeu inséparables jusqu’à ce jour où\, blessé par deux cristaux d’un miroir brisé\, le jeune garçon change de caractère et devienne colérique. Il disparaît alors\, enlevé par la mystérieuse Reine des neiges. Sans nouvelles de lui\, Gerda décide de partir à travers le monde à la recherche de son frère de cœur…
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:CF: La Reine des Neiges
+UID:968a7d9b-1cea-4a95-a068-cf9fc746075e@968a.org
+URL:https://www.pathe.ch/fr/films-evenements/cf-la-reine-des-neiges-42443
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nach dem Erfolg vom ersten Teil kehren an Weihnachten 2024 die liebenswerten\, roten Zipfelmützen in DIE HEINZELS - NEUE MÜTZEN\, NEUE MISSON zurück auf die grosse Leinwand. Wenn das mutige Heinzelmädchen Helvi ein Abenteuer wittert\, kann sie nichts und niemand aufhalten. Weder die grantige Vendla\, Anführerin der Heinzels\, noch drohender Stubenarrest können sie daran hindern\, ihre neugierige Nase in die Menschenwelt zu stecken. Als sie bei einem ihrer Ausflüge auf ihr unbekannte Heinzels trifft\, ist Helvi total aus dem Häuschen: Die sind viel cooler als ihre eigene Familie! Aufregende Abenteuer erwarten Helvi und ihre neuen Freunde\, bis sich eines Tages die taffe Kommissarin Lanski an die Fersen der Zipfelmützen heftet. Die überambitionierte Polizistin will mit ihrer fintenreichen Katze Polipette\, die eine ausgebildete Spürnase hat\, unbedingt beweisen\, dass es die wuseligen Helferlein wirklich gibt. Da bedarf es eines helvinösen Plans und der gemeinsamen Kraft aller Heinzels\, wenn sie nicht auffliegen wollen ...
+DTEND:20241224T040000Z
+DTSTART:20241224T040000Z
+SUMMARY:Die Heinzels – Neue Mützen\, neue Mission
+UID:fe835200-0029-4434-be85-5e1f3fdd94c8@fe83.org
+URL:https://www.pathe.ch/fr/films-evenements/die-heinzels-neue-mutzen-neue-mission-42123
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der Film zeigt die Geschehnisse in einem einzelnen Raum und die Menschen\, die darin in der Vergangenheit lebten bis weit in die Zukunft dort leben werden.
+DTEND:20241212T040000Z
+DTSTART:20241212T040000Z
+SUMMARY:Here
+UID:5ad42e7b-773f-4022-b4e4-30d3cbfc1e3b@5ad4.org
+URL:https://www.pathe.ch/fr/films-evenements/here-42682
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Les Cadeaux
+UID:687c012a-97dd-4fd2-afbb-d3de5235c5e0@687c.org
+URL:https://www.pathe.ch/fr/films-evenements/les-cadeaux-40157
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Anora\, une jeune travailleuse du sexe de Brooklyn\, a la chance de vivre une histoire à la Cendrillon lorsqu'elle rencontre le fils d'un oligarque et l'épouse impulsivement. Lorsque la nouvelle parvient en Russie\, son conte de fées est menacé car les parents du fils partent pour New York afin de faire annuler le mariage.
+DTEND:20241030T040000Z
+DTSTART:20241030T040000Z
+SUMMARY:Anora
+UID:1c43977c-692c-4624-baf4-8082ca66accb@1c43.org
+URL:https://www.pathe.ch/fr/films-evenements/anora-40298
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MUFASA: LE ROI LION fait appel à Rafiki pour transmettre à la jeune lionne Kiara - la fille de Simba et Nala – la légende de Mufasa. Il sera aidé en cela par Timon et Pumbaa\, dont les formules choc sont désormais bien connues. Relatée sous forme de flashbacks\, l'histoire de Mufasa est celle d’un lionceau orphelin\, seul et désemparé\, qui un jour fait la connaissance du sympathique Taka\, héritier d'une lignée royale. Cette rencontre fortuite marquera le point de départ du voyage riche en péripéties d'un groupe « d’indésirables » à la recherche de leur destin et dont les liens d’amitié seront mis à rude épreuve lorsqu’il leur faudra faire équipe pour échapper à un ennemi aussi menaçant que mortel…
+DTEND:20241218T040000Z
+DTSTART:20241218T040000Z
+SUMMARY:Mufasa: le roi lion
+UID:a8fc5ec4-d7a5-45c0-a2d9-7cef0a64395e@a8fc.org
+URL:https://www.pathe.ch/fr/films-evenements/mufasa-le-roi-lion-36713
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Claire et Jeanne\, jumelles pianistes virtuoses\, sont admises dans une prestigieuse université de musique dirigée par l’intraitable professeur Klaus Lenhardt. Elles portent ainsi l’ambition de leur père qui a tout sacrifié pour faire d'elles les meilleures. Mais\, une maladie orpheline\, fragilise peu à peu leurs mains\, et compromet brusquement leur ascension. Refusant de renoncer à leur rêve\, elles vont devoir se battre et se réinventer pour devenir\, plus que jamais\, prodigieuses.
+DTEND:20241120T040000Z
+DTSTART:20241120T040000Z
+SUMMARY:Prodigieuses
+UID:618c2913-356b-46fd-bc93-cafb23d715e5@618c.org
+URL:https://www.pathe.ch/fr/films-evenements/prodigieuses-40244
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Début des années 50\, sur les bords de Marne\, François\, un jeune garçon de 11 ans\, découvre avec intérêt que ses parents entament\, dans le petit jardin familial\, la construction d’un bateau\, réplique du voilier du célèbre marin Joshua Slocum. Au long des années\, dans une France d’après-guerre\, le jeune François va voguer de l’adolescence à l’âge adulte. Au fil de la construction du bateau\, tout en portant un regard tendre et poétique sur sa mère et son père\, le jeune garçon entamera sa propre aventure\, celle qui le mènera sur le chemin de ses pas- sions\, la mer et le dessin.
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:Slocum et moi
+UID:f5f07bf4-650a-4e10-819d-616501ca9032@f5f0.org
+URL:https://www.pathe.ch/fr/films-evenements/slocum-et-moi-40247
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Colin\, un jeune bègue\, fait sa rentrée dans un nouveau collège. Pas facile de passer du monde de l’enfance à celui des grands\, surtout quand on est “différent”. La route est semée d’embûches. Mais une rencontre déterminante avec son professeur de théâtre\, figure paternelle et bienveillante\, guidera ses pas vers un nouvel essor\, comme une nouvelle naissance.
+DTEND:20241120T040000Z
+DTSTART:20241120T040000Z
+SUMMARY:Le Panache
+UID:85cc1430-aa7b-4881-9621-d80f46821652@85cc.org
+URL:https://www.pathe.ch/fr/films-evenements/le-panache-38959
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die Schwester der Filme­ma­cherin\, Nasreen\, eine Haus­frau mit zwei Kindern\, ist mit einem tradi­ti­o­nellen und oft abwe­senden Mann verhei­ratet. Trotz der Einschränkungen für Frauen im Iran beschliesst sie\, ihren Lebens­traum vom Singen zu verfolgen.
+DTEND:20241219T040000Z
+DTSTART:20241219T040000Z
+SUMMARY: A Sisters' Tale
+UID:8e953d9e-4edf-47cc-92d2-aa24fb03c79f@8e95.org
+URL:https://www.pathe.ch/fr/films-evenements/a-sisters-tale-40737
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:Mon inséparable
+UID:6adc4a12-967a-4e12-8baf-8c8daaf735cc@6adc.org
+URL:https://www.pathe.ch/fr/films-evenements/mon-inseparable-43004
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le grand final avant extinction du groupe exclusivement au cinéma ! <br/>Pour leur tournée d’adieu\, The final fucked up Tour\, Shaka Ponk a investi tous les Zéniths et festivals de France durant presque 2 ans : plus de 60 dates à guichets fermés\, 1\,5 million de fans déchaînés\, des shows de pure énergie\, Punk et Rock n’Roll comme seul le groupe en a le secret. <br/>Leur tout dernier show filmé à l’Accor Arena a été immortalisé et sera diffusé au cinéma pour une soirée unique. <br/>Une ultime chance de se rassembler pour (re)vivre ce concert historique…sur grand écran !
+DTEND:20250403T040000Z
+DTSTART:20250403T040000Z
+SUMMARY:Shaka Ponk - The final fucked up Tour
+UID:d57a4b67-c57b-4c21-983d-5ab7805f6949@d57a.org
+URL:https://www.pathe.ch/fr/films-evenements/shaka-ponk-the-final-fucked-up-tour-43370
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ancienne vedette de cinéma\, Elisabeth\, quinqua\, anime une émission de fitness quand son chef la licencie. Il veut la remplacer par une femme plus jeune et plus attirante. Une solution à ce problème existe: un liquide appelé «The Substance» qui promet de créer un sosie plus jeune\, plus beau et plus parfait. Seule condition : partager le temps avec son alter ego. Une semaine pour l’une\, une semaine pour l’autre. On ne risque rien à essayer\, non ?
+DTEND:20241106T040000Z
+DTSTART:20241106T040000Z
+SUMMARY:The Substance
+UID:2391d326-a203-452c-a8db-2146072511af@2391.org
+URL:https://www.pathe.ch/fr/films-evenements/the-substance-40827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:Criminal Squad 2: Pantera - Den of Thieves 2
+UID:5b95e40f-8f22-47dc-b8ed-4411b6dc546d@5b95.org
+URL:https://www.pathe.ch/fr/films-evenements/criminal-squad-2-pantera-den-of-thieves-2-42276
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Durante le feste di Natale\, le strade e le piste di Cortina si popolano dei personaggi più diversi\, riuniti tra le incantevoli montagne ampezzane innevate per divertirsi\, ma non solo! Tra di loro\, incontriamo Lucio De Roberti\, un irresistibile viveur che tenta di salvare il nipote da un matrimonio disastroso\; Dino Doni\, una stella musicale ormai spenta\, alla ricerca di riscatto e soprattutto dell'amore di sua figlia\; e Patrizia Giordano\, una vulcanica discografica alle prese con il rischio di fallimento e un marito un po' ignavo. Insieme a loro\, molti altri personaggi\, ognuno involontariamente legato al destino degli altri in situazioni esilaranti\, cercano il proprio lieto fine.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Cortina Express
+UID:80e98f14-90ae-4257-b6ad-6e5cdfcfefa0@80e9.org
+URL:https://www.pathe.ch/fr/films-evenements/cortina-express-43003
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Il film di Natale con Sofì e Luì insieme ai cattivi della saga\, il Signor S\, Perfidia e la figlia!
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Me contro Te - Cattivissimi a Natale
+UID:d0d72f4d-f36b-4369-a2b0-0914916214bc@d0d7.org
+URL:https://www.pathe.ch/fr/films-evenements/me-contro-te-cattivissimi-a-natale-43002
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250205T040000Z
+DTSTART:20250205T040000Z
+SUMMARY:Les Barbapapa\, la vie en vert
+UID:1d181e89-c6bf-41ef-a90e-d59b22c5fe9d@1d18.org
+URL:https://www.pathe.ch/fr/films-evenements/les-barbapapa-la-vie-en-vert-43271
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Août 92. Une vallée perdue dans l’Est de la France\, des hauts fourneaux qui ne brûlent plus. Anthony\, quatorze ans\, s'ennuie ferme. Un après-midi de canicule au bord du lac\, il rencontre Stéphanie. Le coup de foudre est tel que le soir même\, il emprunte secrètement la moto de son père pour se rendre à une soirée où il espère la retrouver. Lorsque le lendemain matin\, il s’aperçoit que la moto a disparu\, sa vie bascule
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Leurs Enfants après eux
+UID:e719a799-5bbe-4bc6-9cbc-ea9cefec8f67@e719.org
+URL:https://www.pathe.ch/fr/films-evenements/leurs-enfants-apres-eux-42485
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A gothic tale of obsession between a haunted young woman in 19th century Germany and the ancient Transylvanian vampire who stalks her\, bringing untold horror with him.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Nosferatu
+UID:4b1030da-af59-4204-933a-93f5a589b8e9@4b10.org
+URL:https://www.pathe.ch/fr/films-evenements/nosferatu-38302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Amber\, a happiness agent\, travels the Bhutanese Himalayas surveying people's happiness. On his remote mountain journey\, he searches for fulfillment.
+DTEND:20250109T040000Z
+DTSTART:20250109T040000Z
+SUMMARY:Agent of Happiness
+UID:0563a7bd-730b-474e-8295-c4d2e77c9b04@0563.org
+URL:https://www.pathe.ch/fr/films-evenements/agent-of-happiness-41091
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY:Karantina
+UID:b1fdb79e-b9e0-45de-aa00-ce57fd6bf543@b1fd.org
+URL:https://www.pathe.ch/fr/films-evenements/karantina-43283
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lorsqu’elle entend la voix du prophète Jokanaan\, Salomé s’en éprend immédiatement et tente de le séduire. Il repousse ses avances\, elle jure qu’elle baisera sa bouche. Le roi Hérode\, fou de Salomé\, est prêt à tout pour la satisfaire. - La pièce d’Oscar Wilde a inspiré à Richard Strauss une tragédie cruelle et veloutée dont l’intrigue tient en un seul acte. Le metteur en scène en vogue Claus Guth installe ce récit d’origine biblique à l’époque victorienne\, apportant une perspective totalement fraîche à cette œuvre qui a fait basculer l’opéra dans l’ère de la modernité. - Musique : Richard Strauss Mise en scène : Claus Guth Direction musicale : Yannick Nézet-Séguin  Opéra en un acte présenté en allemand sous-titré en français. 
+DTEND:20250517T040000Z
+DTSTART:20250517T040000Z
+SUMMARY:Salomé (Metropolitan Opera)
+UID:ca507ccc-ccbc-4f02-8149-e3fe480d43c7@ca50.org
+URL:https://www.pathe.ch/fr/films-evenements/salome-metropolitan-opera-38759
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sophie (Julia Koschitz) liebt ihren Job\, Paul (Florian David Fitz) liebt seinen Thermomix. Sophie will noch mal durchstarten\, Paul will lieber zusammen abhängen. Der einzige Punkt\, in dem sich beide einig sind: Es muss sich etwas ändern. Ein „Vierer“ könnte der Beziehung ein bisschen Pfeffer zurückbringen. Wobei Theorie und Praxis dann doch deutlich auseinanderliegen. In der Bar wartet bereits das Date des Abends: die impulsive Mia (Lucía Barrado) und der leicht verstockte Lukas (Friedrich Mücke). Während die Beiden dort schon einmal vorglühen\, laufen auch Sophie und Paul zu Hause warm – nur leider anders als gedacht. Sie müssen feststellen\, dass nicht nur ihr Plan für die Nacht auf einigen falschen Annahmen beruht\, sondern auch der für ihr Leben. Als der Abend eskaliert\, bleibt keine Lüge unangetastet\, kein Geheimnis verschont und kein Auge trocken.
+DTEND:20241128T040000Z
+DTSTART:20241128T040000Z
+SUMMARY:Der Vierer
+UID:69da2088-601d-4e4d-a156-961400b6f74a@69da.org
+URL:https://www.pathe.ch/fr/films-evenements/der-vierer-40300
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NCT DREAM’s third world tour\, ‘THE DREAM SHOW 3: DREAM()SCAPE\,’ is coming to the big screen once again\, bringing back the vibrant world bathed in Pearl Neo Champagne!<br/>Join the journey as the story of the Mystery Lab unfolds—a special laboratory where the secrets of growth are discovered on the path to one’s dreams\, and where the prescription for comfort and healing is shared.<br/><br/>Captured from Seoul's Gocheok Sky Dome\, witness their breathtaking performances that radiated youthful energy\, plus the passionate efforts behind the scenes.<br/><br/>Don’t miss NCT DREAM Mystery Lab: DREAM()SCAPE in Cinemas—a stage for both escaping into dreams and embracing new beginnings.<br/>
+DTEND:20241211T040000Z
+DTSTART:20241211T040000Z
+SUMMARY:NCT DREAM Mystery Lab: DREAM( )SCAPE in Cinemas
+UID:8ad3422a-2e86-4e71-a645-9859e0fe8a8b@8ad3.org
+URL:https://www.pathe.ch/fr/films-evenements/nct-dream-mystery-lab-dream-scape-in-cinemas-43324
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le valet Figaro et Susanna\, la chambière de la comtesse préparent leurs noces. Le comte Almaviva entend bien profiter de son droit de cuissage\, ce qui n’enchante guère Figaro. Quant à la comtesse\, elle est courtisée par le jeune et romantique Cherubino… Figaro a plus d’un tour dans son sac pour remettre de l’ordre dans ce charivari ! - L’intrigue puissante et divertissante du brillant opéra-bouffe de Mozart en fait l’un des grands favoris du public ! Dans une narration aussi harmonieuse que la partition musicale\, l’humour sait faire place à une profonde et juste expression des sentiments. - Musique : Wolfgang Amadeus Mozart Mise en scène : Richard Eyre Direction musicale : Joana Mallwitz  Opéra en quatre actes présenté en italien sous-titré en français. 
+DTEND:20250426T040000Z
+DTSTART:20250426T040000Z
+SUMMARY:Les Noces de Figaro (Metropolitan Opera)
+UID:68bce2ec-f01c-480b-818e-5c5a05b4e227@68bc.org
+URL:https://www.pathe.ch/fr/films-evenements/les-noces-de-figaro-metropolitan-opera-38761
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Après avoir fui la Guinée\, le jeune Souleymane tente de trouver asile en France. Sans-papiers et sans argent\, il se débrouille comme il peut à Paris\, en travaillant comme coursier à vélo pour un service de livraison de repas\, dans des conditions épouvantables. À 48 heures de son entretien de demande d’asile\, Souleymane n’est pas prêt... Lauréat du Prix du public de la Piazza Grande en 2019 avec «Camille»\, Boris Lojkine nous raconte aujourd’hui «L’Histoire de Souleymane»\, drame bouleversant de justesse et d’émotion sur la migration\, l’uberisation et la survie à la ville. À Cannes\, l’acteur Abou Sangare incarnant le rôle-titre a été récompensé du Prix d’interprétation Un Certain Regard et le film couronné du Prix du Jury.
+DTEND:20241009T040000Z
+DTSTART:20241009T040000Z
+SUMMARY:L'histoire de Souleymane
+UID:fdcec4de-7680-47ef-a2ce-89ca3623bace@fdce.org
+URL:https://www.pathe.ch/fr/films-evenements/l-histoire-de-souleymane-40240
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Adapté du livre « Bambi\, l’histoire d’une vie dans les bois » de Felix Salten\, le film raconte les aventures d’un jeune faon\, entouré de sa mère et des animaux de la forêt : son ami le corbeau\, le lapin\, le raton laveur… Il découvre le monde des arbres et leurs secrets. Chaque jour\, sa mère l’éduque pour qu’il puisse grandir avec force. Mais l’automne arrivé\, Bambi s’aventure en terrain découvert lorsque des chasseurs le séparent de sa mère à tout jamais. Dès lors\, le jeune faon doit apprendre à vivre seul. Heureusement il retrouve Faline son amie d’enfance. Puis un grand et majestueux cerf\, qui n’est autre que son père\, va retrouver Bambi et l’aider à grandir. Ce dernier va alors prendre son destin en main.
+DTEND:20241016T040000Z
+DTSTART:20241016T040000Z
+SUMMARY:Bambi. L'histoire d'une vie dans les bois
+UID:7872f1d6-f75d-4f43-ac78-0ec9c9b0f76d@7872.org
+URL:https://www.pathe.ch/fr/films-evenements/bambi-l-histoire-d-une-vie-dans-les-bois-39896
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sienna a survécu au massacre d'Halloween et a tiré un trait sur l'horreur. Mais juste avant la veille de Noël\, Art le Clown revient dans le comté de Miles. Déguisé en Père Noël\, il sème la terreur dans la ville. Sans pitié\, il recherche Sienna et son frère et laisse derrière lui une trace sanglante de désolation. Art va transformer ce Noël en un véritable cauchemar. Plus aucune fête n'est à l'abri...
+DTEND:20241030T040000Z
+DTSTART:20241030T040000Z
+SUMMARY:Terrifier 3
+UID:8d6d8372-473a-4e55-9a3b-562614912005@8d6d.org
+URL:https://www.pathe.ch/fr/films-evenements/terrifier-3-42846
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250206T040000Z
+DTSTART:20250206T040000Z
+SUMMARY:Carmen (ONP)
+UID:0cbae4dd-53f8-4be4-afa7-a0c356b42b79@0cba.org
+URL:https://www.pathe.ch/fr/films-evenements/carmen-onp-42024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Trois femmes\, dans un appartement à Marseille en pleine canicule. En face\, leur mystérieux voisin\, objet de tous les fantasmes. Elles se retrouvent coincées dans une affaire terrifiante et délirante avec comme seule quête\, leur liberté.
+DTEND:20241211T040000Z
+DTSTART:20241211T040000Z
+SUMMARY:Les Femmes au balcon
+UID:eabecd8c-ef58-4d9d-8fd2-b8f45bbc53a2@eabe.org
+URL:https://www.pathe.ch/fr/films-evenements/les-femmes-au-balcon-43199
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20241218T040000Z
+DTSTART:20241218T040000Z
+SUMMARY:Sarah Bernhardt - La Divine
+UID:f24043e0-6756-4616-9805-32480553af9d@f240.org
+URL:https://www.pathe.ch/fr/films-evenements/sarah-bernhardt-la-divine-40641
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bailey lives with his brother Hunter and his father Bug\, who raises them alone in a squat in northern Kent. Bug doesn't have much time to devote to them. Bailey looks for attention and adventure elsewhere.
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY:Bird
+UID:3101933d-c771-4d6f-92ce-7d93113630c1@3101.org
+URL:https://www.pathe.ch/fr/films-evenements/bird-40158
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pour la première fois en sept ans\, Gru\, le super-vilain le plus populaire du monde\, devenu super agent de l’A.V. L\, revient dans un nouveau chapitre aussi hilarant que chaotique de la célébrissime saga d’illumination : MOI MOCHE ET MÉCHANT 4. Après le succès des MINIONS 2 : IL ÉTAIT UNE FOIS GRU\, qui a rapporté près d'un milliard de dollars dans le monde entier\, la plus grande franchise d'animation de l'histoire ouvre un nouveau chapitre où Gru\, Lucy et les filles\, Margo\, Edith et Agnès accueillent le petit dernier de la famille\, Gru Junior\, qui semble n’avoir qu’une passion : faire tourner son père en bourrique. Mais Gru est confronté à un nouvel ennemi Maxime Le Mal (Will Ferrell) qui\, avec l’aide de sa petite amie\, la fatale Valentina (Sofia Vergara)\, va obliger toute la famille à fuir. Le film met en scène de nouveaux personnages interprétés par Joey King (BULLET TRAIN)\, Stephen Colbert (du Late Show With Stephen Colbert) et Chloe Fineman (du Saturday Night Live). Pierre Coffin reprend l’interprétation devenue légendaire des voix de tous les Minions\, et Steve Coogan celle de Silas De La Mollefesse. Pour la version française le public retrouvre les voix de Gad Elmaleh et Audrey Lamy\, dans les rôles de Gru et Lucy. MOI\, MOCHE ET MÉCHANT 4 est un chapitre trépidant\, bourré d’action et de rebondissements. Il est réalisé par Chris Renaud (cité aux Oscars® pour MOI\, MOCHE ET MECHANT 2\, COMME DES BÊTES) un des deux co-créateurs des Minions\, et produit par Chris Meledandri le fondateur visionnaire et PDG d’Illumination. Coréalisé par Patrick Delage (directeur de l’animation sur TOUS EN SCÈNE 2 et COMME DES BÊTES 2)\, le scénario est signé par Mike White (le créateur de White Lotus récompensé aux Emmy Awards) et Ken Daurio\, l’auteur de la franchise depuis le tout premier MOI MOCHE ET MÉCHANT. 
+DTEND:20240703T040000Z
+DTSTART:20240703T040000Z
+SUMMARY:Moi\, Moche et Méchant 4
+UID:d86a8e0b-fe00-4355-9647-b534f5245ff0@d86a.org
+URL:https://www.pathe.ch/fr/films-evenements/moi-moche-et-mechant-4-36548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Niko quitte sa famille pour tenter de devenir membre de l’équipe des rennes volants du Père Noël et y fait la connaissance de Stella\, une jeune renne talentueuse. Alors que le traineau du Père Noël a disparu\, Niko et ses amis prennent la direction du Nord glacé pour le retrouver à temps et sauver Noël.
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Niko le petit renne\, mission père noël
+UID:62a14944-df21-48cb-a4d3-4275e525f76b@62a1.org
+URL:https://www.pathe.ch/fr/films-evenements/niko-le-petit-renne-mission-pere-noel-38301
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250116T040000Z
+DTSTART:20250116T040000Z
+SUMMARY:Reise der Schatten
+UID:c541a452-fd43-46a3-acf9-605f9a9bf733@c541.org
+URL:https://www.pathe.ch/fr/films-evenements/reise-der-schatten-40401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TSCHUGGER goes Kino! Nach dem grandiosen Erfolg der ersten drei Staffeln gibt’s ein Wiedersehen mit Bax\, Smetterling\, Valmira & Co. im Kino in TSCHUGGER – DER LÄTSCHT FALL.  Bax und Pirmin sind zurück im Polizeidienst. Die beiden Walliser Kultcops müssen sich jedoch um einen einfachen Sprayer-Fall kümmern\, während die restliche Abteilung den Fund einer verkohlten Leiche aufklären darf. Bax\, der sich in Pirmins Garage eingenistet hat\, ist immer noch Biffigers Geheimnis auf der Spur. Dabei verdächtigt er bald den gesamten Bekanntenkreis\, während Pirmin selbst in die Schusslinie seiner Tschugger-Kolleginnen und -Kollegen gerät. Gleichzeitig droht dem Wallis\, ja der ganzen Welt die Katastrophe und sogar das Pentagon\, das US-Verteidigungsministerium\, ist involviert.
+DTEND:20241010T040000Z
+DTSTART:20241010T040000Z
+SUMMARY:Tschugger - Der lätscht Fall
+UID:0d8fb9ce-2559-4805-b851-a0ca123e9f35@0d8f.org
+URL:https://www.pathe.ch/fr/films-evenements/tschugger-der-latscht-fall-42088
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Joseph Cross ressemble à son métier : solide comme du béton. Marié\, deux enfants\, son existence est parfaitement organisée. Pourtant cette nuit\, seul au volant de sa voiture\, on découvre au fur et à mesure du trajet et des appels téléphoniques\, qu'il doit prendre de lourdes décisions pour tenter de résoudre un trio de crises liées entre elles. Son sens de l'éthique et des responsabilités\, face à cette tragédie de la vie\, le pousse dans ses retranchements. 
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Le choix
+UID:058e7d16-74a7-419d-b1b0-58c9cabc3320@058e.org
+URL:https://www.pathe.ch/fr/films-evenements/le-choix-43087
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ce nouveau chapitre\, situé 183 ans avant la trilogie du SEIGNEUR DES ANNEAUX\, explore l'histoire de la Maison de Helm Hammerhand\, roi de Rohan. Face à l'attaque soudaine de Wulf\, un seigneur vengeur et cruel\, Helm et son peuple se barricadent dans la forteresse de Hornburg\, rebaptisée Gouffre de Helm. Dans cette lutte désespérée\, Héra\, la fille de Helm\, doit rassembler le courage nécessaire pour diriger la résistance contre un ennemi déterminé à détruire son peuple.
+DTEND:20241212T040000Z
+DTSTART:20241212T040000Z
+SUMMARY:Le Seigneur des Anneaux: La Guerre des Rohirrim
+UID:6245753b-d783-4ccc-bf7d-4f0e2b8bd7de@6245.org
+URL:https://www.pathe.ch/fr/films-evenements/le-seigneur-des-anneaux-la-guerre-des-rohirrim-36647
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Laufey\, artiste islando-chinoise de 25 ans\, lauréate d'un GRAMMY\, écrit des chansons inspirées par les grands noms du jazz et les maîtres de la musique classique\, tout en adoptant un point de vue qui ne peut être transmis que par une jeune femme du XXIe siècle. Cette approche romantique et novatrice a conquis le public du monde entier\, créant une communauté mondiale de « Lauvers » et faisant salle comble à chaque date de tournée que la « Gen Z It Girl » (NY Times) a mise en vente. Le film A Night at the Symphony : Hollywood Bowl a été tourné à Los Angeles\, la ville d'adoption de Laufey. Réalisé par Sam Wrench (Taylor Swift | The Eras Tour)\, Laufey emmène le public dans un voyage sonore envoûtant\, sous les étoiles\, aux côtés du légendaire orchestre philharmonique de Los Angeles. Jouant dans la salle emblématique où Ella Fitzgerald et tant d'autres héros de Laufey ont joué avant elle\, le film donne un aperçu des coulisses de ce spectacle monumental. Comme le résume Variety\, « Laufey a l'impression d'être née pour jouer au Hollywood Bowl ». 
+DTEND:20241208T040000Z
+DTSTART:20241208T040000Z
+SUMMARY:Laufey's A Night at the Symphony: Hollywood Bowl
+UID:ffe2e0fe-f6cf-43f2-9e86-6b3e530e2861@ffe2.org
+URL:https://www.pathe.ch/fr/films-evenements/laufey-s-a-night-at-the-symphony-hollywood-bowl-43030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Thibaut\, chef d'orchestre parisien au sommet de sa carrière\, remplit des salles de concert dans le monde entier. Un jour\, lors d'un examen médical\, il s'avère que lui et sa sœur ne sont pas du tout de la même famille\, Thibaut ayant été adopté. En revanche il apprend qu’il a un frère : Jimmy\, employé́ de cantine scolaire et qui joue du trombone dans la fanfare d’une ville ouvrière du nord de la France. En apparence\, tout sépare les deux frères\, sauf leur amour et leur don pour la musique. Fils adoptif d’une famille privilégiée\, Thibaut tente de réparer les injustices du destin. Jimmy se prend alors à rêver d’une autre vie…  Lors de sa première au Festival de Cannes\, « En fanfare » a été acclamé frénétiquement par le public. Le réalisateur Emmanuel Courcol sait tenir avec adresse l’équilibre subtil entre moments tragiques et situations hilarantes. Une comédie sur le hasard et le destin\, pleine d’humour et de tendresse qui raconte l’histoire d’un amour fraternel nourri de passion de la musique qui fait fi de tous les obstacles.
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:En fanfare
+UID:6bbdf49a-10f1-4173-9eae-2ce27cd4201c@6bbd.org
+URL:https://www.pathe.ch/fr/films-evenements/en-fanfare-40041
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Totone's carefree teenage life of drinking and dancing takes a turn when he must provide for his 7-year-old sister. Seeking income\, he channels his energy into producing an award-winning comté cheese to claim a competition prize.
+DTEND:20241211T040000Z
+DTSTART:20241211T040000Z
+SUMMARY:Vingt Dieux
+UID:18e9565d-e979-41c9-b8a4-ccdaf68e26b3@18e9.org
+URL:https://www.pathe.ch/fr/films-evenements/vingt-dieux-40044
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Les années 80\, dans le nord de la France. Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie\, il traîne. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait\, ces deux-là sont comme les deux ventricules du même  cœur...
+DTEND:20241016T040000Z
+DTSTART:20241016T040000Z
+SUMMARY:L'Amour ouf
+UID:fc8ce3d9-406d-4854-a4ed-7a8f5a4891b9@fc8c.org
+URL:https://www.pathe.ch/fr/films-evenements/l-amour-ouf-38025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nachdem sie ihren letzten Fall in einem rumänischen Schloss erfolgreich gelöst haben\, sind Justus Jonas (JULIUS WECKAUF)\, Peter Shaw (NEVIO WENDT) und Bob Andrews (LEVI BRANDL) als Detektiv-Trio Die drei ??? in Rocky Beach\, Kalifornien\, zu einigem Ruhm gelangt. Das Telefon in ihrer geheimen Zentrale auf dem Schrottplatz von Justus‘ Onkel Titus (FLORIAN LUKAS) und Tante Mathilda (JÖRDIS TRIEBEL) steht nicht mehr still. Dennoch lässt ein interessanter\, neuer Fall erstmal auf sich warten. Denn die Jungs wollen keine verlorenen Plüschtiere und entlaufene Kater wiederfinden\, sondern ihrer Leidenschaft für Mysterien und scheinbar unerklärliche Geheimnisse nachgehen. Endlich gibt es einen aufregenden Fall! In der Wohnung von Mr. Prentice (ULRICH TUKUR) geschehen rätselhafte Dinge. Laute Geräusche ertönen\, Dinge vibrieren und Gegenstände bewegen sich. Und dann wird auch noch eine wertvolle Kristallskulptur gestohlen: der Karpatenhund. Ausserdem geistert eine unheimliche Gestalt durch den Apartmentkomplex und versetzt alle Bewohner in Angst und Schrecken. Die wenigen Spuren weisen Justus\, Peter und Bob in verschiedene Richtungen – und machen alle Bewohner zu Verdächtigen\, besonders die kratzbürstige Hausmeisterin Evelyn Boogle (SUNNYI MELLES).
+DTEND:20250123T040000Z
+DTSTART:20250123T040000Z
+SUMMARY:Die drei ??? und der Karpatenhund
+UID:736d80b6-152d-4b11-be7b-3d66bc62f974@736d.org
+URL:https://www.pathe.ch/fr/films-evenements/die-drei-und-der-karpatenhund-42036
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Anna (Janina Uhse) und Thomas (Florian David Fitz) wollen heiraten und haben die Familie in die <br/>Tiroler Alpen eingeladen. Stephan (Christoph Maria Herbst) sinniert typisch schlecht gelaunt im Ski-Lift <br/>über das aktuelle Leben der Böttchers\, Wittmanns\, Bergers und Königs: Anna hat überraschend doch <br/>noch Karriere als Schauspielerin gemacht\, Thomas steht kurz davor\, in den Vorstand eines <br/>Immobilienkonzerns aufzusteigen – vorausgesetzt\, er besteht die obligatorische Sensibility-Schulung. <br/>Stephans Frau Elisabeth (Caroline Peters) arbeitet zwar noch als Lehrerin\, bessert die Haushaltskasse<br/>aber heimlich mit Bitcoin-Handel auf. Und René (Justus von Dohnányi)\, verheiratet mit Dorothea (Iris <br/>Berben) und seit drei Jahren Eltern von Zwillingen\, entpuppt sich als überfürsorglicher Helikopter-Vater. <br/>Stephan selbst wurde kürzlich als Professor aus der Uni entlassen\; es gab da einen Vorfall. Und mit <br/>Cajus (Jona Volkmann)\, 18\, und Antigone (Kya-Celina Barucki)\, 17\, bringt Stephan und Elisabeths <br/>jugendlich-woker Nachwuchs zusätzlich Chaos in die erhoffte Winteridylle. Am Ende steht nicht nur die <br/>geplante Hochzeit auf der Kippe…
+DTEND:20241219T040000Z
+DTSTART:20241219T040000Z
+SUMMARY:Der Spitzname
+UID:29e90345-d38c-4a9d-95f1-506f0e31cf14@29e9.org
+URL:https://www.pathe.ch/fr/films-evenements/der-spitzname-38029
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:Vos en haas redden het bos
+UID:877c9b6c-3609-42f9-a6d8-ab51aa4dbede@877c.org
+URL:https://www.pathe.ch/fr/films-evenements/vos-en-haas-redden-het-bos-42202
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dans VENOM: THE LAST DANCE\, Tom Hardy reprend son rôle de Venom\, l’un des personnages les plus importants et les plus complexes de l’univers MARVEL\, pour le grand final de la trilogie. Eddie et Venom sont en fuite. Alors qu’ils sont pourchassés par leurs deux mondes\, l’étau se resserre autour d’eux et ils sont contraints de prendre une décision dévastatrice\, qui marquera leur dernière aventure.
+DTEND:20241023T040000Z
+DTSTART:20241023T040000Z
+SUMMARY:Venom: The Last Dance
+UID:ba711522-43b7-44e3-b590-de40d7405a5e@ba71.org
+URL:https://www.pathe.ch/fr/films-evenements/venom-the-last-dance-38530
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The plot follows rivals Beba (Rade Cosic) and Nemac (Miodrag Radonjic) as they race iconic Yugos\, chasing the national championship and their dreams of Formula 1. However\, racing isn't their only source of adrenaline.
+DTEND:20241121T040000Z
+DTSTART:20241121T040000Z
+SUMMARY:Prva Klasa - Pun Gas!
+UID:aae28ed5-2cf8-4041-8ed8-389edc3b260e@aae2.org
+URL:https://www.pathe.ch/fr/films-evenements/prva-klasa-pun-gas-43154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Biographie musicale à gros budget sur le plus grand « entertainer » des années 2000 : Robbie Williams ! Michael Gracey (The Greatest Showman) met en scène la vie fascinante<br/>de l'ex-membre du boys band Take That\, avec ses hauts et ses bas. Robbie Williams\, qui a été impliqué dans le projet dès le début et qui le soutient à tous les niveaux\, réenregistrera ses chansons spécialement pour le film.<br/>Robbie Williams est l'un des artistes les plus populaires et les plus appréciés au monde avec plus de 80 millions de disques vendus. Better Man raconte l'histoire de son ascension\, de son boys band jusqu'à sa carrière solo rythmée de hits incontournables. L'histoire met en lumière les expériences et les succès qui ont fait de lui ce qu'il est aujourd'hui et montre son combat contre ses démons\, qu'il a dû affronter sur et en dehors de la scène.
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:Better Man
+UID:e1ffbca6-cfc0-4075-9021-6ea25070be05@e1ff.org
+URL:https://www.pathe.ch/fr/films-evenements/better-man
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250123T040000Z
+DTSTART:20250123T040000Z
+SUMMARY:The Brutalist
+UID:80928d6a-d506-45d4-9c38-abf677658bf0@8092.org
+URL:https://www.pathe.ch/fr/films-evenements/the-brutalist-42573
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deux jeunes missionnaires de l'église mormone d'une petite ville du Colorado font du porte à porte dans l'espoir de convertir les habitants.<br/>Le soir venu\, après une journée infructueuse\, elles décident de frapper à la porte d'une maison isolée.<br/>C'est le charmant Mr Reed (Hugh Grant) qui les y accueille.<br/>Mais très vite\, les jeunes femmes réalisent qu’elles sont tombées dans un piège.<br/>La maison est un véritable labyrinthe où elles ne pourront compter que sur leur ingéniosité et leur intelligence pour rester en vie...
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:Heretic
+UID:cd6c5671-b207-4983-b9a0-92112bdc9127@cd6c.org
+URL:https://www.pathe.ch/fr/films-evenements/heretic-40397
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250205T040000Z
+DTSTART:20250205T040000Z
+SUMMARY:September 5
+UID:1f1e2066-15f2-4aa0-9ceb-d1283ebc6b8d@1f1e.org
+URL:https://www.pathe.ch/fr/films-evenements/september-5-38023
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Un chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l'eau ! FLOW plonge dans un monde fantastique rempli d'éléments métaphoriques et symboliques. Destiné aux adultes et aux enfants\, le film offre une réflexion profonde sur l'adaptabilité et la solidarité. 
+DTEND:20241030T040000Z
+DTSTART:20241030T040000Z
+SUMMARY:Flow
+UID:97243479-ff8e-4242-b0e2-aaf5186d5667@9724.org
+URL:https://www.pathe.ch/fr/films-evenements/flow-40242
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tout à la fois militant\, révolutionnaire\, dandy\, voyou\, majordome ou sans abri\, il fut un poète enragé et belliqueux\, un agitateur politique et le romancier de sa propre grandeur. La vie d'Edouard Limonov\, comme une trainée de soufre\, est un voyage à travers les rues agitées de Moscou et les gratte-ciels de New-York\, des ruelles de Paris au cœur des geôles de Sibérie pendant la seconde moitié du XXe siècle.
+DTEND:20241218T040000Z
+DTSTART:20241218T040000Z
+SUMMARY:Limonov : La ballade
+UID:c5f431a1-1acc-42fb-ac6d-9a8fe1de2c0a@c5f4.org
+URL:https://www.pathe.ch/fr/films-evenements/limonov-la-ballade-40302
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sur une petite île japonaise\, la vie tourne autour des changements de saison. L’hiver\, c’est l’heure du hockey sur glace à l’école\, mais Takuya n’est pas très enthousiaste. Son véritable intérêt se porte sur Sakura\, une étoile montante du patinage artistique originaire de Tokyo\, pour laquelle il commence à développer une véritable fascination. L’entraîneur et ancien champion Arakawa décèle le potentiel de Takuya et décide de l’encadrer pour qu’il forme un duo avec Sakura lors d’une prochaine compétition. Alors que l’hiver persiste\, les sentiments grandissent et les deux enfants forment un lien harmonieux. Mais même la première neige finit par fondre.
+DTEND:20250108T040000Z
+DTSTART:20250108T040000Z
+SUMMARY: My Sunshine
+UID:943724c6-b3b1-45ed-8c7a-20bc7021de4f@9437.org
+URL:https://www.pathe.ch/fr/films-evenements/my-sunshine-42275
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Après avoir reçu une invitation inattendue de ses ancêtres\, Vaiana entreprend un périple qui la conduira jusqu’aux eaux dangereuses situées aux confins des mers des îles du Pacifique. Elle y vivra des péripéties comme jamais vécues auparavant.
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:Vaiana 2
+UID:983aeef7-d13f-4e68-9540-38e2b62828f4@983a.org
+URL:https://www.pathe.ch/fr/films-evenements/vaiana-2-38236
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Garfield\, le célébrissime chat qui déteste les lundis et adore les lasagnes\, est sur le point de vivre une aventure déjantée dans le vaste monde. Après des retrouvailles inattendues avec son père – Vic\, un chat de gouttière ébouriffé disparu depuis longtemps – Garfield et son ami le chien Odie sont contraints quitter leur vie confortable pour accompagner Vic dans une aventure hilarante aux multiples enjeux. 
+DTEND:20240717T040000Z
+DTSTART:20240717T040000Z
+SUMMARY:Garfield : Héros malgré lui
+UID:b7ace4ed-8a8a-4c0e-b196-f6d68cf36a56@b7ac.org
+URL:https://www.pathe.ch/fr/films-evenements/garfield-heros-malgre-lui-36671
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A new adaptation of the famous novel by Alexandre Dumas.
+DTEND:20240626T040000Z
+DTSTART:20240626T040000Z
+SUMMARY:Le Comte de Monte-Cristo
+UID:a20fd9d7-9031-491e-8347-27cb5ee10381@a20f.org
+URL:https://www.pathe.ch/fr/films-evenements/le-comte-de-monte-cristo-36845
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Suite à THE GENTLEMEN\, WRATH OF MAN et RULES OF FORTUNE\, Ascot Elite Entertainment présente IN THE GREY du génial GUY RICHIE.<br/>Un thriller d'extraction plein d'action avec un casting de stars composé de HENRY CAVILL\, JAKE GYLLENHAAL et EIZA GONZÁLEZ\, qui s'étend sur plusieurs continents. Cavill\, Gyllenhaal et González se lancent ensemble à la poursuite de milliards de dollars d'argent liquide volé et suivent un groupe qui agit entre le crime et la loi. Du matériel Ritchie de première classe avec une note d'humour et beaucoup d'action. Une expérience cinématographique à ne pas manquer.
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:In the Grey
+UID:440bae8b-dce7-4a7b-8019-89cddcd82097@440b.org
+URL:https://www.pathe.ch/fr/films-evenements/in-the-grey-38303
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:A Complete Unknown
+UID:f7604dc3-3c52-4a68-ac60-244fcca692e3@f760.org
+URL:https://www.pathe.ch/fr/films-evenements/a-complete-unknown-42279
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:Companion
+UID:c73a00a3-549d-44e0-98ff-07341788e532@c73a.org
+URL:https://www.pathe.ch/fr/films-evenements/companion-40046
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follows the life in the kitchen of a NYC restaurant where cultures from all over the world blend during the lunchtime rush.
+DTEND:20250305T040000Z
+DTSTART:20250305T040000Z
+SUMMARY:La Cocina
+UID:79fc14f6-7c31-43ef-b792-48624b77f032@79fc.org
+URL:https://www.pathe.ch/fr/films-evenements/la-cocina-42684
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kraven the Hunter is the visceral story of how and why one of Marvel’s most iconic villains came to be. Set before his notorious vendetta with Spider-Man\, Aaron Taylor-Johnson stars as the titular character in the R-rated film.
+DTEND:20241211T040000Z
+DTSTART:20241211T040000Z
+SUMMARY:Kraven The Hunter
+UID:eea79798-4746-4d5c-8b85-0188c39bcb2e@eea7.org
+URL:https://www.pathe.ch/fr/films-evenements/kraven-the-hunter-35183
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Plot unknown
+DTEND:20250115T040000Z
+DTSTART:20250115T040000Z
+SUMMARY:Wolf Man
+UID:d436d476-5b1f-4b06-8733-9063bca5de80@d436.org
+URL:https://www.pathe.ch/fr/films-evenements/wolf-man-37761
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Doctor Béranger is a famous psychoanalyst who succeeds in everything. His life would be perfect if it weren't for this very anxious and extremely clingy patient: Damien Leroy. To finally get rid of it\, he makes her believe that the only way to heal is to find true love. But as he prepares to celebrate his 30th wedding anniversary\, his daughter\, played by Claire Chust\, tells him that she has finally found the man of her life who is none other than... Damien. The party will turn into a nightmare.
+DTEND:20241218T040000Z
+DTSTART:20241218T040000Z
+SUMMARY:Jamais sans mon psy
+UID:0aca215c-d4f5-4e10-b1b1-763be1ec7962@0aca.org
+URL:https://www.pathe.ch/fr/films-evenements/jamais-sans-mon-psy-40156
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Marcellina rêve d'épouser Fidelio\, le nouvel assistant de son père geôlier. Dans la forteresse est enfermé Florestan\, que le gouverneur Don Pizarro veut abattre. Il ordonne à Rocco\, le père de Marcellina\, de creuser une tombe pour le prisonnier. Mais Fidelio\, intimement lié à Florestan\, est déterminé à empêcher son assassinat. - Le Met propose de découvrir au cinéma l’unique opéra de Beethoven\, auquel Jürgen Flimm a offert une production envoûtante. La partition flamboie sous la direction passionnée de Susanna Mälkki\, tout comme la superbe distribution portée par Lise Davidsen. - Musique : Ludwig van Beethoven Mise en scène : Jürgen Flimm Direction musicale : Susanna Mälkki  Opéra en deux actes présenté en allemand sous-titré en français. 
+DTEND:20250315T040000Z
+DTSTART:20250315T040000Z
+SUMMARY:Fidelio (Metropolitan Opera)
+UID:fef8b02e-871a-4963-b31c-5f4d6dcc3147@fef8.org
+URL:https://www.pathe.ch/fr/films-evenements/fidelio-metropolitan-opera-38762
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Touda is a Sheikha\, a traditional Moroccan singer. Performing in the bars of her provincial town under the gaze of men\, she plans to leave for the lights of Casablanca\, to gain recognition and ensure a better future for her son.
+DTEND:20241225T040000Z
+DTSTART:20241225T040000Z
+SUMMARY:Everybody Loves Touda
+UID:94bbfef1-f2f5-49cf-a338-1a14fded49d6@94bb.org
+URL:https://www.pathe.ch/fr/films-evenements/everybody-loves-touda-40153
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250129T040000Z
+DTSTART:20250129T040000Z
+SUMMARY:On Becoming a Guinea Fowl
+UID:fc700705-04fe-47ea-9e0e-5f94f0ba9d33@fc70.org
+URL:https://www.pathe.ch/fr/films-evenements/on-becoming-a-guinea-fowl-42849
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Michel et Cathy\, un couple usé par le temps et les difficultés financières\, ne se parle plus vraiment. Jusqu’au jour où Michel\, pour éviter un ours sur la route\, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre\, forcément\, ça donne envie de se reparler. Et surtout de se taire.
 DTEND:20250101T040000Z
 DTSTART:20250101T040000Z
-SUMMARY:L'Amour Au Present
-UID:412f6326-3065-4629-9560-0756c581ab3c@412f.org
-URL:https://www.pathe.ch/fr/films-evenements/l-amour-au-present-40829
+SUMMARY:Un ours dans le jura
+UID:74852de1-243c-4846-9936-9b7298fadce0@7485.org
+URL:https://www.pathe.ch/fr/films-evenements/un-ours-dans-le-jura-42203
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cette année\, Noël devrait être parfait ! Sauf qu’avec Shaun et son troupeau d’amis rien ne se passe jamais comme prévu… Les joyeux préparatifs se transforment rapidement en une mission quasi impossible : entre les guirlandes tyroliennes\, les paquets cadeaux surprises et les enfants pas vraiment sages\, ça ne va pas être une mince affaire de réunir tout le monde autour du sapin. Prêts pour une course poursuite en traineau ? À vos marques\, prêts\, moutonnez !
+DTEND:20241127T040000Z
+DTSTART:20241127T040000Z
+SUMMARY:L'incroyable noël de Shaun le mouton et de Timmy
+UID:36ae2e6e-3e36-4aaf-8e53-aa4d59813fb4@36ae.org
+URL:https://www.pathe.ch/fr/films-evenements/l-incroyable-noel-de-shaun-le-mouton-et-de-timmy-40395
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LUAN and AMIR - THE TROUBLESHOOTERS - are two failed\, down-and-out best friends from Tirana who dream of becoming the first private detectives in Albania ever.Their first job takes them straight into the heart of a crazy murder mystery to a five-star resort in Durrës. Undercover and disguised as rich dandies they check in - and so the chaos gets started. The guys are real amateurs\, try to pose like pros. Without any experience\, clue or plan\, the TROUBLESHOOTERS still give it their all!Here\, on the beautiful Albanian coast\, they must prove to the world what they are made of. But do they really have what it takes to become heroes? Will they fall in love\, solve their first case and defeat the bad guys\, or will they fail miserably?Until we find out\, however\, the TROUBLESHOOTERS will cause spectacular chaos of relentless fun and action on Tirana's streets\, in luxurious casinos\, football stadiums or on construction sites high above the city\, until they face the bad guys in a furious showdown in the port of Durres.
+DTEND:20241204T040000Z
+DTSTART:20241204T040000Z
+SUMMARY:Troubleshooters
+UID:8f2d2826-edc2-4e21-954b-856546696d75@8f2d.org
+URL:https://www.pathe.ch/fr/films-evenements/troubleshooters-43149
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Par les producteurs à succès de FEMALE PLEASURE et BRUNO MANSER: LA VOIX DE LA FORÊT TROPICALE et en collaboration avec Richard Gere. WISDOM OF HAPPINESS est l'héritage du 14ème Dalaï-Lama pour le 21ème siècle. Une expérience cinématographique inédite\, inoubliable et qui rend heureux.<br/>WISDOM OF HAPPINESS est un portrait cinématographique émouvant de la pensée du Dalaï- Lama. Dans l'une de ses dernières apparitions sur grand écran\, l'infatigable ambassadeur de la paix et de la non-violence s'adresse directement aux spectateurs en les emmenant à la recherche de la source du bonheur. Grâce à son esprit vif et à son humour\, le film montre le Dalaï-Lama de manière humaine\, laïque et émotionnelle\, comme on ne l'a encore jamais vu. Les réalisateurs empruntent des voies inédites et mêlent les réflexions du Dalaï-Lama à des prises de vue émouvantes de notre planète et à des images d'archives encore jamais vues pour dresser un portrait très actuel de sa pensée et de son savoir. Un tel film n'a encore jamais été réalisé avec le Dalaï-Lama\, âgé de bientôt 90 ans.
+DTEND:20250305T040000Z
+DTSTART:20250305T040000Z
+SUMMARY:Wisdom of Happiness - A heart-to-heart with the Dalai Lama
+UID:5b408a6e-970d-4eca-b821-275db4594035@5b40.org
+URL:https://www.pathe.ch/fr/films-evenements/wisdom-of-happiness-a-heart-to-heart-with-the-dalai-lama-40033
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250205T040000Z
+DTSTART:20250205T040000Z
+SUMMARY:Les Tuche - God Save the Tuche
+UID:c86a6a91-61e3-48f9-bc8c-dbcbb92624c9@c86a.org
+URL:https://www.pathe.ch/fr/films-evenements/les-tuche-god-save-the-tuche-42126
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250115T040000Z
 DTSTART:20250115T040000Z
-SUMMARY:Rafadan Tayfa: Kapadokya
-UID:2c82db88-9777-4af1-a6ef-574a4734afe0@2c82.org
-URL:https://www.pathe.ch/fr/films-evenements/rafadan-tayfa-kapadokya-43285
+SUMMARY:Bad Habits
+UID:e1024a7f-ef45-43c8-9b92-2018898f8bf2@e102.org
+URL:https://www.pathe.ch/fr/films-evenements/bad-habits-43420
 END:VEVENT
 END:VCALENDAR
