@@ -38,9 +38,6 @@ jobs:
       - name: Update FR calendar (FR site)
         run: ./pathe_upcoming_movies.py --country FR --language FR --output ./calendars/PatheUpcomingMovies_FR_FR.ics
 
-      - name: Update DE calendar (FR site)
-        run: ./pathe_upcoming_movies.py --country FR --language DE --output ./calendars/PatheUpcomingMovies_DE_FR.ics
-
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
