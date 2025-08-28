@@ -24,13 +24,22 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Update EN calendar
-        run: ./pathe_upcoming_movies.py --language EN --output ./calendars/PatheUpcomingMovies_EN.ics
+        run: ./pathe_upcoming_movies.py --country CH --language EN --output ./calendars/PatheUpcomingMovies_EN.ics
 
       - name: Update FR calendar
-        run: ./pathe_upcoming_movies.py --language FR --output ./calendars/PatheUpcomingMovies_FR.ics
+        run: ./pathe_upcoming_movies.py --country CH --language FR --output ./calendars/PatheUpcomingMovies_FR.ics
 
       - name: Update DE calendar
-        run: ./pathe_upcoming_movies.py --language DE --output ./calendars/PatheUpcomingMovies_DE.ics
+        run: ./pathe_upcoming_movies.py --country CH --language DE --output ./calendars/PatheUpcomingMovies_DE.ics
+
+      - name: Update EN calendar (FR site)
+        run: ./pathe_upcoming_movies.py --country FR --language EN --output ./calendars/PatheUpcomingMovies_EN_FR.ics
+
+      - name: Update FR calendar (FR site)
+        run: ./pathe_upcoming_movies.py --country FR --language FR --output ./calendars/PatheUpcomingMovies_FR_FR.ics
+
+      - name: Update DE calendar (FR site)
+        run: ./pathe_upcoming_movies.py --country FR --language DE --output ./calendars/PatheUpcomingMovies_DE_FR.ics
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
