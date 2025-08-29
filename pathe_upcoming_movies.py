@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
-import datetime
 from argparse import ArgumentParser, ArgumentTypeError
-from datetime import datetime
+from datetime import datetime, time
 from enum import Enum
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import requests
 from ics import Calendar, Event
 
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0"
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0"
+)
 DEFAULT_BEGIN_TIME = "04:00:00"
 DEFAULT_END_TIME = "04:00:00"
 DEFAULT_TIMEZONE = "UTC"
@@ -27,6 +28,7 @@ class Language(Enum):
     def values():
         return [l.value for l in Language]
 
+
 class Country(Enum):
     CH = "ch"
     FR = "fr"
@@ -39,27 +41,33 @@ class Country(Enum):
     def values():
         return [c.value for c in Country]
 
-def get_shows(country: Country,language: Language):
-    result = requests.get(f"https://www.pathe.{country.value}/api/shows", params={
-        "language": language.value
-    }, headers={
-        "User-Agent": USER_AGENT,
-        "Accept": "application/json"
-    })
+
+def get_shows(country: Country, language: Language):
+    result = requests.get(
+        f"https://www.pathe.{country.value}/api/shows",
+        params={"language": language.value},
+        headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
+    )
     return result.json()["shows"]
 
 
 def get_show(country: Country, slug: str, language: Language):
-    result = requests.get(f"https://www.pathe.{country.value}/api/show/{slug}", params={
-        "language": language.value
-    }, headers={
-        "User-Agent": USER_AGENT,
-        "Accept": "application/json"
-    })
+    result = requests.get(
+        f"https://www.pathe.{country.value}/api/show/{slug}",
+        params={"language": language.value},
+        headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
+    )
     return result.json()
 
 
-def create_event(show, country: Country, language: Language, begin_time: datetime.time, end_time: datetime.time, timezone: ZoneInfo):
+def create_event(
+    show,
+    country: Country,
+    language: Language,
+    begin_time: time,
+    end_time: time,
+    timezone: ZoneInfo,
+):
     slug = show["slug"]
 
     # Release date key format: CH_FR, FR_FR, etc.
@@ -96,21 +104,49 @@ def validate_timezone(timezone):
         raise ArgumentTypeError(f"invalid timezone: '{timezone}'")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     args_parser = ArgumentParser()
-    args_parser.add_argument("-c", "--country", help="Country code (CH or FR)", choices=Country.names(), required=True)
-    args_parser.add_argument("-l", "--language", help="Language of movie's information", choices=Language.names(),
-                             required=True)
-    args_parser.add_argument("-o", "--output", help="Path to write the calendar", required=True)
-    args_parser.add_argument("-bt", "--begin-time", type=validate_time,
-                             help=f"Begin time for each event. Default: {DEFAULT_BEGIN_TIME}", required=False,
-                             default=DEFAULT_BEGIN_TIME)
-    args_parser.add_argument("-et", "--end-time", type=validate_time,
-                             help=f"End time for each event. Default: {DEFAULT_END_TIME}", required=False,
-                             default=DEFAULT_END_TIME)
-    args_parser.add_argument("-t", "--timezone", type=validate_timezone,
-                             help=f"Timezone for each event. Default: {DEFAULT_TIMEZONE}", required=False,
-                             default=DEFAULT_TIMEZONE)
+    args_parser.add_argument(
+        "-c",
+        "--country",
+        help="Country code (CH or FR)",
+        choices=Country.names(),
+        required=True,
+    )
+    args_parser.add_argument(
+        "-l",
+        "--language",
+        help="Language of movie's information",
+        choices=Language.names(),
+        required=True,
+    )
+    args_parser.add_argument(
+        "-o", "--output", help="Path to write the calendar", required=True
+    )
+    args_parser.add_argument(
+        "-bt",
+        "--begin-time",
+        type=validate_time,
+        help=f"Begin time for each event. Default: {DEFAULT_BEGIN_TIME}",
+        required=False,
+        default=DEFAULT_BEGIN_TIME,
+    )
+    args_parser.add_argument(
+        "-et",
+        "--end-time",
+        type=validate_time,
+        help=f"End time for each event. Default: {DEFAULT_END_TIME}",
+        required=False,
+        default=DEFAULT_END_TIME,
+    )
+    args_parser.add_argument(
+        "-t",
+        "--timezone",
+        type=validate_timezone,
+        help=f"Timezone for each event. Default: {DEFAULT_TIMEZONE}",
+        required=False,
+        default=DEFAULT_TIMEZONE,
+    )
     args = vars(args_parser.parse_args())
 
     country = Country[args["country"]]

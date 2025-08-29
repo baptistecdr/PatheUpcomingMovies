@@ -1,0 +1,17 @@
+name: Lint Code
+on:
+  - pull_request
+  - push
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v5
+
+      - name: Lint code
+        uses: psf/black@stable
+        with:
+          options: --check
+          src: .

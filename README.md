@@ -26,3 +26,16 @@ Or subscribe to one of the three calendars available for France (FR):
 source setup.sh
 python3 pathe_upcoming_movies.py --help
 ```
+
+## Dev
+
+[black](https://github.com/psf/black) is necessary to format the code.
+
+```bash
+source setup.sh
+black .
+```
+
+## Contributing
+
+* Contributions are welcome!
