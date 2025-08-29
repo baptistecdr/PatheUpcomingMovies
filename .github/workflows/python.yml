@@ -18,7 +18,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.13.7'
-          cache: 'pip'
+          cache: pip
 
       - name: Install requirements
         run: pip install -r requirements.txt
@@ -43,6 +43,6 @@ jobs:
         with:
           fetch: true
           default_author: github_actions
-          message: Update EN, FR and DE calendars
+          message: Update calendars
           pathspec_error_handling: exitImmediately
           push: true
