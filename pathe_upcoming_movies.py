@@ -120,6 +120,12 @@ if __name__ == '__main__':
     end_time = args["end_time"]
     timezone = args["timezone"]
 
+    if country == Country.FR and language == Language.DE:
+        raise ArgumentTypeError("German language is not supported for country FR")
+
+    if begin_time >= end_time:
+        raise ArgumentTypeError("begin-time must be earlier than end-time")
+
     calendar = Calendar()
     shows = get_shows(country, language)
     for show in shows:

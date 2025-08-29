@@ -19,8 +19,6 @@ Or subscribe to one of the three calendars available for France (FR):
   * Movie's details in English
 * [PatheUpcomingMovies_FR.ics](https://raw.githubusercontent.com/baptistecdr/PatheUpcomingMovies/main/calendars/PatheUpcomingMovies_FR_FR.ics)
   * Movie's details in French
-* [PatheUpcomingMovies_DE.ics](https://raw.githubusercontent.com/baptistecdr/PatheUpcomingMovies/main/calendars/PatheUpcomingMovies_DE_FR.ics)
-  * Movie's details in Deutsch
 
 ## Run
 
