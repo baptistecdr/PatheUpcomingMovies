@@ -123,7 +123,7 @@ if __name__ == '__main__':
     if country == Country.FR and language == Language.DE:
         raise ArgumentTypeError("German language is not supported for country FR")
 
-    if begin_time >= end_time:
+    if begin_time > end_time:
         raise ArgumentTypeError("begin-time must be earlier than end-time")
 
     calendar = Calendar()
