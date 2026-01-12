@@ -8,7 +8,7 @@ import requests
 from ics import Calendar, Event
 
 USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0"
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0"
 )
 DEFAULT_BEGIN_TIME = "04:00:00"
 DEFAULT_END_TIME = "04:00:00"
