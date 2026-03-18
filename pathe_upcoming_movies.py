@@ -5,7 +5,7 @@ from enum import Enum
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import requests
-from ics import Calendar, Event
+from icalendar import Calendar, Event
 
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
@@ -75,10 +75,10 @@ def create_event(
     release_at = datetime.strptime(show["releaseAt"][release_key], "%Y-%m-%d").date()
 
     event = Event()
-    event.name = show["title"]
-    event.description = show["synopsis"]
-    event.begin = datetime.combine(release_at, begin_time, timezone)
-    event.end = datetime.combine(release_at, end_time, timezone)
+    event["name"] = show["title"]
+    event["description"] = show["synopsis"]
+    event["begin"] = datetime.combine(release_at, begin_time, timezone)
+    event["end"] = datetime.combine(release_at, end_time, timezone)
 
     # URL pattern varies by country + language
     if language == Language.EN:
@@ -168,7 +168,7 @@ if __name__ == "__main__":
         slug = show["slug"]
         show = get_show(country, slug, language)
         event = create_event(show, country, language, begin_time, end_time, timezone)
-        calendar.events.add(event)
+        calendar.add_component(event)
 
     with open(output, "w") as f:
-        f.write(calendar.serialize())
+        f.write(calendar.to_ical().decode("utf-8").replace("\r\n", "\n").strip())
