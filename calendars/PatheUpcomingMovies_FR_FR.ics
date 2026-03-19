@@ -291,6 +291,20 @@ NAME:LOL 2.0
 URL:https://www.pathe.fr/fr/films-evenements/lol-2-0-48642
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-02-11 04:00:00+00:00
+DESCRIPTION:Will est un petit bouc avec de grands rêves. Lorsqu'il décro
+ che une chance inespérée de rejoindre la ligue professionnelle de "roarb
+ all" - un sport mixte\, ultra-intense\, réservé aux bêtes les plus rapi
+ des et les féroces du règne animal - il entend bien saisir sa chance. Pr
+ oblème : ses nouveaux coéquipiers ne sont pas franchement ravis d'avoir 
+ un "petit" dans l'équipe. Mais Will est prêt à tout pour bousculer les 
+ règles du jeu et prouver\, une bonne fois pour toutes\, que les petits au
+ ssi peuvent jouer dans la cour des grands.
+END:2026-02-11 04:00:00+00:00
+NAME:Goat - rêver plus haut
+URL:https://www.pathe.fr/fr/films-evenements/goat-rever-plus-haut-40225
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-03-11 04:00:00+00:00
 DESCRIPTION:Scarlet\, une princesse médiévale experte en combat à l'ép
  ée se lance dans une périlleuse quête pour venger la mort de son père.
@@ -304,20 +318,6 @@ DESCRIPTION:Scarlet\, une princesse médiévale experte en combat à l'ép
 END:2026-03-11 04:00:00+00:00
 NAME:Scarlet et l'éternité
 URL:https://www.pathe.fr/fr/films-evenements/scarlet-et-l-eternite-48054
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:Will est un petit bouc avec de grands rêves. Lorsqu'il décro
- che une chance inespérée de rejoindre la ligue professionnelle de "roarb
- all" - un sport mixte\, ultra-intense\, réservé aux bêtes les plus rapi
- des et les féroces du règne animal - il entend bien saisir sa chance. Pr
- oblème : ses nouveaux coéquipiers ne sont pas franchement ravis d'avoir 
- un "petit" dans l'équipe. Mais Will est prêt à tout pour bousculer les 
- règles du jeu et prouver\, une bonne fois pour toutes\, que les petits au
- ssi peuvent jouer dans la cour des grands.
-END:2026-02-11 04:00:00+00:00
-NAME:Goat - rêver plus haut
-URL:https://www.pathe.fr/fr/films-evenements/goat-rever-plus-haut-40225
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-18 04:00:00+00:00
@@ -372,19 +372,12 @@ URL:https://www.pathe.fr/fr/films-evenements/une-bataille-apres-l-autre-47
  572
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-04 04:00:00+00:00
-DESCRIPTION:Rongé par la solitude\, Frankenstein (Christian Bale) se rend
-  à Chicago dans les années 1930 et demande au Dr. Euphronious (Annette B
- ening\, cinq fois nommée à l’Oscar)\, scientifique visionnaire\, de lu
- i créer une compagne. Ensemble\, ils ressuscitent une jeune femme assassi
- née\, et la fiancée prend vie (Jessie Buckley) ! Mais la suite des évé
- nements dépasse tout ce que qu’ils auraient pu imaginer : meurtres\, po
- ssessions\, et un couple hors-la-loi qui se retrouve au centre d’un mouv
- ement social radical et débridé\, et d’une histoire d’amour passionn
- elle et tumultueuse !
-END:2026-03-04 04:00:00+00:00
-NAME:The Bride !
-URL:https://www.pathe.fr/fr/films-evenements/the-bride-38557
+BEGIN:2026-02-11 04:00:00+00:00
+DESCRIPTION:Vision moderne de la passion absolue unissant Heathcliff et Ca
+ therine\, une romance légendaire qui défie le temps et la raison.
+END:2026-02-11 04:00:00+00:00
+NAME:"Hurlevent"
+URL:https://www.pathe.fr/fr/films-evenements/hurlevent-43762
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-01-28 04:00:00+00:00
@@ -398,12 +391,19 @@ NAME:Nuremberg
 URL:https://www.pathe.fr/fr/films-evenements/nuremberg-50707
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:Vision moderne de la passion absolue unissant Heathcliff et Ca
- therine\, une romance légendaire qui défie le temps et la raison.
-END:2026-02-11 04:00:00+00:00
-NAME:"Hurlevent"
-URL:https://www.pathe.fr/fr/films-evenements/hurlevent-43762
+BEGIN:2026-03-04 04:00:00+00:00
+DESCRIPTION:Rongé par la solitude\, Frankenstein (Christian Bale) se rend
+  à Chicago dans les années 1930 et demande au Dr. Euphronious (Annette B
+ ening\, cinq fois nommée à l’Oscar)\, scientifique visionnaire\, de lu
+ i créer une compagne. Ensemble\, ils ressuscitent une jeune femme assassi
+ née\, et la fiancée prend vie (Jessie Buckley) ! Mais la suite des évé
+ nements dépasse tout ce que qu’ils auraient pu imaginer : meurtres\, po
+ ssessions\, et un couple hors-la-loi qui se retrouve au centre d’un mouv
+ ement social radical et débridé\, et d’une histoire d’amour passionn
+ elle et tumultueuse !
+END:2026-03-04 04:00:00+00:00
+NAME:The Bride !
+URL:https://www.pathe.fr/fr/films-evenements/the-bride-38557
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-25 04:00:00+00:00
@@ -469,21 +469,6 @@ NAME:Allah n'est pas obligé
 URL:https://www.pathe.fr/fr/films-evenements/allah-n-est-pas-oblige-48413
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2025-12-24 04:00:00+00:00
-DESCRIPTION:En quête d’un nouveau départ\, Millie (Sydney Sweeney) acc
- epte un poste de femme de ménage à demeure chez Nina (Amand Seyfried) et
-  Andrew Winchester (Brandon Sklenar)\, un couple aussi riche qu’énigmat
- ique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement 
- en un jeu dangereux\, mêlant séduction\, secrets et manipulations.<br/><
- br/>Derrière les portes closes du manoir Winchester se cache un monde de 
- faux-semblants et de révélations inattendues… Un tourbillon de suspens
- e et de scandales qui vous tiendra en haleine jusqu’à la dernière seco
- nde.
-END:2025-12-24 04:00:00+00:00
-NAME:La femme de ménage
-URL:https://www.pathe.fr/fr/films-evenements/la-femme-de-menage-44364
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-03-11 04:00:00+00:00
 DESCRIPTION:La fascinante et incroyable histoire vraie d’Ann Lee\, fonda
  trice du culte religieux connu sous le nom de Shakers. Cette prophétesse 
@@ -518,6 +503,21 @@ DESCRIPTION:Dans cette nouvelle aventure signée des Studios d’animation
 END:2025-11-26 04:00:00+00:00
 NAME:Zootopie 2
 URL:https://www.pathe.fr/fr/films-evenements/zootopie-2-38256
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2025-12-24 04:00:00+00:00
+DESCRIPTION:En quête d’un nouveau départ\, Millie (Sydney Sweeney) acc
+ epte un poste de femme de ménage à demeure chez Nina (Amand Seyfried) et
+  Andrew Winchester (Brandon Sklenar)\, un couple aussi riche qu’énigmat
+ ique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement 
+ en un jeu dangereux\, mêlant séduction\, secrets et manipulations.<br/><
+ br/>Derrière les portes closes du manoir Winchester se cache un monde de 
+ faux-semblants et de révélations inattendues… Un tourbillon de suspens
+ e et de scandales qui vous tiendra en haleine jusqu’à la dernière seco
+ nde.
+END:2025-12-24 04:00:00+00:00
+NAME:La femme de ménage
+URL:https://www.pathe.fr/fr/films-evenements/la-femme-de-menage-44364
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-04 04:00:00+00:00
@@ -556,18 +556,6 @@ NAME:Le chant des forêts
 URL:https://www.pathe.fr/fr/films-evenements/le-chant-des-forets-47568
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:Cadre dans une usine de papier You Man-su est un homme heureux
- \, il aime sa femme\, ses enfants\, ses chiens\, sa maison.<br/>Lorsqu’i
- l est licencié\, sa vie bascule\, il ne supporte pas l’idée de perdre 
- son statut social et la vie qui va avec.<br/>Pour retrouver son bonheur pe
- rdu\, il n’ a aucun autre choix que d’éliminer tous ses concurrents
- …
-END:2026-02-11 04:00:00+00:00
-NAME:Aucun autre choix
-URL:https://www.pathe.fr/fr/films-evenements/aucun-autre-choix-49094
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-01-21 04:00:00+00:00
 DESCRIPTION:Angleterre\, 1580. Un professeur de latin fauché fait la conn
  aissance d’Agnes\, jeune femme à l’esprit libre. Fascinés l’un par
@@ -580,6 +568,18 @@ DESCRIPTION:Angleterre\, 1580. Un professeur de latin fauché fait la conn
 END:2026-01-21 04:00:00+00:00
 NAME:Hamnet
 URL:https://www.pathe.fr/fr/films-evenements/hamnet-48029
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-02-11 04:00:00+00:00
+DESCRIPTION:Cadre dans une usine de papier You Man-su est un homme heureux
+ \, il aime sa femme\, ses enfants\, ses chiens\, sa maison.<br/>Lorsqu’i
+ l est licencié\, sa vie bascule\, il ne supporte pas l’idée de perdre 
+ son statut social et la vie qui va avec.<br/>Pour retrouver son bonheur pe
+ rdu\, il n’ a aucun autre choix que d’éliminer tous ses concurrents
+ …
+END:2026-02-11 04:00:00+00:00
+NAME:Aucun autre choix
+URL:https://www.pathe.fr/fr/films-evenements/aucun-autre-choix-49094
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-11 04:00:00+00:00
@@ -607,16 +607,15 @@ URL:https://www.pathe.fr/fr/films-evenements/le-mysterieux-regard-du-flama
  nt-rose-48207
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:1992-04-15 04:00:00+00:00
-DESCRIPTION:Coulant des jours paisibles et délicieusement macabres dans l
- eur manoir hanté\, Gomez\, Morticia et leurs enfants Mercredi et Pugsley 
- voient leur quotidien chamboulé le jour où se présente à leur porte un
-  homme ressemblant trait pour trait à l’oncle Fétide\, disparu 25 ans 
- plus tôt. Mais ne s’agirait-il pas d’un imposteur cherchant à faire 
- main basse sur leur trésor caché ?
-END:1992-04-15 04:00:00+00:00
-NAME:La Famille Addams
-URL:https://www.pathe.fr/fr/films-evenements/la-famille-addams-11675
+BEGIN:2026-03-18 04:00:00+00:00
+DESCRIPTION:Praveen\, âgé de 15 ans\, entre dans l’adolescence avec la
+  ferme intention de trouver le véritable amour avant la fin de ses année
+ s scolaires.<br/><br/>À travers différentes relations et des peines de c
+ œur\, il découvre la véritable signification de l’amour\, une expéri
+ ence qui façonne progressivement sa maturité et sa vision de la vie.
+END:2026-03-18 04:00:00+00:00
+NAME:Youth (Version Tamoul)
+URL:https://www.pathe.fr/fr/films-evenements/youth-version-tamoul-51876
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-18 04:00:00+00:00
@@ -655,6 +654,18 @@ NAME:La danse des renards
 URL:https://www.pathe.fr/fr/films-evenements/la-danse-des-renards-48320
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:1992-04-15 04:00:00+00:00
+DESCRIPTION:Coulant des jours paisibles et délicieusement macabres dans l
+ eur manoir hanté\, Gomez\, Morticia et leurs enfants Mercredi et Pugsley 
+ voient leur quotidien chamboulé le jour où se présente à leur porte un
+  homme ressemblant trait pour trait à l’oncle Fétide\, disparu 25 ans 
+ plus tôt. Mais ne s’agirait-il pas d’un imposteur cherchant à faire 
+ main basse sur leur trésor caché ?
+END:1992-04-15 04:00:00+00:00
+NAME:La Famille Addams
+URL:https://www.pathe.fr/fr/films-evenements/la-famille-addams-11675
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2025-07-02 04:00:00+00:00
 DESCRIPTION:La vie dans le Serengeti n'a jamais été aussi intense. Il ab
  rite la plupart des animaux connus d'Afrique et l'un des plus grands évé
@@ -668,15 +679,15 @@ URL:https://www.pathe.fr/fr/films-evenements/serengeti-voyage-au-coeur-de-
  l-afrique-48591
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-18 04:00:00+00:00
-DESCRIPTION:Praveen\, âgé de 15 ans\, entre dans l’adolescence avec la
-  ferme intention de trouver le véritable amour avant la fin de ses année
- s scolaires.<br/><br/>À travers différentes relations et des peines de c
- œur\, il découvre la véritable signification de l’amour\, une expéri
- ence qui façonne progressivement sa maturité et sa vision de la vie.
-END:2026-03-18 04:00:00+00:00
-NAME:Youth (Version Tamoul)
-URL:https://www.pathe.fr/fr/films-evenements/youth-version-tamoul-51876
+BEGIN:2025-04-16 04:00:00+00:00
+DESCRIPTION:Deux jumeaux\, Elijah et Elias\, reviennent dans leur ville na
+ tale et essaient de laisser leur passé trouble derrière eux. Mais ils d
+ écouvrent alors qu'une menace encore plus grande les y attend.<br/><br/>
+ « À force de danser avec le diable\, un beau jour\, il viendra te cherch
+ er chez toi. »
+END:2025-04-16 04:00:00+00:00
+NAME:Sinners
+URL:https://www.pathe.fr/fr/films-evenements/sinners-42588
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-18 04:00:00+00:00
@@ -701,19 +712,6 @@ DESCRIPTION:De 1948 à nos jours\, trois générations d’une famille pal
 END:2026-03-11 04:00:00+00:00
 NAME:Ce qu'il reste de nous
 URL:https://www.pathe.fr/fr/films-evenements/ce-qu-il-reste-de-nous-49711
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-25 04:00:00+00:00
-DESCRIPTION:1949. George Orwell termine ce qui sera son dernier mais plus 
- important roman\, 1984.<br/><br/>ORWELL : 2+2=5 plonge dans les derniers m
- ois de la vie d’Orwell et dans son œuvre visionnaire pour explorer les 
- racines des concepts troublants qu'il a révélés au monde dans son chef-
- d'œuvre dystopique : le double discours\, le crime par la pensée\, la no
- vlangue\, le spectre omniprésent de Big Brother... des vérités sociopol
- itiques qui résonnent encore plus puissamment aujourd'hui.
-END:2026-02-25 04:00:00+00:00
-NAME:Orwell : 2+2=5
-URL:https://www.pathe.fr/fr/films-evenements/orwell-2-2-5-48396
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2025-12-31 04:00:00+00:00
@@ -841,6 +839,19 @@ END:2026-02-04 04:00:00+00:00
 NAME:Jane Goodall : Une vie extraordinaire
 URL:https://www.pathe.fr/fr/films-evenements/jane-goodall-une-vie-extraord
  inaire-51162
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:1987-01-21 04:00:00+00:00
+DESCRIPTION:Seth Brundle est un jeune biologiste très doué. Après avoir
+  fait ses premières armes dans une brillante équipe\, il se décide à t
+ ravailler seul. Il met au point une invention qui doit révolutionner le m
+ onde : la "téléportation"\, qui consiste à transporter la matière à t
+ ravers l'espace. Les essais sur un babouin sont peu convaincants et après
+  des fuites dans la presse\, il décide de se téléporter lui-même. Seul
+ ement il ne s'aperçoit pas qu'une mouche fait partie du voyage.
+END:1987-01-21 04:00:00+00:00
+NAME:La Mouche
+URL:https://www.pathe.fr/fr/films-evenements/la-mouche-29513
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-19 04:00:00+00:00
@@ -1202,17 +1213,6 @@ NAME:Suzume
 URL:https://www.pathe.fr/fr/films-evenements/suzume-20083
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2025-04-16 04:00:00+00:00
-DESCRIPTION:Deux jumeaux\, Elijah et Elias\, reviennent dans leur ville na
- tale et essaient de laisser leur passé trouble derrière eux. Mais ils d
- écouvrent alors qu'une menace encore plus grande les y attend.<br/><br/>
- « À force de danser avec le diable\, un beau jour\, il viendra te cherch
- er chez toi. »
-END:2025-04-16 04:00:00+00:00
-NAME:Sinners
-URL:https://www.pathe.fr/fr/films-evenements/sinners-42588
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2019-11-13 04:00:00+00:00
 DESCRIPTION:Basé sur une histoire vraie\, le film suit une équipe d'exce
  ntriques ingénieurs américains menés par le visionnaire Carroll Shelby
@@ -1571,6 +1571,19 @@ DESCRIPTION:Dans les montagnes de Géorgie\, un téléphérique relie un v
 END:2024-07-24 04:00:00+00:00
 NAME:Gondola
 URL:https://www.pathe.fr/fr/films-evenements/gondola-38244
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-02-25 04:00:00+00:00
+DESCRIPTION:1949. George Orwell termine ce qui sera son dernier mais plus 
+ important roman\, 1984.<br/><br/>ORWELL : 2+2=5 plonge dans les derniers m
+ ois de la vie d’Orwell et dans son œuvre visionnaire pour explorer les 
+ racines des concepts troublants qu'il a révélés au monde dans son chef-
+ d'œuvre dystopique : le double discours\, le crime par la pensée\, la no
+ vlangue\, le spectre omniprésent de Big Brother... des vérités sociopol
+ itiques qui résonnent encore plus puissamment aujourd'hui.
+END:2026-02-25 04:00:00+00:00
+NAME:Orwell : 2+2=5
+URL:https://www.pathe.fr/fr/films-evenements/orwell-2-2-5-48396
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2025-12-24 04:00:00+00:00
@@ -4356,19 +4369,6 @@ END:2008-08-06 04:00:00+00:00
 NAME:La Momie : la Tombe de l'Empereur Dragon
 URL:https://www.pathe.fr/fr/films-evenements/la-momie-la-tombe-de-l-empere
  ur-dragon-39090
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:1987-01-21 04:00:00+00:00
-DESCRIPTION:Seth Brundle est un jeune biologiste très doué. Après avoir
-  fait ses premières armes dans une brillante équipe\, il se décide à t
- ravailler seul. Il met au point une invention qui doit révolutionner le m
- onde : la "téléportation"\, qui consiste à transporter la matière à t
- ravers l'espace. Les essais sur un babouin sont peu convaincants et après
-  des fuites dans la presse\, il décide de se téléporter lui-même. Seul
- ement il ne s'aperçoit pas qu'une mouche fait partie du voyage.
-END:1987-01-21 04:00:00+00:00
-NAME:La Mouche
-URL:https://www.pathe.fr/fr/films-evenements/la-mouche-29513
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-15 04:00:00+00:00
