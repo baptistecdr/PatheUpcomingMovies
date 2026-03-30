@@ -70,6 +70,15 @@ NAME:Marty Supreme
 URL:https://www.pathe.ch/en/movies-events/marty-supreme-48998
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-02-11 04:00:00+00:00
+DESCRIPTION:A passionate and tumultuous love story set against the backdro
+ p of the Yorkshire moors\, exploring the intense and destructive relations
+ hip between Heathcliff and Catherine Earnshaw.
+END:2026-02-11 04:00:00+00:00
+NAME:Wuthering Heights
+URL:https://www.pathe.ch/en/movies-events/wuthering-heights-43745
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-03-25 04:00:00+00:00
 DESCRIPTION:Becket Redfellow sets out to reclaim the $28B family fortune h
  is mother was denied. To pull off his ambitious scheme\, he must kill the 
@@ -96,13 +105,12 @@ NAME:The Housemaid
 URL:https://www.pathe.ch/en/movies-events/the-housemaid-43687
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:A passionate and tumultuous love story set against the backdro
- p of the Yorkshire moors\, exploring the intense and destructive relations
- hip between Heathcliff and Catherine Earnshaw.
-END:2026-02-11 04:00:00+00:00
-NAME:Wuthering Heights
-URL:https://www.pathe.ch/en/movies-events/wuthering-heights-43745
+BEGIN:2026-02-04 04:00:00+00:00
+DESCRIPTION:David is tasked to deliver a mysterious package from South Ame
+ rica\, only to find out he is carrying a baby Marsupilami!.<br/><br/>
+END:2026-02-04 04:00:00+00:00
+NAME:Marsupilami
+URL:https://www.pathe.ch/en/movies-events/marsupilami-38851
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-18 04:00:00+00:00
@@ -113,14 +121,6 @@ DESCRIPTION:The fates of Jean and Corinne Luchaire\, a father and daughter
 END:2026-03-18 04:00:00+00:00
 NAME:Les rayons et les ombres
 URL:https://www.pathe.ch/en/movies-events/les-rayons-et-les-ombres-51657
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-04 04:00:00+00:00
-DESCRIPTION:David is tasked to deliver a mysterious package from South Ame
- rica\, only to find out he is carrying a baby Marsupilami!.<br/><br/>
-END:2026-02-04 04:00:00+00:00
-NAME:Marsupilami
-URL:https://www.pathe.ch/en/movies-events/marsupilami-38851
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-11 04:00:00+00:00
@@ -137,41 +137,6 @@ DESCRIPTION:Misanthropic novelist François writes gripping crime stories
 END:2026-03-11 04:00:00+00:00
 NAME:Murder in the Building
 URL:https://www.pathe.ch/en/movies-events/murder-in-the-building-50386
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-18 04:00:00+00:00
-DESCRIPTION:A renowned Croatian businessman learns on his birthday that he
-  is about to go bankrupt. His family enters his office with a birthday cak
- e and a local ethno band. At the same time his daughter\, a student in Lon
- don\, calls him and announces with a congratulatory message that she is pr
- egnant. The child's father is the son of a Serbian minister. In the style 
- of a full-blooded anti-rom-com\, interweaving humor\, warmth and tension\,
-  "The Wedding" follows the story of two families whose relationship is con
- stantly dancing between a warm family story and an international incident.
-END:2026-02-18 04:00:00+00:00
-NAME:Svadba
-URL:https://www.pathe.ch/en/movies-events/svadba-51281
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-18 04:00:00+00:00
-DESCRIPTION:Tommaso raised four daughters on his own\, transforming his li
- fe into a chaotic but solid family routine and becoming a full-time father
-  and a man with no time for himself. When the girls decide it's time for t
- heir father to get back in the game\, Tommaso meets Lara\, a brilliant and
-  charming woman. An unexpected encounter that could change everything... e
- xcept that both of them are hiding something decidedly burdensome.<br/>
-END:2026-03-18 04:00:00+00:00
-NAME:A Beautiful Day
-URL:https://www.pathe.ch/en/movies-events/a-beautiful-day-50960
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:The story is about Daneli and Heidi\, who unexpectedly meet ag
- ain 30 years after their separation and are given the chance to change the
- ir past.
-END:2026-02-11 04:00:00+00:00
-NAME:Ewigi Liebi
-URL:https://www.pathe.ch/en/movies-events/ewigi-liebi-43688
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-18 04:00:00+00:00
@@ -202,6 +167,18 @@ NAME:Victor comme tout le monde
 URL:https://www.pathe.ch/en/movies-events/victor-comme-tout-le-monde-50987
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-03-18 04:00:00+00:00
+DESCRIPTION:Tommaso raised four daughters on his own\, transforming his li
+ fe into a chaotic but solid family routine and becoming a full-time father
+  and a man with no time for himself. When the girls decide it's time for t
+ heir father to get back in the game\, Tommaso meets Lara\, a brilliant and
+  charming woman. An unexpected encounter that could change everything... e
+ xcept that both of them are hiding something decidedly burdensome.<br/>
+END:2026-03-18 04:00:00+00:00
+NAME:A Beautiful Day
+URL:https://www.pathe.ch/en/movies-events/a-beautiful-day-50960
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2025-12-17 04:00:00+00:00
 DESCRIPTION:Jake and Neytiri's family grapples with grief after Neteyam's 
  death\, encountering a new\, aggressive Na'vi tribe\, the Ash People\, who
@@ -210,6 +187,29 @@ DESCRIPTION:Jake and Neytiri's family grapples with grief after Neteyam's
 END:2025-12-17 04:00:00+00:00
 NAME:Avatar: Fire and Ash
 URL:https://www.pathe.ch/en/movies-events/avatar-fire-and-ash-43651
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-02-11 04:00:00+00:00
+DESCRIPTION:The story is about Daneli and Heidi\, who unexpectedly meet ag
+ ain 30 years after their separation and are given the chance to change the
+ ir past.
+END:2026-02-11 04:00:00+00:00
+NAME:Ewigi Liebi
+URL:https://www.pathe.ch/en/movies-events/ewigi-liebi-43688
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-02-18 04:00:00+00:00
+DESCRIPTION:A renowned Croatian businessman learns on his birthday that he
+  is about to go bankrupt. His family enters his office with a birthday cak
+ e and a local ethno band. At the same time his daughter\, a student in Lon
+ don\, calls him and announces with a congratulatory message that she is pr
+ egnant. The child's father is the son of a Serbian minister. In the style 
+ of a full-blooded anti-rom-com\, interweaving humor\, warmth and tension\,
+  "The Wedding" follows the story of two families whose relationship is con
+ stantly dancing between a warm family story and an international incident.
+END:2026-02-18 04:00:00+00:00
+NAME:Svadba
+URL:https://www.pathe.ch/en/movies-events/svadba-51281
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-25 04:00:00+00:00
@@ -255,31 +255,16 @@ NAME:Les K d'Or
 URL:https://www.pathe.ch/en/movies-events/les-k-d-or-50567
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-26 04:00:00+00:00
-DESCRIPTION:30 Jahre nach den Ereignissen des ersten Films fördert ein ne
- uer Blade Runner\, der LAPD Polizeibeamte K (Ryan Gosling)\, ein lange unt
- er Verschluss gehaltenes Geheimnis zu Tage\, welches das Potential hat\, d
- ie noch vorhandenen gesellschaftlichen Strukturen in Chaos zu stürzen. Di
- e Entdeckungen von K führen ihn auf die Suche nach Rick Deckard (Harrison
-  Ford)\, einem seit 30 Jahren verschwundenen\, ehemaligen LAPD Blade Runne
- r.
-END:2026-03-26 04:00:00+00:00
-NAME:Blade Runner 2049
-URL:https://www.pathe.ch/en/movies-events/blade-runner-2049-45426
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-26 04:00:00+00:00
-DESCRIPTION:Alain Souchon revisits his repertoire alongside his sons\, Our
- s and Pierre Souchon. Iconic songs\, hidden treasures\, and family bond se
- t the rhythm of this intimate musical journey\, filled with tenderness\, n
- ostalgia\, and a sense of togetherness.<br/><br/>A six-handed creation tha
- t offers a fresh perspective on a timeless body of work and one of the mos
- t unique and poetic voices of French "chanson\," to be discovered on the b
- ig screen.
-END:2026-03-26 04:00:00+00:00
-NAME:Alain Souchon - Le Concert au Cinéma
-URL:https://www.pathe.ch/en/movies-events/alain-souchon-le-concert-au-cine
- ma-51298
+BEGIN:2026-02-25 04:00:00+00:00
+DESCRIPTION:Maria Angeles is a 74-year-old woman who belongs to the Spanis
+ h community of Tangier and enjoys the quietness of her life in the colorfu
+ l Moroccan costal town. When her daughter decides to sell her home\, she i
+ s forced out against her will. She sets off to reclaim her home and furnit
+ ure\, which have been sold to a vintage dealer. Through this encounter\, s
+ he unexpectedly rediscovers the possibility of love and sensuality.
+END:2026-02-25 04:00:00+00:00
+NAME:Calle Malaga
+URL:https://www.pathe.ch/en/movies-events/calle-malaga-49225
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-11 04:00:00+00:00
@@ -359,26 +344,6 @@ DESCRIPTION:A bank robber released from jail must unlock his traumatised b
 END:2026-03-25 04:00:00+00:00
 NAME:The Last Viking
 URL:https://www.pathe.ch/en/movies-events/the-last-viking-51155
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-04 04:00:00+00:00
-DESCRIPTION:A bald man's life unravels when his new neighbor moves in-an e
- xact double of himself\, but with a full head of hair.
-END:2026-03-04 04:00:00+00:00
-NAME:Alter Ego
-URL:https://www.pathe.ch/en/movies-events/alter-ego-50963
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-25 04:00:00+00:00
-DESCRIPTION:Maria Angeles is a 74-year-old woman who belongs to the Spanis
- h community of Tangier and enjoys the quietness of her life in the colorfu
- l Moroccan costal town. When her daughter decides to sell her home\, she i
- s forced out against her will. She sets off to reclaim her home and furnit
- ure\, which have been sold to a vintage dealer. Through this encounter\, s
- he unexpectedly rediscovers the possibility of love and sensuality.
-END:2026-02-25 04:00:00+00:00
-NAME:Calle Malaga
-URL:https://www.pathe.ch/en/movies-events/calle-malaga-49225
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-25 04:00:00+00:00
@@ -476,6 +441,17 @@ NAME:My friend Barry
 URL:https://www.pathe.ch/en/movies-events/my-friend-barry-43432
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-01-28 04:00:00+00:00
+DESCRIPTION:The Allies\, led by the unyielding chief prosecutor\, Robert H
+ . Jackson (Michael Shannon)\, have the task of ensuring the Nazi regime an
+ swers for the unveiled horrors of the Holocaust while a US Army psychiatri
+ st (Rami Malek) is locked in a dramatic psychological duel with former Rei
+ chsmarschall Herman Göring (Russell Crowe). 
+END:2026-01-28 04:00:00+00:00
+NAME:Nuremberg
+URL:https://www.pathe.ch/en/movies-events/nuremberg-50863
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2025-09-25 04:00:00+00:00
 DESCRIPTION:When their evil enemy resurfaces after 16 years\, a group of e
  x-revolutionaries reunites to rescue one of their own's daughter.
@@ -493,6 +469,19 @@ NAME:Woodwalkers 2
 URL:https://www.pathe.ch/en/movies-events/woodwalkers-2-47289
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-03-26 04:00:00+00:00
+DESCRIPTION:30 Jahre nach den Ereignissen des ersten Films fördert ein ne
+ uer Blade Runner\, der LAPD Polizeibeamte K (Ryan Gosling)\, ein lange unt
+ er Verschluss gehaltenes Geheimnis zu Tage\, welches das Potential hat\, d
+ ie noch vorhandenen gesellschaftlichen Strukturen in Chaos zu stürzen. Di
+ e Entdeckungen von K führen ihn auf die Suche nach Rick Deckard (Harrison
+  Ford)\, einem seit 30 Jahren verschwundenen\, ehemaligen LAPD Blade Runne
+ r.
+END:2026-03-26 04:00:00+00:00
+NAME:Blade Runner 2049
+URL:https://www.pathe.ch/en/movies-events/blade-runner-2049-45426
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-05-07 04:00:00+00:00
 DESCRIPTION:A secret military project endangers Neo-Tokyo when it turns a 
  teenage biker gang member into a rampaging psychic psychopath who can only
@@ -502,11 +491,33 @@ NAME:Akira
 URL:https://www.pathe.ch/en/movies-events/akira-52017
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-03-26 04:00:00+00:00
+DESCRIPTION:Alain Souchon revisits his repertoire alongside his sons\, Our
+ s and Pierre Souchon. Iconic songs\, hidden treasures\, and family bond se
+ t the rhythm of this intimate musical journey\, filled with tenderness\, n
+ ostalgia\, and a sense of togetherness.<br/><br/>A six-handed creation tha
+ t offers a fresh perspective on a timeless body of work and one of the mos
+ t unique and poetic voices of French "chanson\," to be discovered on the b
+ ig screen.
+END:2026-03-26 04:00:00+00:00
+NAME:Alain Souchon - Le Concert au Cinéma
+URL:https://www.pathe.ch/en/movies-events/alain-souchon-le-concert-au-cine
+ ma-51298
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-07-10 04:00:00+00:00
 DESCRIPTION:None
 END:2026-07-10 04:00:00+00:00
 NAME:Alpha
 URL:https://www.pathe.ch/en/movies-events/alpha-50468
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-03-04 04:00:00+00:00
+DESCRIPTION:A bald man's life unravels when his new neighbor moves in-an e
+ xact double of himself\, but with a full head of hair.
+END:2026-03-04 04:00:00+00:00
+NAME:Alter Ego
+URL:https://www.pathe.ch/en/movies-events/alter-ego-50963
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-06-03 04:00:00+00:00
@@ -542,7 +553,12 @@ URL:https://www.pathe.ch/en/movies-events/athiradi-51925
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-01 04:00:00+00:00
-DESCRIPTION:Plot unknown
+DESCRIPTION:Crossing the world's greatest oceans\, traveling along a river
+ \, or even tumbling from the sky: even the tiniest drop of water can have 
+ great adventures! And along the way\, it might have some strange encounter
+ s… From vacationers playing on the beach to a little girl in a boat\, an
+ d all sorts of creatures stranger than the last\, its journey won't be eas
+ y: one thing's for sure\, it won't get stuck in a jar!
 END:2026-04-01 04:00:00+00:00
 NAME:Au fil de l'eau
 URL:https://www.pathe.ch/en/movies-events/au-fil-de-l-eau-50167
@@ -650,36 +666,22 @@ URL:https://www.pathe.ch/en/movies-events/bts-world-tour-arirang-in-japan-
  live-viewing-51653
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-19 04:00:00+00:00
-DESCRIPTION:In 1980\, following the September 12 military coup in Türkiye
- \, thousands are arrested as the nation descends into fear and political c
- haos. Amid the turmoil\, Abdullah Çatlı\, a young right-wing figure\, is
-  forced to flee abroad. At the same time\, the ASALA terrorist organizatio
- n launches deadly attacks across Europe\, targeting civilians and Turkish 
- diplomats. Desperate to stop the bloodshed\, the military regime secretly 
- tasks Çatlı and his loyal comrades with fighting ASALA in the heart of E
- urope—unofficially\, invisibly\, and without acknowledgment.<br/><br/>Th
- eir covert war quickly turns deadly. Exposed during a critical operation\,
-  Çatlı becomes both hunter and hunted. Betrayed by hidden political forc
- es in France\, he is imprisoned on false charges\, where the battle follow
- s him behind bars. Outside\, his comrades continue the fight\, while his f
- amily is left vulnerable to retaliation. Forced to escape to survive and p
- rotect those he loves\, Çatlı pays a devastating personal price. Gravely
-  wounded\, he returns to his safe house—but not everyone survives.<br/><
- br/>He returns to Türkiye to continue his shadow war… until a mysteriou
- s car crash shocks the nation. His struggle seems to end there—or so the
-  world believes.
-END:2026-03-19 04:00:00+00:00
-NAME:Çatlı
-URL:https://www.pathe.ch/en/movies-events/catli-51314
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-05-06 04:00:00+00:00
 DESCRIPTION:Showcases an trip to the Vatican\, so that a couple can annul 
  a Catholic marriage.
 END:2026-05-06 04:00:00+00:00
 NAME:C'est quoi l'amour?
 URL:https://www.pathe.ch/en/movies-events/c-est-quoi-l-amour-49123
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-01-08 04:00:00+00:00
+DESCRIPTION:Tobi revisits an old childhood riddle: Who leaves the deepest 
+ traces in the earth? His search takes him to places like Madagascar\, Spit
+ sbergen\, and Mexico\, where he uncovers what connects them and finds the 
+ answer he was missing as a child.
+END:2026-01-08 04:00:00+00:00
+NAME:Checker Tobi 3
+URL:https://www.pathe.ch/en/movies-events/checker-tobi-3-48331
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-06 04:00:00+00:00
@@ -700,17 +702,6 @@ DESCRIPTION:Who is that scruffy-looking guy who lives alone in the renovat
 END:2026-05-06 04:00:00+00:00
 NAME:Cinque secondi
 URL:https://www.pathe.ch/en/movies-events/cinque-secondi-51937
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-08-26 04:00:00+00:00
-DESCRIPTION:During a weekend trip with a billionaire’s son\, seasoned mo
- untaineer Ray Cooper and his daughter Sydney are targeted by a gang of kid
- nappers. Ray’s other daughter Naomi\, still haunted by a past climbing a
- ccident\, witnesses the attack and escapes. To save her family\, she must 
- confront her fears and fight for survival.
-END:2026-08-26 04:00:00+00:00
-NAME:Cliffhanger
-URL:https://www.pathe.ch/en/movies-events/cliffhanger-50275
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-08 04:00:00+00:00
@@ -739,15 +730,6 @@ NAME:Cut Off
 URL:https://www.pathe.ch/en/movies-events/cut-off-49364
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-18 04:00:00+00:00
-DESCRIPTION:Beyond the giant's shadow\, the shepherd boy embarks on a jour
- ney to show his people that true power lies not in kingship\, but in faith
-  and freedom.
-END:2026-03-18 04:00:00+00:00
-NAME:David
-URL:https://www.pathe.ch/en/movies-events/david-51475
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-07-22 04:00:00+00:00
 DESCRIPTION:None
 END:2026-07-22 04:00:00+00:00
@@ -756,9 +738,9 @@ URL:https://www.pathe.ch/en/movies-events/de-la-comedie-francaise-51581
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-13 04:00:00+00:00
-DESCRIPTION:None
+DESCRIPTION:Plot unknown
 END:2026-05-13 04:00:00+00:00
-NAME:Deviens Génial
+NAME:Deviens génial
 URL:https://www.pathe.ch/en/movies-events/deviens-genial-50636
 END:VEVENT
 BEGIN:VEVENT
@@ -795,24 +777,35 @@ NAME:DJ Ahmet
 URL:https://www.pathe.ch/en/movies-events/dj-ahmet-51250
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-05-07 04:00:00+00:00
-DESCRIPTION:None
-END:2026-05-07 04:00:00+00:00
-NAME:Dreams
-URL:https://www.pathe.ch/en/movies-events/dreams-51203
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-04-29 04:00:00+00:00
-DESCRIPTION:None
+DESCRIPTION:One is the son of a farmer from Vaud\, the other of a Kabyle s
+ ea urchin fisherman. Stéphane and Mehdi are Swiss. And therefore neutral.
+  In fact\, that’s the only genetic trait they share with a wrestler from
+  Toggenburg. What a crazy idea to have elevated neutrality to the supreme 
+ value of identity. But what does it actually mean to be neutral? To find o
+ ut\, Stéphane and Mehdi embark on a zany global road trip in the midst of
+  a national crisis of conscience.
 END:2026-04-29 04:00:00+00:00
-NAME:En Terrain neutre
+NAME:En terrain neutre
 URL:https://www.pathe.ch/en/movies-events/en-terrain-neutre-51651
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-29 04:00:00+00:00
-DESCRIPTION:None
+DESCRIPTION:When\, in early 2024\, thousands of overturned road signs\, hu
+ ndreds of tractors with flashing lights\, and warning lights suddenly dist
+ urbed the reassuring calm of our countryside\, television news programs an
+ d articles attempted to grasp what was happening. The symptoms were docume
+ nted and discussed\, but the causes remained obscure. And then calm return
+ ed. As always. Yet nothing changes\, and the economic situation of the pri
+ mary sector continues to deteriorate amid polite indifference. "Being a Fa
+ rmer" takes us to meet those who fight every day despite collapsing prices
+  and increasingly problematic working conditions. From large mechanized fa
+ rms to micro-farms\, from the plateau to the mid-mountain regions\, this i
+ s an illuminating immersion into the lived experience of an agricultural w
+ orld embodied by those who\, despite all the obstacles\, remain attached t
+ o their land.
 END:2026-04-29 04:00:00+00:00
-NAME:Etre paysan-ne
+NAME:Être Paysan·ne 
 URL:https://www.pathe.ch/en/movies-events/etre-paysan-ne-51698
 END:VEVENT
 BEGIN:VEVENT
@@ -1087,13 +1080,6 @@ NAME: Lee Cronin’s The Mummy
 URL:https://www.pathe.ch/en/movies-events/lee-cronin-s-the-mummy-40520
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-04-08 04:00:00+00:00
-DESCRIPTION:Plot unknown
-END:2026-04-08 04:00:00+00:00
-NAME:L'enfant du désert
-URL:https://www.pathe.ch/en/movies-events/l-enfant-du-desert-50699
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-06-24 04:00:00+00:00
 DESCRIPTION:None
 END:2026-06-24 04:00:00+00:00
@@ -1243,13 +1229,6 @@ NAME:Minions & Monsters
 URL:https://www.pathe.ch/en/movies-events/minions-monsters-40833
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-07-08 04:00:00+00:00
-DESCRIPTION:None
-END:2026-07-08 04:00:00+00:00
-NAME:Moana (Live Action)
-URL:https://www.pathe.ch/en/movies-events/moana-live-action-38855
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-05-06 04:00:00+00:00
 DESCRIPTION:From New Line Cinema comes the latest high-stakes installment 
  in the blockbuster video game franchise in all its brutal glory\, Mortal K
@@ -1284,17 +1263,6 @@ DESCRIPTION:Centers on a temporary small-town sheriff who uncovers dark my
 END:2026-04-16 04:00:00+00:00
 NAME:Normal
 URL:https://www.pathe.ch/en/movies-events/normal-51862
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-01-28 04:00:00+00:00
-DESCRIPTION:The Allies\, led by the unyielding chief prosecutor\, Robert H
- . Jackson (Michael Shannon)\, have the task of ensuring the Nazi regime an
- swers for the unveiled horrors of the Holocaust while a US Army psychiatri
- st (Rami Malek) is locked in a dramatic psychological duel with former Rei
- chsmarschall Herman Göring (Russell Crowe). 
-END:2026-01-28 04:00:00+00:00
-NAME:Nuremberg
-URL:https://www.pathe.ch/en/movies-events/nuremberg-50863
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-13 04:00:00+00:00
@@ -1390,13 +1358,6 @@ DESCRIPTION:Colin is a weedy wallflower letting life pass him by. That is\
 END:2026-03-04 04:00:00+00:00
 NAME:Pillion
 URL:https://www.pathe.ch/en/movies-events/pillion-50430
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-11 04:00:00+00:00
-DESCRIPTION:Plot unknown
-END:2026-03-11 04:00:00+00:00
-NAME:Planètes
-URL:https://www.pathe.ch/en/movies-events/planetes-48325
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-16 04:00:00+00:00
@@ -1511,16 +1472,6 @@ NAME:Scary Movie
 URL:https://www.pathe.ch/en/movies-events/scary-movie-46794
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:A virtuous teen in 1943 Switzerland questions her village's mo
- rality when they turn away French refugees. After a personal trauma upends
-  her life\, she must find the courage to forge her own path against social
-  expectations.
-END:2026-02-11 04:00:00+00:00
-NAME:Silent Rebellion
-URL:https://www.pathe.ch/en/movies-events/silent-rebellion-49082
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-05-28 04:00:00+00:00
 DESCRIPTION:After being left at the altar in Rome\, a man decides to go on
   his honeymoon alone.
@@ -1537,19 +1488,6 @@ DESCRIPTION:After Doomsday\, Peter Parker tries to focus on college and le
 END:2026-07-29 04:00:00+00:00
 NAME:Spider-Man: Brand New Day
 URL:https://www.pathe.ch/en/movies-events/spider-man-brand-new-day-43161
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-02-18 04:00:00+00:00
-DESCRIPTION:Wille (10) has always dreamed of becoming a superhero and figh
- ting crime alongside his father\, who is a policeman. However\, his dream 
- is shattered when his baby brother Charlie is born. Not only does Charlie 
- get all the attention\, but Wille also discovers that Charlie has superpow
- ers.<br/><br/>When a supervillain and a deranged scientist enact their evi
- l plan\, Wille and Charlie need to put their differences aside and work as
-  a team. But can an infant and his envious brother save the city?
-END:2026-02-18 04:00:00+00:00
-NAME:Super Charlie
-URL:https://www.pathe.ch/en/movies-events/super-charlie-42688
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-06-24 04:00:00+00:00
@@ -1586,19 +1524,6 @@ URL:https://www.pathe.ch/en/movies-events/that-time-i-got-reincarnated-as-
  a-slime-the-movie-tears-of-the-azure-sea-51863
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:During the German occupation of World War II\, François\, Eus
- èbe\, and Lisa\, three courageous children\, embark on a secret adventure
- : resisting the Nazis in the heart of France. Through sabotage\, hidden me
- ssages\, and perilous escapes\, they carry out clandestine actions right u
- nder the enemy's nose. Daring and friendship are their only weapons in the
-  fight against injustice.
-END:2026-02-11 04:00:00+00:00
-NAME:The Children of the Resistance
-URL:https://www.pathe.ch/en/movies-events/the-children-of-the-resistance-5
- 0564
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-03-31 04:00:00+00:00
 DESCRIPTION:When a menace known as the Joker wreaks havoc and chaos on the
   people of Gotham\, Batman\, James Gordon and Harvey Dent must work togeth
@@ -1616,6 +1541,21 @@ DESCRIPTION:A darker reimagining of the classic Robin Hood tale\, which wi
 END:2026-07-01 04:00:00+00:00
 NAME:The death of Robin Hood
 URL:https://www.pathe.ch/en/movies-events/the-death-of-robin-hood-51658
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-04-08 04:00:00+00:00
+DESCRIPTION:14-year-old Sun has written and successfully published a story
+  based on an incredible story told by her late grandfather about a wild ch
+ ild called Hadara\, who is saved by a group of ostriches when he becomes s
+ eparated from his family in a storm\, and is then raised in the desert ami
+ d a host of wild animals\, including his best friend\, a desert fox. When 
+ Sun is invited to travel to the Sahara by a local community who has heard 
+ about her book\, she meets Kharouba\, a Nomad girl of her own age\, and re
+ alizes there may be much more to Hadara than just a character in a bedtime
+  story.
+END:2026-04-08 04:00:00+00:00
+NAME:The Desert Child
+URL:https://www.pathe.ch/en/movies-events/the-desert-child-50699
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-29 04:00:00+00:00
@@ -1796,6 +1736,22 @@ DESCRIPTION:None
 END:2026-05-27 04:00:00+00:00
 NAME:Untitled WB Event Film 7
 URL:https://www.pathe.ch/en/movies-events/untitled-wb-event-film-7-40521
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-07-08 04:00:00+00:00
+DESCRIPTION:In Disney’s live-action adaptation of the beloved Oscar®-no
+ minated animated adventure\, Vaiana (Catherine Lagaʻaia) answers the Ocea
+ n’s call and\, for the first time\, voyages beyond the reef of her islan
+ d of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforge
+ ttable journey to restore prosperity to her people. The film is directed b
+ y Emmy® and Tony Award® winner Thomas Kail (“Hamilton”)\; produced b
+ y Dwayne Johnson\, Dany Garcia\, Beau Flynn\, Hiram Garcia and Lin-Manuel 
+ Miranda\; and executive produced by Thomas Kail\, Scott Sheldon\, Charles 
+ Newirth and Auliʻi Cravalho\, who voiced Moana in the animated features 
+ “Vaiana” and “Vaiana 2.”
+END:2026-07-08 04:00:00+00:00
+NAME:Vaiana (Live Action)
+URL:https://www.pathe.ch/en/movies-events/vaiana-live-action-38855
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2025-11-26 04:00:00+00:00

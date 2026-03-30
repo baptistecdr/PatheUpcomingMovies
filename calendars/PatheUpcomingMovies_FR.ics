@@ -143,6 +143,20 @@ NAME:L'Ultime Héritier
 URL:https://www.pathe.ch/fr/films-evenements/l-ultime-heritier-50697
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-02-04 04:00:00+00:00
+DESCRIPTION:Pour sauver son emploi\, David accepte un plan foireux : ramen
+ er un mystérieux colis d’Amérique du Sud.<br/>Il se retrouve à bord d
+ ’une croisière avec son ex Tess\, son fils Léo\, et son collègue Sté
+ phane\, aussi benêt que maladroit\, dont David se sert pour transporter l
+ e colis à sa place.<br/>Tout dérape lorsque ce dernier l’ouvre acciden
+ tellement : un adorable bébé Marsupilami apparait et le voyage vire au c
+ haos !<br/>La bande à Fifi est de retour et elle s’est fait un nouveau 
+ copain…
+END:2026-02-04 04:00:00+00:00
+NAME:Marsupilami
+URL:https://www.pathe.ch/fr/films-evenements/marsupilami-38851
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-03-11 04:00:00+00:00
 DESCRIPTION:Colette\, passionnée et spécialiste des films d'Hitchcock\, 
  soupçonne Yann\, le nouveau voisin\, d'avoir tué sa femme. François\, s
@@ -171,32 +185,29 @@ URL:https://www.pathe.ch/fr/films-evenements/les-rayons-et-les-ombres-5165
  7
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-04 04:00:00+00:00
-DESCRIPTION:Pour sauver son emploi\, David accepte un plan foireux : ramen
- er un mystérieux colis d’Amérique du Sud.<br/>Il se retrouve à bord d
- ’une croisière avec son ex Tess\, son fils Léo\, et son collègue Sté
- phane\, aussi benêt que maladroit\, dont David se sert pour transporter l
- e colis à sa place.<br/>Tout dérape lorsque ce dernier l’ouvre acciden
- tellement : un adorable bébé Marsupilami apparait et le voyage vire au c
- haos !<br/>La bande à Fifi est de retour et elle s’est fait un nouveau 
- copain…
-END:2026-02-04 04:00:00+00:00
-NAME:Marsupilami
-URL:https://www.pathe.ch/fr/films-evenements/marsupilami-38851
+BEGIN:2026-03-18 04:00:00+00:00
+DESCRIPTION:Paris\, années 80. Le trafic d’héroïne envahit la capital
+ e. Un duo de flics à l’ancienne Yvon Kastendeuch et Johnny Lansky tient
+  encore la baraque… jusqu’à ce que ce dernier se fasse descendre. Pou
+ r faire tomber le réseau\, Yvon est propulsé à la tête d’une unité 
+ expérimentale : la Police Flash 80. Il va devoir désormais faire équipe
+  avec des jeunes recrues aux méthodes modernes\, loin de ses habitudes de
+  mâle dominant fan de Sardou et d’andouillette.
+END:2026-03-18 04:00:00+00:00
+NAME:Police Flash 80
+URL:https://www.pathe.ch/fr/films-evenements/police-flash-80-51656
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-18 04:00:00+00:00
-DESCRIPTION:A renowned Croatian businessman learns on his birthday that he
-  is about to go bankrupt. His family enters his office with a birthday cak
- e and a local ethno band. At the same time his daughter\, a student in Lon
- don\, calls him and announces with a congratulatory message that she is pr
- egnant. The child's father is the son of a Serbian minister. In the style 
- of a full-blooded anti-rom-com\, interweaving humor\, warmth and tension\,
-  "The Wedding" follows the story of two families whose relationship is con
- stantly dancing between a warm family story and an international incident.
-END:2026-02-18 04:00:00+00:00
-NAME:Svadba
-URL:https://www.pathe.ch/fr/films-evenements/svadba-51281
+BEGIN:2026-03-11 04:00:00+00:00
+DESCRIPTION:Habité par Victor Hugo\, le comédien Robert Zucchini traîne
+  une douce mélancolie lorsqu’il n’est pas sur scène. Chaque soir\, i
+ l remplit les salles en transmettant son amour des mots. Jusqu’au jour o
+ ù réapparaît sa fille\, qu’il n’a pas vue grandir… Et si aimer\, 
+ pour une fois\, valait mieux qu’admirer ?
+END:2026-03-11 04:00:00+00:00
+NAME:Victor comme tout le monde
+URL:https://www.pathe.ch/fr/films-evenements/victor-comme-tout-le-monde-50
+ 987
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-11 04:00:00+00:00
@@ -216,17 +227,29 @@ NAME:Amour Éternel
 URL:https://www.pathe.ch/fr/films-evenements/amour-eternel-43688
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-18 04:00:00+00:00
-DESCRIPTION:Paris\, années 80. Le trafic d’héroïne envahit la capital
- e. Un duo de flics à l’ancienne Yvon Kastendeuch et Johnny Lansky tient
-  encore la baraque… jusqu’à ce que ce dernier se fasse descendre. Pou
- r faire tomber le réseau\, Yvon est propulsé à la tête d’une unité 
- expérimentale : la Police Flash 80. Il va devoir désormais faire équipe
-  avec des jeunes recrues aux méthodes modernes\, loin de ses habitudes de
-  mâle dominant fan de Sardou et d’andouillette.
-END:2026-03-18 04:00:00+00:00
-NAME:Police Flash 80
-URL:https://www.pathe.ch/fr/films-evenements/police-flash-80-51656
+BEGIN:2025-12-17 04:00:00+00:00
+DESCRIPTION:Avec AVATAR : DE FEU ET DE CENDRES\, James Cameron embarque le
+ s spectateurs pour un nouveau voyage immersif sur Pandora en compagnie du 
+ Marine devenu Na’vi Jake Sully (Sam Worthington)\, de la guerrière Na
+ ’vi Neytiri (Zoe Saldaña) et de toute la famille Sully.
+END:2025-12-17 04:00:00+00:00
+NAME:Avatar: De Feu et De Cendres
+URL:https://www.pathe.ch/fr/films-evenements/avatar-de-feu-et-de-cendres-4
+ 3651
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-02-18 04:00:00+00:00
+DESCRIPTION:A renowned Croatian businessman learns on his birthday that he
+  is about to go bankrupt. His family enters his office with a birthday cak
+ e and a local ethno band. At the same time his daughter\, a student in Lon
+ don\, calls him and announces with a congratulatory message that she is pr
+ egnant. The child's father is the son of a Serbian minister. In the style 
+ of a full-blooded anti-rom-com\, interweaving humor\, warmth and tension\,
+  "The Wedding" follows the story of two families whose relationship is con
+ stantly dancing between a warm family story and an international incident.
+END:2026-02-18 04:00:00+00:00
+NAME:Svadba
+URL:https://www.pathe.ch/fr/films-evenements/svadba-51281
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-18 04:00:00+00:00
@@ -239,29 +262,6 @@ DESCRIPTION:Tommaso est un veuf qui a consacré sa vie entière à élever
 END:2026-03-18 04:00:00+00:00
 NAME:Un bel giorno
 URL:https://www.pathe.ch/fr/films-evenements/un-bel-giorno-50960
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-11 04:00:00+00:00
-DESCRIPTION:Habité par Victor Hugo\, le comédien Robert Zucchini traîne
-  une douce mélancolie lorsqu’il n’est pas sur scène. Chaque soir\, i
- l remplit les salles en transmettant son amour des mots. Jusqu’au jour o
- ù réapparaît sa fille\, qu’il n’a pas vue grandir… Et si aimer\, 
- pour une fois\, valait mieux qu’admirer ?
-END:2026-03-11 04:00:00+00:00
-NAME:Victor comme tout le monde
-URL:https://www.pathe.ch/fr/films-evenements/victor-comme-tout-le-monde-50
- 987
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2025-12-17 04:00:00+00:00
-DESCRIPTION:Avec AVATAR : DE FEU ET DE CENDRES\, James Cameron embarque le
- s spectateurs pour un nouveau voyage immersif sur Pandora en compagnie du 
- Marine devenu Na’vi Jake Sully (Sam Worthington)\, de la guerrière Na
- ’vi Neytiri (Zoe Saldaña) et de toute la famille Sully.
-END:2025-12-17 04:00:00+00:00
-NAME:Avatar: De Feu et De Cendres
-URL:https://www.pathe.ch/fr/films-evenements/avatar-de-feu-et-de-cendres-4
- 3651
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-03-25 04:00:00+00:00
@@ -314,32 +314,6 @@ DESCRIPTION:D’après sa mère\, Noé\, serait le fils caché de Kadhafi.
 END:2026-03-11 04:00:00+00:00
 NAME:Les K d'Or
 URL:https://www.pathe.ch/fr/films-evenements/les-k-d-or-50567
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-26 04:00:00+00:00
-DESCRIPTION:Trente ans après les événements du premier film\, un nouvea
- u Blade Runner\, le policier K du LAPD (Ryan Gosling)\, met au jour un sec
- ret enfoui depuis bien longtemps qui risque de semer le chaos dans une soc
- iété en plein déclin. Ses découvertes incitent K à se mettre à la re
- cherche de Rick Deckard (Harrison Ford)\, un ancien Blade Runner du LAPD d
- isparu depuis trois décennies.
-END:2026-03-26 04:00:00+00:00
-NAME:Blade Runner 2049
-URL:https://www.pathe.ch/fr/films-evenements/blade-runner-2049-45426
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-26 04:00:00+00:00
-DESCRIPTION:Alain Souchon revisite son répertoire aux côtés de ses fils
-  Ours et Pierre Souchon. <br/>Chansons emblématiques\, trésors cachés e
- t complicité familiale rythment ce voyage musical intime\, empreint de te
- ndresse\, de nostalgie et de partage. <br/>Une création à six mains qui 
- porte un regard nouveau sur une œuvre intemporelle et l'une des voix les 
- plus singulières et poétiques de la chanson française\, à découvrir s
- ur grand écran.
-END:2026-03-26 04:00:00+00:00
-NAME:Alain Souchon - Le Concert au Cinéma
-URL:https://www.pathe.ch/fr/films-evenements/alain-souchon-le-concert-au-c
- inema-51298
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-11 04:00:00+00:00
@@ -430,6 +404,19 @@ NAME:Palestine 36
 URL:https://www.pathe.ch/fr/films-evenements/palestine-36-51230
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-02-25 04:00:00+00:00
+DESCRIPTION:Maria Angeles\, une Espagnole de 79 ans\, vit seule à Tanger\
+ , dans le nord du Maroc\, où elle profite de sa ville et de son quotidien
+ . Sa vie bascule lorsque sa fille Clara arrive de Madrid pour vendre l’a
+ ppartement dans lequel elle a toujours vécu. Déterminée à rester dans 
+ cette ville qui l’a vue grandir\, elle met tout en oeuvre pour garder sa
+  maison et récupérer les objets d’une vie. Contre toute attente\, elle
+  redécouvre en chemin l’amour et le désir.<br/><br/>
+END:2026-02-25 04:00:00+00:00
+NAME:Rue Málaga
+URL:https://www.pathe.ch/fr/films-evenements/rue-malaga-49225
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-03-25 04:00:00+00:00
 DESCRIPTION:Après 15 ans derrière les barreaux pour un braquage de banqu
  e\, Anker sort de prison. Il va enfin pouvoir récupérer sa part du butin
@@ -446,15 +433,6 @@ DESCRIPTION:Après 15 ans derrière les barreaux pour un braquage de banqu
 END:2026-03-25 04:00:00+00:00
 NAME:The Last Viking
 URL:https://www.pathe.ch/fr/films-evenements/the-last-viking-51155
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-03-04 04:00:00+00:00
-DESCRIPTION:Alex a un problème : son nouveau voisin est son sosie parfait
- . Avec des cheveux. Un double en mieux\, qui va totalement bouleverser son
-  existence.
-END:2026-03-04 04:00:00+00:00
-NAME:Alter Ego
-URL:https://www.pathe.ch/fr/films-evenements/alter-ego-50963
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-02-25 04:00:00+00:00
@@ -563,17 +541,17 @@ NAME: Mon ami Barry
 URL:https://www.pathe.ch/fr/films-evenements/mon-ami-barry-43432
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-25 04:00:00+00:00
-DESCRIPTION:Maria Angeles\, une Espagnole de 79 ans\, vit seule à Tanger\
- , dans le nord du Maroc\, où elle profite de sa ville et de son quotidien
- . Sa vie bascule lorsque sa fille Clara arrive de Madrid pour vendre l’a
- ppartement dans lequel elle a toujours vécu. Déterminée à rester dans 
- cette ville qui l’a vue grandir\, elle met tout en oeuvre pour garder sa
-  maison et récupérer les objets d’une vie. Contre toute attente\, elle
-  redécouvre en chemin l’amour et le désir.<br/><br/>
-END:2026-02-25 04:00:00+00:00
-NAME:Rue Málaga
-URL:https://www.pathe.ch/fr/films-evenements/rue-malaga-49225
+BEGIN:2026-01-28 04:00:00+00:00
+DESCRIPTION:NUREMBERG nous plonge au cœur du procès historique intenté 
+ par les Alliés après la chute du régime nazi en 1945. Le psychiatre am
+ éricain Douglas Kelley est chargé d'évaluer la santé mentale des hauts
+  dignitaires nazis afin de déterminer s'ils sont aptes à être jugés po
+ ur leurs crimes de guerre. Mais face à Hermann Göring\, bras droit d'Hit
+ ler et manipulateur hors pair\, Kelley se retrouve pris dans une bataille 
+ psychologique aussi fascinante que terrifiante.
+END:2026-01-28 04:00:00+00:00
+NAME:Nuremberg
+URL:https://www.pathe.ch/fr/films-evenements/nuremberg-50863
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2025-09-25 04:00:00+00:00
@@ -608,15 +586,16 @@ NAME:Woodwalkers 2
 URL:https://www.pathe.ch/fr/films-evenements/woodwalkers-2-47289
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:Emma\, 15 ans\, enceinte à la suite d’un viol\, défie sa c
- ommunauté rurale protestante et répressive pour se frayer un chemin vers
-  l’autodétermination. Transformant le traumatisme en catalyseur d’ém
- ancipation elle affronte l’hypocrisie morale du village et le spectre de
-  la Seconde Guerre mondiale qui l’entoure.
-END:2026-02-11 04:00:00+00:00
-NAME:À bras-le-corps
-URL:https://www.pathe.ch/fr/films-evenements/a-bras-le-corps-49082
+BEGIN:2026-03-26 04:00:00+00:00
+DESCRIPTION:Trente ans après les événements du premier film\, un nouvea
+ u Blade Runner\, le policier K du LAPD (Ryan Gosling)\, met au jour un sec
+ ret enfoui depuis bien longtemps qui risque de semer le chaos dans une soc
+ iété en plein déclin. Ses découvertes incitent K à se mettre à la re
+ cherche de Rick Deckard (Harrison Ford)\, un ancien Blade Runner du LAPD d
+ isparu depuis trois décennies.
+END:2026-03-26 04:00:00+00:00
+NAME:Blade Runner 2049
+URL:https://www.pathe.ch/fr/films-evenements/blade-runner-2049-45426
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-07 04:00:00+00:00
@@ -627,6 +606,20 @@ DESCRIPTION:Un projet militaire secret met en danger Néo-Tokyo lorsqu'il
 END:2026-05-07 04:00:00+00:00
 NAME:Akira
 URL:https://www.pathe.ch/fr/films-evenements/akira-52017
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-03-26 04:00:00+00:00
+DESCRIPTION:Alain Souchon revisite son répertoire aux côtés de ses fils
+  Ours et Pierre Souchon. <br/>Chansons emblématiques\, trésors cachés e
+ t complicité familiale rythment ce voyage musical intime\, empreint de te
+ ndresse\, de nostalgie et de partage. <br/>Une création à six mains qui 
+ porte un regard nouveau sur une œuvre intemporelle et l'une des voix les 
+ plus singulières et poétiques de la chanson française\, à découvrir s
+ ur grand écran.
+END:2026-03-26 04:00:00+00:00
+NAME:Alain Souchon - Le Concert au Cinéma
+URL:https://www.pathe.ch/fr/films-evenements/alain-souchon-le-concert-au-c
+ inema-51298
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-09-16 04:00:00+00:00
@@ -641,6 +634,15 @@ DESCRIPTION:None
 END:2026-07-10 04:00:00+00:00
 NAME:Alpha
 URL:https://www.pathe.ch/fr/films-evenements/alpha-50468
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-03-04 04:00:00+00:00
+DESCRIPTION:Alex a un problème : son nouveau voisin est son sosie parfait
+ . Avec des cheveux. Un double en mieux\, qui va totalement bouleverser son
+  existence.
+END:2026-03-04 04:00:00+00:00
+NAME:Alter Ego
+URL:https://www.pathe.ch/fr/films-evenements/alter-ego-50963
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-06-03 04:00:00+00:00
@@ -677,7 +679,13 @@ URL:https://www.pathe.ch/fr/films-evenements/athiradi-51925
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-01 04:00:00+00:00
-DESCRIPTION:Plot unknown
+DESCRIPTION:Traverser les plus grands océans du monde\, voyager le long d
+ ’une rivière ou encore dégringoler du ciel : même la plus minuscule d
+ es gouttes d’eau peut vivre de grandes aventures ! Et en chemin\, elle p
+ eut faire de drôles de rencontres… Des vacanciers qui jouent sur la pla
+ ge à une petite fille en bateau\, en passant par tout un tas de créature
+ s plus étranges les unes que les autres\, son voyage ne sera pas de tout 
+ repos : une chose est sûre\, elle ne restera pas coincée dans un bocal !
 END:2026-04-01 04:00:00+00:00
 NAME:Au fil de l'eau
 URL:https://www.pathe.ch/fr/films-evenements/au-fil-de-l-eau-50167
@@ -700,6 +708,20 @@ DESCRIPTION:None
 END:2026-06-04 04:00:00+00:00
 NAME:Backrooms
 URL:https://www.pathe.ch/fr/films-evenements/backrooms-51877
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-05-06 04:00:00+00:00
+DESCRIPTION:Dans ce polar plein d'esprit\, porté par une nouvelle intrigu
+ e mystérieuse\, George (Hugh Jackman) est un berger qui lit chaque soir d
+ es romans policiers à ses chères brebis\, persuadé qu’elles ne peuven
+ t pas les comprendre. Mais lorsqu’un mystérieux incident vient boulever
+ ser la vie à la ferme\, les moutons comprennent qu’ils doivent devenir 
+ détectives. En suivant les indices et en enquêtant sur des suspects huma
+ ins\, ils prouvent que même des moutons peuvent s'avérer être de brilla
+ nts individus capables de résoudre des énigmes criminelles.
+END:2026-05-06 04:00:00+00:00
+NAME:Bêêêtective Privé
+URL:https://www.pathe.ch/fr/films-evenements/beeetective-prive-50273
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-28 04:00:00+00:00
@@ -788,41 +810,6 @@ URL:https://www.pathe.ch/fr/films-evenements/bts-world-tour-arirang-in-jap
  an-live-viewing-51653
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-19 04:00:00+00:00
-DESCRIPTION:Année 1980. Au lendemain immédiat du coup d’État du 12 se
- ptembre. Des milliers d’étudiants\, de militants de droite et de gauche
-  ainsi que de représentants ouvriers sont arrêtés de manière systémat
- ique. Abdullah Çatlı\, l’un des jeunes leaders du mouvement de droite\
- , s’enfuit à l’étranger. À la même période\, l’organisation ter
- roriste ASALA mène des attaques contre des lieux civils tels que l’aér
- oport de Milan\, l’aéroport d’Orly\, et cible des diplomates du minis
- tère turc des Affaires étrangères à travers le monde. Incapable d’en
- diguer ces attaques sous le régime militaire\, l’État turc engage une 
- coopération secrète avec Abdullah Çatlı et ses compagnons : au cœur d
- e l’Europe\, ils combattront ASALA au nom de l’État\, sans jamais rec
- onnaître officiellement qu’ils agissent pour lui. Çatlı et ses amis e
- ntrent en action. Mais lors de leur deuxième opération\, ils sont démas
- qués par l’ASALA. Dès lors\, l’ASALA et Çatlı se lancent dans une 
- guerre sans merci\, chacun traquant l’autre pour l’anéantir. Or l’A
- SALA dispose également de relais en France. À la suite de ces connexions
-  occultes et sur la base d’une accusation montée de toutes pièces\, Ç
- atlı est arrêté. Tandis que la lutte contre l’ASALA se poursuit à l
- ’extérieur par ses compagnons\, ÇATLI est contraint d’affronter des 
- militants de l’ASALA à l’intérieur même de la prison. Un autre fron
- t reste ouvert à l’extérieur : la famille de Çatlı est laissée sans
-  protection face à l’ASALA. Bien que ses amis parviennent à neutralise
- r la direction de l’organisation\, Çatlı n’a d’autre choix\, pour 
- survivre et protéger les siens\, que de s’évader de prison. Après une
-  fuite éprouvante\, il regagne la planque grièvement blessé\, mais son 
- plus proche ami\, Yetim\, y laisse la vie. De retour de l’Europe en Turq
- uie\, il poursuivra ses activités. Sa vie\, marquée par la lutte prend f
- in dans un accident de la route qui bouleverse l'actualité turque... Ou d
- u moins\, c'est ce que tout le monde croit.
-END:2026-03-19 04:00:00+00:00
-NAME:Çatlı
-URL:https://www.pathe.ch/fr/films-evenements/catli-51314
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-05-06 04:00:00+00:00
 DESCRIPTION:Marguerite n’a aucune raison de refuser à Fred\, son ex-mar
  i\, la demande en nullité de leur mariage à l’Église. Elle est même 
@@ -836,18 +823,21 @@ NAME:C'est quoi l'amour?
 URL:https://www.pathe.ch/fr/films-evenements/c-est-quoi-l-amour-49123
 END:VEVENT
 BEGIN:VEVENT
+BEGIN:2026-01-08 04:00:00+00:00
+DESCRIPTION:Tobi revisits an old childhood riddle: Who leaves the deepest 
+ traces in the earth? His search takes him to places like Madagascar\, Spit
+ sbergen\, and Mexico\, where he uncovers what connects them and finds the 
+ answer he was missing as a child.
+END:2026-01-08 04:00:00+00:00
+NAME:Checker Tobi 3
+URL:https://www.pathe.ch/fr/films-evenements/checker-tobi-3-48331
+END:VEVENT
+BEGIN:VEVENT
 BEGIN:2026-05-06 04:00:00+00:00
 DESCRIPTION:Plot unknown
 END:2026-05-06 04:00:00+00:00
 NAME:Cinque secondi
 URL:https://www.pathe.ch/fr/films-evenements/cinque-secondi-51937
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-08-26 04:00:00+00:00
-DESCRIPTION:Plot unknown
-END:2026-08-26 04:00:00+00:00
-NAME:Cliffhanger
-URL:https://www.pathe.ch/fr/films-evenements/cliffhanger-50275
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-08 04:00:00+00:00
@@ -883,18 +873,6 @@ NAME:Cut Off
 URL:https://www.pathe.ch/fr/films-evenements/cut-off-49364
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-18 04:00:00+00:00
-DESCRIPTION:David est un jeune berger drôle et pétillant\, dont la voix 
- envoutante émerveille sa famille et le roi Saül. Lorsque le géant Golia
- th vient terroriser son peuple\, David\, armé uniquement d'une fronde\, d
- e quelques pierres et d'une foi inébranlable\, s'avance. S’ouvre alors 
- le destin extraordinaire d’un simple berger devenu roi\, qui par sa loya
- uté et son courage\, sauva l’âme d’un Royaume. 
-END:2026-03-18 04:00:00+00:00
-NAME:David
-URL:https://www.pathe.ch/fr/films-evenements/david-51475
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-07-22 04:00:00+00:00
 DESCRIPTION:None
 END:2026-07-22 04:00:00+00:00
@@ -903,9 +881,9 @@ URL:https://www.pathe.ch/fr/films-evenements/de-la-comedie-francaise-51581
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-13 04:00:00+00:00
-DESCRIPTION:None
+DESCRIPTION:Plot unknown
 END:2026-05-13 04:00:00+00:00
-NAME:Deviens Génial
+NAME:Deviens génial
 URL:https://www.pathe.ch/fr/films-evenements/deviens-genial-50636
 END:VEVENT
 BEGIN:VEVENT
@@ -943,24 +921,41 @@ NAME:DJ Ahmet
 URL:https://www.pathe.ch/fr/films-evenements/dj-ahmet-51250
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-05-07 04:00:00+00:00
-DESCRIPTION:None
-END:2026-05-07 04:00:00+00:00
-NAME:Dreams
-URL:https://www.pathe.ch/fr/films-evenements/dreams-51203
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-04-29 04:00:00+00:00
-DESCRIPTION:None
+DESCRIPTION:L’un est fils de paysan vaudois. L’autre d’un pêcheur d
+ ’oursins Kabyle naturalisé. Stéphane et Mehdi sont pourtant Suisses. D
+ onc neutres. C’est d’ailleurs la seule marque d’ADN qu’ils partage
+ nt avec un banquier zurichois ou un lutteur du Toggenburg. C’est tout de
+  même bizarre d’avoir érigé la neutralité en valeur identitaire supr
+ ême. Mais ça veut dire quoi au juste? C’est être sans saveur\, sans o
+ deur\, sans opinion\, sans courage\, profiteurs\, hypocrites ou alors mali
+ ns ? Peut-on vraiment être neutres et à partir de quel moment ne l’est
+ -on plus ? Alors que les bruits de bottes se font entendre en Europe et qu
+ e l’ancien monde s’effondre\, Stéphane et Mehdi s’embarquent dans u
+ n road-trip planétaire et introspectif à la recherche de ce statut parti
+ culier et dans la crainte qu’il disparaisse. Une quête identitaire louf
+ oque au cœur d’une crise de conscience nationale.
 END:2026-04-29 04:00:00+00:00
-NAME:En Terrain neutre
+NAME:En terrain neutre
 URL:https://www.pathe.ch/fr/films-evenements/en-terrain-neutre-51651
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-29 04:00:00+00:00
-DESCRIPTION:None
+DESCRIPTION:When\, in early 2024\, thousands of overturned road signs\, hu
+ ndreds of tractors with flashing lights\, and warning lights suddenly dist
+ urbed the reassuring calm of our countryside\, television news programs an
+ d articles attempted to grasp what was happening. The symptoms were docume
+ nted and discussed\, but the causes remained obscure. And then calm return
+ ed. As always. Yet nothing changes\, and the economic situation of the pri
+ mary sector continues to deteriorate amid polite indifference. "Being a Fa
+ rmer" takes us to meet those who fight every day despite collapsing prices
+  and increasingly problematic working conditions. From large mechanized fa
+ rms to micro-farms\, from the plateau to the mid-mountain regions\, this i
+ s an illuminating immersion into the lived experience of an agricultural w
+ orld embodied by those who\, despite all the obstacles\, remain attached t
+ o their land.
 END:2026-04-29 04:00:00+00:00
-NAME:Etre paysan-ne
+NAME:Être Paysan·ne 
 URL:https://www.pathe.ch/fr/films-evenements/etre-paysan-ne-51698
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,39 +1311,12 @@ NAME:Le Réveil de la Momie
 URL:https://www.pathe.ch/fr/films-evenements/le-reveil-de-la-momie-40520
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-11 04:00:00+00:00
-DESCRIPTION:Pendant l’occupation allemande durant la Seconde Guerre mond
- iale\, François\, Eusèbe et Lisa\, trois enfants courageux\, se lancent 
- dans une aventure secrète : résister aux nazis en plein cœur de la Fran
- ce. Sabotages\, messages cachés et évasions périlleuses\, ils mènent d
- es actions clandestines sous le nez de l’ennemi. L’audace et l’amiti
- é sont leurs seules armes pour lutter contre l’injustice.
-END:2026-02-11 04:00:00+00:00
-NAME:Les enfants de la résistance
-URL:https://www.pathe.ch/fr/films-evenements/les-enfants-de-la-resistance-
- 50564
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-06-03 04:00:00+00:00
 DESCRIPTION:Plot unknown
 END:2026-06-03 04:00:00+00:00
 NAME:Les Maîtres de l'Univers
 URL:https://www.pathe.ch/fr/films-evenements/les-maitres-de-l-univers-5027
  4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-05-06 04:00:00+00:00
-DESCRIPTION:Dans ce polar plein d'esprit\, porté par une nouvelle intrigu
- e mystérieuse\, George (Hugh Jackman) est un berger qui lit chaque soir d
- es romans policiers à ses chères brebis\, persuadé qu’elles ne peuven
- t pas les comprendre. Mais lorsqu’un mystérieux incident vient boulever
- ser la vie à la ferme\, les moutons comprennent qu’ils doivent devenir 
- détectives. En suivant les indices et en enquêtant sur des suspects huma
- ins\, ils prouvent que même des moutons peuvent s'avérer être de brilla
- nts individus capables de résoudre des énigmes criminelles.
-END:2026-05-06 04:00:00+00:00
-NAME:Les moutons détectives
-URL:https://www.pathe.ch/fr/films-evenements/les-moutons-detectives-50273
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-06-24 04:00:00+00:00
@@ -1476,13 +1444,6 @@ NAME:Minions & Monsters
 URL:https://www.pathe.ch/fr/films-evenements/minions-monsters-40833
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-07-08 04:00:00+00:00
-DESCRIPTION:None
-END:2026-07-08 04:00:00+00:00
-NAME:Moana (Live Action)
-URL:https://www.pathe.ch/fr/films-evenements/moana-live-action-38855
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-05-06 04:00:00+00:00
 DESCRIPTION:New Line Cinema présente le nouvel opus très attendu de la s
  aga adaptée du célèbre jeu vidéo\, MORTAL KOMBAT II. Cette fois\, les 
@@ -1501,19 +1462,6 @@ DESCRIPTION:Centers on a temporary small-town sheriff who uncovers dark my
 END:2026-04-16 04:00:00+00:00
 NAME:Normal
 URL:https://www.pathe.ch/fr/films-evenements/normal-51862
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:2026-01-28 04:00:00+00:00
-DESCRIPTION:NUREMBERG nous plonge au cœur du procès historique intenté 
- par les Alliés après la chute du régime nazi en 1945. Le psychiatre am
- éricain Douglas Kelley est chargé d'évaluer la santé mentale des hauts
-  dignitaires nazis afin de déterminer s'ils sont aptes à être jugés po
- ur leurs crimes de guerre. Mais face à Hermann Göring\, bras droit d'Hit
- ler et manipulateur hors pair\, Kelley se retrouve pris dans une bataille 
- psychologique aussi fascinante que terrifiante.
-END:2026-01-28 04:00:00+00:00
-NAME:Nuremberg
-URL:https://www.pathe.ch/fr/films-evenements/nuremberg-50863
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-13 04:00:00+00:00
@@ -1609,21 +1557,6 @@ NAME:Pillion
 URL:https://www.pathe.ch/fr/films-evenements/pillion-50430
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-03-11 04:00:00+00:00
-DESCRIPTION:Dendelion\, Baraban\, Léonto et Taraxa\, quatre graines de pi
- ssenlit rescapées d’explosions nucléaires qui détruisent la Terre\, s
- e trouvent projetées dans le cosmos. Après s’être échouées sur une 
- planète inconnue\, elles partent à la quête d’un sol propice à la su
- rvie de leur espèce. Mais les éléments\, la faune\, la flore\, le clima
- t\, sont autant d’embûches qu’elles devront surmonter. Une odyssée d
- ans un monde microscopique et imaginaire\, riche en émotions\, pour évoq
- uer les enjeux des migrations environnementales. Un récit sur la difficul
- té à trouver son chez-soi\, un territoire où s’installer.
-END:2026-03-11 04:00:00+00:00
-NAME:Planètes
-URL:https://www.pathe.ch/fr/films-evenements/planetes-48325
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-04-16 04:00:00+00:00
 DESCRIPTION:Plot unknown
 END:2026-04-16 04:00:00+00:00
@@ -1661,10 +1594,19 @@ URL:https://www.pathe.ch/fr/films-evenements/pour-le-plaisir-51578
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-04-29 04:00:00+00:00
-DESCRIPTION:Plot unknown
+DESCRIPTION:Au début du XVIIIe siècle\, à Venise\, Cecilia\, violoniste
+  très douée\, vit dans le plus grand orphelinat de la ville\, l'Ospedale
+  della Pietà. Les orphelines particulièrement talentueuses y reçoivent 
+ une formation musicale\, mais uniquement dans le but d'attirer de riches m
+ écènes qui financeront l'orphelinat grâce à l'orchestre. L'art a ouver
+ t l'esprit de Cecilia\, mais pas les portes de l'orphelinat. Son seul moye
+ n de s'en sortir serait le mariage. Avec l'arrivée du nouveau professeur 
+ de violon\, le monde ordonné de Cecilia est bouleversé. Son nom est Anto
+ nio Vivaldi.
 END:2026-04-29 04:00:00+00:00
-NAME:Primavera
-URL:https://www.pathe.ch/fr/films-evenements/primavera-50566
+NAME:Primavera - Vivaldi et moi
+URL:https://www.pathe.ch/fr/films-evenements/primavera-vivaldi-et-moi-5056
+ 6
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2025-09-17 04:00:00+00:00
@@ -1755,21 +1697,6 @@ URL:https://www.pathe.ch/fr/films-evenements/spider-man-brand-new-day-4316
  1
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:2026-02-18 04:00:00+00:00
-DESCRIPTION:Will âgé de 10 ans\, a toujours rêvé de devenir un super-h
- éros et de lutter contre le crime aux côtés de son père\, policier. Ma
- is\, son rêve est brutalement remis en cause à la naissance de son petit
-  frère Charlie. Non seulement ce nourrisson attire toute l’attention de
-  la famille et au-delà\, mais Will découvre que Charlie a des super-pouv
- oirs …<br/><br/>Lorsqu’un super-vilain et un scientifique dérangé me
- ttent en oeuvre un plan diabolique\, Charlie\, coaché par son grand frèr
- e\, va alors endosser le costume de super-héros pour sauver le monde !…
-  Y parviendront-ils ?
-END:2026-02-18 04:00:00+00:00
-NAME:Super Charlie
-URL:https://www.pathe.ch/fr/films-evenements/super-charlie-42688
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:2026-06-24 04:00:00+00:00
 DESCRIPTION:When an unexpected and ruthless adversary strikes too close to
   home\, Kara Zor-El\, aka Supergirl\, reluctantly joins forces with an unl
@@ -1848,14 +1775,11 @@ URL:https://www.pathe.ch/fr/films-evenements/the-drama-50272
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2026-05-20 04:00:00+00:00
-DESCRIPTION:The evil Empire has fallen\, and Imperial warlords remain scat
- tered throughout the galaxy. As the fledgling New Republic works to protec
- t everything the Rebellion fought for\, they have enlisted the help of leg
- endary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his young a
- pprentice Grogu. Directed by Jon Favreau\, “The Mandalorian and Grogu”
-  also stars Sigourney Weaver and is produced by Jon Favreau\, Kathleen Ken
- nedy\, Dave Filoni\, and Ian Bryce\, with music composed by Ludwig Görans
- son.
+DESCRIPTION:La chute du maléfique Empire Galactique a précipité la disp
+ ersion des seigneurs de guerre impériaux à travers la galaxie… Pour pr
+ otéger tout ce pour quoi la Rébellion s’est battue\, la jeune Nouvelle
+  République décide de faire appel au légendaire chasseur de primes mand
+ alorien Din Djarin (Pedro Pascal) et son jeune apprenti Grogu…
 END:2026-05-20 04:00:00+00:00
 NAME:The Mandalorian & Grogu
 URL:https://www.pathe.ch/fr/films-evenements/the-mandalorian-grogu-38853
@@ -1940,6 +1864,14 @@ END:2026-05-27 04:00:00+00:00
 NAME:Untitled WB Event Film 7
 URL:https://www.pathe.ch/fr/films-evenements/untitled-wb-event-film-7-4052
  1
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:2026-07-08 04:00:00+00:00
+DESCRIPTION:Plot unknown
+END:2026-07-08 04:00:00+00:00
+NAME:Vaiana: La Légende du Bout du Monde
+URL:https://www.pathe.ch/fr/films-evenements/vaiana-la-legende-du-bout-du-
+ monde-38855
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:2025-11-26 04:00:00+00:00
