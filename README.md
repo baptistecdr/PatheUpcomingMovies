@@ -36,6 +36,14 @@ source setup.sh
 black .
 ```
 
+### Tests
+
+```bash
+source setup.sh
+pip install -r requirements-dev.txt
+pytest
+```
+
 ## Contributing
 
 * Contributions are welcome!

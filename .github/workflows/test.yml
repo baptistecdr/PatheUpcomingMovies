@@ -1,0 +1,23 @@
+name: Run Tests
+on:
+  - pull_request
+  - push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v6
+
+      - name: Setup python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.14'
+          cache: pip
+
+      - name: Install requirements
+        run: pip install -r requirements-dev.txt
+
+      - name: Run tests
+        run: python3 -m pytest -v
