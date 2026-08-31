@@ -41,7 +41,7 @@ DTSTART:20260826T040000Z
 DTEND:20260826T040000Z
 UID:das-ende-der-sterne-49578@pathe.ch
 DESCRIPTION:Das neuste Werk des visionären Regisseurs Ridley Scott\, DAS 
- ENDE DER STERNE WIE BIG HIG SIE KANNTE\, ist ein epischer\, postapokalypti
+ ENDE DER STERNE wie Big Hig sie kannte\, ist ein epischer\, postapokalypti
  scher Thriller\, der eine Welt zeigt\, in der Überleben zum Instinkt gewo
  rden ist – und Menschlichkeit zur bewussten Entscheidung.<br/><br/>Ridle
  y Scott erzählt die Geschichte von Hig (Jacob Elordi)\, einem jungen Pilo
@@ -59,18 +59,6 @@ DESCRIPTION:Das neuste Werk des visionären Regisseurs Ridley Scott\, DAS
 URL:https://www.pathe.ch/de/filme-events/das-ende-der-sterne-49578
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:the-end-of-oak-street-38774@pathe.ch
-DESCRIPTION:Ein unerklärliches kosmisches Ereignis reißt die Oak Street 
- aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an
-  einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser
-  für sie völlig fremden Umgebung schnell feststellen\, dass sie nur dann
-  überleben können\, wenn sie eng zusammenstehen.<br/>
-URL:https://www.pathe.ch/de/filme-events/the-end-of-oak-street-38774
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mutiny
 DTSTART:20260819T040000Z
 DTEND:20260819T040000Z
@@ -82,6 +70,18 @@ DESCRIPTION:Als sein milliardenschwerer Boss vor seinen Augen einem Mordko
  abei auf eine internationale Verschwörung. Im Alleingang startet Cole ein
  e gnadenlose Racheaktion auf hoher See...
 URL:https://www.pathe.ch/de/filme-events/mutiny-49223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:the-end-of-oak-street-38774@pathe.ch
+DESCRIPTION:Ein unerklärliches kosmisches Ereignis reißt die Oak Street 
+ aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an
+  einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser
+  für sie völlig fremden Umgebung schnell feststellen\, dass sie nur dann
+  überleben können\, wenn sie eng zusammenstehen.<br/>
+URL:https://www.pathe.ch/de/filme-events/the-end-of-oak-street-38774
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: Out of the Further
@@ -139,15 +139,12 @@ DESCRIPTION:Allie ist hoffnungslos romantisch\, Owen wurde frisch abservie
 URL:https://www.pathe.ch/de/filme-events/one-night-only-49702
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tombé du ciel
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:tombe-du-ciel-54355@pathe.ch
-DESCRIPTION:Lyès\, a fan of life in Roubaix\, fails the high school diplo
- ma twice. After a fire during the mock exams\, he is fired and charged. He
-  must join a Catholic boarding school in Burgundy\, where he faces major c
- ultural shocks.
-URL:https://www.pathe.ch/de/filme-events/tombe-du-ciel-54355
+SUMMARY:Tad and the Magic Lamp
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:tad-and-the-magic-lamp-49344@pathe.ch
+DESCRIPTION:Plot unknown
+URL:https://www.pathe.ch/de/filme-events/tad-and-the-magic-lamp-49344
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marsupilami
@@ -159,12 +156,15 @@ DESCRIPTION:David is tasked to deliver a mysterious package from South Ame
 URL:https://www.pathe.ch/de/filme-events/marsupilami-38851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tad and the Magic Lamp
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:tad-and-the-magic-lamp-49344@pathe.ch
-DESCRIPTION:Plot unknown
-URL:https://www.pathe.ch/de/filme-events/tad-and-the-magic-lamp-49344
+SUMMARY:Tombé du ciel
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:tombe-du-ciel-54355@pathe.ch
+DESCRIPTION:Lyès\, a fan of life in Roubaix\, fails the high school diplo
+ ma twice. After a fire during the mock exams\, he is fired and charged. He
+  must join a Catholic boarding school in Burgundy\, where he faces major c
+ ultural shocks.
+URL:https://www.pathe.ch/de/filme-events/tombe-du-ciel-54355
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detective Conan: Fallen Angel of the Highway
@@ -242,16 +242,6 @@ DESCRIPTION:In OBSESSION – DU SOLLST MICH LIEBEN nutzt der hoffnungslose
 URL:https://www.pathe.ch/de/filme-events/obsession-51276
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:De Gaulle: The Sovereign Edge
-DTSTART:20260701T040000Z
-DTEND:20260701T040000Z
-UID:de-gaulle-the-sovereign-edge-50866@pathe.ch
-DESCRIPTION:Charles De Gaulle's journey as a French army officer from 1940
-  to 1945\, tracking his evolution toward a political career.
-URL:https://www.pathe.ch/de/filme-events/de-gaulle-the-sovereign-edge-5086
- 6
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fjord
 DTSTART:20260819T040000Z
 DTEND:20260819T040000Z
@@ -300,19 +290,25 @@ DESCRIPTION:Die Pflegeheim-Leiterin Marie-Lou setzt sich dafür ein\, in i
 URL:https://www.pathe.ch/de/filme-events/soudain-52918
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Steckerlfischfiasko
-DTSTART:20260813T040000Z
-DTEND:20260813T040000Z
-UID:steckerlfischfiasko-51932@pathe.ch
-DESCRIPTION:Für den beliebten Dorfgendarm Franz Eberhofer geht es auf bis
- her unberührtes Terrain\, als der örtliche Steckerlfischkönig auf dem h
- iesigen Golfplatz mausetot aufgefunden wird. Klar\, dass sich der Franz da
-  nicht länger mit Nichtigkeiten wie dem Umzug in den Neubau oder dem Wahl
- kampf von der Susi zur Bürgermeisterin aufhalten kann. Gemeinsam mit Kump
- el Rudi Birkenberger und dem richtigen Riecher ermittelt das wiedervereint
- e Dreamteam im zehnten filmischen Abenteuer inmitten zweier verfeindeter V
- olksfestclans – Fiasko vorprogrammiert.
-URL:https://www.pathe.ch/de/filme-events/steckerlfischfiasko-51932
+SUMMARY:25th Anniversary: Harry Potter: Der Stein der Weisen
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:25th-anniversary-harry-potter-der-stein-der-weisen-46577@pathe.ch
+DESCRIPTION:An orphaned boy enrolls in a school of wizardry\, where he lea
+ rns the truth about himself\, his family and the terrible evil that haunts
+  the magical world.
+URL:https://www.pathe.ch/de/filme-events/25th-anniversary-harry-potter-der
+ -stein-der-weisen-46577
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De Gaulle: The Sovereign Edge
+DTSTART:20260701T040000Z
+DTEND:20260701T040000Z
+UID:de-gaulle-the-sovereign-edge-50866@pathe.ch
+DESCRIPTION:Charles De Gaulle's journey as a French army officer from 1940
+  to 1945\, tracking his evolution toward a political career.
+URL:https://www.pathe.ch/de/filme-events/de-gaulle-the-sovereign-edge-5086
+ 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Bataille de Gaulle : L’âge de fer
@@ -362,6 +358,21 @@ DESCRIPTION:Menschen unterschiedlicher Herkunft geben sich allein oder in
 URL:https://www.pathe.ch/de/filme-events/melodie-54443
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Steckerlfischfiasko
+DTSTART:20260813T040000Z
+DTEND:20260813T040000Z
+UID:steckerlfischfiasko-51932@pathe.ch
+DESCRIPTION:Für den beliebten Dorfgendarm Franz Eberhofer geht es auf bis
+ her unberührtes Terrain\, als der örtliche Steckerlfischkönig auf dem h
+ iesigen Golfplatz mausetot aufgefunden wird. Klar\, dass sich der Franz da
+  nicht länger mit Nichtigkeiten wie dem Umzug in den Neubau oder dem Wahl
+ kampf von der Susi zur Bürgermeisterin aufhalten kann. Gemeinsam mit Kump
+ el Rudi Birkenberger und dem richtigen Riecher ermittelt das wiedervereint
+ e Dreamteam im zehnten filmischen Abenteuer inmitten zweier verfeindeter V
+ olksfestclans – Fiasko vorprogrammiert.
+URL:https://www.pathe.ch/de/filme-events/steckerlfischfiasko-51932
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The North
 DTSTART:20260819T040000Z
 DTEND:20260819T040000Z
@@ -378,6 +389,17 @@ DESCRIPTION:Ein Jahrzehnt nachdem sie beste Freunde und Mitbewohner waren
  ahrheiten über sich selbst\, ihre Freundschaft und darüber zu stellen\, 
  was es wirklich bedeutet\, stillzustehen und zuzuhören.
 URL:https://www.pathe.ch/de/filme-events/the-north-54350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Waves
+DTSTART:20260701T040000Z
+DTEND:20260701T040000Z
+UID:in-waves-54353@pathe.ch
+DESCRIPTION:AJ\, meets Kristen in high school. Kristen is passionate about
+  surfing. AJ\, Kristen's life starts falling apart\, shattered by illness.
+  They fight with adversity dignity and enjoy their shared passion for surf
+ ing and for the ocean
+URL:https://www.pathe.ch/de/filme-events/in-waves-54353
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma
@@ -473,17 +495,6 @@ DESCRIPTION:'2001: A Space Odyssee' erzählt die Geschichte der Astronaute
   nicht nur in die unbekannten Tiefen des Raumes entführt\, sondern zum Ur
  sprung des Lebens selbst.
 URL:https://www.pathe.ch/de/filme-events/2001-a-space-odyssey-50423
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:25th Anniversary: Harry Potter: Der Stein der Weisen
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:25th-anniversary-harry-potter-der-stein-der-weisen-46577@pathe.ch
-DESCRIPTION:An orphaned boy enrolls in a school of wizardry\, where he lea
- rns the truth about himself\, his family and the terrible evil that haunts
-  the magical world.
-URL:https://www.pathe.ch/de/filme-events/25th-anniversary-harry-potter-der
- -stein-der-weisen-46577
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ah Que le Bonheur est Proche!
@@ -880,6 +891,27 @@ DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/demain-je-tombe-amoureux-51583
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:De Rägebogefisch
+DTSTART:20261119T040000Z
+DTEND:20261119T040000Z
+UID:de-ragebogefisch-51589@pathe.ch
+DESCRIPTION:Der Regenbogenfisch ist mit seinen schillernden Schuppen der s
+ chönste Fisch im ganzen Ozean. Doch er ist auch etwas eitel und stösst d
+ amit die anderen Fische vor den Kopf. Mit der Zeit wird er so immer einsam
+ er. Als er eines Tages eine seiner geliebten Glitzerschuppen verliert\, be
+ gleitet ihn der ‘Kleine Blaue’ auf der Suche danach in die tiefste Tie
+ fsee. Eine abenteuerliche Meeresreise beginnt – und der Regenbogenfisch 
+ erkennt\, dass man gemeinsam viel mutiger ist als allein\, und dass echte 
+ Freundschaft kostbarer ist als das prächtigste Schuppenkleid.<br/><br/>Al
+ s liebevolle Adaption durch die Augsburger Puppenkiste®\, produziert vom 
+ Team von «Heidi»\, «Di chli Häx» und «De Räuber Hotzenplotz» und m
+ it den Simmen von Max Hubacher und Luna Wedler\, erstrahlt der weltweit be
+ kannte Kinderbuch-Klassiker des Berner Autors und Illustrators Marcus Pfis
+ ter erstmals auf der grossen Leinwand. Einzigartig\, zeitgemäss interpret
+ iert – und auf Schweizerdeutsch!
+URL:https://www.pathe.ch/de/filme-events/de-ragebogefisch-51589
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Der Astronaut - Project Hail Mary
 DTSTART:20260318T040000Z
 DTEND:20260318T040000Z
@@ -975,14 +1007,6 @@ DESCRIPTION:Die Freundesgruppe aus „Das perfekte Geheimnis“ muss sich
  auf einem chaotisch verlaufenden Kurztrip in den Süden die Frage stellen:
   Gibt es ein Leben nach der Wahrheit oder ist ihre Freundschaft vorbei?
 URL:https://www.pathe.ch/de/filme-events/der-perfekte-urlaub-51935
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Regenbogenfisch
-DTSTART:20261119T040000Z
-DTEND:20261119T040000Z
-UID:der-regenbogenfisch-51589@pathe.ch
-DESCRIPTION:Plot unknown
-URL:https://www.pathe.ch/de/filme-events/der-regenbogenfisch-51589
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Super Mario Galaxy Film
@@ -1126,21 +1150,6 @@ DESCRIPTION:Verbier. Luz (35)\, aus den Philippinen\, reinigt als Sans-Pap
  me Geld beschaffen. Dabei entfremdet sie sich zunehmend von ihrer Gemeinsc
  haft und schlittert immer mehr in die Illegalität.<br/><br/>
 URL:https://www.pathe.ch/de/filme-events/enjoy-your-stay-54627
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evil Dead Burn
-DTSTART:20260708T040000Z
-DTEND:20260708T040000Z
-UID:evil-dead-burn-52159@pathe.ch
-DESCRIPTION:EVIL DEAD BURN entfesselt das bisher brutalste und furchterreg
- endste Abenteuer der Reihe und erobert die Kinoleinwände mit einem brandn
- euen Kapitel voller Gemetzel und dämonischem Chaos. Nach dem Tod ihres Ma
- nnes sucht eine Frau Trost bei ihren Schwiegereltern auf deren abgelegenem
-  Familienanwesen. Als sich jedoch einer nach dem anderen in Deadites verwa
- ndelt\, wodurch das Beisammensein zu einem Familientreffen aus der Hölle 
- wird\, muss sie feststellen\, dass die Versprechen\, die sie zu Lebzeiten 
- gegeben hat\, selbst im Tod weiterleben.
-URL:https://www.pathe.ch/de/filme-events/evil-dead-burn-52159
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Forgotten Island 
@@ -2444,19 +2453,6 @@ BEGIN:VEVENT
 SUMMARY:Street Fighter
 DTSTART:20261014T040000Z
 DTEND:20261014T040000Z
-UID:street-fighter-54680@pathe.ch
-DESCRIPTION:Set in 1993\, estranged Street Fighters Ryu (Andrew Koji) and 
- Ken Masters (Noah Centineo) are thrown back into combat when the mysteriou
- s Chun-Li (Callina Liang) recruits them for the next World Warrior Tournam
- ent: a brutal clash of fists\, fate\, and fury. But behind this battle roy
- ale lies a deadly conspiracy that forces them to face off against each oth
- er and the demons of their past. And if they don’t\, it’s GAME OVER!
-URL:https://www.pathe.ch/de/filme-events/street-fighter-54680
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Street Fighter
-DTSTART:20261014T040000Z
-DTEND:20261014T040000Z
 UID:street-fighter-55058@pathe.ch
 DESCRIPTION:Set in 1993\, estranged Street Fighters Ryu (Andrew Koji) and 
  Ken Masters (Noah Centineo) are thrown back into combat when the mysteriou
@@ -2465,6 +2461,19 @@ DESCRIPTION:Set in 1993\, estranged Street Fighters Ryu (Andrew Koji) and
  ale lies a deadly conspiracy that forces them to face off against each oth
  er and the demons of their past. And if they don’t\, it’s GAME OVER!
 URL:https://www.pathe.ch/de/filme-events/street-fighter-55058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Fighter
+DTSTART:20261014T040000Z
+DTEND:20261014T040000Z
+UID:street-fighter-54680@pathe.ch
+DESCRIPTION:Set in 1993\, estranged Street Fighters Ryu (Andrew Koji) and 
+ Ken Masters (Noah Centineo) are thrown back into combat when the mysteriou
+ s Chun-Li (Callina Liang) recruits them for the next World Warrior Tournam
+ ent: a brutal clash of fists\, fate\, and fury. But behind this battle roy
+ ale lies a deadly conspiracy that forces them to face off against each oth
+ er and the demons of their past. And if they don’t\, it’s GAME OVER!
+URL:https://www.pathe.ch/de/filme-events/street-fighter-54680
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tenku No Shiro Rapyuta (Castle in the Sky)

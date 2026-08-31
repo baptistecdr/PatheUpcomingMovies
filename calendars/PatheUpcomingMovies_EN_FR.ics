@@ -153,25 +153,17 @@ DESCRIPTION:Nos jouets préférés sont de retour pour une cinquième aven
 URL:https://www.pathe.fr/en/movies-events/toy-story-5-38778
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harry Potter et la chambre des secrets
-DTSTART:20020204T040000Z
-DTEND:20020204T040000Z
-UID:harry-potter-et-la-chambre-des-secrets@pathe.fr
-DESCRIPTION:Alors que l'oncle Vernon\, la tante Pétunia et son cousin Dud
- ley reçoivent d'importants invités à dîner\, Harry Potter est contrain
- t de passer la soirée dans sa chambre. Dobby\, un elfe\, fait alors son a
- pparition. Il lui annonce que de terribles dangers menacent l'école de Po
- udlard et qu'il ne doit pas y retourner en septembre. Harry refuse de le c
- roire.<br/>Mais sitôt la rentrée des classes effectuée\, ce dernier ent
- end une voix malveillante. Celle-ci lui dit que la redoutable et légendai
- re Chambre des secrets est à nouveau ouverte\, permettant ainsi à l'hér
- itier de Serpentard de semer le chaos à Poudlard. Les victimes\, retrouv
- ées pétrifiées par une force mystérieuse\, se succèdent dans les coul
- oirs de l'école\, sans que les professeurs - pas même le populaire Gilde
- roy Lockhart - ne parviennent à endiguer la menace. Aidé de Ron et Hermi
- one\, Harry doit agir au plus vite pour sauver Poudlard.
-URL:https://www.pathe.fr/en/movies-events/harry-potter-et-la-chambre-des-s
- ecrets
+SUMMARY:Harry Potter et les reliques de la mort - partie 1
+DTSTART:20101124T040000Z
+DTEND:20101124T040000Z
+UID:harry-potter-et-les-reliques-de-la-mort-partie-1@pathe.fr
+DESCRIPTION:Le pouvoir de Voldemort s'étend. Celui-ci contrôle maintenan
+ t le Ministère de la Magie et Poudlard. Harry\, Ron et Hermione décident
+  de terminer le travail commencé par Dumbledore\, et de retrouver les der
+ niers Horcruxes pour vaincre le Seigneur des Ténèbres. Mais il reste bie
+ n peu d'espoir aux trois sorciers\, qui doivent réussir à tout prix.
+URL:https://www.pathe.fr/en/movies-events/harry-potter-et-les-reliques-de-
+ la-mort-partie-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Nirvana
@@ -206,25 +198,6 @@ URL:https://www.pathe.fr/en/movies-events/la-bataille-de-gaulle-partie-2-j
  -ecris-ton-nom-50855
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Bataille de Gaulle - Partie 1 : L’âge de fer
-DTSTART:20260603T040000Z
-DTEND:20260603T040000Z
-UID:la-bataille-de-gaulle-partie-1-l-age-de-fer-50854@pathe.fr
-DESCRIPTION:Juin 1940. La France s'effondre et signe l’armistice. Au mil
- ieu du chaos\, un homme refuse de céder. Seul contre tous\, ce général 
- inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la
-  liberté.<br/><br/>Sans armée\, sans appui\, sans espoir. Mais avec une 
- folle conviction : la France\, sa France\, n'a pas déposé les armes. Il 
- tente un ultime pari : convaincre le monde que la bataille de France n'est
-  ni terminée\, ni perdue.<br/><br/>La réalité est têtue\, et lui donne
-  tort. Mais peu à peu se lèvent autour de lui en Angleterre\, en France 
- et en Afrique des résistants de l'ombre\, des lycéens révoltés\, des s
- oldats déterminés. Leur foi\, leur audace\, leur rage de liberté défie
- nt l'Histoire qui semblait pourtant écrite d’avance.
-URL:https://www.pathe.fr/en/movies-events/la-bataille-de-gaulle-partie-1-l
- -age-de-fer-50854
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fjord
 DTSTART:20260819T040000Z
 DTEND:20260819T040000Z
@@ -250,6 +223,25 @@ DESCRIPTION:David Zimmerman a bientôt 40 ans\, il est photographe mais pe
  oule\, ne peut en détacher le regard\, la suit.... Quelques heures plus t
  ard\, David se réveille : il est dans le corps de l’inconnue.
 URL:https://www.pathe.fr/en/movies-events/l-inconnue-52730
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Bataille de Gaulle - Partie 1 : L’âge de fer
+DTSTART:20260603T040000Z
+DTEND:20260603T040000Z
+UID:la-bataille-de-gaulle-partie-1-l-age-de-fer-50854@pathe.fr
+DESCRIPTION:Juin 1940. La France s'effondre et signe l’armistice. Au mil
+ ieu du chaos\, un homme refuse de céder. Seul contre tous\, ce général 
+ inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la
+  liberté.<br/><br/>Sans armée\, sans appui\, sans espoir. Mais avec une 
+ folle conviction : la France\, sa France\, n'a pas déposé les armes. Il 
+ tente un ultime pari : convaincre le monde que la bataille de France n'est
+  ni terminée\, ni perdue.<br/><br/>La réalité est têtue\, et lui donne
+  tort. Mais peu à peu se lèvent autour de lui en Angleterre\, en France 
+ et en Afrique des résistants de l'ombre\, des lycéens révoltés\, des s
+ oldats déterminés. Leur foi\, leur audace\, leur rage de liberté défie
+ nt l'Histoire qui semblait pourtant écrite d’avance.
+URL:https://www.pathe.fr/en/movies-events/la-bataille-de-gaulle-partie-1-l
+ -age-de-fer-50854
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De la Comédie-Française
@@ -279,6 +271,20 @@ DESCRIPTION:Enzo\, sans domicile\, enchaîne les arnaques sur le dos de je
 URL:https://www.pathe.fr/en/movies-events/bombonera-54402
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Des Minions et des monstres
+DTSTART:20260624T040000Z
+DTEND:20260624T040000Z
+UID:des-minions-et-des-monstres-40746@pathe.fr
+DESCRIPTION:Une histoire aussi rocambolesque qu’absurde\, mais bien sûr
+  totalement véridique\, qui raconte comment les Minions\, partis à la co
+ nquête d’Hollywood\, sont devenus des stars de cinéma\, pour finalemen
+ t tout perdre en libérant au passage une bande de monstres déchaînés\,
+  avant de s’unir pour tenter de sauver la planète de ce nouveau désast
+ re à leur actif.
+URL:https://www.pathe.fr/en/movies-events/des-minions-et-des-monstres-4074
+ 6
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ma Mini-Séance : Superasticot
 DTSTART:20260812T040000Z
 DTEND:20260812T040000Z
@@ -306,20 +312,6 @@ URL:https://www.pathe.fr/en/movies-events/vaiana-la-legende-du-bout-du-mon
  de-35547
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Des Minions et des monstres
-DTSTART:20260624T040000Z
-DTEND:20260624T040000Z
-UID:des-minions-et-des-monstres-40746@pathe.fr
-DESCRIPTION:Une histoire aussi rocambolesque qu’absurde\, mais bien sûr
-  totalement véridique\, qui raconte comment les Minions\, partis à la co
- nquête d’Hollywood\, sont devenus des stars de cinéma\, pour finalemen
- t tout perdre en libérant au passage une bande de monstres déchaînés\,
-  avant de s’unir pour tenter de sauver la planète de ce nouveau désast
- re à leur actif.
-URL:https://www.pathe.fr/en/movies-events/des-minions-et-des-monstres-4074
- 6
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oklahoma Honey
 DTSTART:20260819T040000Z
 DTEND:20260819T040000Z
@@ -334,30 +326,6 @@ DESCRIPTION:Au cœur des terres reculées de l’Oklahoma rural\, Amziah K
  st sans pitié\, et les rivaux d’Amziah menacent de détruire tout ce qu
  ’il a construit.
 URL:https://www.pathe.fr/en/movies-events/oklahoma-honey-52235
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GHOST: 2 Big To Rig
-DTSTART:20260827T040000Z
-DTEND:20260827T040000Z
-UID:ghost-2-big-to-rig-54848@pathe.fr
-DESCRIPTION:Filmé lors des deux concerts à guichets fermés de GHOST à 
- Mexico l'an dernier\, 2 BIG TO RIG est le témoignage de l'inoubliable SKE
- LETOUR WORLD TOUR du groupe.<br/>Avec les seules images captées par des c
- améras professionnelles de Papa V Perpetua et de son groupe de Nameless G
- houls lors du SKELETOUR\, où les téléphones étaient interdits\, 2 BIG 
- TO RIG plonge les spectateurs au cœur du rituel live de GHOST. <br/>Le fi
- lm offre également un accès exclusif aux coulisses\, des préparatifs au
- x moments les plus intimes de la tournée.<br/>2 BIG TO RIG a été pensé
-  pour permettre aux fidèles de vivre l'expérience du SKELETOUR là où i
- l n'était pas possible de présenter le spectacle pour des raisons logist
- iques. C'est une véritable lettre d'amour à tous ceux qui ont partagé l
- e rituel GHOST.<br/>Tourné en pellicule 16 mm\, GHOST n'a jamais été au
- ssi spectaculaire\, visuellement comme musicalement. Le groupe y interprè
- te des titres issus de ses six albums\, dont SKELETÁ\, numéro un mondial
-  en 2025\, ainsi que des morceaux hors album devenus incontournables comme
-  « Mary On A Cross »\, « Kiss the Go-Goat » et « The Future Is a Fore
- ign Land ».
-URL:https://www.pathe.fr/en/movies-events/ghost-2-big-to-rig-54848
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le triangle d'or
@@ -428,17 +396,6 @@ URL:https://www.pathe.fr/en/movies-events/marius-et-le-royaume-des-mers-47
  389
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toxic (Version Tamoule)
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:toxic-version-tamoule-55052@pathe.fr
-DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
- avit les échelons du monde criminel à travers trahisons et bains de sang
-  pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
-  que le pouvoir exige toujours un lourd sacrifice.
-URL:https://www.pathe.fr/en/movies-events/toxic-version-tamoule-55052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Undertone
 DTSTART:20260812T040000Z
 DTEND:20260812T040000Z
@@ -466,19 +423,16 @@ DESCRIPTION:Aveugle de naissance\, un maître artisan\, admiré pour la be
 URL:https://www.pathe.fr/en/movies-events/the-ugly-49607
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlie et les Kangourous
-DTSTART:20260722T040000Z
-DTEND:20260722T040000Z
-UID:charlie-et-les-kangourous-46994@pathe.fr
-DESCRIPTION:Après une panne de voiture\, Chris\, ancien présentateur mé
- téo vedette\, se retrouve bloqué dans une petite ville reculée d’Aust
- ralie. Il y fait la connaissance de Charlie\, une petite fille aborigène 
- de 12 ans passionnée par les kangourous\, et qui partageait cet amour des
-  animaux avec son père aujourd'hui disparu. Une amitié improbable va alo
- rs se nouer entre eux. Ensemble\, ils vont recueillir et soigner des béb
- és kangourous orphelins et leur offrir une seconde chance. Une aventure q
- ui transformera leur vie…
-URL:https://www.pathe.fr/en/movies-events/charlie-et-les-kangourous-46994
+SUMMARY:Un grand raccourci
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:un-grand-raccourci-52582@pathe.fr
+DESCRIPTION:Quand le restaurant familial menace de fermer\, deux cousins b
+ retons relâchent des rats pour s’improviser dératiseurs. Le même ét
+ é\, deux jeunes femmes trafiquent le concours de beauté local pour promo
+ uvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces qu
+ atre débrouillards en quête d’avenir finissent par se percuter.
+URL:https://www.pathe.fr/en/movies-events/un-grand-raccourci-52582
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Want Your Sex
@@ -495,16 +449,15 @@ DESCRIPTION:Elliot (Cooper Hoffman)\, un jeune homme naïf en quête de se
 URL:https://www.pathe.fr/en/movies-events/i-want-your-sex-52228
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un grand raccourci
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:un-grand-raccourci-52582@pathe.fr
-DESCRIPTION:Quand le restaurant familial menace de fermer\, deux cousins b
- retons relâchent des rats pour s’improviser dératiseurs. Le même ét
- é\, deux jeunes femmes trafiquent le concours de beauté local pour promo
- uvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques\, ces qu
- atre débrouillards en quête d’avenir finissent par se percuter.
-URL:https://www.pathe.fr/en/movies-events/un-grand-raccourci-52582
+SUMMARY:Toxic (Version Tamoule)
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:toxic-version-tamoule-55052@pathe.fr
+DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
+ avit les échelons du monde criminel à travers trahisons et bains de sang
+  pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
+  que le pouvoir exige toujours un lourd sacrifice.
+URL:https://www.pathe.fr/en/movies-events/toxic-version-tamoule-55052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les gendarmes
@@ -532,16 +485,19 @@ DESCRIPTION:Mathieu s'est éloigné de sa communauté turque pour grimper
 URL:https://www.pathe.fr/en/movies-events/une-affaire-turque-52677
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L'Odyssée : Projection IMAX 70mm
-DTSTART:20260715T040000Z
-DTEND:20260715T040000Z
-UID:l-odyssee-projection-imax-70mm-54413@pathe.fr
-DESCRIPTION:L’Odyssée est une épopée mythique tournée à travers le 
- monde qui suit le retour d'Ulysse vers Ithaque. Pour la première fois\, l
- a saga fondatrice d'Homère est portée sur les écrans de manière specta
- culaire avec la toute dernière technologie IMAX.
-URL:https://www.pathe.fr/en/movies-events/l-odyssee-projection-imax-70mm-5
- 4413
+SUMMARY:Charlie et les Kangourous
+DTSTART:20260722T040000Z
+DTEND:20260722T040000Z
+UID:charlie-et-les-kangourous-46994@pathe.fr
+DESCRIPTION:Après une panne de voiture\, Chris\, ancien présentateur mé
+ téo vedette\, se retrouve bloqué dans une petite ville reculée d’Aust
+ ralie. Il y fait la connaissance de Charlie\, une petite fille aborigène 
+ de 12 ans passionnée par les kangourous\, et qui partageait cet amour des
+  animaux avec son père aujourd'hui disparu. Une amitié improbable va alo
+ rs se nouer entre eux. Ensemble\, ils vont recueillir et soigner des béb
+ és kangourous orphelins et leur offrir une seconde chance. Une aventure q
+ ui transformera leur vie…
+URL:https://www.pathe.fr/en/movies-events/charlie-et-les-kangourous-46994
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Superasticot
@@ -558,42 +514,6 @@ DESCRIPTION:Découvrez le superhéros le plus ondulant et le plus tortilla
 URL:https://www.pathe.fr/en/movies-events/superasticot
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dégel
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:degel-52330@pathe.fr
-DESCRIPTION:Chili\, 1992. Le pays reste marqué par des années de dictatu
- re. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en
-  station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeun
- e sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser d
- e trace\, l’enfant cherche à comprendre…
-URL:https://www.pathe.fr/en/movies-events/degel-52330
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La fille dans les nuages
-DTSTART:20260722T040000Z
-DTEND:20260722T040000Z
-UID:la-fille-dans-les-nuages-50711@pathe.fr
-DESCRIPTION:Une plume magique qui rend réel tout ce qu’elle écrit vien
- t bouleverser la vie de Providence\, 11 ans\, et de son cochon d’Inde Ai
- rbag. Dotés de cet immense pouvoir\, ils s’envolent pour un incroyable 
- voyage…
-URL:https://www.pathe.fr/en/movies-events/la-fille-dans-les-nuages-50711
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Waves
-DTSTART:20260701T040000Z
-DTEND:20260701T040000Z
-UID:in-waves-51867@pathe.fr
-DESCRIPTION:A Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle
-  est passionnée de surf\, lui de skateboard et de dessin. Ils tombent fol
- lement amoureux \; un avenir heureux se profile.<br/>Mais tout bascule lor
- sque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre
-  l’adversité\, portés par la force de leur amour\, leurs amis et leur 
- passion désormais commune pour le surf et l’océan.
-URL:https://www.pathe.fr/en/movies-events/in-waves-51867
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jim Queen
 DTSTART:20260617T040000Z
 DTEND:20260617T040000Z
@@ -606,6 +526,18 @@ DESCRIPTION:Jim\, icône sexy de la scène gay parisienne\, voit sa vie ba
  s partiront en quête d’un mystérieux remède capable de guérir Jim et
   d'empêcher l'extinction de l’homosexualité...
 URL:https://www.pathe.fr/en/movies-events/jim-queen-50675
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dégel
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:degel-52330@pathe.fr
+DESCRIPTION:Chili\, 1992. Le pays reste marqué par des années de dictatu
+ re. Alors qu’elle est gardée par ses grands-parents dans leur hôtel en
+  station de ski\, Inès\, 9 ans\, se lie d’amitié avec Hanna\, une jeun
+ e sportive venue d’Allemagne. Lorsque celle-ci disparaît sans laisser d
+ e trace\, l’enfant cherche à comprendre…
+URL:https://www.pathe.fr/en/movies-events/degel-52330
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harry Potter à l'école des sorciers
@@ -630,34 +562,59 @@ URL:https://www.pathe.fr/en/movies-events/harry-potter-a-l-ecole-des-sorci
  ers
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Les Baleines Bleues : Le retour des Géants
-DTSTART:20241218T040000Z
-DTEND:20241218T040000Z
-UID:les-baleines-bleues-le-retour-des-geants-43510@pathe.fr
-DESCRIPTION:Découvrez la beauté du monde sur écran géant ! Les baleine
- s bleues sont les plus grands animaux ayant jamais existé\, plus grands e
- ncore que les dinosaures. Plus longues qu'un avion de ligne\, leur langue 
- pèse à elle seule le poids d'un éléphant. Nulle part ailleurs vous ne 
- les verrez d'aussi près. Embarquez pour l'aventure d'une vie\, à la rech
- erche d'un groupe de baleines bleues disparu depuis des décennies\, dans 
- un coin reculé de l'océan que ni scientifiques ni équipes de tournage n
- 'avaient encore jamais atteint.
-URL:https://www.pathe.fr/en/movies-events/les-baleines-bleues-le-retour-de
- s-geants-43510
+SUMMARY:L'Odyssée : Projection IMAX 70mm
+DTSTART:20260715T040000Z
+DTEND:20260715T040000Z
+UID:l-odyssee-projection-imax-70mm-54413@pathe.fr
+DESCRIPTION:L’Odyssée est une épopée mythique tournée à travers le 
+ monde qui suit le retour d'Ulysse vers Ithaque. Pour la première fois\, l
+ a saga fondatrice d'Homère est portée sur les écrans de manière specta
+ culaire avec la toute dernière technologie IMAX.
+URL:https://www.pathe.fr/en/movies-events/l-odyssee-projection-imax-70mm-5
+ 4413
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Serengeti : Voyage au cœur de l’Afrique
-DTSTART:20250702T040000Z
-DTEND:20250702T040000Z
-UID:serengeti-voyage-au-coeur-de-l-afrique-48591@pathe.fr
-DESCRIPTION:La vie dans le Serengeti n'a jamais été aussi intense. Il ab
- rite la plupart des animaux connus d'Afrique et l'un des plus grands évé
- nements naturels du monde : la migration annuelle des gnous. La nature a c
- réé un équilibre parfait où chaque espèce a un rôle bien précis à 
- jouer dans une histoire plus vaste : l'équilibre d'un écosystème entier
- .
-URL:https://www.pathe.fr/en/movies-events/serengeti-voyage-au-coeur-de-l-a
- frique-48591
+SUMMARY:Harry Potter et la chambre des secrets
+DTSTART:20020204T040000Z
+DTEND:20020204T040000Z
+UID:harry-potter-et-la-chambre-des-secrets@pathe.fr
+DESCRIPTION:Alors que l'oncle Vernon\, la tante Pétunia et son cousin Dud
+ ley reçoivent d'importants invités à dîner\, Harry Potter est contrain
+ t de passer la soirée dans sa chambre. Dobby\, un elfe\, fait alors son a
+ pparition. Il lui annonce que de terribles dangers menacent l'école de Po
+ udlard et qu'il ne doit pas y retourner en septembre. Harry refuse de le c
+ roire.<br/>Mais sitôt la rentrée des classes effectuée\, ce dernier ent
+ end une voix malveillante. Celle-ci lui dit que la redoutable et légendai
+ re Chambre des secrets est à nouveau ouverte\, permettant ainsi à l'hér
+ itier de Serpentard de semer le chaos à Poudlard. Les victimes\, retrouv
+ ées pétrifiées par une force mystérieuse\, se succèdent dans les coul
+ oirs de l'école\, sans que les professeurs - pas même le populaire Gilde
+ roy Lockhart - ne parviennent à endiguer la menace. Aidé de Ron et Hermi
+ one\, Harry doit agir au plus vite pour sauver Poudlard.
+URL:https://www.pathe.fr/en/movies-events/harry-potter-et-la-chambre-des-s
+ ecrets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toxic (Version Hindi)
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:toxic-version-hindi-55053@pathe.fr
+DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
+ avit les échelons du monde criminel à travers trahisons et bains de sang
+  pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
+  que le pouvoir exige toujours un lourd sacrifice.
+URL:https://www.pathe.fr/en/movies-events/toxic-version-hindi-55053
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toxic (Version Kannada)
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:toxic-version-kannada-55054@pathe.fr
+DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
+ avit les échelons du monde criminel à travers trahisons et bains de sang
+  pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
+  que le pouvoir exige toujours un lourd sacrifice.
+URL:https://www.pathe.fr/en/movies-events/toxic-version-kannada-55054
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Galaxy\, Le Film
@@ -680,6 +637,20 @@ DESCRIPTION:Si tu découvrais que nous ne sommes pas seuls ? Si on te le m
 URL:https://www.pathe.fr/en/movies-events/disclosure-day-50901
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Les enfants de la résistance
+DTSTART:20260211T040000Z
+DTEND:20260211T040000Z
+UID:les-enfants-de-la-resistance-43495@pathe.fr
+DESCRIPTION:Pendant l’occupation allemande durant la seconde guerre mond
+ iale\, François\, Eusèbe et Lisa\, trois enfants courageux\, se lancent 
+ dans une aventure secrète : résister aux nazis en plein cœur de la Fran
+ ce. Sabotages\, messages cachés et évasions périlleuses\, ils mènent d
+ es actions clandestines sous le nez de l’ennemi. L’audace et l’amiti
+ é sont leurs seules armes pour lutter contre l’injustice.
+URL:https://www.pathe.fr/en/movies-events/les-enfants-de-la-resistance-434
+ 95
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Vénus électrique
 DTSTART:20260513T040000Z
 DTEND:20260513T040000Z
@@ -697,6 +668,31 @@ DESCRIPTION:Paris\, 1928.<br/>Antoine Balestro\, jeune peintre en vogue\,
 URL:https://www.pathe.fr/en/movies-events/la-venus-electrique-51966
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amélie et la métaphysique des tubes
+DTSTART:20250625T040000Z
+DTEND:20250625T040000Z
+UID:amelie-et-la-metaphysique-des-tubes-36770@pathe.fr
+DESCRIPTION:Amélie est une petite fille belge née au Japon. Grâce à so
+ n amie Nishio-san\, le monde n’est qu’aventures et découvertes. Mais 
+ le jour de ses trois ans\, un événement change le cours de sa vie. Car a
+ ̀ cet âge-là pour Amélie tout se joue : le bonheur comme la tragédie
+ .<br/><br/>Amélie et la métaphysique des tubes est adapté du roman d’
+ Amélie Nothomb.
+URL:https://www.pathe.fr/en/movies-events/amelie-et-la-metaphysique-des-tu
+ bes-36770
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La fille dans les nuages
+DTSTART:20260722T040000Z
+DTEND:20260722T040000Z
+UID:la-fille-dans-les-nuages-50711@pathe.fr
+DESCRIPTION:Une plume magique qui rend réel tout ce qu’elle écrit vien
+ t bouleverser la vie de Providence\, 11 ans\, et de son cochon d’Inde Ai
+ rbag. Dotés de cet immense pouvoir\, ils s’envolent pour un incroyable 
+ voyage…
+URL:https://www.pathe.fr/en/movies-events/la-fille-dans-les-nuages-50711
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Belle
 DTSTART:20211229T040000Z
 DTEND:20211229T040000Z
@@ -710,6 +706,19 @@ DESCRIPTION:Dans la vie réelle\, Suzu est une adolescente complexée\, co
  é-croisé virtuel entre Belle et la Bête\, au terme duquel Suzu va déco
  uvrir qui elle est...
 URL:https://www.pathe.fr/en/movies-events/belle-14619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Waves
+DTSTART:20260701T040000Z
+DTEND:20260701T040000Z
+UID:in-waves-51867@pathe.fr
+DESCRIPTION:A Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle
+  est passionnée de surf\, lui de skateboard et de dessin. Ils tombent fol
+ lement amoureux \; un avenir heureux se profile.<br/>Mais tout bascule lor
+ sque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre
+  l’adversité\, portés par la force de leur amour\, leurs amis et leur 
+ passion désormais commune pour le surf et l’océan.
+URL:https://www.pathe.fr/en/movies-events/in-waves-51867
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Une aube nouvelle
@@ -779,31 +788,28 @@ URL:https://www.pathe.fr/en/movies-events/bethlehem-kudumba-unit-version-m
  alayalam-55043
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harry Potter et les reliques de la mort - partie 1
-DTSTART:20101124T040000Z
-DTEND:20101124T040000Z
-UID:harry-potter-et-les-reliques-de-la-mort-partie-1@pathe.fr
-DESCRIPTION:Le pouvoir de Voldemort s'étend. Celui-ci contrôle maintenan
- t le Ministère de la Magie et Poudlard. Harry\, Ron et Hermione décident
-  de terminer le travail commencé par Dumbledore\, et de retrouver les der
- niers Horcruxes pour vaincre le Seigneur des Ténèbres. Mais il reste bie
- n peu d'espoir aux trois sorciers\, qui doivent réussir à tout prix.
-URL:https://www.pathe.fr/en/movies-events/harry-potter-et-les-reliques-de-
- la-mort-partie-1
+SUMMARY:Deep Sky
+DTSTART:20250820T040000Z
+DTEND:20250820T040000Z
+UID:deep-sky-49114@pathe.fr
+DESCRIPTION:Découvrez l'aventure fascinante du télescope spatial James W
+ ebb et la remarquable coopération internationale qui a rendu cet observat
+ oire spatial possible. Revivez son lancement spectaculaire à bord de la f
+ usée Ariane 5 et embarquez pour un voyage à travers le cosmos et le temp
+ s.
+URL:https://www.pathe.fr/en/movies-events/deep-sky-49114
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harry Potter et les reliques de la mort - partie 2
-DTSTART:20110713T040000Z
-DTEND:20110713T040000Z
-UID:harry-potter-et-les-reliques-de-la-mort-partie-2@pathe.fr
-DESCRIPTION:Dans la 2e Partie de cet épisode final\, le combat entre les 
- puissances du bien et du mal de l’univers des sorciers se transforme en 
- guerre sans merci. Les enjeux n’ont jamais été si considérables et pe
- rsonne n’est en sécurité. Mais c’est Harry Potter qui peut être app
- elé pour l’ultime sacrifice alors que se rapproche l’ultime épreuve 
- de force avec Voldemort.
-URL:https://www.pathe.fr/en/movies-events/harry-potter-et-les-reliques-de-
- la-mort-partie-2
+SUMMARY:Hi (Version Tamoule)
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:hi-version-tamoule-54972@pathe.fr
+DESCRIPTION:Hi est une romance dramatique tamoule. L'histoire suit deux vo
+ isins qui se rapprochent progressivement et tombent amoureux. Les premièr
+ es informations officielles décrivent un récit romantique chaleureux («
+  feel-good ») où une simple rencontre et un « Hi » peuvent changer une
+  vie.
+URL:https://www.pathe.fr/en/movies-events/hi-version-tamoule-54972
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Fille Condor
@@ -820,21 +826,6 @@ DESCRIPTION:Clara est une doula quechua qui chante pour apaiser la douleur
 URL:https://www.pathe.fr/en/movies-events/la-fille-condor-51853
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Ligne verte
-DTSTART:20000113T040000Z
-DTEND:20000113T040000Z
-UID:la-ligne-verte-20214@pathe.fr
-DESCRIPTION:Paul Edgecomb\, pensionnaire centenaire d'une maison de retrai
- te\, est hanté par ses souvenirs. Gardien-chef du pénitencier de Cold Mo
- untain en 1935\, il était chargé de veiller au bon déroulement des exé
- cutions capitales en s’efforçant d'adoucir les derniers moments des con
- damnés. Parmi eux se trouvait un colosse du nom de John Coffey\, accusé 
- du viol et du meurtre de deux fillettes. Intrigué par cet homme candide e
- t timide aux dons magiques\, Edgecomb va tisser avec lui des liens très f
- orts...
-URL:https://www.pathe.fr/en/movies-events/la-ligne-verte-20214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Royaume des Requins
 DTSTART:20260624T040000Z
 DTEND:20260624T040000Z
@@ -847,52 +838,59 @@ DESCRIPTION:Le Royaume des Requins vous entraîne dans une grande aventure
 URL:https://www.pathe.fr/en/movies-events/le-royaume-des-requins-54423
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mountain Adventure
-DTSTART:20251224T040000Z
-DTEND:20251224T040000Z
-UID:mountain-adventure-50689@pathe.fr
-DESCRIPTION:Des montagnes australiennes à l’Alaska\, la championne Tora
- h Bright repousse ses limites et explore la beauté fragile des sommets du
-  monde. Entre adrénaline et conscience écologique\, une immersion specta
- culaire au cœur des montagnes sauvages.
-URL:https://www.pathe.fr/en/movies-events/mountain-adventure-50689
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RoboCop
-DTSTART:19880120T040000Z
-DTEND:19880120T040000Z
-UID:robocop-9987@pathe.fr
-DESCRIPTION:A Détroit\, gangrené par le crime organisé\, l'officier de 
- police James Murphy est laissé pour mort après une fusillade. Il devient
-  alors le parfait cobaye pour la création d'une nouvelle arme\, un polici
- er hybride mi-homme\, mi-robot.
-URL:https://www.pathe.fr/en/movies-events/robocop-9987
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toxic (Version Telugu)
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:toxic-version-telugu-55055@pathe.fr
-DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
- avit les échelons du monde criminel à travers trahisons et bains de sang
-  pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
-  que le pouvoir exige toujours un lourd sacrifice.
-URL:https://www.pathe.fr/en/movies-events/toxic-version-telugu-55055
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:T.REX
+SUMMARY:Les Baleines Bleues : Le retour des Géants
 DTSTART:20241218T040000Z
 DTEND:20241218T040000Z
-UID:t-rex-43511@pathe.fr
-DESCRIPTION:Depuis plus d'un siècle\, les dinosaures inspirent et enthous
- iasment le public. Avec les progrès de l'imagerie de synthèse et les ré
- vélations de la paléontologie du tyrannosaure au cours des vingt-cinq de
- rnières années\, le temps est venu de redécouvrir le T-Rex dans les sal
- les de cinéma et les musées les plus prestigieux du monde.<br/>Chronique
-  d'une découverte remarquable dans les terres arides de Hell Creek à l'
- été 2023\, ce film immersif sur le plus écran de France explore la vie 
- et l'époque du T-Rex.
-URL:https://www.pathe.fr/en/movies-events/t-rex-43511
+UID:les-baleines-bleues-le-retour-des-geants-43510@pathe.fr
+DESCRIPTION:Découvrez la beauté du monde sur écran géant ! Les baleine
+ s bleues sont les plus grands animaux ayant jamais existé\, plus grands e
+ ncore que les dinosaures. Plus longues qu'un avion de ligne\, leur langue 
+ pèse à elle seule le poids d'un éléphant. Nulle part ailleurs vous ne 
+ les verrez d'aussi près. Embarquez pour l'aventure d'une vie\, à la rech
+ erche d'un groupe de baleines bleues disparu depuis des décennies\, dans 
+ un coin reculé de l'océan que ni scientifiques ni équipes de tournage n
+ 'avaient encore jamais atteint.
+URL:https://www.pathe.fr/en/movies-events/les-baleines-bleues-le-retour-de
+ s-geants-43510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prometheus
+DTSTART:20120530T040000Z
+DTEND:20120530T040000Z
+UID:prometheus-37249@pathe.fr
+DESCRIPTION:Une équipe d’explorateurs découvre un indice sur l’origi
+ ne de l’humanité sur Terre. Cette découverte les entraîne dans un voy
+ age fascinant jusqu’aux recoins les plus sombres de l’univers. Là-bas
+ \, un affrontement terrifiant qui décidera de l’avenir de l’humanité
+  les attend.
+URL:https://www.pathe.fr/en/movies-events/prometheus-37249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serengeti : Voyage au cœur de l’Afrique
+DTSTART:20250702T040000Z
+DTEND:20250702T040000Z
+UID:serengeti-voyage-au-coeur-de-l-afrique-48591@pathe.fr
+DESCRIPTION:La vie dans le Serengeti n'a jamais été aussi intense. Il ab
+ rite la plupart des animaux connus d'Afrique et l'un des plus grands évé
+ nements naturels du monde : la migration annuelle des gnous. La nature a c
+ réé un équilibre parfait où chaque espèce a un rôle bien précis à 
+ jouer dans une histoire plus vaste : l'équilibre d'un écosystème entier
+ .
+URL:https://www.pathe.fr/en/movies-events/serengeti-voyage-au-coeur-de-l-a
+ frique-48591
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath And Sons (Version Tamoule)
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:vishwanath-and-sons-version-tamoule-54933@pathe.fr
+DESCRIPTION:Sanjay Vishwanath\, un sportif international accompli dans la 
+ quarantaine\, voit sa vie bouleversée lorsque ses ambitions\, ses respons
+ abilités familiales et une rencontre amoureuse inattendue s'entremêlent.
+  Le film explore les thèmes de la famille\, de l'amour\, des rêves et de
+ s émotions.
+URL:https://www.pathe.fr/en/movies-events/vishwanath-and-sons-version-tamo
+ ule-54933
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wallace & Gromit : Cœurs à modeler
@@ -1031,18 +1029,31 @@ DESCRIPTION:Adapté d'une des séries de jeux vidéo les plus célèbres e
 URL:https://www.pathe.fr/en/movies-events/uncharted
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Les enfants de la résistance
-DTSTART:20260211T040000Z
-DTEND:20260211T040000Z
-UID:les-enfants-de-la-resistance-43495@pathe.fr
-DESCRIPTION:Pendant l’occupation allemande durant la seconde guerre mond
- iale\, François\, Eusèbe et Lisa\, trois enfants courageux\, se lancent 
- dans une aventure secrète : résister aux nazis en plein cœur de la Fran
- ce. Sabotages\, messages cachés et évasions périlleuses\, ils mènent d
- es actions clandestines sous le nez de l’ennemi. L’audace et l’amiti
- é sont leurs seules armes pour lutter contre l’injustice.
-URL:https://www.pathe.fr/en/movies-events/les-enfants-de-la-resistance-434
- 95
+SUMMARY:LE GRAND BAIN
+DTSTART:20181024T040000Z
+DTEND:20181024T040000Z
+UID:le-grand-bain@pathe.fr
+DESCRIPTION:C’est dans les couloirs de leur piscine municipale que Bertr
+ and\, Marcus\, Simon\, Laurent\, Thierry et les autres s’entraînent sou
+ s l’autorité toute relative de Delphine\, ancienne gloire des bassins. 
+ Ensemble\, ils se sentent libres et utiles. Ils vont mettre toute leur én
+ ergie dans une discipline jusque-là propriété de la gent féminine : la
+  natation synchronisée. Alors\, oui c’est une idée plutôt bizarre\, m
+ ais ce défi leur permettra de trouver un sens à leur vie...
+URL:https://www.pathe.fr/en/movies-events/le-grand-bain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un p’tit truc en plus
+DTSTART:20240501T040000Z
+DTEND:20240501T040000Z
+UID:un-p-tit-truc-en-plus-37489@pathe.fr
+DESCRIPTION:Pour échapper à la police\, un fils (Artus) et son père (Cl
+ ovis Cornillac) en cavale sont contraints de trouver refuge dans une colon
+ ie de vacances pour jeunes adultes en situation de handicap\, se faisant p
+ asser pour un pensionnaire et son éducateur spécialisé… Le début des
+  emmerdes et d’une formidable expérience humaine qui va les changer à 
+ jamais.
+URL:https://www.pathe.fr/en/movies-events/un-p-tit-truc-en-plus-37489
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La maison des femmes
@@ -1058,18 +1069,37 @@ DESCRIPTION:À la Maison des femmes\, entre soin\, écoute et solidarité
 URL:https://www.pathe.fr/en/movies-events/la-maison-des-femmes-43895
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amélie et la métaphysique des tubes
-DTSTART:20250625T040000Z
-DTEND:20250625T040000Z
-UID:amelie-et-la-metaphysique-des-tubes-36770@pathe.fr
-DESCRIPTION:Amélie est une petite fille belge née au Japon. Grâce à so
- n amie Nishio-san\, le monde n’est qu’aventures et découvertes. Mais 
- le jour de ses trois ans\, un événement change le cours de sa vie. Car a
- ̀ cet âge-là pour Amélie tout se joue : le bonheur comme la tragédie
- .<br/><br/>Amélie et la métaphysique des tubes est adapté du roman d’
- Amélie Nothomb.
-URL:https://www.pathe.fr/en/movies-events/amelie-et-la-metaphysique-des-tu
- bes-36770
+SUMMARY:La Plus Précieuse Des Marchandises
+DTSTART:20241120T040000Z
+DTEND:20241120T040000Z
+UID:la-plus-precieuse-des-marchandises-38002@pathe.fr
+DESCRIPTION:Il était une fois\, dans un grand bois\, un pauvre bûcheron 
+ et une pauvre bûcheronne.<br/><br/>Le froid\, la faim\, la misère\, et p
+ artout autour d´eux la guerre\, leur rendaient la vie bien difficile.<br/
+ ><br/>Un jour\, pauvre bûcheronne recueille un bébé. Un bébé jeté d
+ ’un des nombreux trains qui traversent sans cesse leur bois.<br/><br/>Pr
+ otégée quoi qu’il en coûte\, ce bébé\, cette petite marchandise va 
+ bouleverser la vie de cette femme\, de son mari \, et de tous ceux qui von
+ t croiser son destin\, jusqu’à l’homme qui l’a jeté du train.<br/>
+ <br/>Leur histoire va révéler le pire comme le meilleur du cœur des hom
+ mes.
+URL:https://www.pathe.fr/en/movies-events/la-plus-precieuse-des-marchandis
+ es-38002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captives
+DTSTART:20240124T040000Z
+DTEND:20240124T040000Z
+UID:captives-35677@pathe.fr
+DESCRIPTION:Paris\, 1894. <br/>Qui est Fanni qui prétend s’être laiss
+ ée enfermer volontairement à l’Hôpital de la Salpêtrière ? Cherchan
+ t sa mère parmi la multitude des femmes convaincues de « folie »\, Fann
+ i découvre une réalité de l’asile toute autre que ce qu’elle imagin
+ ait\, ainsi que l’amitié inattendue de compagnes d’infortune.<br/>Le 
+ dernier grand bal de la Salpêtrière se prépare. Politiques\, artistes\,
+  mondains s’y presseront. Dernier espoir d’échapper au piège qui se 
+ referme…
+URL:https://www.pathe.fr/en/movies-events/captives-35677
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATHOS - Au cœur de la Patrouille de France
@@ -1095,17 +1125,6 @@ DESCRIPTION:Toute la famille de Ki-taek est au chômage\, et s’intéress
  d’anglais chez les Park. C’est le début d’un engrenage incontrôlab
  le\, dont personne ne sortira véritablement indemne...
 URL:https://www.pathe.fr/en/movies-events/parasite
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hola Frida
-DTSTART:20250212T040000Z
-DTEND:20250212T040000Z
-UID:hola-frida-38377@pathe.fr
-DESCRIPTION:C’est l’histoire d’une petite fille différente. Son mon
- de\, c’est Coyoacan au Mexique. Pétillante\, vibrante\, tout l’intér
- esse. Et lorsque les épreuves se présentent\, elle leur fait face grâce
-  à un imaginaire débordant. Cette petite fille s’appelle Frida Kahlo !
-URL:https://www.pathe.fr/en/movies-events/hola-frida-38377
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulysse
@@ -1166,18 +1185,6 @@ DESCRIPTION:Corry est française et vit au Japon. Elle partage sa vie avec
 URL:https://www.pathe.fr/en/movies-events/l-illusion-de-yakushima-48632
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un petit air de famille
-DTSTART:20190911T040000Z
-DTEND:20190911T040000Z
-UID:un-petit-air-de-famille@pathe.fr
-DESCRIPTION:A partir de 3 ans<br/>La famille\, ce n’est que du bonheur !
-  Enfin\, à condition de ne pas se disputer ni de faire de caprices ! Et s
- i prendre soin les uns des autres était la plus belle des aventures ? Cin
- q histoires de familles pour les enfants\, leurs parents et leurs grands-p
- arents !
-URL:https://www.pathe.fr/en/movies-events/un-petit-air-de-famille
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Good Luck\, Have Fun\, Don't Die
 DTSTART:20260415T040000Z
 DTEND:20260415T040000Z
@@ -1208,18 +1215,6 @@ DESCRIPTION:Traverser les plus grands océans du monde\, voyager le long d
  n bocal !<br/><br/>Un programme pour découvrir l’eau sous toutes ses fo
  rmes qui vous plongera dans des univers aquatiques merveilleux.
 URL:https://www.pathe.fr/en/movies-events/au-fil-de-l-eau-35752
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kyma\, l'onde mystérieuse
-DTSTART:20260805T040000Z
-DTEND:20260805T040000Z
-UID:kyma-l-onde-mysterieuse-51259@pathe.fr
-DESCRIPTION:Tony\, un adolescent solitaire\, est passionné par les animau
- x\, il voit son existence bouleversée lorsqu’il rencontre dans son peti
- t village une créature mystérieuse : la Kyma\, onde sonore vivante capab
- le de briser la matière. Tony l’apprivoise\, sans réaliser le danger q
- u’elle représente…
-URL:https://www.pathe.fr/en/movies-events/kyma-l-onde-mysterieuse-51259
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jardins enchantés
@@ -1274,6 +1269,16 @@ DESCRIPTION:Selma fuit la Syrie en laissant derrière elle un fils de six
 URL:https://www.pathe.fr/en/movies-events/l-etrangere-51782
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:L ECOLE DU BOUT DU MONDE
+DTSTART:20220511T040000Z
+DTEND:20220511T040000Z
+UID:l-ecole-du-bout-du-monde@pathe.fr
+DESCRIPTION:Un jeune instituteur du Bhoutan est envoyé dans la partie la 
+ plus reculée du pays. Loin de la ville\, le quotidien est rude\, mais la 
+ force spirituelle des habitants du village transformera son destin.
+URL:https://www.pathe.fr/en/movies-events/l-ecole-du-bout-du-monde
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Miss Mermaid
 DTSTART:20260701T040000Z
 DTEND:20260701T040000Z
@@ -1302,6 +1307,17 @@ URL:https://www.pathe.fr/en/movies-events/un-champ-de-fraises-pour-l-etern
  ite-50917
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Des fleurs pour Tokyo
+DTSTART:20260805T040000Z
+DTEND:20260805T040000Z
+UID:des-fleurs-pour-tokyo-49825@pathe.fr
+DESCRIPTION:Ren livre des orchidées dans le quartier de Shibuya à Tokyo.
+ <br/>Son père Hajime passe sa vie à dessiner des foyers pour les autres
+ \, jamais pour eux.<br/>Un jour\, par hasard\, une livraison les remet fac
+ e à face.
+URL:https://www.pathe.fr/en/movies-events/des-fleurs-pour-tokyo-49825
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mon petit Halloween
 DTSTART:20241009T040000Z
 DTEND:20241009T040000Z
@@ -1314,6 +1330,21 @@ DESCRIPTION:Chaque année\, les monstres n’ont qu’une journée pour ve
  uces comme des agneaux et les petits fantômes pourraient même devenir vo
  s amis… ou pas !
 URL:https://www.pathe.fr/en/movies-events/mon-petit-halloween-40083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decorado
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:decorado-54380@pathe.fr
+DESCRIPTION:Arnold\, une souris de la classe moyenne au chômage\, travers
+ e une crise existentielle profonde.<br/>Il vit dans une ville ou l'entrepr
+ ise ultra libérale A.L.M.A. dirige tout \; abrutissant la population pour
+  mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis 
+ longtemps l'impression que ce monde est irréel et faux.<br/>Décidant de 
+ se rebeller contre la société\, quitte à devoir affronter ses soi-disan
+ t amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux p
+ our s'échapper de la ville afin de commencer une nouvelle vie.
+URL:https://www.pathe.fr/en/movies-events/decorado-54380
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RRR
@@ -1329,6 +1360,19 @@ DESCRIPTION:Inde coloniale\, années 1920. Deux hommes d’une déterminat
  frontement inévitable\, jusqu’à ce qu’une vérité inattendue éclat
  e…
 URL:https://www.pathe.fr/en/movies-events/rrr-18342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memory of Princess Mumbi
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:memory-of-princess-mumbi-51673@pathe.fr
+DESCRIPTION:En 2093\, le cinéaste Kuve se rend à Umata pour filmer un do
+ cumentaire sur la Grande Guerre des années 2070\, qui a effacé les techn
+ ologies modernes et fait renaître d'anciens royaumes. Il y rencontre Mumb
+ i\, qui le met au défi de réaliser son film sans intelligence artificiel
+ le. Il commence alors à comprendre que même les plus petits moments peuv
+ ent être d'une profonde beauté.
+URL:https://www.pathe.fr/en/movies-events/memory-of-princess-mumbi-51673
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIROUETTE ET LE SAPIN DE NOEL
@@ -1816,18 +1860,6 @@ DESCRIPTION:Chauffeur pour des braqueurs de banque\, Baby a un truc pour
  urne mal… Désormais\, sa liberté\, son avenir avec la fille qu’il ai
  me et sa vie sont en jeu.
 URL:https://www.pathe.fr/en/movies-events/baby-driver
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms : Tout doit disparaître
-DTSTART:20260708T040000Z
-DTEND:20260708T040000Z
-UID:backrooms-tout-doit-disparaitre-54700@pathe.fr
-DESCRIPTION:Avec "Backrooms : Tout doit disparaître"\, découvrez 16 minu
- tes supplémentaires\, dans une scène post-générique exclusive ! Synops
- is : Une étrange porte apparaît dans le sous-sol d’un magasin de meubl
- es.
-URL:https://www.pathe.fr/en/movies-events/backrooms-tout-doit-disparaitre-
- 54700
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Banquise
@@ -2490,31 +2522,6 @@ DESCRIPTION:Les deux jeunes officiers Ferrando et Guglielmo parient avec l
 URL:https://www.pathe.fr/en/movies-events/cosi-fan-tutte-met-52020
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crazy stupid love
-DTSTART:20110914T040000Z
-DTEND:20110914T040000Z
-UID:crazy-stupid-love@pathe.fr
-DESCRIPTION:A tout juste quarante ans\, Cal Weaver mène une vie de rêve 
- - bonne situation\, belle maison\, enfants formidables et mariage parfait 
- avec sa petite amie du lycée. Mais lorsqu’il apprend que sa femme\, Emi
- ly\, le trompe et demande le divorce\, sa vie « parfaite » s’écroule.
-  Pire\, dans le monde des célibataires d’aujourd’hui\, Cal\, qui n’
- a plus dragué depuis des lustres\, se révèle un modèle d’anti séduc
- tion. Passant désormais ses soirées à bouder tout seul au bar du coin\,
-  l’infortuné Cal est pris en main comme complice et protégé d’un s
- éduisant trentenaire\, Jacob Palmer. Pour l’aider à oublier sa femme e
- t à commencer une nouvelle vie\, Jacob tente de faire découvrir à Cal l
- es nombreuses perspectives qui s’offrent à lui : femmes en quête d’a
- ventures\, soirées arrosées entre copains et un chic supérieur à la mo
- yenne.Cal et Emily ne sont pas les seuls en quête d’amour: le fils de C
- al\, Robbie\, 13 ans\, est fou de sa babysitter de 17 ans\, Jessica\, laqu
- elle a jeté son dévolu… sur Cal ! Et en dépit de la transformation de
-  Cal et de ses nombreuses nouvelles conquêtes\, la seule chose qu’il ne
-  peut changer reste son coeur\, qui semble toujours le ramener à son poin
- t de départ.
-URL:https://www.pathe.fr/en/movies-events/crazy-stupid-love
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cuba & Alaska
 DTSTART:20260527T040000Z
 DTEND:20260527T040000Z
@@ -2525,33 +2532,6 @@ DESCRIPTION:Cuba et Alaska sont les surnoms de deux jeunes femmes secouris
  une amitié plus forte que la peur\, la perte\, le temps qui passe et l’
  oubli de la vie d’avant.
 URL:https://www.pathe.fr/en/movies-events/cuba-alaska-52971
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decorado
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:decorado-54380@pathe.fr
-DESCRIPTION:Arnold\, une souris de la classe moyenne au chômage\, travers
- e une crise existentielle profonde.<br/>Il vit dans une ville ou l'entrepr
- ise ultra libérale A.L.M.A. dirige tout \; abrutissant la population pour
-  mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis 
- longtemps l'impression que ce monde est irréel et faux.<br/>Décidant de 
- se rebeller contre la société\, quitte à devoir affronter ses soi-disan
- t amis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux p
- our s'échapper de la ville afin de commencer une nouvelle vie.
-URL:https://www.pathe.fr/en/movies-events/decorado-54380
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deep Sky
-DTSTART:20250820T040000Z
-DTEND:20250820T040000Z
-UID:deep-sky-49114@pathe.fr
-DESCRIPTION:Découvrez l'aventure fascinante du télescope spatial James W
- ebb et la remarquable coopération internationale qui a rendu cet observat
- oire spatial possible. Revivez son lancement spectaculaire à bord de la f
- usée Ariane 5 et embarquez pour un voyage à travers le cosmos et le temp
- s.
-URL:https://www.pathe.fr/en/movies-events/deep-sky-49114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Délivre-nous du mal
@@ -2611,6 +2591,18 @@ DESCRIPTION:L'homme le plus puissant du monde se lance dans une mission ef
  frénée pour prouver qu'il est le sauveur de l'humanité avant que le dé
  sastre qu'il a déclenché ne détruise tout.
 URL:https://www.pathe.fr/en/movies-events/digger-51293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Divines
+DTSTART:20160831T040000Z
+DTEND:20160831T040000Z
+UID:divines-55232@pathe.fr
+DESCRIPTION:Dans un ghetto où se côtoient trafics et religion\, Dounia a
+  soif de pouvoir et de réussite. Soutenue par Maimouna\, sa meilleure ami
+ e\, elle décide de suivre les traces de Rebecca\, une dealeuse respectée
+ . Sa rencontre avec Djigui\, un jeune danseur troublant de sensualité\, v
+ a bouleverser son quotidien.
+URL:https://www.pathe.fr/en/movies-events/divines-55232
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Docteur Folamour
@@ -2878,25 +2870,6 @@ URL:https://www.pathe.fr/en/movies-events/fast-and-furious-tokyo-drift-168
  4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fast & Furious
-DTSTART:20010926T040000Z
-DTEND:20010926T040000Z
-UID:fast-furious-1685@pathe.fr
-DESCRIPTION:La nuit tombée\, Dominic Toretto règne sur les rues de Los A
- ngeles à la tête d'une équipe de fidèles qui partagent son goût du ri
- sque\, sa passion de la vitesse et son culte des voitures de sport lancée
- s à plus de 250 km/h dans des rodéos urbains d'une rare violence. Ses jo
- urnées sont consacrées à bricoler et à relooker des modèles haut de g
- amme\, à les rendre toujours plus performants et plus voyants\, à organi
- ser des joutes illicites où de nombreux candidats s'affrontent sans merci
-  sous le regard énamouré de leurs groupies. A la suite de plusieurs atta
- ques de camions\, la police de L.A. décide d'enquêter sur le milieu des 
- street racers. Brian\, un jeune policier\, est chargé d'inflitrer la band
- e de Toretto\, qui figure\, avec celle de son rival Johnny Tran\, au premi
- er rang des suspects.
-URL:https://www.pathe.fr/en/movies-events/fast-furious-1685
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fast & Furious 4
 DTSTART:20090408T040000Z
 DTEND:20090408T040000Z
@@ -3092,6 +3065,16 @@ DESCRIPTION:En entrant dans ce bar\, Luc n'a qu'une mission : reconquérir
 URL:https://www.pathe.fr/en/movies-events/flush-55019
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Forrest Gump
+DTSTART:19941005T040000Z
+DTEND:19941005T040000Z
+UID:forrest-gump@pathe.fr
+DESCRIPTION:Quelques décennies d'histoire américaine\, des années 1940 
+ à la fin du XXème siècle\, à travers le regard et l'étrange odyssée 
+ d'un homme simple et pur\, Forrest Gump.
+URL:https://www.pathe.fr/en/movies-events/forrest-gump
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Forty Love
 DTSTART:20261125T040000Z
 DTEND:20261125T040000Z
@@ -3145,6 +3128,30 @@ DESCRIPTION:Un long métrage restauré et remasterisé à partir d’image
  88.
 URL:https://www.pathe.fr/en/movies-events/george-michael-the-faith-tour-54
  603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GHOST: 2 Big To Rig
+DTSTART:20260827T040000Z
+DTEND:20260827T040000Z
+UID:ghost-2-big-to-rig-54848@pathe.fr
+DESCRIPTION:Filmé lors des deux concerts à guichets fermés de GHOST à 
+ Mexico l'an dernier\, 2 BIG TO RIG est le témoignage de l'inoubliable SKE
+ LETOUR WORLD TOUR du groupe.<br/>Avec les seules images captées par des c
+ améras professionnelles de Papa V Perpetua et de son groupe de Nameless G
+ houls lors du SKELETOUR\, où les téléphones étaient interdits\, 2 BIG 
+ TO RIG plonge les spectateurs au cœur du rituel live de GHOST. <br/>Le fi
+ lm offre également un accès exclusif aux coulisses\, des préparatifs au
+ x moments les plus intimes de la tournée.<br/>2 BIG TO RIG a été pensé
+  pour permettre aux fidèles de vivre l'expérience du SKELETOUR là où i
+ l n'était pas possible de présenter le spectacle pour des raisons logist
+ iques. C'est une véritable lettre d'amour à tous ceux qui ont partagé l
+ e rituel GHOST.<br/>Tourné en pellicule 16 mm\, GHOST n'a jamais été au
+ ssi spectaculaire\, visuellement comme musicalement. Le groupe y interprè
+ te des titres issus de ses six albums\, dont SKELETÁ\, numéro un mondial
+  en 2025\, ainsi que des morceaux hors album devenus incontournables comme
+  « Mary On A Cross »\, « Kiss the Go-Goat » et « The Future Is a Fore
+ ign Land ».
+URL:https://www.pathe.fr/en/movies-events/ghost-2-big-to-rig-54848
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla Minus Zero
@@ -3219,6 +3226,18 @@ DESCRIPTION:Programme de deux animations : Le gruffalo + Le petit gruffalo
 URL:https://www.pathe.fr/en/movies-events/gruffalo-de-pere-en-fils-52227
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Haiwaan (Version Hindi)
+DTSTART:20260909T040000Z
+DTEND:20260909T040000Z
+UID:haiwaan-version-hindi-55230@pathe.fr
+DESCRIPTION:Un homme aveugle\, expert en arts martiaux\, se retrouve confr
+ onté à un dangereux tueur en série. Lorsqu’il décide de protéger un
+ e jeune fille prise pour cible\, il se lance dans une traque périlleuse o
+ ù il devra utiliser ses autres sens et ses talents de combattant pour dé
+ jouer un criminel particulièrement imprévisible.
+URL:https://www.pathe.fr/en/movies-events/haiwaan-version-hindi-55230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hamlet (Comédie-Française)
 DTSTART:20260607T040000Z
 DTEND:20260607T040000Z
@@ -3233,20 +3252,6 @@ DESCRIPTION:Alors même que les funérailles sont à peine achevées\, Ham
  ès scène\, le public devient spectateur de la bataille qui se déroule d
  ans le crâne et le cœur surchargés d’Hamlet...
 URL:https://www.pathe.fr/en/movies-events/hamlet-comedie-francaise-50207
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harry Potter et la Coupe de Feu
-DTSTART:20051130T040000Z
-DTEND:20051130T040000Z
-UID:harry-potter-et-la-coupe-de-feu@pathe.fr
-DESCRIPTION:La quatrième année à l'école de Poudlard est marquée par 
- le "Tournoi des trois sorciers". Les participants sont choisis par la fame
- use "coupe de feu" qui est à l'origine d'un scandale. Elle sélectionne H
- arry Potter alors qu'il n'a pas l'âge légal requis !<br/>Accusé de tric
- herie et mis à mal par une série d'épreuves physiques de plus en plus d
- ifficiles\, ce dernier sera enfin confronté à Celui dont on ne doit pas 
- prononcer le nom\, Lord V.
-URL:https://www.pathe.fr/en/movies-events/harry-potter-et-la-coupe-de-feu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harry Potter et le Prince de sang mêlé
@@ -3275,38 +3280,18 @@ URL:https://www.pathe.fr/en/movies-events/harry-potter-et-le-prince-de-san
  g-mele
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harry Potter et le Prisonnier d'Azkaban
-DTSTART:20040602T040000Z
-DTEND:20040602T040000Z
-UID:harry-potter-et-le-prisonnier-d-azkaban@pathe.fr
-DESCRIPTION:Sirius Black\, un dangereux sorcier criminel\, s'échappe de l
- a sombre prison d'Azkaban avec un seul et unique but : retrouver Harry Pot
- ter\, en troisième année à l'école de Poudlard. Selon la légende\, Bl
- ack aurait jadis livré les parents du jeune sorcier à leur assassin\, Lo
- rd Voldemort\, et serait maintenant déterminé à tuer Harry...
-URL:https://www.pathe.fr/en/movies-events/harry-potter-et-le-prisonnier-d-
- azkaban
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harry Potter et l'Ordre du Phénix
-DTSTART:20070711T040000Z
-DTEND:20070711T040000Z
-UID:harry-potter-et-l-ordre-du-phenix@pathe.fr
-DESCRIPTION:Alors qu'il entame sa cinquième année d'études à Poudlard
- \, Harry Potter découvre que la communauté des sorciers ne semble pas cr
- oire au retour de Voldemort\, convaincue par une campagne de désinformati
- on orchestrée par le Ministre de la Magie Cornelius Fudge. Afin de le mai
- ntenir sous surveillance\, Fudge impose à Poudlard un nouveau professeur 
- de Défense contre les Forces du Mal\, Dolorès Ombrage\, chargée de main
- tenir l'ordre à l'école et de surveiller les faits et gestes de Dumbledo
- re. Prodiguant aux élèves des cours sans grand intérêt\, celle qui se 
- fait appeler la Grande Inquisitrice de Poudlard semble également décidé
- e à tout faire pour rabaisser Harry. Entouré de ses amis Ron et Hermione
- \, ce dernier met sur pied un groupe secret\, "L'Armée de Dumbledore"\, p
- our leur enseigner l'art de la défense contre les forces du Mal et se pr
- éparer à la guerre qui s'annonce...
-URL:https://www.pathe.fr/en/movies-events/harry-potter-et-l-ordre-du-pheni
- x
+SUMMARY:Harry Potter et les reliques de la mort - partie 2
+DTSTART:20110713T040000Z
+DTEND:20110713T040000Z
+UID:harry-potter-et-les-reliques-de-la-mort-partie-2@pathe.fr
+DESCRIPTION:Dans la 2e Partie de cet épisode final\, le combat entre les 
+ puissances du bien et du mal de l’univers des sorciers se transforme en 
+ guerre sans merci. Les enjeux n’ont jamais été si considérables et pe
+ rsonne n’est en sécurité. Mais c’est Harry Potter qui peut être app
+ elé pour l’ultime sacrifice alors que se rapproche l’ultime épreuve 
+ de force avec Voldemort.
+URL:https://www.pathe.fr/en/movies-events/harry-potter-et-les-reliques-de-
+ la-mort-partie-2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heart of the beast
@@ -3361,18 +3346,6 @@ DESCRIPTION:Nora\, Thomas et leur fille Ida vivent dans une ferme isolée
 URL:https://www.pathe.fr/en/movies-events/histoires-de-la-nuit-51954
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hi (Version Tamoule)
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:hi-version-tamoule-54972@pathe.fr
-DESCRIPTION:Hi est une romance dramatique tamoule. L'histoire suit deux vo
- isins qui se rapprochent progressivement et tombent amoureux. Les premièr
- es informations officielles décrivent un récit romantique chaleureux («
-  feel-good ») où une simple rencontre et un « Hi » peuvent changer une
-  vie.
-URL:https://www.pathe.fr/en/movies-events/hi-version-tamoule-54972
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hope
 DTSTART:20261028T040000Z
 DTEND:20261028T040000Z
@@ -3400,22 +3373,6 @@ DESCRIPTION:Horror Cinema Club : Le mercredi 2 septembre\, au Pathé Beaug
  rencontre avec des dealers vindicatifs\, ça ne va pas lui faciliter la t
  âche.
 URL:https://www.pathe.fr/en/movies-events/horror-cinema-club-flush-55165
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hôtel Transylvanie
-DTSTART:20130213T040000Z
-DTEND:20130213T040000Z
-UID:hotel-transylvanie@pathe.fr
-DESCRIPTION:Bienvenue à l’Hôtel Transylvanie\, le somptueux hôtel de 
- Dracula\, où les monstres et leurs familles peuvent enfin vivre leur vie
- \, se détendre et faire « monstrueusement » la fête comme ils en ont e
- nvie sans être embêtés par les humains. Pour l’anniversaire de sa fil
- le\, la jeune Mavis\, qui fête ses 118 printemps\, Dracula invite les plu
- s célèbres monstres du monde – Frankenstein et sa femme\, la Momie\, l
- ’Homme Invisible\, une famille de loups-garous\, et bien d’autres enco
- re… Tout se passe très bien\, jusqu’à ce qu’un humain débarque pa
- r hasard à l’hôtel et se lie d’amitié avec Mavis…
-URL:https://www.pathe.fr/en/movies-events/hotel-transylvanie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Spot
@@ -3639,17 +3596,6 @@ DESCRIPTION:Le long d'une route oubliée\, la famille O'Reilly vit dans un
  s enfants rient\, les chiens aboient\, la caravane tient encore\, mais pou
  r combien de temps ?
 URL:https://www.pathe.fr/en/movies-events/irish-travellers-52333
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iru Mudi (Version Telugu)
-DTSTART:20260819T040000Z
-DTEND:20260819T040000Z
-UID:iru-mudi-version-telugu-55087@pathe.fr
-DESCRIPTION:Un père alcoolique au passé violent mène une vie paisible a
- vec sa fille près d’une cascade. À la demande de celle-ci\, il entrepr
- end l’Ayyappa Deeksha\, un voyage spirituel qui le confrontera à ses d
- émons et mettra à l’épreuve sa volonté de changer.
-URL:https://www.pathe.fr/en/movies-events/iru-mudi-version-telugu-55087
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Isaiah's Phone
@@ -4062,21 +4008,15 @@ DESCRIPTION:Benjamin et Amélie\, jeune couple de trentenaires décide d
 URL:https://www.pathe.fr/en/movies-events/la-maison-de-nos-reves-51866
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Séance 70mm : Kill Bill - The Whole Bloody Affair
-DTSTART:20260823T040000Z
-DTEND:20260823T040000Z
-UID:la-seance-70mm-kill-bill-the-whole-bloody-affair-55046@pathe.fr
-DESCRIPTION:La séance 35-70 mm : le nouveau rendez-vous du Pathé Palace.
-  Chaque mois\, découvrez des films en 35 ou 70 mm ! Synopsis : Ancienne m
- embre d'une organisation de tueurs d'élite\, La Mariée est laissée pour
-  morte lors de son propre mariage par son ancien amant et mentor\, Bill. A
- près avoir survécu à une balle dans la tête et perdu l'enfant qu'elle 
- portait\, elle sort d'un coma avec un seul objectif : la vengeance. Elle v
- a devoir traquer les quatre membres restants du Détachement International
-  des Vipères Assassines avant de pouvoir affronter Bill lui-même. - SÉA
- NCE AVEC ENTRACTE DE 15 MINUTES.
-URL:https://www.pathe.fr/en/movies-events/la-seance-70mm-kill-bill-the-who
- le-bloody-affair-55046
+SUMMARY:La Quadrature des autres
+DTSTART:20260825T040000Z
+DTEND:20260825T040000Z
+UID:la-quadrature-des-autres-55235@pathe.fr
+DESCRIPTION:Le film suit 8 personnages face au vertige de la quarantaine. 
+ Entre rêves déçus\, parentalité incertaine et renoncements\, chacun va
+ cille. Leurs trajectoires se heurtent à la réalité\, et les choix devie
+ nnent douloureux.
+URL:https://www.pathe.fr/en/movies-events/la-quadrature-des-autres-55235
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Séance Ciné-Hits : Fast and Furious
@@ -5015,6 +4955,23 @@ URL:https://www.pathe.fr/en/movies-events/les-rendez-vous-de-l-anime-bleac
  h-the-diamond-dust-rebellion-54781
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Les Rendez-vous de l'Anime : Dreamland
+DTSTART:20260920T040000Z
+DTEND:20260920T040000Z
+UID:les-rendez-vous-de-l-anime-dreamland-55234@pathe.fr
+DESCRIPTION:Grâce aux Rendez-vous de l’Anime\, découvrez en exclusivit
+ é au cinéma et en avant-première les trois premiers épisodes de "Dream
+ land"\, l'adaptation tant attendue de l'anime français ! <br/>Synopsis : 
+ Depuis la disparition tragique de sa mère dans un incendie\, Terrence\, 1
+ 8 ans\, souffre d’une peur viscérale du feu. Lorsqu’il parvient final
+ ement à surmonter ce traumatisme\, il découvre qu’il est devenu un « 
+ voyageur »\, un être capable d’explorer ce royaume onirique sans limit
+ es\, façonné par les songes\, où chacun peut développer des pouvoirs e
+ xtraordinaires.
+URL:https://www.pathe.fr/en/movies-events/les-rendez-vous-de-l-anime-dream
+ land-55234
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Les roches rouges
 DTSTART:20260923T040000Z
 DTEND:20260923T040000Z
@@ -5586,19 +5543,6 @@ DESCRIPTION:Annie Ernaux est sollicitée pour une signature de son dernier
 URL:https://www.pathe.fr/en/movies-events/memoire-de-fille-52572
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memory of Princess Mumbi
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:memory-of-princess-mumbi-51673@pathe.fr
-DESCRIPTION:En 2093\, le cinéaste Kuve se rend à Umata pour filmer un do
- cumentaire sur la Grande Guerre des années 2070\, qui a effacé les techn
- ologies modernes et fait renaître d'anciens royaumes. Il y rencontre Mumb
- i\, qui le met au défi de réaliser son film sans intelligence artificiel
- le. Il commence alors à comprendre que même les plus petits moments peuv
- ent être d'une profonde beauté.
-URL:https://www.pathe.fr/en/movies-events/memory-of-princess-mumbi-51673
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mes petits compagnons de route
 DTSTART:19000101T040000Z
 DTEND:19000101T040000Z
@@ -5696,6 +5640,42 @@ DESCRIPTION:Jean Moulin est parachuté en France occupée pour unifier les
  ibuera à galvaniser les forces de la Résistance et à faire naître un n
  ouvel esprit de combat et de liberté en France…
 URL:https://www.pathe.fr/en/movies-events/moulin-51624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mountain Adventure
+DTSTART:20251224T040000Z
+DTEND:20251224T040000Z
+UID:mountain-adventure-50689@pathe.fr
+DESCRIPTION:Des montagnes australiennes à l’Alaska\, la championne Tora
+ h Bright repousse ses limites et explore la beauté fragile des sommets du
+  monde. Entre adrénaline et conscience écologique\, une immersion specta
+ culaire au cœur des montagnes sauvages.
+URL:https://www.pathe.fr/en/movies-events/mountain-adventure-50689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’ LIVE VIEWING
+DTSTART:20260920T040000Z
+DTEND:20260920T040000Z
+UID:nct-127-5th-tour-neo-city-seoul-the-redline-live-viewing-55229@pathe.f
+ r
+DESCRIPTION:NCT 127 5TH TOUR ‘NEO CITY : SEOUL- THE REDLINE’ in CINEMA
+ S » transporte sur grand écran l’énergie explosive du retour tant att
+ endu de NCT 127\, grâce à une diffusion en direct depuis le KSPO DOME da
+ ns des salles de cinéma du monde entier. <br/><br/>Après un an et huit m
+ ois d’attente\, le groupe ouvre un nouveau chapitre de l’univers NEO C
+ ITY avec une tournée à la hauteur de sa réputation : une mise en scène
+  spectaculaire\, une setlist électrisante et des performances qui révèl
+ ent toute la puissance et le charisme de NCT 127.<br/><br/>Grâce à cette
+  expérience cinématographique\, les fans du monde entier sont invités 
+ à vivre le concert comme s’ils y étaient\, en découvrant chaque insta
+ nt du show sur grand écran et en partageant\, au même moment\, l’inten
+ sité de THE REDLINE par-delà les frontières.<br/><br/>Pour les NCTzens 
+ comme pour tous les amateurs de K-pop\, cet événement offre une occasion
+  unique de vibrer ensemble au rythme de NCT 127 et de ressentir toute l’
+ ampleur de leur retour\, dans une expérience pensée pour le grand écran
+ .
+URL:https://www.pathe.fr/en/movies-events/nct-127-5th-tour-neo-city-seoul-
+ the-redline-live-viewing-55229
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ne nous racontez plus d'histoires !
@@ -5990,6 +5970,28 @@ DESCRIPTION:Japon\, 1944. 10 000 soldats japonais débarquent sur l'île d
 URL:https://www.pathe.fr/en/movies-events/peleliu-guerre-au-paradis-53406
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Persepolis
+DTSTART:20070627T040000Z
+DTEND:20070627T040000Z
+UID:persepolis@pathe.fr
+DESCRIPTION:Téhéran 1978 : Marjane\, huit ans\, songe à l'avenir et se 
+ rêve en prophète sauvant le monde. Choyée par des parents modernes et c
+ ultivés\, particulièrement liée à sa grand-mère\, elle suit avec exal
+ tation les évènements qui vont mener à la révolution et provoquer la c
+ hute du régime du Chah.Avec l'instauration de la République islamique d
+ ébute le temps des "commissaires de la révolution" qui contrôlent tenue
+ s et comportements. Marjane qui doit porter le voile\, se rêve désormais
+  en révolutionnaire.Bientôt\, la guerre contre l'Irak entraîne bombarde
+ ments\, privations\, et disparitions de proches. La répression intérieur
+ e devient chaque jour plus sévère.Dans un contexte de plus en plus péni
+ ble\, sa langue bien pendue et ses positions rebelles deviennent probléma
+ tiques. Ses parents décident alors de l'envoyer en Autriche pour la prot
+ éger.A Vienne\, Marjane vit à quatorze ans sa deuxième révolution : l'
+ adolescence\, la liberté\, les vertiges de l'amour mais aussi l'exil\, la
+  solitude et la différence.
+URL:https://www.pathe.fr/en/movies-events/persepolis
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Petite Casbah
 DTSTART:20261014T040000Z
 DTEND:20261014T040000Z
@@ -6127,18 +6129,6 @@ DESCRIPTION:Découvrez une trentaine de films d’1 min 30 réalisés dans
  eur·rice·s qui les ont imaginés.
 URL:https://www.pathe.fr/en/movies-events/projection-le-projet-moteur-clap
  -de-paname-54852
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prometheus
-DTSTART:20120530T040000Z
-DTEND:20120530T040000Z
-UID:prometheus-37249@pathe.fr
-DESCRIPTION:Une équipe d’explorateurs découvre un indice sur l’origi
- ne de l’humanité sur Terre. Cette découverte les entraîne dans un voy
- age fascinant jusqu’aux recoins les plus sombres de l’univers. Là-bas
- \, un affrontement terrifiant qui décidera de l’avenir de l’humanité
-  les attend.
-URL:https://www.pathe.fr/en/movies-events/prometheus-37249
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psychose
@@ -6449,6 +6439,33 @@ URL:https://www.pathe.fr/en/movies-events/seances-coup-de-coeur-afcae-3598
  8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Séance spéciale : Les Misérables (avant-première\, suivie d'un
+  débat retransmis en direct)
+DTSTART:20261014T040000Z
+DTEND:20261014T040000Z
+UID:seance-speciale-les-miserables-avant-premiere-suivie-d-un-debat-retran
+ smis-en-direct-55236@pathe.fr
+DESCRIPTION:Le dimanche 4 octobre\, venez découvrir en avant-première le
+  film "Les Misérables" (2h59) ! La séance sera suivie d’un débat avec
+  l’équipe du film\, retransmis en direct (45mn TBC). <br/>Synopsis : Je
+ an Valjean\, un ancien forçat évadé du bagne où il a passé 16 ans pou
+ r avoir volé du pain\, seconsacre désormais à faire le bien autour de l
+ ui. Il se crée une nouvelle identité\, celle d'un notable respecté\, et
+  vient en aide à Fantine\, une ouvrière mourante en lui promettant de sa
+ uver sa fille\, la petite Cosette\, des griffes des Thénardier\, des aube
+ rgistes qui l'exploitent et la maltraitent. Alors que Valjean prend soin d
+ e l'enfant et l'élève comme sa propre fille\, son passé finit par le ra
+ ttraper en la personne de l’inspecteur Javert qui n'a eu de cesse de le 
+ pourchasser durant toutes ces années. En dépit de l'agitation sociale qu
+ i secoue la France\, les destins de Valjean\, de Cosette\, de son amant Ma
+ rius et de Javert s'entremêlent dans un Paris bouillonnant et révolution
+ naire. À travers des luttes\, des sacrifices et un profond désir de just
+ ice\, Valjean s'efforce d'achever son parcours de rédemption et d'offrir 
+ à Cosette un avenir d'amour et de liberté.
+URL:https://www.pathe.fr/en/movies-events/seance-speciale-les-miserables-a
+ vant-premiere-suivie-d-un-debat-retransmis-en-direct-55236
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven
 DTSTART:19960117T040000Z
 DTEND:19960117T040000Z
@@ -6510,25 +6527,6 @@ DESCRIPTION:Écrivain\, Jack Torrance est engagé comme gardien\, pendant
  ecrets de l’hôtel et bascule peu à peu dans une forme de folie meurtri
  ère où il s’en prend à sa propre famille…
 URL:https://www.pathe.fr/en/movies-events/shining-version-longue-3342
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shrek 4\, il était une fin
-DTSTART:20100630T040000Z
-DTEND:20100630T040000Z
-UID:shrek-4-il-etait-une-fin-36242@pathe.fr
-DESCRIPTION:Après avoir vaincu un méchant dragon\, sauvé une belle prin
- cesse et le royaume de ses parents\, que peut encore faire un ogre malodor
- ant et mal léché ? Domestiqué\, assagi\, Shrek a perdu jusqu'à l'envie
-  de rugir et regrette le bon vieux temps où il semait la terreur dans le 
- royaume. Aujourd'hui\, tel une idole déchue\, il se contente de signer de
- s autographes à tour de bras. Trop triste...<br/>C'est alors que l'habile
-  et sournois Tracassin lui propose un contrat. Shrek se retrouve soudain t
- ransporté dans un monde parallèle totalement déjanté où les ogres son
- t pourchassés\, où Tracassin est roi\, où Fiona et son bien-aimé ne se
-  jamais rencontrés...<br/>Shrek va-t-il réussir à déjouer le sortilèg
- e\, à repasser de l'autre côté du miroir\, à sauver ses amis\, à retr
- ouver son monde et reconquérir l'amour de sa vie ?
-URL:https://www.pathe.fr/en/movies-events/shrek-4-il-etait-une-fin-36242
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Night (MET)
@@ -6831,26 +6829,30 @@ DESCRIPTION:De retour au Costa Rica après des études en Europe\, Elsa re
 URL:https://www.pathe.fr/en/movies-events/ton-animal-maternel-52977
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toxic (Version Hindi)
+SUMMARY:Toxic (Version Telugu)
 DTSTART:20260826T040000Z
 DTEND:20260826T040000Z
-UID:toxic-version-hindi-55053@pathe.fr
+UID:toxic-version-telugu-55055@pathe.fr
 DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
  avit les échelons du monde criminel à travers trahisons et bains de sang
   pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
   que le pouvoir exige toujours un lourd sacrifice.
-URL:https://www.pathe.fr/en/movies-events/toxic-version-hindi-55053
+URL:https://www.pathe.fr/en/movies-events/toxic-version-telugu-55055
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toxic (Version Kannada)
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:toxic-version-kannada-55054@pathe.fr
-DESCRIPTION:Alors que la domination portugaise s'effondre à Goa\, Raya gr
- avit les échelons du monde criminel à travers trahisons et bains de sang
-  pour prendre le contrôle des bas-fonds de la ville\, avant de découvrir
-  que le pouvoir exige toujours un lourd sacrifice.
-URL:https://www.pathe.fr/en/movies-events/toxic-version-kannada-55054
+SUMMARY:T.REX
+DTSTART:20241218T040000Z
+DTEND:20241218T040000Z
+UID:t-rex-43511@pathe.fr
+DESCRIPTION:Depuis plus d'un siècle\, les dinosaures inspirent et enthous
+ iasment le public. Avec les progrès de l'imagerie de synthèse et les ré
+ vélations de la paléontologie du tyrannosaure au cours des vingt-cinq de
+ rnières années\, le temps est venu de redécouvrir le T-Rex dans les sal
+ les de cinéma et les musées les plus prestigieux du monde.<br/>Chronique
+  d'une découverte remarquable dans les terres arides de Hell Creek à l'
+ été 2023\, ce film immersif sur le plus écran de France explore la vie 
+ et l'époque du T-Rex.
+URL:https://www.pathe.fr/en/movies-events/t-rex-43511
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRIANGLE D’OR – UNE FAMILLE KAYANE
@@ -6928,20 +6930,6 @@ DESCRIPTION:Nouvellement embauchée dans le département des Ressources Hu
  s et compromissions\, la ligne de crête sur laquelle elle évolue devient
   de plus en plus étroite.
 URL:https://www.pathe.fr/en/movies-events/un-bon-petit-soldat-52343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Under the Silver Lake
-DTSTART:20180808T040000Z
-DTEND:20180808T040000Z
-UID:under-the-silver-lake-54629@pathe.fr
-DESCRIPTION:À Los Angeles\, Sam\, 33 ans\, sans emploi\, rêve de céléb
- rité. Lorsque Sarah\, une jeune et énigmatique voisine\, se volatilise b
- rusquement\, Sam se lance à sa recherche et entreprend alors une enquête
-  obsessionnelle surréaliste à travers la ville. Elle le fera plonger jus
- que dans les profondeurs les plus ténébreuses de la Cité des Anges\, o
- ù il devra élucider disparitions et meurtres mystérieux sur fond de sca
- ndales et de conspirations.
-URL:https://www.pathe.fr/en/movies-events/under-the-silver-lake-54629
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Une famille de Singapour
@@ -7046,19 +7034,6 @@ DTEND:20261202T040000Z
 UID:violent-night-2-48744@pathe.fr
 DESCRIPTION:Suite de Violent Night (2022) de Tommy Wirkola.
 URL:https://www.pathe.fr/en/movies-events/violent-night-2-48744
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath And Sons (Version Tamoule)
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:vishwanath-and-sons-version-tamoule-54933@pathe.fr
-DESCRIPTION:Sanjay Vishwanath\, un sportif international accompli dans la 
- quarantaine\, voit sa vie bouleversée lorsque ses ambitions\, ses respons
- abilités familiales et une rencontre amoureuse inattendue s'entremêlent.
-  Le film explore les thèmes de la famille\, de l'amour\, des rêves et de
- s émotions.
-URL:https://www.pathe.fr/en/movies-events/vishwanath-and-sons-version-tamo
- ule-54933
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viva

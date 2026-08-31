@@ -49,6 +49,14 @@ DESCRIPTION:Hig est un jeune pilote qui s'est construit un refuge isolé d
 URL:https://www.pathe.ch/fr/films-evenements/the-dog-stars-49578
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART:20260819T040000Z
+DTEND:20260819T040000Z
+UID:mutiny-49223@pathe.ch
+DESCRIPTION:Plot unknown
+URL:https://www.pathe.ch/fr/films-evenements/mutiny-49223
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La fin d'Oak Street
 DTSTART:20260812T040000Z
 DTEND:20260812T040000Z
@@ -58,14 +66,6 @@ DESCRIPTION:Lorsqu’un mystérieux événement cosmique arrache Oak Stree
  le Platt\, désorientée dans ce nouvel environnement hostile\, comprend v
  ite qu’il leur faudra rester unis pour survivre.
 URL:https://www.pathe.ch/fr/films-evenements/la-fin-d-oak-street-38774
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutiny
-DTSTART:20260819T040000Z
-DTEND:20260819T040000Z
-UID:mutiny-49223@pathe.ch
-DESCRIPTION:Plot unknown
-URL:https://www.pathe.ch/fr/films-evenements/mutiny-49223
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious : l'invasion du lointain
@@ -113,36 +113,6 @@ DESCRIPTION:Cet été\, Will Gluck\, le réalisateur de TOUT SAUF TOI et E
 URL:https://www.pathe.ch/fr/films-evenements/juste-pour-une-nuit-49702
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tombé du ciel
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:tombe-du-ciel-54355@pathe.ch
-DESCRIPTION:Ilyes mene une vie joyeuse dans la banlieue de Roubaix. Seul p
- robleme : le bac. Apres avoir echoue deux fois\, c'est sa derniere chance 
- de l'avoir et de rendre enfin fier ses parents. Mais un incendie survient 
- pendant le bac blanc\, et on l'accuse d'en être à l'origine ... Exclu de
-  son lycee\, il doit quitter son quartier et aller dans le seul etablissem
- ent qui l'accepte : le pensionnat catholique de Saint-Albert-le-Grand\, en
-  Bourgogne. Entre choc des cultures et quete de redemption\, llyes va devo
- ir surmonter ses prejuges ... Et ceux des autres.
-URL:https://www.pathe.ch/fr/films-evenements/tombe-du-ciel-54355
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marsupilami
-DTSTART:20260204T040000Z
-DTEND:20260204T040000Z
-UID:marsupilami-38851@pathe.ch
-DESCRIPTION:Pour sauver son emploi\, David accepte un plan foireux : ramen
- er un mystérieux colis d’Amérique du Sud.<br/>Il se retrouve à bord d
- ’une croisière avec son ex Tess\, son fils Léo\, et son collègue Sté
- phane\, aussi benêt que maladroit\, dont David se sert pour transporter l
- e colis à sa place.<br/>Tout dérape lorsque ce dernier l’ouvre acciden
- tellement : un adorable bébé Marsupilami apparait et le voyage vire au c
- haos !<br/>La bande à Fifi est de retour et elle s’est fait un nouveau 
- copain…
-URL:https://www.pathe.ch/fr/films-evenements/marsupilami-38851
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tad L'explorateur et la lampe magique
 DTSTART:20260826T040000Z
 DTEND:20260826T040000Z
@@ -164,6 +134,36 @@ DESCRIPTION:Tad et Sara sont désormais les heureux parents d’Oli\, une
  \, dans la plus grande aventure de Tad à ce jour.
 URL:https://www.pathe.ch/fr/films-evenements/tad-l-explorateur-et-la-lampe
  -magique-49344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marsupilami
+DTSTART:20260204T040000Z
+DTEND:20260204T040000Z
+UID:marsupilami-38851@pathe.ch
+DESCRIPTION:Pour sauver son emploi\, David accepte un plan foireux : ramen
+ er un mystérieux colis d’Amérique du Sud.<br/>Il se retrouve à bord d
+ ’une croisière avec son ex Tess\, son fils Léo\, et son collègue Sté
+ phane\, aussi benêt que maladroit\, dont David se sert pour transporter l
+ e colis à sa place.<br/>Tout dérape lorsque ce dernier l’ouvre acciden
+ tellement : un adorable bébé Marsupilami apparait et le voyage vire au c
+ haos !<br/>La bande à Fifi est de retour et elle s’est fait un nouveau 
+ copain…
+URL:https://www.pathe.ch/fr/films-evenements/marsupilami-38851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tombé du ciel
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:tombe-du-ciel-54355@pathe.ch
+DESCRIPTION:Ilyes mene une vie joyeuse dans la banlieue de Roubaix. Seul p
+ robleme : le bac. Apres avoir echoue deux fois\, c'est sa derniere chance 
+ de l'avoir et de rendre enfin fier ses parents. Mais un incendie survient 
+ pendant le bac blanc\, et on l'accuse d'en être à l'origine ... Exclu de
+  son lycee\, il doit quitter son quartier et aller dans le seul etablissem
+ ent qui l'accepte : le pensionnat catholique de Saint-Albert-le-Grand\, en
+  Bourgogne. Entre choc des cultures et quete de redemption\, llyes va devo
+ ir surmonter ses prejuges ... Et ceux des autres.
+URL:https://www.pathe.ch/fr/films-evenements/tombe-du-ciel-54355
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detective Conan: Fallen Angel of the Highway
@@ -263,6 +263,31 @@ DESCRIPTION:Les Gheorghiu\, un couple roumano-norvégien très croyant\, s
 URL:https://www.pathe.ch/fr/films-evenements/fjord-54357
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Soudain
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:soudain-52918@pathe.ch
+DESCRIPTION:Directrice d'un établissement pour personnes âgées\, Marie-
+ Lou tente d'y instaurer une philosophie de soins innovante basée sur l'é
+ coute et la dignité des résidents\, malgré la réticence d’une partie
+  de ses équipes. Sa rencontre avec Mari\, une metteuse en scène japonais
+ e qui se bat contre un cancer\, va bouleverser sa trajectoire. En nouant u
+ ne amitié profonde\, les deux femmes engagent ensemble un combat pour “
+ rendre possible l’impossible”.
+URL:https://www.pathe.ch/fr/films-evenements/soudain-52918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:25th Anniversary: Harry potter: à l'école des sorciers
+DTSTART:20260826T040000Z
+DTEND:20260826T040000Z
+UID:25th-anniversary-harry-potter-a-l-ecole-des-sorciers-46577@pathe.ch
+DESCRIPTION:An orphaned boy enrolls in a school of wizardry\, where he lea
+ rns the truth about himself\, his family and the terrible evil that haunts
+  the magical world.
+URL:https://www.pathe.ch/fr/films-evenements/25th-anniversary-harry-potter
+ -a-l-ecole-des-sorciers-46577
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Bataille de Gaulle: J'Écris ton Nom
 DTSTART:20260701T040000Z
 DTEND:20260701T040000Z
@@ -280,31 +305,6 @@ DESCRIPTION:Juin 1940. La France s'effondre et signe l’armistice. Au mil
  semblait pourtant écrite d’avance.
 URL:https://www.pathe.ch/fr/films-evenements/la-bataille-de-gaulle-j-ecris
  -ton-nom-50866
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soudain
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:soudain-52918@pathe.ch
-DESCRIPTION:Directrice d'un établissement pour personnes âgées\, Marie-
- Lou tente d'y instaurer une philosophie de soins innovante basée sur l'é
- coute et la dignité des résidents\, malgré la réticence d’une partie
-  de ses équipes. Sa rencontre avec Mari\, une metteuse en scène japonais
- e qui se bat contre un cancer\, va bouleverser sa trajectoire. En nouant u
- ne amitié profonde\, les deux femmes engagent ensemble un combat pour “
- rendre possible l’impossible”.
-URL:https://www.pathe.ch/fr/films-evenements/soudain-52918
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steckerlfischfiasko
-DTSTART:20260813T040000Z
-DTEND:20260813T040000Z
-UID:steckerlfischfiasko-51932@pathe.ch
-DESCRIPTION:Franz Eberhofer and Rudi Birkenberger's next case takes them t
- o Niederkaltenkirchen's new golf course. The two detectives promptly get c
- aught up in a full-blown family feud between two folk festival clans.<br/>
- <br/>
-URL:https://www.pathe.ch/fr/films-evenements/steckerlfischfiasko-51932
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Bataille de Gaulle : L’âge de fer
@@ -364,6 +364,17 @@ DESCRIPTION:Des personnes d’origines diverses s’adonnent au chant\, se
 URL:https://www.pathe.ch/fr/films-evenements/melodie-54443
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Steckerlfischfiasko
+DTSTART:20260813T040000Z
+DTEND:20260813T040000Z
+UID:steckerlfischfiasko-51932@pathe.ch
+DESCRIPTION:Franz Eberhofer and Rudi Birkenberger's next case takes them t
+ o Niederkaltenkirchen's new golf course. The two detectives promptly get c
+ aught up in a full-blown family feud between two folk festival clans.<br/>
+ <br/>
+URL:https://www.pathe.ch/fr/films-evenements/steckerlfischfiasko-51932
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The North
 DTSTART:20260819T040000Z
 DTEND:20260819T040000Z
@@ -372,6 +383,19 @@ DESCRIPTION:Deux amis de longue date parcourent 600 kilomètres à travers
   les Highlands écossais pour se retrouver l’un l’autre\, renouer avec
   la nature et retrouver les parts d’eux-mêmes qu’ils ont perdues.
 URL:https://www.pathe.ch/fr/films-evenements/the-north-54350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Waves
+DTSTART:20260701T040000Z
+DTEND:20260701T040000Z
+UID:in-waves-54353@pathe.ch
+DESCRIPTION:A Los Angeles\, AJ\, lycéen discret\, rencontre Kristen. Elle
+  est passionnée de surf\, lui de skateboard et de dessin. Ils tombent fol
+ lement amoureux \; un avenir heureux se profile.<br/>Mais tout bascule lor
+ sque Kristen tombe malade. Ensemble\, ils se lancent dans un combat contre
+  l’adversité\, portés par la force de leur amour\, leurs amis et leur 
+ passion désormais commune pour le surf et l’océan.
+URL:https://www.pathe.ch/fr/films-evenements/in-waves-54353
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenage Sex and Death at Camp Miasma
@@ -463,17 +487,6 @@ DESCRIPTION:En 2001\, au bord d'une navette spatiale\, le Dr. Heywood Floy
 URL:https://www.pathe.ch/fr/films-evenements/2001-a-space-odyssey-50423
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:25th Anniversary: Harry potter: à l'école des sorciers
-DTSTART:20260826T040000Z
-DTEND:20260826T040000Z
-UID:25th-anniversary-harry-potter-a-l-ecole-des-sorciers-46577@pathe.ch
-DESCRIPTION:An orphaned boy enrolls in a school of wizardry\, where he lea
- rns the truth about himself\, his family and the terrible evil that haunts
-  the magical world.
-URL:https://www.pathe.ch/fr/films-evenements/25th-anniversary-harry-potter
- -a-l-ecole-des-sorciers-46577
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ah Que le Bonheur est Proche!
 DTSTART:20260930T040000Z
 DTEND:20260930T040000Z
@@ -499,6 +512,27 @@ DTEND:20261021T040000Z
 UID:ali-g-who-iz-i-55064@pathe.ch
 DESCRIPTION:None
 URL:https://www.pathe.ch/fr/films-evenements/ali-g-who-iz-i-55064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arc-en-ciel
+DTSTART:20261119T040000Z
+DTEND:20261119T040000Z
+UID:arc-en-ciel-51589@pathe.ch
+DESCRIPTION:Der Regenbogenfisch ist mit seinen schillernden Schuppen der s
+ chönste Fisch im ganzen Ozean. Doch er ist auch etwas eitel und stösst d
+ amit die anderen Fische vor den Kopf. Mit der Zeit wird er so immer einsam
+ er. Als er eines Tages eine seiner geliebten Glitzerschuppen verliert\, be
+ gleitet ihn der ‘Kleine Blaue’ auf der Suche danach in die tiefste Tie
+ fsee. Eine abenteuerliche Meeresreise beginnt – und der Regenbogenfisch 
+ erkennt\, dass man gemeinsam viel mutiger ist als allein\, und dass echte 
+ Freundschaft kostbarer ist als das prächtigste Schuppenkleid.<br/><br/>Al
+ s liebevolle Adaption durch die Augsburger Puppenkiste®\, produziert vom 
+ Team von «Heidi»\, «Di chli Häx» und «De Räuber Hotzenplotz» und m
+ it den Simmen von Max Hubacher und Luna Wedler\, erstrahlt der weltweit be
+ kannte Kinderbuch-Klassiker des Berner Autors und Illustrators Marcus Pfis
+ ter erstmals auf der grossen Leinwand. Einzigartig\, zeitgemäss interpret
+ iert – und auf Schweizerdeutsch!
+URL:https://www.pathe.ch/fr/films-evenements/arc-en-ciel-51589
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arnie & Barney
@@ -893,14 +927,6 @@ DESCRIPTION:A chaotic short trip to the south puts their friendship to the
 URL:https://www.pathe.ch/fr/films-evenements/der-perfekte-urlaub-51935
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Regenbogenfisch
-DTSTART:20261119T040000Z
-DTEND:20261119T040000Z
-UID:der-regenbogenfisch-51589@pathe.ch
-DESCRIPTION:Plot unknown
-URL:https://www.pathe.ch/fr/films-evenements/der-regenbogenfisch-51589
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digger
 DTSTART:20260930T040000Z
 DTEND:20260930T040000Z
@@ -994,20 +1020,6 @@ DESCRIPTION: <br/>À Verbier\, au cœur des Alpes\, Luz\, 35 ans\, travail
  e doit réunir rapidement une importante somme d’argent\, au risque de t
  rahir sa communauté et de franchir ses limites morales.<br/><br/> 
 URL:https://www.pathe.ch/fr/films-evenements/enjoy-your-stay-54627
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evil Dead Burn
-DTSTART:20260708T040000Z
-DTEND:20260708T040000Z
-UID:evil-dead-burn-52159@pathe.ch
-DESCRIPTION:Evil Dead Burn unleashes the franchise’s most savage and ter
- rifying ride to date\, blazing onto big screens with an all-new chapter of
-  carnage and demonic mayhem. After the loss of her husband\, a woman seeks
-  solace with her in-laws in their secluded family home. As one by one they
-  are transformed into Deadites—turning the gathering into a family reuni
- on from hell—she comes to discover that the vows she took in life... liv
- e on even in death.
-URL:https://www.pathe.ch/fr/films-evenements/evil-dead-burn-52159
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frank & Louis
@@ -1648,6 +1660,18 @@ DESCRIPTION:Anastasia\, 18 ans\, est une jeune et belle danseuse de ballet
 URL:https://www.pathe.ch/fr/films-evenements/le-fantome-de-l-opera-52065
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Le Mystère Lucy Lost
+DTSTART:20261028T040000Z
+DTEND:20261028T040000Z
+UID:le-mystere-lucy-lost-52818@pathe.ch
+DESCRIPTION:Lucy vit avec sa famille dans un village sur une petite île i
+ solée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'
+ elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy emb
+ arque dans une grande aventure pour percer le secret de ses mystérieux po
+ uvoirs.
+URL:https://www.pathe.ch/fr/films-evenements/le-mystere-lucy-lost-52818
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Le Roi du Game
 DTSTART:20261021T040000Z
 DTEND:20261021T040000Z
@@ -1848,18 +1872,6 @@ DESCRIPTION:Lorie signe son grand retour sur scène avec la Lorie Party\,
  te qui a fait chanter\, danser et grandir toute une génération.<br/>
 URL:https://www.pathe.ch/fr/films-evenements/lorie-party-2026-au-cinema-52
  923
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lucy Lost
-DTSTART:20261028T040000Z
-DTEND:20261028T040000Z
-UID:lucy-lost-52818@pathe.ch
-DESCRIPTION:Lucy vit avec sa famille dans un village sur une petite île i
- solée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'
- elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy emb
- arque dans une grande aventure pour percer le secret de ses mystérieux po
- uvoirs.
-URL:https://www.pathe.ch/fr/films-evenements/lucy-lost-52818
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lügen über meine Mutter
@@ -2082,7 +2094,18 @@ SUMMARY:Oasis: Don't Look Back In Anger
 DTSTART:20260909T040000Z
 DTEND:20260909T040000Z
 UID:oasis-don-t-look-back-in-anger-54905@pathe.ch
-DESCRIPTION:Plot unknown 
+DESCRIPTION:Le film suit la tournée de retrouvailles d’Oasis\, « Liv
+ e ’25 » \, l’un des retours les plus attendus de la scène rock de 
+ ces dernières années. Le film propose une immersion au cœur de cet év
+ énement musical majeur de l’année 2025\, en capturant à la fois son a
+ mpleur et les émotions du groupe comme de ses fans\, à travers le monde.
+  Il offre un accès inédit aux coulisses\, des répétitions à la scène
+  en passant par les backstages\, et réunit pour la première fois depuis 
+ plus de 25 ans Noel et Liam Gallagher dans des interviews communes. En par
+ allèle de cette tournée mondiale à guichets fermés\, le documentaire e
+ xplore l’impact culturel et émotionnel de ce moment unique\, ainsi que 
+ la place durable que leur musique occupe auprès de plusieurs génération
+ s de fans.
 URL:https://www.pathe.ch/fr/films-evenements/oasis-don-t-look-back-in-ange
  r-54905
 END:VEVENT
