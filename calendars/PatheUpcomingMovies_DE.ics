@@ -2,6 +2,93 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//PatheUpcomingMovies//baptistecdr//
 BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:digger-51445@pathe.ch
+DESCRIPTION:Der mächtigste Mann der Welt begibt sich auf eine verzweifelt
+ e Mission\, um zu beweisen\, dass er der Retter der Menschheit ist\, bevor
+  die von ihm ausgelöste Katastrophe alles zerstört.
+URL:https://www.pathe.ch/de/filme-events/digger-51445
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island 
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:forgotten-island-51497@pathe.ch
+DESCRIPTION:Als die zwei besten Freundinnen Jo und Raissa auf der geheimni
+ svollen Insel Nakali stranden\, begreifen sie\, dass der Weg nach Hause ei
+ n ganzes Leben an Erinnerungen fordert – vielleicht auch an den Menschen
+ \, der ihnen am meisten bedeutet.<br/><br/><br/>Die Grammy- und Oscar® pr
+ ämierte Ausnahmekünstlerin H.E.R. und Liza Soberano (Lisa Frankenstein\,
+  Allein mit dir) glänzen in den Hauptrollen als Jo und Raissa. Die beiden
+  Highschool-Absolventinnen sind unzertrennliche Freundinnen seit Kindertag
+ en. Doch nun stehen sie am Beginn völlig unterschiedlicher Lebenswege.<br
+ /><br/><br/>In ihrer letzten gemeinsamen Nacht entdecken Jo und Raissa ein
+  geheimnisvolles Portal\, das sie auf die geheimnisvolle Insel Nakali vers
+ chlägt. An diesem fantastischen Ort leben magische und mythische Wesen\, 
+ von denen sie schon als Kinder in den Geschichten ihrer philippinischen Fa
+ milien gehört haben. Einige der Wesen begegnen ihnen als Verbündete\, an
+ dere als gefährliche Gegner. Gemeinsam mit dem gutmütigen\, aber hoffnun
+ gslos tollpatschigen Werhund Raww (im Original Dave Franco) und einer klei
+ nen\, doch entschlossenen Gruppe neuer Gefährten müssen sich Jo und Rais
+ sa der gefürchteten Manananggal stellen\, die im Original von der Tony-Aw
+ ard-prämierten Ikone Lea Salonga gesprochen wird.<br/><br/><br/>Als sie e
+ rkennen\, dass als Preis für ihre Rückkehr die Erinnerungen an ihre gesa
+ mte Freundschaft gefordert werden\, beginnt für Jo und Raissa ein verzwei
+ felter Wettlauf: Sie müssen die Insel verlassen\, bevor sie einander für
+  immer vergessen.
+URL:https://www.pathe.ch/de/filme-events/forgotten-island-51497
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity - Dunkle Geheimnisse
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:verity-dunkle-geheimnisse-50878@pathe.ch
+DESCRIPTION:Basierend auf Colleen Hoovers Bestseller erzählt dieser ebens
+ o verführerische wie fesselnde Psychothriller die Geschichte der renommie
+ rten Autorin Verity Crawford (Anne Hathaway) und Lowen Ashleigh (Dakota Jo
+ hnson)\, einer bislang recht erfolglosen Schriftstellerin\, die auf das ab
+ gelegene Anwesen der Crawfords zieht\, um für Verity als Ghostwriterin zu
+  arbeiten. Nachdem Lowen scheinbar Veritys erschreckende autobiografische 
+ Aufzeichnungen entdeckt\, gerät sie in einen Strudel verstörender und ve
+ rwirrender Geständnisse über Veritys Ehemann Jeremy (Josh Hartnett) – 
+ und ringt damit\, Fiktion von Realität\, Manipulation von Anziehung und
+URL:https://www.pathe.ch/de/filme-events/verity-dunkle-geheimnisse-50878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART:20260916T040000Z
+DTEND:20260916T040000Z
+UID:resident-evil-50490@pathe.ch
+DESCRIPTION:Der Kurierfahrer Bryan (Austin Abrams) nimmt einen scheinbar h
+ armlosen Auftrag an: die Lieferung eines biomedizinischen Pakets. Was wie 
+ ein gewöhnlicher Arbeitstag beginnt\, wird zur Hölle auf Erden. Eine Nac
+ ht\, kein Ausweg - und ein Horror\, der alles verschlingt.<br/><br/>Mit se
+ inen Filmen hat Zach Cregger (BARBARIAN\, WEAPONS) bereits bewiesen\, dass
+  er Horror anders denkt als alle anderen. RESIDENT EVIL verspricht ein Kin
+ oerlebnis\, das unter die Haut geht und man so noch nie gesehen hat.
+URL:https://www.pathe.ch/de/filme-events/resident-evil-50490
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:shaun-das-schaf-spuk-im-kurbisfeld-54679@pathe.ch
+DESCRIPTION:Auf der Mossy Bottom Farm steigt die Vorfreude auf Halloween. 
+ Doch ausgerechnet kurz vor dem grossen Fest zerstört der tollpatschige Fa
+ rmer den liebevoll angelegten Kürbisgarten der Schafherde. Für Shaun das
+  Schaf ist klar: Halloween muss gerettet werden. Entschlossen\, das Proble
+ m zu lösen\, wagt er ein ungewöhnliches wissenschaftliches Experiment. D
+ och schon bald geraten die Dinge ausser Kontrolle. Als der Farmer plötzli
+ ch spurlos verschwindet und ein mysteriöses\, haariges Ungeheuer die Wäl
+ der von Mossingham unsicher macht\, ist das Chaos perfekt. Auf Shaun und s
+ eine wolligen Freunde wartet ein ebenso turbulentes wie urkomisches Abente
+ uer voller Spannung\, Humor und typisch britischem Charme.
+URL:https://www.pathe.ch/de/filme-events/shaun-das-schaf-spuk-im-kurbisfel
+ d-54679
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eiserne Wildnis - Heart Of The Beast
 DTSTART:20260923T040000Z
 DTEND:20260923T040000Z
@@ -50,20 +137,6 @@ DESCRIPTION:Der vierte Teil der Avengers-Saga ist der krönende Abschluss
 URL:https://www.pathe.ch/de/filme-events/avengers-endgame-extended-45930
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART:20260916T040000Z
-DTEND:20260916T040000Z
-UID:resident-evil-50490@pathe.ch
-DESCRIPTION:Der Kurierfahrer Bryan (Austin Abrams) nimmt einen scheinbar h
- armlosen Auftrag an: die Lieferung eines biomedizinischen Pakets. Was wie 
- ein gewöhnlicher Arbeitstag beginnt\, wird zur Hölle auf Erden. Eine Nac
- ht\, kein Ausweg - und ein Horror\, der alles verschlingt.<br/><br/>Mit se
- inen Filmen hat Zach Cregger (BARBARIAN\, WEAPONS) bereits bewiesen\, dass
-  er Horror anders denkt als alle anderen. RESIDENT EVIL verspricht ein Kin
- oerlebnis\, das unter die Haut geht und man so noch nie gesehen hat.
-URL:https://www.pathe.ch/de/filme-events/resident-evil-50490
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Die Odyssee
 DTSTART:20260715T040000Z
 DTEND:20260715T040000Z
@@ -77,24 +150,6 @@ DESCRIPTION:DIE ODYSSEE\, Christopher Nolans neuestes Filmprojekt\, ist ei
   Pattinson (Der Leuchtturm) und Lupita Nyong’o (12 Years A Slave). In we
  iteren Rollen sind Zendaya (Dune) und Charlize Theron (Monster) zu sehen.
 URL:https://www.pathe.ch/de/filme-events/die-odyssee-43278
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pressure
-DTSTART:20260909T040000Z
-DTEND:20260909T040000Z
-UID:pressure-51666@pathe.ch
-DESCRIPTION:England\, Juni 1944: Unter dem Oberbefehl von US-General Dwigh
- t D. Eisenhower (Brendan Fraser) steht die grösste Seeinvasion der Geschi
- chte unmittelbar bevor. Doch ob die alliierte Landung in der Normandie gel
- ingt\, hängt von einer einzigen\, unberechenbaren Grösse ab: dem Wetter.
-  In den entscheidenden 72 Stunden vor dem D-Day muss der britische Chefmet
- eorologe Captain James Stagg (Andrew Scott) die folgenreichste Wetterprogn
- ose seines Lebens abgeben. Während der Druck unaufhaltsam steigt\, gerät
-  er in einen erbitterten Konflikt mit der alliierten Militärführung. Nur
-  wenige Stunden bleiben\, um das schmale Zeitfenster zu finden\, das über
-  Erfolg oder Scheitern der Invasion – und damit über das Schicksal von 
- Millionen Menschen – entscheiden könnte.
-URL:https://www.pathe.ch/de/filme-events/pressure-51666
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
@@ -119,17 +174,21 @@ URL:https://www.pathe.ch/de/filme-events/bibi-blocksberg-die-total-verhext
  e-zeitreise-54610
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emil und die Detektive
-DTSTART:20260924T040000Z
-DTEND:20260924T040000Z
-UID:emil-und-die-detektive-51206@pathe.ch
-DESCRIPTION:Emil soll die Sommerferien bei seiner Oma in Berlin verbringen
- . Doch schon im Zug dorthin wird er von dem skrupellosen Betrüger Max Gru
- ndeis ausgeraubt – und ein wildes Abenteuer beginnt! Gemeinsam mit einer
-  Bande cleverer Kinder nimmt Emil die Verfolgung auf und stürzt sich in e
- ine rasante Detektivjagd quer durch Berlin – voller Witz\, Mut und echte
- r Freundschaft. 
-URL:https://www.pathe.ch/de/filme-events/emil-und-die-detektive-51206
+SUMMARY:Corpus Delicti
+DTSTART:20261001T040000Z
+DTEND:20261001T040000Z
+UID:corpus-delicti-54910@pathe.ch
+DESCRIPTION:In einer nahen Zukunft repräsentiert die «Methode» eine Ges
+ ellschaft\, die Gesundheit und maximale Sicherheit für alle verspricht. D
+ as Leben der Wissenschaftlerin Mia Holl (Hannah Herzsprung) ändert sich s
+ chlagartig\, als ihr Bruder Moritz (Damian Hardung) des Mordes beschuldigt
+  wird. Die Beweise sind erdrückend und doch ist Mia von seiner Unschuld 
+ überzeugt. Ein Widerspruch\, der sie zum Handeln zwingt – gegen ein Sys
+ tem\, das keinen Zweifel zulässt. Doch wem kann sie noch trauen? Ihrer Ko
+ llegin Christiane (Haley Louise Jones)\, dem Anwalt ihres Bruders (Christi
+ an Friedel) oder dem charismatischen Journalisten Kramer (Alexander Fehlin
+ g)? Ihr Kampf um Wahrheit und Gerechtigkeit macht sie selbst zur Gejagten.
+URL:https://www.pathe.ch/de/filme-events/corpus-delicti-54910
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spa Weekend
@@ -144,35 +203,59 @@ DESCRIPTION:Der Film begleitet drei beste Freundinnen\, Jane\, Coco und So
 URL:https://www.pathe.ch/de/filme-events/spa-weekend-51299
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practical Magic 2 - Zauberhafte Schwestern
-DTSTART:20260909T040000Z
-DTEND:20260909T040000Z
-UID:practical-magic-2-zauberhafte-schwestern-40524@pathe.ch
-DESCRIPTION:In „Practical Magic 2 – Zauberhafte Schwestern“ kehren S
- andra Bullock und Nicole Kidman in eine Welt voller nächtlicher Eskapaden
-  und mächtiger Ahnenmagie zurück. Die Owens-Schwestern müssen sich dem 
- dunklen Fluch stellen\, der ihre Familie ein für alle Mal zu vernichten d
- roht – ein fantastisches Kinospektakel voller Spaß\, Magie und Chaos\, 
- das man einfach gesehen haben muss!
-URL:https://www.pathe.ch/de/filme-events/practical-magic-2-zauberhafte-sch
- western-40524
+SUMMARY:Emil und die Detektive
+DTSTART:20260924T040000Z
+DTEND:20260924T040000Z
+UID:emil-und-die-detektive-51206@pathe.ch
+DESCRIPTION:Emil soll die Sommerferien bei seiner Oma in Berlin verbringen
+ . Doch schon im Zug dorthin wird er von dem skrupellosen Betrüger Max Gru
+ ndeis ausgeraubt – und ein wildes Abenteuer beginnt! Gemeinsam mit einer
+  Bande cleverer Kinder nimmt Emil die Verfolgung auf und stürzt sich in e
+ ine rasante Detektivjagd quer durch Berlin – voller Witz\, Mut und echte
+ r Freundschaft. 
+URL:https://www.pathe.ch/de/filme-events/emil-und-die-detektive-51206
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Das gewisse Etwas
-DTSTART:20260903T040000Z
-DTEND:20260903T040000Z
-UID:das-gewisse-etwas-51933@pathe.ch
-DESCRIPTION:Nach einem Juwelenraub verstecken sich Alex (Max von der Groeb
- en) und sein Vater Karlo (Florian Lukas) bei einer Gruppe junger Erwachsen
- er mit Behinderung (Frangiskos Kakoulakis\, Antonia Riet\, Jan Bobke\, Fer
- dinand Kuner …)\, die mit ihren Betreuenden (Mala Emde\, Jasmin Schwiers
- \, Lorenzo Germeno) gerade in den Sommerurlaub aufbrechen. Die beiden Gano
- ven geben sich kurzerhand als der fehlende Mitreisende Otto und dessen Bet
- reuer aus – eine fast perfekte Tarnung. Mit der Flucht vor der Polizei b
- eginnt ein aussergewöhnliches Abenteuer\, das allen Beteiligten nicht nur
-  ungeahnte Herausforderungen beschert\, sondern auch jede Menge Spass\, gr
- osse Gefühle – und eine neue Sicht auf das Leben!
-URL:https://www.pathe.ch/de/filme-events/das-gewisse-etwas-51933
+SUMMARY:Insidious: Out of the Further
+DTSTART:20260819T040000Z
+DTEND:20260819T040000Z
+UID:insidious-out-of-the-further-42489@pathe.ch
+DESCRIPTION:Die „Insidious“-Reihe hat weltweit über 740 Millionen Dol
+ lar an den Kinokassen eingespielt. Nun kehrt sie mit einer neuen Familie u
+ nd einem Schrecken zurück\, der die Grenzen dessen\, wozu das Ewigreich f
+ ähig ist\, neu definiert.<br/><br/>In INSIDIOUS: OUT OF THE FURTHER spiel
+ t Amelia Eve eine junge Mutter namens Gemma\, die ihre Tochter in dem Haus
+  grosszieht\, in dem sie selbst aufgewachsen ist. Dort findet sie heraus\,
+  dass sie in das Ewigreich reisen kann – das Reich der verlorenen Seelen
+  im Herzen des „Insidious“-Universums. Als etwas Böses hinter ihr her
+  ist\, entdeckt Gemma eine Fähigkeit\, die alles verändert: Sie betritt 
+ nicht nur das Ewigreich\, sondern kann auch das\, was dort lebt\, in die r
+ eale Welt zurückbringen. Sobald die Dämonen ihre Macht erkennen\, wird u
+ nsere Welt zu ihrem Spielplatz. Mit Lin Shaye\, die ihre ikonische Rolle a
+ ls Elise Rainier erneut spielt\, und Jacob Chase („Come Play“) als Reg
+ isseur startet INSIDIOUS: OUT OF THE FURTHER am 20. August 2026. Für das 
+ Drehbuch zeichnet Jacob Chase verantwortlich\, die Story stammt von David 
+ Leslie Johnson-McGoldrick und Jacob Chase.
+URL:https://www.pathe.ch/de/filme-events/insidious-out-of-the-further-4248
+ 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paw Patrol: Der Dino Film
+DTSTART:20260805T040000Z
+DTEND:20260805T040000Z
+UID:paw-patrol-der-dino-film-38464@pathe.ch
+DESCRIPTION:Nachdem ihr Schiff in einen mysteriösen Sturm gerät\, landen
+  die PAW-Patrol-Welpen auf einer unbekannten tropischen Insel\, auf der Di
+ nos leben. Dort treffen sie auf Rex\, einen Welpen\, der vor Jahren auf de
+ r Insel gestrandet ist und sich seitdem zu einem Dino-Experten entwickelt 
+ hat. Als Bürgermeister Besserwisser\, Erzrivale der PAW Patrol\, rücksic
+ htslos mit dem Abbau der natürlichen Ressourcen der Insel beginnt\, löst
+  er damit unbeabsichtigt den Ausbruch eines großen Vulkans aus. Die PAW-P
+ atrol-Welpen werden in eine Reihe von spannenden\, riesigen Dinosaurier-Re
+ ttungsaktionen verwickelt\, größer als alles\, was sie je zuvor erlebt h
+ aben\, während sie Besserwisser aufhalten müssen\, um die Insel zu schü
+ tzen.
+URL:https://www.pathe.ch/de/filme-events/paw-patrol-der-dino-film-38464
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Invite
@@ -194,6 +277,84 @@ DESCRIPTION:THE INVITE mit Olivia Wilde\, Seth Rogen\, Penélope Cruz und
 URL:https://www.pathe.ch/de/filme-events/the-invite-52031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tombé du ciel
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:tombe-du-ciel-54355@pathe.ch
+DESCRIPTION:Lyès\, a fan of life in Roubaix\, fails the high school diplo
+ ma twice. After a fire during the mock exams\, he is fired and charged. He
+  must join a Catholic boarding school in Burgundy\, where he faces major c
+ ultural shocks.
+URL:https://www.pathe.ch/de/filme-events/tombe-du-ciel-54355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:111 - Echoes from Halifax
+DTSTART:20270120T040000Z
+DTEND:20270120T040000Z
+UID:111-echoes-from-halifax-38775@pathe.ch
+DESCRIPTION:Am 2. September 1998 verändert der Absturz des Swissair-Flugs
+  111 vor der Küste von Halifax das Leben vieler Menschen für immer. Doch
+  «111 – Echoes from Halifax» erzählt nicht die Katastrophe selbst –
+  sondern ihre Nachwirkungen. Der Film folgt Menschen in verschiedenen Län
+ dern\, deren Schicksale durch das Unglück miteinander verbunden sind. Ang
+ ehörige ringen um Gewissheit über ihre Liebsten\, Helfende versuchen Tro
+ st zu spenden\, und die Bewohner der kanadischen Küste werden mit den Spu
+ ren der Tragödie konfrontiert. Während die Zeit vergeht und Fragen offen
+  bleiben\, zeigt der Film\, wie Trauer verbindet\, Beziehungen verändert 
+ und neue Perspektiven entstehen lässt.
+URL:https://www.pathe.ch/de/filme-events/111-echoes-from-halifax-38775
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Day
+DTSTART:20260923T040000Z
+DTEND:20260923T040000Z
+UID:another-day-54444@pathe.ch
+DESCRIPTION:Garance is a young actress but not a star. She manages things 
+ as best she can\, finding fuel and comfort in alcohol. As she embarks for 
+ an eight-year journey of life changes\, she drinks more and more. Until de
+ ath seems to loom.
+URL:https://www.pathe.ch/de/filme-events/another-day-54444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kontra K: Orchestrated - Live from Channel Aid 2026
+DTSTART:20261002T040000Z
+DTEND:20261002T040000Z
+UID:kontra-k-orchestrated-live-from-channel-aid-2026-52910@pathe.ch
+DESCRIPTION:Manche Konzerte sind größer als der Raum\, in dem sie stattf
+ inden. Deshalb kommt Kontra K im Rahmen von Channel Aid 2026 am 2. Oktober
+  dorthin\, wo ihr diesen besonderen Abend gemeinsam erleben könnt: ins Ki
+ no.<br/>Nach einem Jahr voller besonderer Momente\, ausverkaufter Hallen u
+ nd dem erfolgreichsten deutschsprachigen Album des Jahres macht Kontra K e
+ twas\, das es so noch nicht gegeben hat: Er bringt sein Konzert mit einem 
+ 65-köpfigen Orchester live aus Hamburg gemeinsam mit Channel Aid auf die 
+ große Leinwand. Am 2. Oktober wird das außergewöhnliche Konzert aus dem
+  Deutschen SchauSpielHaus Hamburg live übertragen. In große Städte\, in
+  kleinere Orte und überall dorthin\, wo ihr diesen Moment gemeinsam erleb
+ en wollt.<br/>Wer Kontra K kennt\, weiß: Seine Shows sind mehr als Konzer
+ te. Für dieses Projekt werden seine prägendsten Songs neu arrangiert und
+  mit Orchester neu interpretiert. Bekannte Songs bekommen neue Farben\, ne
+ ue Klangwelten und eine Inszenierung\, die diesen Abend zu einem besondere
+ n Live-Erlebnis macht. Außerdem gibt Kontra K an diesem Abend erste Einbl
+ icke in sein kommendes Album. Nicht nur als kurzer Moment im Feed\, sonder
+ n live\, auf der großen Leinwand und gemeinsam mit anderen Fans im selben
+  Raum.<br/>Das hier ist mehr als ein Konzert im Kino! Es ist die Möglichk
+ eit\, einen einmaligen Kontra K Abend live mitzuerleben\, auch wenn Ihr ni
+ cht in Hamburg dabei seid.<br/>
+URL:https://www.pathe.ch/de/filme-events/kontra-k-orchestrated-live-from-c
+ hannel-aid-2026-52910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Man of His Time
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:a-man-of-his-time-52901@pathe.ch
+DESCRIPTION:In 1940\, Henri Marre arrived in Vichy with his self-taught po
+ litical manuscript Notre Salut\, hoping to establish himself in the new re
+ gime and publish his work. He seeks to save France from collapse—or perh
+ aps himself.<br/><br/>
+URL:https://www.pathe.ch/de/filme-events/a-man-of-his-time-52901
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minions & Monster 
 DTSTART:20260624T040000Z
 DTEND:20260624T040000Z
@@ -211,22 +372,62 @@ DESCRIPTION:MINIONS & MONSTER erzählt die abgefahrene\, aberwitzige und n
 URL:https://www.pathe.ch/de/filme-events/minions-monster-40833
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paw Patrol: Der Dino Film
-DTSTART:20260805T040000Z
-DTEND:20260805T040000Z
-UID:paw-patrol-der-dino-film-38464@pathe.ch
-DESCRIPTION:Nachdem ihr Schiff in einen mysteriösen Sturm gerät\, landen
-  die PAW-Patrol-Welpen auf einer unbekannten tropischen Insel\, auf der Di
- nos leben. Dort treffen sie auf Rex\, einen Welpen\, der vor Jahren auf de
- r Insel gestrandet ist und sich seitdem zu einem Dino-Experten entwickelt 
- hat. Als Bürgermeister Besserwisser\, Erzrivale der PAW Patrol\, rücksic
- htslos mit dem Abbau der natürlichen Ressourcen der Insel beginnt\, löst
-  er damit unbeabsichtigt den Ausbruch eines großen Vulkans aus. Die PAW-P
- atrol-Welpen werden in eine Reihe von spannenden\, riesigen Dinosaurier-Re
- ttungsaktionen verwickelt\, größer als alles\, was sie je zuvor erlebt h
- aben\, während sie Besserwisser aufhalten müssen\, um die Insel zu schü
- tzen.
-URL:https://www.pathe.ch/de/filme-events/paw-patrol-der-dino-film-38464
+SUMMARY:Mutiny
+DTSTART:20260819T040000Z
+DTEND:20260819T040000Z
+UID:mutiny-49223@pathe.ch
+DESCRIPTION:Als sein milliardenschwerer Boss vor seinen Augen einem Mordko
+ mplott zum Opfer fällt\, wird Cole Reed (Jason Statham) für das Verbrech
+ en verantwortlich gemacht. Im Bestreben\, dessen Tod zu rächen und die T
+ äter zu überführen\, gelangt Reed an Bord eines Frachters und stösst d
+ abei auf eine internationale Verschwörung. Im Alleingang startet Cole ein
+ e gnadenlose Racheaktion auf hoher See...
+URL:https://www.pathe.ch/de/filme-events/mutiny-49223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession
+DTSTART:20260513T040000Z
+DTEND:20260513T040000Z
+UID:obsession-51276@pathe.ch
+DESCRIPTION:In OBSESSION – DU SOLLST MICH LIEBEN nutzt der hoffnungslose
+  Romantiker Bear ein „One-Wish-Willow”\, um seinen Crush für sich zu 
+ gewinnen. Dieser magische Gegenstand erfüllt Wünsche\, wenn man ihn zerb
+ richt. Zunächst scheint er genau das zu bekommen\, was er sich schon imme
+ r wünschte. Doch schnell muss er feststellen\, dass manche Wünsche einen
+  finsteren\, unheimlichen Tribut fordern.<br/>
+URL:https://www.pathe.ch/de/filme-events/obsession-51276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2 - Zauberhafte Schwestern
+DTSTART:20260909T040000Z
+DTEND:20260909T040000Z
+UID:practical-magic-2-zauberhafte-schwestern-40524@pathe.ch
+DESCRIPTION:In „Practical Magic 2 – Zauberhafte Schwestern“ kehren S
+ andra Bullock und Nicole Kidman in eine Welt voller nächtlicher Eskapaden
+  und mächtiger Ahnenmagie zurück. Die Owens-Schwestern müssen sich dem 
+ dunklen Fluch stellen\, der ihre Familie ein für alle Mal zu vernichten d
+ roht – ein fantastisches Kinospektakel voller Spaß\, Magie und Chaos\, 
+ das man einfach gesehen haben muss!
+URL:https://www.pathe.ch/de/filme-events/practical-magic-2-zauberhafte-sch
+ western-40524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure
+DTSTART:20260909T040000Z
+DTEND:20260909T040000Z
+UID:pressure-51666@pathe.ch
+DESCRIPTION:England\, Juni 1944: Unter dem Oberbefehl von US-General Dwigh
+ t D. Eisenhower (Brendan Fraser) steht die grösste Seeinvasion der Geschi
+ chte unmittelbar bevor. Doch ob die alliierte Landung in der Normandie gel
+ ingt\, hängt von einer einzigen\, unberechenbaren Grösse ab: dem Wetter.
+  In den entscheidenden 72 Stunden vor dem D-Day muss der britische Chefmet
+ eorologe Captain James Stagg (Andrew Scott) die folgenreichste Wetterprogn
+ ose seines Lebens abgeben. Während der Druck unaufhaltsam steigt\, gerät
+  er in einen erbitterten Konflikt mit der alliierten Militärführung. Nur
+  wenige Stunden bleiben\, um das schmale Zeitfenster zu finden\, das über
+  Erfolg oder Scheitern der Invasion – und damit über das Schicksal von 
+ Millionen Menschen – entscheiden könnte.
+URL:https://www.pathe.ch/de/filme-events/pressure-51666
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinn und Sinnlichkeit
@@ -248,36 +449,47 @@ DESCRIPTION:England um 1800: Nach dem Tod ihres Vaters müssen die beiden
 URL:https://www.pathe.ch/de/filme-events/sinn-und-sinnlichkeit-50704
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tombé du ciel
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:tombe-du-ciel-54355@pathe.ch
-DESCRIPTION:Lyès\, a fan of life in Roubaix\, fails the high school diplo
- ma twice. After a fire during the mock exams\, he is fired and charged. He
-  must join a Catholic boarding school in Burgundy\, where he faces major c
- ultural shocks.
-URL:https://www.pathe.ch/de/filme-events/tombe-du-ciel-54355
+SUMMARY:Ah Que le Bonheur est Proche!
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:ah-que-le-bonheur-est-proche-54763@pathe.ch
+DESCRIPTION:80-year-old Jean-Luc is set to play Don Quixote. It's the role
+  he's been waiting for to bid farewell to the stage. Given his health conc
+ erns\, the production team hires an understudy. Jean-Luc becomes convinced
+  that the understudy is trying to take his place.
+URL:https://www.pathe.ch/de/filme-events/ah-que-le-bonheur-est-proche-5476
+ 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Another Day
-DTSTART:20260923T040000Z
-DTEND:20260923T040000Z
-UID:another-day-54444@pathe.ch
-DESCRIPTION:Garance is a young actress but not a star. She manages things 
- as best she can\, finding fuel and comfort in alcohol. As she embarks for 
- an eight-year journey of life changes\, she drinks more and more. Until de
- ath seems to loom.
-URL:https://www.pathe.ch/de/filme-events/another-day-54444
+SUMMARY:A tombeaux ouverts
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:a-tombeaux-ouverts-52919@pathe.ch
+DESCRIPTION:Roger Rey raced alongside the great names of Formula 1. At eig
+ hty-four\, his wife Marylou asks him to return to racing in honour of thei
+ r late son. After a series of chaotic beginnings\, Roger rediscovers the t
+ hrill of adrenaline when\, without warning\, Marylou is hospitalized and p
+ asses away. On her deathbed\, she makes him promise to take part in a majo
+ r European hill climb in her honour. At nearly ninety years old\, Roger ha
+ s nothing left to lose and sets out to challenge age\, fear\, and death.
+URL:https://www.pathe.ch/de/filme-events/a-tombeaux-ouverts-52919
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Histoires de la nuit
-DTSTART:20260916T040000Z
-DTEND:20260916T040000Z
-UID:histoires-de-la-nuit-54359@pathe.ch
-DESCRIPTION:In a quiet rural area\, Bergogne\, his wife Nora\, and daughte
- r Ida live near artist Cristina. As they plan Nora's 40th birthday party\,
-  mysterious strangers begin appearing in the village.
-URL:https://www.pathe.ch/de/filme-events/histoires-de-la-nuit-54359
+SUMMARY:Das gewisse Etwas
+DTSTART:20260903T040000Z
+DTEND:20260903T040000Z
+UID:das-gewisse-etwas-51933@pathe.ch
+DESCRIPTION:Nach einem Juwelenraub verstecken sich Alex (Max von der Groeb
+ en) und sein Vater Karlo (Florian Lukas) bei einer Gruppe junger Erwachsen
+ er mit Behinderung (Frangiskos Kakoulakis\, Antonia Riet\, Jan Bobke\, Fer
+ dinand Kuner …)\, die mit ihren Betreuenden (Mala Emde\, Jasmin Schwiers
+ \, Lorenzo Germeno) gerade in den Sommerurlaub aufbrechen. Die beiden Gano
+ ven geben sich kurzerhand als der fehlende Mitreisende Otto und dessen Bet
+ reuer aus – eine fast perfekte Tarnung. Mit der Flucht vor der Polizei b
+ eginnt ein aussergewöhnliches Abenteuer\, das allen Beteiligten nicht nur
+  ungeahnte Herausforderungen beschert\, sondern auch jede Menge Spass\, gr
+ osse Gefühle – und eine neue Sicht auf das Leben!
+URL:https://www.pathe.ch/de/filme-events/das-gewisse-etwas-51933
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fjord
@@ -311,84 +523,14 @@ DESCRIPTION:Gabrielle\, Mitte Fünfzig\, lebt ihren Beruf mit Leib und See
 URL:https://www.pathe.ch/de/filme-events/la-vie-d-une-femme-54481
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shaun das Schaf - Spuk im Kürbisfeld
+SUMMARY:NAZA
 DTSTART:20260930T040000Z
 DTEND:20260930T040000Z
-UID:shaun-das-schaf-spuk-im-kurbisfeld-54679@pathe.ch
-DESCRIPTION:Auf der Mossy Bottom Farm steigt die Vorfreude auf Halloween. 
- Doch ausgerechnet kurz vor dem grossen Fest zerstört der tollpatschige Fa
- rmer den liebevoll angelegten Kürbisgarten der Schafherde. Für Shaun das
-  Schaf ist klar: Halloween muss gerettet werden. Entschlossen\, das Proble
- m zu lösen\, wagt er ein ungewöhnliches wissenschaftliches Experiment. D
- och schon bald geraten die Dinge ausser Kontrolle. Als der Farmer plötzli
- ch spurlos verschwindet und ein mysteriöses\, haariges Ungeheuer die Wäl
- der von Mossingham unsicher macht\, ist das Chaos perfekt. Auf Shaun und s
- eine wolligen Freunde wartet ein ebenso turbulentes wie urkomisches Abente
- uer voller Spannung\, Humor und typisch britischem Charme.
-URL:https://www.pathe.ch/de/filme-events/shaun-das-schaf-spuk-im-kurbisfel
- d-54679
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:De la Comédie-Française
-DTSTART:20260722T040000Z
-DTEND:20260722T040000Z
-UID:de-la-comedie-francaise-51581@pathe.ch
-DESCRIPTION:At the Comédie-Française\, the show must go on. But three ho
- urs before Nina's directorial debut\, chaos erupts: a stranded actor\, exp
- loding tensions\, broken equipment\, clashing egos. With time running out
- \, she fights to save the premiere.
-URL:https://www.pathe.ch/de/filme-events/de-la-comedie-francaise-51581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART:20260819T040000Z
-DTEND:20260819T040000Z
-UID:insidious-out-of-the-further-42489@pathe.ch
-DESCRIPTION:Die „Insidious“-Reihe hat weltweit über 740 Millionen Dol
- lar an den Kinokassen eingespielt. Nun kehrt sie mit einer neuen Familie u
- nd einem Schrecken zurück\, der die Grenzen dessen\, wozu das Ewigreich f
- ähig ist\, neu definiert.<br/><br/>In INSIDIOUS: OUT OF THE FURTHER spiel
- t Amelia Eve eine junge Mutter namens Gemma\, die ihre Tochter in dem Haus
-  grosszieht\, in dem sie selbst aufgewachsen ist. Dort findet sie heraus\,
-  dass sie in das Ewigreich reisen kann – das Reich der verlorenen Seelen
-  im Herzen des „Insidious“-Universums. Als etwas Böses hinter ihr her
-  ist\, entdeckt Gemma eine Fähigkeit\, die alles verändert: Sie betritt 
- nicht nur das Ewigreich\, sondern kann auch das\, was dort lebt\, in die r
- eale Welt zurückbringen. Sobald die Dämonen ihre Macht erkennen\, wird u
- nsere Welt zu ihrem Spielplatz. Mit Lin Shaye\, die ihre ikonische Rolle a
- ls Elise Rainier erneut spielt\, und Jacob Chase („Come Play“) als Reg
- isseur startet INSIDIOUS: OUT OF THE FURTHER am 20. August 2026. Für das 
- Drehbuch zeichnet Jacob Chase verantwortlich\, die Story stammt von David 
- Leslie Johnson-McGoldrick und Jacob Chase.
-URL:https://www.pathe.ch/de/filme-events/insidious-out-of-the-further-4248
- 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART:20260617T040000Z
-DTEND:20260617T040000Z
-UID:toy-story-5-38854@pathe.ch
-DESCRIPTION:Die Spielzeughelden Buzz und Woody sind zurück und treffen in
-  TOY STORY 5 auf Lilypad\, ein froschförmiges High-Tech Tablet\, dem im O
- riginal Greta Lee ihre Stimme leiht. Lilypad stellt Buzz\, Woody\, Jessie 
- und den Rest der Gang vor völlig neue Herausforderungen\, da mit ihr das 
- digitale Spielzeugzeitalter im Kinderzimmer eingeläutet wird.
-URL:https://www.pathe.ch/de/filme-events/toy-story-5-38854
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vaiana
-DTSTART:20260708T040000Z
-DTEND:20260708T040000Z
-UID:vaiana-38855@pathe.ch
-DESCRIPTION:In der Realverfilmung des Oscar®-nominierten Animationsabente
- uers folgt Vaiana dem Ruf des Ozeans und wagt sich zum ersten Mal über da
- s Riff ihrer Heimatinsel Motunui hinaus. Gemeinsam mit dem berühmt-berüc
- htigten Halbgott Maui begibt sie sich auf eine abenteuerliche Reise über 
- die Weiten des Meeres\, um die Zukunft ihres Volkes zu sichern. „Vaiana
- “ entstand unter der Regie von Emmy®- und Tony Award®-Gewinner Thomas 
- Kail („Hamilton“). Zuschauer können die beeindruckenden Bilder\, Klä
- nge und Songs von „Vaiana“ im Juli 2026 exklusiv in den Kinos erleben.
-URL:https://www.pathe.ch/de/filme-events/vaiana-38855
+UID:naza-55507@pathe.ch
+DESCRIPTION:Aufgenommen bei Nacht auf den Dächern von Tel Aviv\, enthüll
+ t der Film detailliert die Systeme hinter Israels gezielter Massentötung 
+ palästinensischer Zivilist:innen im Gazastreifen.
+URL:https://www.pathe.ch/de/filme-events/naza-55507
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arnie & Barney - Retten das Wasser
@@ -410,81 +552,14 @@ URL:https://www.pathe.ch/de/filme-events/arnie-barney-retten-das-wasser-54
  820
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Sad and Beautiful World
-DTSTART:20260902T040000Z
-DTEND:20260902T040000Z
-UID:a-sad-and-beautiful-world-51273@pathe.ch
-DESCRIPTION:Nino und Yasmina werden am selben Tag im selben Krankenhaus in
-  Beirut geboren. 20 Jahre später führt das Schicksal die beiden wieder z
- usammen. Eine mitreissende Lovestory über drei Jahrzehnte\, in der sich d
- ie wechselhafte Geschichte des Libanon spiegelt.
-URL:https://www.pathe.ch/de/filme-events/a-sad-and-beautiful-world-51273
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Becaària
-DTSTART:20260902T040000Z
-DTEND:20260902T040000Z
-UID:becaaria-52806@pathe.ch
-DESCRIPTION:1977\, in einem kleinen Dorf im Tessin: Der 16-jährige Mario 
- steht irgendwo zwischen Jugend und Erwachsensein. In der Schule wie im Leb
- en gerät vieles ins Wanken\, insbesondere die Beziehung zu seinem autorit
- ären Vater. Für den Sommer wird er in die Berge geschickt\, um in der La
- ndwirtschaft zu arbeiten. Dort begegnet er einer rauen aber freien Welt\, 
- in der die Natur den Rhythmus vorgibt. In dieser Umgebung entdeckt Mario n
- eue Formen von Verantwortung\, Sinnlichkeit und künstlerischer Selbstbest
- immung – Erfahrungen\, die seine Sicht auf sich und seine Zukunft nachha
- ltig verändern.
-URL:https://www.pathe.ch/de/filme-events/becaaria-52806
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutiny
-DTSTART:20260819T040000Z
-DTEND:20260819T040000Z
-UID:mutiny-49223@pathe.ch
-DESCRIPTION:Als sein milliardenschwerer Boss vor seinen Augen einem Mordko
- mplott zum Opfer fällt\, wird Cole Reed (Jason Statham) für das Verbrech
- en verantwortlich gemacht. Im Bestreben\, dessen Tod zu rächen und die T
- äter zu überführen\, gelangt Reed an Bord eines Frachters und stösst d
- abei auf eine internationale Verschwörung. Im Alleingang startet Cole ein
- e gnadenlose Racheaktion auf hoher See...
-URL:https://www.pathe.ch/de/filme-events/mutiny-49223
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:one-night-only-49702@pathe.ch
-DESCRIPTION:Allie ist hoffnungslos romantisch\, Owen wurde frisch abservie
- rt. Sie begegnen sich in New York\, und dort gilt eine neue Regel: Sex fü
- r Singles nur noch an einem Tag im Jahr! Perfektes Timing\, denn der gross
- e Tag ist heute… aber was\, wenn da doch mehr ist als für ONE NIGHT ONL
- Y?<br/><br/>Will Gluck\, Autor und Regisseur von Wo die Lüge hinfällt un
- d Einfach zu haben\, bringt mit ONE NIGHT ONLY eine frische\, witzig-roman
- tische Originalkomödie auf die grosse Leinwand. In den Hauptrollen sind d
- ie Oscar®-nominierte Monica Barbaro (Like a Complete Unknown\, Top Gun: M
- averick) und der BAFTA-nominierte Callum Turner (Masters of the Air\, Phan
- tastische Tierwesen-Reihe) zu sehen. Sie spielen Allie und Owen\, die auf 
- der Suche nach der grossen Liebe und nicht nach flüchtigen Abenteuern sin
- d. In einem leicht fiktionalisierten New York City treffen sie ausgerechne
- t in der einen Nacht des Jahres aufeinander\, in der Singles Sex haben dü
- rfen.
-URL:https://www.pathe.ch/de/filme-events/one-night-only-49702
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soudain
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:soudain-52918@pathe.ch
-DESCRIPTION:Die Pflegeheim-Leiterin Marie-Lou setzt sich dafür ein\, in i
- hrer Institution das ganzheitliche Pflegekonzept Humanitude einzuführen. 
- Dieses basiert auf Zuwendung und Zuhören\, unter steter Wahrung der Würd
- e der Bewohner:innen. Dabei kämpft Marie-Lou gegen Widerstände von einem
-  Teil ihres Teams und von der profitorientierten Trägerschaft. Ihre Begeg
- nung mit der an Krebs erkrankten Mari\, einer japanischen Theaterregisseur
- in\, verändert ihren Weg grundlegend. Durch eine tiefe Freundschaft verbu
- nden\, nehmen die beiden Frauen gemeinsam den Kampf auf\, um «das Unmögl
- iche möglich zu machen».
-URL:https://www.pathe.ch/de/filme-events/soudain-52918
+SUMMARY:Histoires de la nuit
+DTSTART:20260916T040000Z
+DTEND:20260916T040000Z
+UID:histoires-de-la-nuit-54359@pathe.ch
+DESCRIPTION:In a quiet rural area\, Bergogne\, his wife Nora\, and daughte
+ r Ida live near artist Cristina. As they plan Nora's 40th birthday party\,
+  mysterious strangers begin appearing in the village.
+URL:https://www.pathe.ch/de/filme-events/histoires-de-la-nuit-54359
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tad Stones und die Wunderlampe
@@ -504,79 +579,12 @@ URL:https://www.pathe.ch/de/filme-events/tad-stones-und-die-wunderlampe-49
  344
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:the-end-of-oak-street-38774@pathe.ch
-DESCRIPTION:Ein unerklärliches kosmisches Ereignis reißt die Oak Street 
- aus ihrem Vorstadtidyll heraus und befördert die gesamte Nachbarschaft an
-  einen unbekannten Ort. Die Mitglieder der Familie Platt müssen in dieser
-  für sie völlig fremden Umgebung schnell feststellen\, dass sie nur dann
-  überleben können\, wenn sie eng zusammenstehen.<br/>
-URL:https://www.pathe.ch/de/filme-events/the-end-of-oak-street-38774
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unser Geld
-DTSTART:20260909T040000Z
-DTEND:20260909T040000Z
-UID:unser-geld-52424@pathe.ch
-DESCRIPTION:Dienen wir dem Geld – oder dient es uns? Eine unter­hal­te
- nde und geist­reiche Einführung ins Wesen des Geldes.<br/><br/>Die Mensc
- hen haben es selbst erschaffen\, doch es funk­tio­niert nur\, weil sie d
- aran glauben. Über die Jahr­hun­derte ist unser Finanz­system so kompl
- ex geworden\, dass selbst damit Vertraute es nur teil­weise erklären kö
- nnen. Ein Bankräuber\, ein Kryp­to­ex­perte\, eine Pfar­rerin und ein
-  Ökonom der Schwei­ze­ri­schen Nati­o­nal­bank versu­chen es trotz
- dem. Der Regis­seur Hercli Bundi lädt ein zu einer Reise in das fragile 
- Universum des Geldes und deckt in seinem Film die zwiespältige Macht des 
- Geldes auf. Geld\, welches uns fehlt\, verführt\, Träume wahr werden ode
- r platzen lässt. Ein Film\, der um die ewige Frage kreist: Dienen wir dem
-  Geld oder dient es uns?
-URL:https://www.pathe.ch/de/filme-events/unser-geld-52424
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:111 - Echoes from Halifax
-DTSTART:20270120T040000Z
-DTEND:20270120T040000Z
-UID:111-echoes-from-halifax-38775@pathe.ch
-DESCRIPTION:Am 2. September 1998 verändert der Absturz des Swissair-Flugs
-  111 vor der Küste von Halifax das Leben vieler Menschen für immer. Doch
-  «111 – Echoes from Halifax» erzählt nicht die Katastrophe selbst –
-  sondern ihre Nachwirkungen. Der Film folgt Menschen in verschiedenen Län
- dern\, deren Schicksale durch das Unglück miteinander verbunden sind. Ang
- ehörige ringen um Gewissheit über ihre Liebsten\, Helfende versuchen Tro
- st zu spenden\, und die Bewohner der kanadischen Küste werden mit den Spu
- ren der Tragödie konfrontiert. Während die Zeit vergeht und Fragen offen
-  bleiben\, zeigt der Film\, wie Trauer verbindet\, Beziehungen verändert 
- und neue Perspektiven entstehen lässt.
-URL:https://www.pathe.ch/de/filme-events/111-echoes-from-halifax-38775
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15/18
 DTSTART:20261111T040000Z
 DTEND:20261111T040000Z
 UID:15-18-52251@pathe.ch
 DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/15-18-52251
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2001: A Space Odyssey
-DTSTART:20260929T040000Z
-DTEND:20260929T040000Z
-UID:2001-a-space-odyssey-50423@pathe.ch
-DESCRIPTION:'2001: A Space Odyssee' erzählt die Geschichte der Astronaute
- n Dave Bowman (Dullea) und Frank Poole (Lockwood)\, die im Raumschiff 'Dis
- covery' ein Gebiet am Rande des Sonnensystem erforschen sollen. Zunächst 
- verläuft das Unternehmen planmässig\, doch im Lauf der Zeit treten auf u
- nerklärliche Weise immer gravierendere Probleme auf. Der hoch spezialisie
- rte Bordcomputer HAL-9000 stellt den eigentlichen Anlass der Mission infra
- ge und sabotiert offenbar den Auftrag der Besatzung\, die er doch unterst
- ützen soll. Damit gefährdet er nicht nur das Unternehmen\, sondern auch 
- das Leben aller Besatzungsmitglieder. Es beginnt als eine Art Abenteuer - 
- doch dann entwickelt es sich zu einem Abenteuer ganz anderer Art\, das uns
-  nicht nur in die unbekannten Tiefen des Raumes entführt\, sondern zum Ur
- sprung des Lebens selbst.
-URL:https://www.pathe.ch/de/filme-events/2001-a-space-odyssey-50423
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Girl Unknown
@@ -609,27 +617,20 @@ DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/a-happy-family-51498
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ah Que le Bonheur est Proche!
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:ah-que-le-bonheur-est-proche-54763@pathe.ch
-DESCRIPTION:80-year-old Jean-Luc is set to play Don Quixote. It's the role
-  he's been waiting for to bid farewell to the stage. Given his health conc
- erns\, the production team hires an understudy. Jean-Luc becomes convinced
-  that the understudy is trying to take his place.
-URL:https://www.pathe.ch/de/filme-events/ah-que-le-bonheur-est-proche-5476
- 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ali G: Who Iz I?
-DTSTART:20261022T040000Z
-DTEND:20261022T040000Z
+DTSTART:20261021T040000Z
+DTEND:20261021T040000Z
 UID:ali-g-who-iz-i-55064@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:Nach zwanzig Jahren „chillen\, kiffen und bumsen“ muss Ali
+  G schockiert feststellen\, dass seine langjährige Freundin Julie im acht
+ en Monat schwanger ist. Da es nun ein zusätzliches Maul zu stopfen gilt\,
+  schwingt er seinen Allerwertesten vom Sofa und macht sich auf den Weg nac
+ h Amerika\, um an seinen früheren Ruhm anzuknüpfen. Dort stösst er jedo
+ ch bald auf Gegner\, die sein Leben und das seines Kindes bedrohen.
 URL:https://www.pathe.ch/de/filme-events/ali-g-who-iz-i-55064
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All About Corinne 
+SUMMARY:All About Corinne
 DTSTART:20261014T040000Z
 DTEND:20261014T040000Z
 UID:all-about-corinne-52817@pathe.ch
@@ -668,27 +669,15 @@ DESCRIPTION:„Always Lalisa“ ist ein Dokumentarfilm in Spielfilmlänge
 URL:https://www.pathe.ch/de/filme-events/always-lalisa-55454
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Man of His Time
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:a-man-of-his-time-52901@pathe.ch
-DESCRIPTION:In 1940\, Henri Marre arrived in Vichy with his self-taught po
- litical manuscript Notre Salut\, hoping to establish himself in the new re
- gime and publish his work. He seeks to save France from collapse—or perh
- aps himself.<br/><br/>
-URL:https://www.pathe.ch/de/filme-events/a-man-of-his-time-52901
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Artus - Le show XXL au cinéma
-DTSTART:20260924T040000Z
-DTEND:20260924T040000Z
-UID:artus-le-show-xxl-au-cinema-51952@pathe.ch
-DESCRIPTION:Artus signe un show XXL à voir sur grand écran !  <br/>Il en
- tre dans l'Histoire en devenant le premier humoriste à investir Paris La 
- Défense Arena\, la plus grande salle d’Europe\, dans un format totaleme
- nt inédit : une fusion des genres\, entre humour et expérience live jama
- is vue auparavant.<br/>
-URL:https://www.pathe.ch/de/filme-events/artus-le-show-xxl-au-cinema-51952
+SUMMARY:A Sad and Beautiful World
+DTSTART:20260902T040000Z
+DTEND:20260902T040000Z
+UID:a-sad-and-beautiful-world-51273@pathe.ch
+DESCRIPTION:Nino und Yasmina werden am selben Tag im selben Krankenhaus in
+  Beirut geboren. 20 Jahre später führt das Schicksal die beiden wieder z
+ usammen. Eine mitreissende Lovestory über drei Jahrzehnte\, in der sich d
+ ie wechselhafte Geschichte des Libanon spiegelt.
+URL:https://www.pathe.ch/de/filme-events/a-sad-and-beautiful-world-51273
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asterix und das Königreich Nubien
@@ -704,18 +693,15 @@ URL:https://www.pathe.ch/de/filme-events/asterix-und-das-konigreich-nubien
  -54557
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A tombeaux ouverts
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:a-tombeaux-ouverts-52919@pathe.ch
-DESCRIPTION:Roger Rey raced alongside the great names of Formula 1. At eig
- hty-four\, his wife Marylou asks him to return to racing in honour of thei
- r late son. After a series of chaotic beginnings\, Roger rediscovers the t
- hrill of adrenaline when\, without warning\, Marylou is hospitalized and p
- asses away. On her deathbed\, she makes him promise to take part in a majo
- r European hill climb in her honour. At nearly ninety years old\, Roger ha
- s nothing left to lose and sets out to challenge age\, fear\, and death.
-URL:https://www.pathe.ch/de/filme-events/a-tombeaux-ouverts-52919
+SUMMARY:A Talent for Murder
+DTSTART:20261105T040000Z
+DTEND:20261105T040000Z
+UID:a-talent-for-murder-55749@pathe.ch
+DESCRIPTION:Ein geheimnisvoller junger Mann eines New Yorker Verlags wird 
+ in die Schweiz geschickt\, um die weltberühmte Schriftstellerin Patricia 
+ Highsmith davon zu überzeugen\, einen letzten Band der Ripley-Reihe zu sc
+ hreiben.
+URL:https://www.pathe.ch/de/filme-events/a-talent-for-murder-55749
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auf der Suche nach der Weihnachtswerkstatt
@@ -737,7 +723,9 @@ SUMMARY:Avengers: Doomsday
 DTSTART:20261216T040000Z
 DTEND:20261216T040000Z
 UID:avengers-doomsday-42287@pathe.ch
-DESCRIPTION:Plot unknown
+DESCRIPTION:Die Helden dreier Universen geraten auf einen tödlichen Kolli
+ sionskurs und sehen sich einer existenziellen Bedrohung gegenüber\, wie s
+ ie sie noch nie zuvor erlebt haben.
 URL:https://www.pathe.ch/de/filme-events/avengers-doomsday-42287
 END:VEVENT
 BEGIN:VEVENT
@@ -752,17 +740,18 @@ DESCRIPTION:A young girl disappears. Three years later\, her younger siste
 URL:https://www.pathe.ch/de/filme-events/banquise-52166
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Behemoth !
+SUMMARY:Behemoth! Stücke eines Lebens
 DTSTART:20261203T040000Z
 DTEND:20261203T040000Z
-UID:behemoth-55189@pathe.ch
-DESCRIPTION:None
-URL:https://www.pathe.ch/de/filme-events/behemoth-55189
+UID:behemoth-stucke-eines-lebens-55189@pathe.ch
+DESCRIPTION:Plot unknown
+URL:https://www.pathe.ch/de/filme-events/behemoth-stucke-eines-lebens-5518
+ 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beware Boiúna
-DTSTART:20261008T040000Z
-DTEND:20261008T040000Z
+DTSTART:20261112T040000Z
+DTEND:20261112T040000Z
 UID:beware-boiuna-55059@pathe.ch
 DESCRIPTION:„Der Dschungel macht aus guten Menschen bessere und aus schl
  echten Menschen Monster.“ Ein junges Ärzteteam reist im Rahmen einer hu
@@ -789,17 +778,42 @@ DESCRIPTION:Ein Blade Runner muss vier Replikanten verfolgen und versuchen
 URL:https://www.pathe.ch/de/filme-events/blade-runner-the-final-cut-45968
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bluey im Kino: „Küchenspass“- Kollektion 
+DTSTART:20260325T040000Z
+DTEND:20260325T040000Z
+UID:bluey-im-kino-kuchenspass-kollektion-51548@pathe.ch
+DESCRIPTION:Bluey im Kino: „Küchenspass“-Kollektion ist ein einstünd
+ iges Vergnügen für alle Bluey-Fans\, bestehend aus acht bereits ausgestr
+ ahlten Episoden aus den drei Staffeln der TV-Serie – alle rund um den Sp
+ ass am Essen! Die Kollektion wird unvergessliche Momente wie Warten und Fe
+ ines Restaurant zeigen und die Kochkünste der Heelers mit Folgen wie Omel
+ ette und Enten-Torte hervorheben. So viel Spass hat Kochen noch nie gemach
+ t!
+URL:https://www.pathe.ch/de/filme-events/bluey-im-kino-kuchenspass-kollekt
+ ion-51548
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Camembert
 DTSTART:20261118T040000Z
 DTEND:20261118T040000Z
 UID:camembert-51588@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:At Christmas Eve dinner at the Roussels'\, Stan meets his girl
+ friend Cléo's large\, upper-class family for the first time. Everything s
+ eems perfect - until the group decides to play a game of Trivial Pursuit.
 URL:https://www.pathe.ch/de/filme-events/camembert-51588
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Çatli 2
+DTSTART:20261028T040000Z
+DTEND:20261028T040000Z
+UID:catli-2-55874@pathe.ch
+DESCRIPTION:None
+URL:https://www.pathe.ch/de/filme-events/catli-2-55874
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Children of Blood and Bone
-DTSTART:20270113T040000Z
-DTEND:20270113T040000Z
+DTSTART:20270127T040000Z
+DTEND:20270127T040000Z
 UID:children-of-blood-and-bone-49905@pathe.ch
 DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/children-of-blood-and-bone-49905
@@ -817,9 +831,11 @@ SUMMARY:Clayface
 DTSTART:20261021T040000Z
 DTEND:20261021T040000Z
 UID:clayface-40536@pathe.ch
-DESCRIPTION:A shape-shifting creature made of magical clay haunts Gotham C
- ity\, alternating between villain and ally of Batman. Multiple tragic figu
- res have taken on the Clayface mantle over the years.
+DESCRIPTION:„Clayface“ schildert den erschütternden Niedergang eines 
+ Mannes vom aufstrebenden Hollywood-Star zum von Rachegelüsten getriebenen
+  Monster. Die Geschichte erzählt vom Verlust der eigenen Identität und M
+ enschlichkeit\, von der zerstörerischen Kraft der Liebe und von der Schat
+ tenseite wissenschaftlichen Ehrgeizes.
 URL:https://www.pathe.ch/de/filme-events/clayface-40536
 END:VEVENT
 BEGIN:VEVENT
@@ -831,21 +847,12 @@ DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/club-kid-55251
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Corpus Delicti
-DTSTART:20261001T040000Z
-DTEND:20261001T040000Z
-UID:corpus-delicti-54910@pathe.ch
-DESCRIPTION:In einer nahen Zukunft repräsentiert die «Methode» eine Ges
- ellschaft\, die Gesundheit und maximale Sicherheit für alle verspricht. D
- as Leben der Wissenschaftlerin Mia Holl (Hannah Herzsprung) ändert sich s
- chlagartig\, als ihr Bruder Moritz (Damian Hardung) des Mordes beschuldigt
-  wird. Die Beweise sind erdrückend und doch ist Mia von seiner Unschuld 
- überzeugt. Ein Widerspruch\, der sie zum Handeln zwingt – gegen ein Sys
- tem\, das keinen Zweifel zulässt. Doch wem kann sie noch trauen? Ihrer Ko
- llegin Christiane (Haley Louise Jones)\, dem Anwalt ihres Bruders (Christi
- an Friedel) oder dem charismatischen Journalisten Kramer (Alexander Fehlin
- g)? Ihr Kampf um Wahrheit und Gerechtigkeit macht sie selbst zur Gejagten.
-URL:https://www.pathe.ch/de/filme-events/corpus-delicti-54910
+SUMMARY:Cocomelon: The Movie
+DTSTART:20270203T040000Z
+DTEND:20270203T040000Z
+UID:cocomelon-the-movie-50988@pathe.ch
+DESCRIPTION:None
+URL:https://www.pathe.ch/de/filme-events/cocomelon-the-movie-50988
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coward
@@ -905,13 +912,21 @@ DESCRIPTION:Der Regenbogenfisch ist mit seinen schillernden Schuppen der s
 URL:https://www.pathe.ch/de/filme-events/de-ragebogefisch-51589
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Derborence le temps des animaux
+SUMMARY:Derborence die Zeit der Tiere
 DTSTART:20261028T040000Z
 DTEND:20261028T040000Z
-UID:derborence-le-temps-des-animaux-52920@pathe.ch
-DESCRIPTION:None
-URL:https://www.pathe.ch/de/filme-events/derborence-le-temps-des-animaux-5
- 2920
+UID:derborence-die-zeit-der-tiere-52920@pathe.ch
+DESCRIPTION:Schon in sehr jungen Jahren entwickelt Vincent Chabloz eine le
+ idenschaftliche Begeisterung für Derborence. Diese aussergewöhnliche St
+ ätte\, die den Schweizern für ihre dramatische Geschichte wohlbekannt is
+ t\, birgt für ihn keinerlei Geheimnis. Mit seinem ersten Spielfilm nimmt 
+ uns der Wildtierfilmer mit\, diesen Ort durch die Augen seiner Fauna zu en
+ tdecken\, die gelegentlich mit der Anwesenheit von Menschen im Tal konfron
+ tiert wird. Mit Zärtlichkeit und Humor bietet er uns viele Gelegenheiten
+ \, zu staunen und uns an die dringende Notwendigkeit zu erinnern\, die leb
+ enden Wesen\, zu denen wir ebenfalls gehören\, zu schützen. 
+URL:https://www.pathe.ch/de/filme-events/derborence-die-zeit-der-tiere-529
+ 20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der frechste Troll der Welt
@@ -978,9 +993,17 @@ SUMMARY:Der perfekte Urlaub
 DTSTART:20261022T040000Z
 DTEND:20261022T040000Z
 UID:der-perfekte-urlaub-51935@pathe.ch
-DESCRIPTION:Die Freundesgruppe aus „Das perfekte Geheimnis“ muss sich 
- auf einem chaotisch verlaufenden Kurztrip in den Süden die Frage stellen:
-  Gibt es ein Leben nach der Wahrheit oder ist ihre Freundschaft vorbei?
+DESCRIPTION:Was gibt es Schöneres als einen Abend unter Freunden? Ein gem
+ einsamer Urlaub! Nach dem Riesen-Hit DAS PERFEKTE GEHEIMNIS mit über fün
+ f Millionen verkauften Kinotickets im DACH-Raum schicken Bora Dagtekin und
+  Lena Schömann das bewährte Star-Ensemble auf einen Kurztrip mit Eskalat
+ ionspotenzial: DER PERFEKTE URLAUB startet am 22. Oktober 2026 in den Kino
+ s.<br/><br/>Auch in DER PERFEKTE URLAUB versammeln die Filmemacher:innen e
+ inen prominenten Cast vor der Kamera: Erneut zählen Elyas M’Barek\, Kar
+ oline Herfurth\, Jessica Schwarz\, Florian David Fitz\, Jella Haase\, Fred
+ erick Lau\, Wotan Wilke Möhring und Emily Kusche zum bewährten Ensemble
+ \, das Unterstützung von Diana Amft als beste Freundin von Carlotta (Karo
+ line Herfurth) bekommt.
 URL:https://www.pathe.ch/de/filme-events/der-perfekte-urlaub-51935
 END:VEVENT
 BEGIN:VEVENT
@@ -1004,16 +1027,6 @@ DTEND:20270114T040000Z
 UID:die-jahre-mit-dir-54821@pathe.ch
 DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/die-jahre-mit-dir-54821
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:digger-51445@pathe.ch
-DESCRIPTION:Der mächtigste Mann der Welt begibt sich auf eine verzweifelt
- e Mission\, um zu beweisen\, dass er der Retter der Menschheit ist\, bevor
-  die von ihm ausgelöste Katastrophe alles zerstört.
-URL:https://www.pathe.ch/de/filme-events/digger-51445
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Django Unchained
@@ -1079,6 +1092,14 @@ DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/ebenezer-a-christmas-carol-50491
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART:20261204T040000Z
+DTEND:20261204T040000Z
+UID:eetha-55772@pathe.ch
+DESCRIPTION:None
+URL:https://www.pathe.ch/de/filme-events/eetha-55772
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Enjoy Your Stay
 DTSTART:20261118T040000Z
 DTEND:20261118T040000Z
@@ -1100,49 +1121,69 @@ URL:https://www.pathe.ch/de/filme-events/eugene-oneguine-np-2027-national-
  de-paris-54927
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EUROPEAN OUTDOOR FILM TOUR 2025/2026
-DTSTART:20260923T040000Z
-DTEND:20260923T040000Z
-UID:european-outdoor-film-tour-2025-2026-55501@pathe.ch
+SUMMARY:Everest: The Other Side
+DTSTART:20270106T040000Z
+DTEND:20270106T040000Z
+UID:everest-the-other-side-55890@pathe.ch
 DESCRIPTION:None
-URL:https://www.pathe.ch/de/filme-events/european-outdoor-film-tour-2025-2
- 026-55501
+URL:https://www.pathe.ch/de/filme-events/everest-the-other-side-55890
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Forgotten Island 
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:forgotten-island-51497@pathe.ch
-DESCRIPTION:Als die zwei besten Freundinnen Jo und Raissa auf der geheimni
- svollen Insel Nakali stranden\, begreifen sie\, dass der Weg nach Hause ei
- n ganzes Leben an Erinnerungen fordert – vielleicht auch an den Menschen
- \, der ihnen am meisten bedeutet.<br/><br/><br/>Die Grammy- und Oscar® pr
- ämierte Ausnahmekünstlerin H.E.R. und Liza Soberano (Lisa Frankenstein\,
-  Allein mit dir) glänzen in den Hauptrollen als Jo und Raissa. Die beiden
-  Highschool-Absolventinnen sind unzertrennliche Freundinnen seit Kindertag
- en. Doch nun stehen sie am Beginn völlig unterschiedlicher Lebenswege.<br
- /><br/><br/>In ihrer letzten gemeinsamen Nacht entdecken Jo und Raissa ein
-  geheimnisvolles Portal\, das sie auf die geheimnisvolle Insel Nakali vers
- chlägt. An diesem fantastischen Ort leben magische und mythische Wesen\, 
- von denen sie schon als Kinder in den Geschichten ihrer philippinischen Fa
- milien gehört haben. Einige der Wesen begegnen ihnen als Verbündete\, an
- dere als gefährliche Gegner. Gemeinsam mit dem gutmütigen\, aber hoffnun
- gslos tollpatschigen Werhund Raww (im Original Dave Franco) und einer klei
- nen\, doch entschlossenen Gruppe neuer Gefährten müssen sich Jo und Rais
- sa der gefürchteten Manananggal stellen\, die im Original von der Tony-Aw
- ard-prämierten Ikone Lea Salonga gesprochen wird.<br/><br/><br/>Als sie e
- rkennen\, dass als Preis für ihre Rückkehr die Erinnerungen an ihre gesa
- mte Freundschaft gefordert werden\, beginnt für Jo und Raissa ein verzwei
- felter Wettlauf: Sie müssen die Insel verlassen\, bevor sie einander für
-  immer vergessen.
-URL:https://www.pathe.ch/de/filme-events/forgotten-island-51497
+SUMMARY:Festtagsspaß mit Peppa – Das Kinoerlebnis
+DTSTART:20261114T040000Z
+DTEND:20261114T040000Z
+UID:festtagsspass-mit-peppa-das-kinoerlebnis-56027@pathe.ch
+DESCRIPTION:J<br/>Erlebt ein festliches Kinoabenteuer\, in dem Peppa Wutz 
+ und ihre Familie auf der großen Leinwand Evies erstes Weihnachtsfest feie
+ rn! Seid dabei\, wenn Peppa Wutz und ihre Familie den Trubel am Weihnachts
+ tag erleben und sich an ihre schönsten Weihnachtsmomente erinnern. Von ve
+ rschneiten Abenteuern und festlichen Theateraufführungen bis hin zum Schm
+ ücken des Weihnachtsbaums – dieses einstündige Kinoerlebnis vereint si
+ eben klassische Weihnachtsfolgen von Peppa Wutz mit vier brandneuen Lieder
+ n\, bei denen die Kleinen tanzen und mitsingen können. Voller Lachen\, Mu
+ sik und herzerwärmender Momente ist dieses besondere Kinoerlebnis der per
+ fekte Familienausflug in der Weihnachtszeit. Also\, holt eure Mützen\, Sc
+ hals und Handschuhe heraus und genießt gemeinsam mit Peppa Wutz und ihrer
+  Familie den Zauber der Weihnachtszeit bei „Festtagsspaß mit Peppa – 
+ Das Kinoerlebnis“!
+URL:https://www.pathe.ch/de/filme-events/festtagsspass-mit-peppa-das-kinoe
+ rlebnis-56027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Focker-in-Law
+DTSTART:20261125T040000Z
+DTEND:20261125T040000Z
+UID:focker-in-law-48729@pathe.ch
+DESCRIPTION:This November\, comedy icon and Emmy winner Ben Stiller and tw
+ o-time Oscar® winner Robert De Niro reunite\, joined by Grammy winner and
+  Oscar® nominee Ariana Grande\, in Focker-In-Law\, a new chapter in the b
+ lockbuster Meet the Parents franchise.<br/><br/>Written and directed by Jo
+ hn Hamburg\, who co-wrote the three previous Meet the Parents films\, Fock
+ er-In-Law is produced by Oscar® nominee Jane Rosenthal and Robert De Niro
+  for Tribeca Productions\; Ben Stiller and Oscar® winner John Lesher for 
+ Red Hour Films.
+URL:https://www.pathe.ch/de/filme-events/focker-in-law-48729
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frank & Louis
 DTSTART:20261022T040000Z
 DTEND:20261022T040000Z
 UID:frank-louis-54510@pathe.ch
-DESCRIPTION:Plot unknown
+DESCRIPTION:Frank (Kingsley Ben-Adir)\, ein Mann in den Vierzigern\, verb
+ üsst eine lebenslange Haftstrafe - mit der Aussicht auf Bewährung. Um di
+ e brutale Realität des Gefängnisalltags zu ertragen\, hat er sich emotio
+ nal abgeschottet. Als er in eine neue Einrichtung verlegt wird\, beschlies
+ st er\, sich den Gold Coats anzuschliessen – einem Programm\, in dem Hä
+ ftlinge an Alzheimer und Demenz erkrankte Mitinsassen zu betreuen - in der
+  Hoffnung\, durch dieses Engagement die Chancen auf Bewährung zu erhöhen
+ . Die Arbeit ist fordernd\, doch Frank entwickelt eine unerwartete Beziehu
+ ng zu einem seiner Patienten\, Louis Nelson (Rob Morgan)\, einem Mann\, de
+ r einst für seine Macht und Autorität gefürchtet wurde. Ihn zu pflegen 
+ bringt Frank an seine körperlichen und emotionalen Grenzen.<br/><br/>Der 
+ neue Film der Schweizer Regisseurin von «Heldin»\, Petra Volpe\, feierte
+  am renommierten Sundance Film Festival in Park City seine Weltpremiere\, 
+ begeisterte am diesjährigen Locarno Film Festival und gewann den Publikum
+ spreis.
 URL:https://www.pathe.ch/de/filme-events/frank-louis-54510
 END:VEVENT
 BEGIN:VEVENT
@@ -1171,7 +1212,7 @@ SUMMARY:George Michael: The Faith Tour
 DTSTART:20261111T040000Z
 DTEND:20261111T040000Z
 UID:george-michael-the-faith-tour-54917@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/george-michael-the-faith-tour-549
  17
 END:VEVENT
@@ -1221,23 +1262,6 @@ DESCRIPTION:Der Krieg hat Japan auf Null reduziert\, und Godzilla hat es i
 URL:https://www.pathe.ch/de/filme-events/godzilla-minus-zero-55017
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gone With The Wind
-DTSTART:20260924T040000Z
-DTEND:20260924T040000Z
-UID:gone-with-the-wind-46312@pathe.ch
-DESCRIPTION:Eine manipulative Südstaaten-Schönheit hat während des Amer
- ikanischen Bürgerkriegs eine wilde Affäre mit einem Blockadebrecher.
-URL:https://www.pathe.ch/de/filme-events/gone-with-the-wind-46312
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART:20261125T040000Z
-DTEND:20261125T040000Z
-UID:hexed-50637@pathe.ch
-DESCRIPTION:Plot unknown
-URL:https://www.pathe.ch/de/filme-events/hexed-50637
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Histoires parallèles
 DTSTART:20260514T040000Z
 DTEND:20260514T040000Z
@@ -1260,17 +1284,14 @@ URL:https://www.pathe.ch/de/filme-events/hokum-55247
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hope
-DTSTART:20261104T040000Z
-DTEND:20261104T040000Z
+DTSTART:20261028T040000Z
+DTEND:20261028T040000Z
 UID:hope-54368@pathe.ch
-DESCRIPTION:In the remote South Korea village of Hope Harbor\, police chie
- f Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to fi
- nd a mysterious creature that has wreaked havoc on the village.  In the ne
- arby forest\, a coterie of hunters\, including Sung- ki (Zo In-Sung) set o
- ut to track the beast and find themselves hunted instead. But all is not a
- s it seems\, and perceptions can be misleading. What begins as ignorance p
- lants the seed of disaster\, escalating through human conflict into a trag
- edy of cosmic proportions.
+DESCRIPTION:Am Rande der abgelegenen Hafenstadt Hope wird eine mysteriöse
+  Entdeckung gemacht. Bald findet sich die Bevölkerung in einem verzweifel
+ ten Kampf ums Überleben wieder – gegen etwas\, dem niemand je zuvor beg
+ egnet ist. Der Polizeichef\, eine Polizistin und eine Gruppe von Jägern n
+ ehmen die Verfolgung auf.
 URL:https://www.pathe.ch/de/filme-events/hope-54368
 END:VEVENT
 BEGIN:VEVENT
@@ -1300,6 +1321,22 @@ DESCRIPTION:In HOW TO ROB A BANK streamt eine Gruppe junger Outlaws ihre r
 URL:https://www.pathe.ch/de/filme-events/how-to-rob-a-bank-51793
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hunger Games Marathon
+DTSTART:20261107T040000Z
+DTEND:20261107T040000Z
+UID:hunger-games-marathon-55741@pathe.ch
+DESCRIPTION:None
+URL:https://www.pathe.ch/de/filme-events/hunger-games-marathon-55741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice Age: Boiling Point
+DTSTART:20270203T040000Z
+DTEND:20270203T040000Z
+UID:ice-age-boiling-point-49579@pathe.ch
+DESCRIPTION:None
+URL:https://www.pathe.ch/de/filme-events/ice-age-boiling-point-49579
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Il faut brûler Maman
 DTSTART:20261111T040000Z
 DTEND:20261111T040000Z
@@ -1308,20 +1345,31 @@ DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/il-faut-bruler-maman-51587
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inglorious Basterds
+DTSTART:20261126T040000Z
+DTEND:20261126T040000Z
+UID:inglorious-basterds-55733@pathe.ch
+DESCRIPTION:Im ersten Jahr der deutschen Besatzung Frankreichs. Shosanna D
+ reyfus muss mit ansehen wie der Nazi Oberst Hans Landa ihre gesamte Famili
+ e ermordet. Shosanna gelingt es nur knapp\, zu entkommen. Sie flieht nach 
+ Paris und legt sich dort eine neue Identität als Besitzerin eines Kinos z
+ u. Anderswo in Europa stellt Leutnant Aldo Raine eine Gruppe bestehend aus
+  jüdisch amerikanischen Soldaten zusammen\, die flinke\, schockierende Ve
+ rgeltungsschläge begehen soll. Später werden sie dem Feind als „Die Ba
+ starde“ ein Begriff sein. Raines Truppe kontaktiert die deutsche Schausp
+ ielerin und Geheimagentin Bridget von Hammersmark für einen Einsatz\, um 
+ die Führer des III. Reichs zu töten. Schicksale verschmelzen im politisc
+ hen Untergrund und Schutz von Shosannas Kino. Die junge Frau plant dabei i
+ hren ganz persönlichen Rachefeldzug…
+URL:https://www.pathe.ch/de/filme-events/inglorious-basterds-55733
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ink
 DTSTART:20270106T040000Z
 DTEND:20270106T040000Z
 UID:ink-55018@pathe.ch
 DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/ink-55018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Int. OCEAN FILM TOUR Vol. 12
-DTSTART:20260923T040000Z
-DTEND:20260923T040000Z
-UID:int-ocean-film-tour-vol-12-55500@pathe.ch
-DESCRIPTION:None
-URL:https://www.pathe.ch/de/filme-events/int-ocean-film-tour-vol-12-55500
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Play Rocky
@@ -1434,7 +1482,7 @@ SUMMARY:Klara and the Sun
 DTSTART:20261021T040000Z
 DTEND:20261021T040000Z
 UID:klara-and-the-sun-52429@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/klara-and-the-sun-52429
 END:VEVENT
 BEGIN:VEVENT
@@ -1444,53 +1492,6 @@ DTEND:20261224T040000Z
 UID:kochschule-schwarz-54360@pathe.ch
 DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/kochschule-schwarz-54360
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Könige der Wellen
-DTSTART:20260923T040000Z
-DTEND:20260923T040000Z
-UID:konige-der-wellen-55502@pathe.ch
-DESCRIPTION:Das Meer ist jetzt noch cooler!<br/><br/>KÖNIGE DER WELLEN is
- t ein Animationsfilm\, der einen Blick hinter die Kulissen einer der aufre
- gendsten Sportarten der Welt wirft: das Pinguin-Surfen! Lernen Sie Cody ke
- nnen\, einen aufstrebenden Jung-Surfer\, der vor allem eins werden will: W
- eltmeister im Pinguin-Surfen.<br/><br/>Sein Idol ist Big Z\, eine Legende 
- unter allen Pinguinen\, die schon mal auf einem Surf-Brett gestanden haben
- . Um es ihm gleich zu tun\, verlässt Cody seine (viel zu kalte) Heimat Sh
- iverpool in der Nähe der Antarktis und macht sich auf in das Surfer-Parad
- ies Pen-Gu – zum grossen Surf Contest. Cody glaubt\, dass ein Sieg ihn z
- um Star unter den Pinguinen machen wird. Als er jedoch den etwas in die Ja
- hre gekommenen Surfer „The Geek“ trifft\, lernt er\, dass mehr dazu ge
- hört\, ein wahrer Champion zu werden\, als nur zu gewinnen!
-URL:https://www.pathe.ch/de/filme-events/konige-der-wellen-55502
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontra K: Orchestrated - Live from Channel Aid 2026
-DTSTART:20261002T040000Z
-DTEND:20261002T040000Z
-UID:kontra-k-orchestrated-live-from-channel-aid-2026-52910@pathe.ch
-DESCRIPTION:Manche Konzerte sind größer als der Raum\, in dem sie stattf
- inden. Deshalb kommt Kontra K im Rahmen von Channel Aid 2026 am 2. Oktober
-  dorthin\, wo ihr diesen besonderen Abend gemeinsam erleben könnt: ins Ki
- no.<br/>Nach einem Jahr voller besonderer Momente\, ausverkaufter Hallen u
- nd dem erfolgreichsten deutschsprachigen Album des Jahres macht Kontra K e
- twas\, das es so noch nicht gegeben hat: Er bringt sein Konzert mit einem 
- 65-köpfigen Orchester live aus Hamburg gemeinsam mit Channel Aid auf die 
- große Leinwand. Am 2. Oktober wird das außergewöhnliche Konzert aus dem
-  Deutschen SchauSpielHaus Hamburg live übertragen. In große Städte\, in
-  kleinere Orte und überall dorthin\, wo ihr diesen Moment gemeinsam erleb
- en wollt.<br/>Wer Kontra K kennt\, weiß: Seine Shows sind mehr als Konzer
- te. Für dieses Projekt werden seine prägendsten Songs neu arrangiert und
-  mit Orchester neu interpretiert. Bekannte Songs bekommen neue Farben\, ne
- ue Klangwelten und eine Inszenierung\, die diesen Abend zu einem besondere
- n Live-Erlebnis macht. Außerdem gibt Kontra K an diesem Abend erste Einbl
- icke in sein kommendes Album. Nicht nur als kurzer Moment im Feed\, sonder
- n live\, auf der großen Leinwand und gemeinsam mit anderen Fans im selben
-  Raum.<br/>Das hier ist mehr als ein Konzert im Kino! Es ist die Möglichk
- eit\, einen einmaligen Kontra K Abend live mitzuerleben\, auch wenn Ihr ni
- cht in Hamburg dabei seid.<br/>
-URL:https://www.pathe.ch/de/filme-events/kontra-k-orchestrated-live-from-c
- hannel-aid-2026-52910
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Bola Negra
@@ -1529,18 +1530,6 @@ DESCRIPTION:Un groupe de lycéens français part en voyage scolaire à Nap
 URL:https://www.pathe.ch/de/filme-events/la-gradiva-54590
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La haine
-DTSTART:20260924T040000Z
-DTEND:20260924T040000Z
-UID:la-haine-54986@pathe.ch
-DESCRIPTION:Der sechzehnjährige Abdel Ichah schwebt zwischen Leben und To
- d\, nachdem er während eines Verhörs von einem Polizisten brutal zusamme
- ngeschlagen wurde. In einer Grosswohnsiedlung kommt es zu gewaltsamen Ause
- inandersetzungen zwischen Jugendlichen und der Polizei. Für drei von ihne
- n werden die folgenden Stunden zu einem Wendepunkt in ihrem Leben …
-URL:https://www.pathe.ch/de/filme-events/la-haine-54986
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La La Land
 DTSTART:20260331T040000Z
 DTEND:20260331T040000Z
@@ -1561,11 +1550,34 @@ DESCRIPTION:In the 2026 comedy film La Maison de nos Rêves directed by Cl
 URL:https://www.pathe.ch/de/filme-events/la-maison-de-nos-reves-55103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:League of Legends Worlds 26 - Finals in Cinema
+SUMMARY:La Mia Famiglia Italiana
+DTSTART:20260916T040000Z
+DTEND:20260916T040000Z
+UID:la-mia-famiglia-italiana-54351@pathe.ch
+DESCRIPTION:Ein pensionierter Professor in seinen Siebzigern geniesst ein 
+ ruhiges Leben\, bis seine Tochter\, die mitten in einer Ehekrise steckt\, 
+ mit ihren beiden ungestümen Kindern bei ihm auftaucht. Als seine sorgenfr
+ eie Routine aus den Fugen gerät\, wird er in das familiäre Chaos hineing
+ ezogen. Durch diesen emotionalen Umbruch entdeckt er\, dass die Liebe trot
+ z aller Schwierigkeiten\, Opfer und Herausforderungen immer lebenswert ist
+ .
+URL:https://www.pathe.ch/de/filme-events/la-mia-famiglia-italiana-54351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:League of Legends Worlds 26 | Finals in Cinema
 DTSTART:20261114T040000Z
 DTEND:20261114T040000Z
 UID:league-of-legends-worlds-26-finals-in-cinema-54761@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:Die Finals der League of Legends World Championship sind zurü
+ ck auf der grossen Leinwand! Bei der Ausgabe 2026 kämpfen 19 Teams aus al
+ ler Welt um den Weltmeistertitel – das grosse Finale wird live im Kino 
+ übertragen.<br/>Erlebe jedes Match gemeinsam mit anderen Fans auf der gro
+ ssen Leinwand\, spüre die mitreissende Stimmung und feiere zusammen mit d
+ er Community. Egal\, ob du ein bestimmtes Team unterstützt oder einfach L
+ eague of Legends auf höchstem Niveau erleben möchtest – so werden die 
+ Finals zu einem ganz besonderen Erlebnis.<br/>Bring deine Freunde mit\, tr
+ age die Farben deines Teams und sei Teil eines legendären Abends. Die Pl
+ ätze sind begrenzt\, also verpasse nicht diese einmalige Gelegenheit.
 URL:https://www.pathe.ch/de/filme-events/league-of-legends-worlds-26-final
  s-in-cinema-54761
 END:VEVENT
@@ -1657,7 +1669,12 @@ SUMMARY:Les Misérables
 DTSTART:20261014T040000Z
 DTEND:20261014T040000Z
 UID:les-miserables-50705@pathe.ch
-DESCRIPTION:Plot unknown
+DESCRIPTION:Nach 19 Jahren Gefängnis kommt Jean Valjean frei und beginnt 
+ unter neuer Identität ein angesehenes Leben. Der sterbenden Fabrikarbeite
+ rin Fantine verspricht er\, ihre Tochter Cosette zu retten und grosszuzieh
+ en. Während Valjean sie wie sein eigenes Kind aufzieht\, verfolgt Inspekt
+ or Javert den ehemaligen Sträfling unerbittlich. Ihre Schicksale führen 
+ sie schliesslich ins revolutionäre Paris.
 URL:https://www.pathe.ch/de/filme-events/les-miserables-50705
 END:VEVENT
 BEGIN:VEVENT
@@ -1761,26 +1778,6 @@ DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/mariage-au-gout-d-orange-54595
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mavericks
-DTSTART:20260923T040000Z
-DTEND:20260923T040000Z
-UID:mavericks-55503@pathe.ch
-DESCRIPTION:Als der junge Jay Moriarity herausfindet\, dass die mythischen
-  Maverick-Wellen – die grössten Surfer-Wellen überhaupt – gleich bei
-  ihm in der Nähe in Santa Cruz entstehen\, hat er nur noch ein Ziel: Dies
- e Wellen zu reiten. Frosty Hesson wird sein Mentor und Trainer und lehrt i
- hn\, die Wellen zu bewältigen – und zu überleben.
-URL:https://www.pathe.ch/de/filme-events/mavericks-55503
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meet the Parents 4
-DTSTART:20261125T040000Z
-DTEND:20261125T040000Z
-UID:meet-the-parents-4-48729@pathe.ch
-DESCRIPTION:None
-URL:https://www.pathe.ch/de/filme-events/meet-the-parents-4-48729
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera 2026-27: Cosi Fan Tutte
 DTSTART:20261003T040000Z
 DTEND:20261003T040000Z
@@ -1853,12 +1850,12 @@ SUMMARY:Minotaur
 DTSTART:20261014T040000Z
 DTEND:20261014T040000Z
 UID:minotaur-54520@pathe.ch
-DESCRIPTION: <br/>Russland\, 2022. Gleb ist ein erfolgreicher Firmenchef\,
-  der unter dem Druck folgenschwerer Entscheidungen in seinem Unternehmen u
- nd einer zunehmend instabilen Welt steht. Als er entdeckt\, dass ihn seine
-  Frau betrügt\, gerät sein sorgfältig geordnetes Leben komplett aus den
-  Fugen. Mit aller Kraft stemmt sich Gleb gegen die Tragödie\, in die sich
-  er und sein Land verstrickt haben.
+DESCRIPTION:Russland\, 2022. Gleb ist ein erfolgreicher Firmenchef\, der u
+ nter dem Druck folgenschwerer Entscheidungen in seinem Unternehmen und ein
+ er zunehmend instabilen Welt steht. Als er entdeckt\, dass ihn seine Frau 
+ betrügt\, gerät sein sorgfältig geordnetes Leben komplett aus den Fugen
+ . Mit aller Kraft stemmt sich Gleb gegen die Tragödie\, in die sich er un
+ d sein Land verstrickt haben.
 URL:https://www.pathe.ch/de/filme-events/minotaur-54520
 END:VEVENT
 BEGIN:VEVENT
@@ -1896,27 +1893,6 @@ DESCRIPTION:Die Schwestern Satsuki und Mei ziehen mit ihrem Vater aufs Lan
  ter und begegnen dem freundlichen Totoro. Gemeinsam erleben sie zauberhaft
  e Abenteuer\, die sie für immer verbinden werden.
 URL:https://www.pathe.ch/de/filme-events/my-neighbor-totoro-55506
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAZA
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:naza-55507@pathe.ch
-DESCRIPTION:Plot unknown
-URL:https://www.pathe.ch/de/filme-events/naza-55507
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART:20260513T040000Z
-DTEND:20260513T040000Z
-UID:obsession-51276@pathe.ch
-DESCRIPTION:In OBSESSION – DU SOLLST MICH LIEBEN nutzt der hoffnungslose
-  Romantiker Bear ein „One-Wish-Willow”\, um seinen Crush für sich zu 
- gewinnen. Dieser magische Gegenstand erfüllt Wünsche\, wenn man ihn zerb
- richt. Zunächst scheint er genau das zu bekommen\, was er sich schon imme
- r wünschte. Doch schnell muss er feststellen\, dass manche Wünsche einen
-  finsteren\, unheimlichen Tribut fordern.<br/>
-URL:https://www.pathe.ch/de/filme-events/obsession-51276
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opéra National de Paris : La Bayadère
@@ -2063,16 +2039,25 @@ SUMMARY:Ramayana: Rise of a Legend
 DTSTART:20261104T040000Z
 DTEND:20261104T040000Z
 UID:ramayana-rise-of-a-legend-55622@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/ramayana-rise-of-a-legend-55622
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RED BULL MOVIE
-DTSTART:20260923T040000Z
-DTEND:20260923T040000Z
-UID:red-bull-movie-55508@pathe.ch
+SUMMARY:Rammstein - Live in Mexico City
+DTSTART:20261104T040000Z
+DTEND:20261104T040000Z
+UID:rammstein-live-in-mexico-city-55719@pathe.ch
 DESCRIPTION:None
-URL:https://www.pathe.ch/de/filme-events/red-bull-movie-55508
+URL:https://www.pathe.ch/de/filme-events/rammstein-live-in-mexico-city-557
+ 19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remain
+DTSTART:20270203T040000Z
+DTEND:20270203T040000Z
+UID:remain-51591@pathe.ch
+DESCRIPTION:None
+URL:https://www.pathe.ch/de/filme-events/remain-51591
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robert Badinter
@@ -2163,6 +2148,22 @@ DESCRIPTION:In the near future\, a couple take a state-of-the-art humanoid
 URL:https://www.pathe.ch/de/filme-events/sheep-in-the-box-54591
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Soudain
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:soudain-52918@pathe.ch
+DESCRIPTION:Die Pflegeheim-Leiterin Marie-Lou setzt sich dafür ein\, in i
+ hrer Institution das ganzheitliche Pflegekonzept Humanitude einzuführen. 
+ Dieses basiert auf Zuwendung und Zuhören\, unter steter Wahrung der Würd
+ e der Bewohner:innen. Dabei kämpft Marie-Lou gegen Widerstände von einem
+  Teil ihres Teams und von der profitorientierten Trägerschaft. Ihre Begeg
+ nung mit der an Krebs erkrankten Mari\, einer japanischen Theaterregisseur
+ in\, verändert ihren Weg grundlegend. Durch eine tiefe Freundschaft verbu
+ nden\, nehmen die beiden Frauen gemeinsam den Kampf auf\, um «das Unmögl
+ iche möglich zu machen».
+URL:https://www.pathe.ch/de/filme-events/soudain-52918
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spirited Away
 DTSTART:20260728T040000Z
 DTEND:20260728T040000Z
@@ -2176,21 +2177,6 @@ DESCRIPTION:Die kleine Chihiro durchquert mit ihren Eltern während eines
  n einen Fluss verwandeln kann\, den gesichtslosen Gott Noface und allerlei
   anderen seltsame Figuren...
 URL:https://www.pathe.ch/de/filme-events/spirited-away-47316
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Trek (2009)
-DTSTART:20260929T040000Z
-DTEND:20260929T040000Z
-UID:star-trek-2009-54987@pathe.ch
-DESCRIPTION:Frischer Schwung für die erfolgreiche Star Trek-Reihe. Für i
- hre neueste Kino-Mission heuert die Crew um Captain Kirk den Action-Spezia
- listen J. J. Abrams als Regisseur und Produzenten an\, der sich einen Name
- n mit den Hit-Serien „Alias“ und "Lost“ machte und mit „M:i:III“
-  erfolgreich bewiesen hat\, zu welch geballter Ladung sich Action\, Spannu
- ng und Spektakel vermischen lassen. Mit einer neuen\, jungen Crew wirft er
-  einen frischen Blick auf die frühen Jahre des grössten Space-Abenteuers
-  aller Zeiten.
-URL:https://www.pathe.ch/de/filme-events/star-trek-2009-54987
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Street Fighter
@@ -2238,8 +2224,18 @@ SUMMARY:The Angry Birds Movie 3
 DTSTART:20261223T040000Z
 DTEND:20261223T040000Z
 UID:the-angry-birds-movie-3-48128@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:This holiday season\, one angry bird will face his greatest ch
+ allenge yet\, surviving fatherhood… while saving the world!
 URL:https://www.pathe.ch/de/filme-events/the-angry-birds-movie-3-48128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Comeback King
+DTSTART:20270203T040000Z
+DTEND:20270203T040000Z
+UID:the-comeback-king-40742@pathe.ch
+DESCRIPTION:A country western star experiences a dramatic downfall and mus
+ t navigate their career in free fall.
+URL:https://www.pathe.ch/de/filme-events/the-comeback-king-40742
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Dark Knight
@@ -2264,57 +2260,29 @@ DESCRIPTION:The continuing saga of the Corleone crime family tells the sto
 URL:https://www.pathe.ch/de/filme-events/the-godfather-part-two-16798
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel
-DTSTART:20260929T040000Z
-DTEND:20260929T040000Z
-UID:the-grand-budapest-hotel-54988@pathe.ch
-DESCRIPTION:In den 1930er-Jahren arbeitet der junge Zero Moustafa als Lobb
- y Boy im berühmten Grand Budapest Hotel. Dort wird er zum engsten Vertrau
- ten des legendären Concierge Monsieur Gustave H. Als dieser des Mordes an
-  einer wohlhabenden Stammkundin beschuldigt wird\, geraten die beiden in e
- in turbulentes Abenteuer rund um ein wertvolles Gemälde\, ein riesiges Fa
- milienvermögen und die dramatischen Umbrüche Europas.
-URL:https://www.pathe.ch/de/filme-events/the-grand-budapest-hotel-54988
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Hunger Games: Sunrise on the Reaping
 DTSTART:20261118T040000Z
 DTEND:20261118T040000Z
 UID:the-hunger-games-sunrise-on-the-reaping-49227@pathe.ch
-DESCRIPTION:Der Film basiert auf dem Bestseller "Die Tribute von Panem L -
-  Der Tag bricht an" von Suzanne Collins\, der im März '25 erschienen ist.
-  Seitdem hält der Roman Spitzenplätze bei Amazon & USA Today und sichert
-  der gesamten "Hunger Games"-Reihe weiterhin Nr. 1 auf der New York Times 
- Bestsellerliste. In der ersten Woche wurden weltweit 1\,5 Mio. Exemplare v
- erkauft\, davon 1\,2 Mio. in den USA - doppelt so viele wie Songbirds & Sn
- akes und 3x so viele wie Mockingjay. Der Film versammelt einen hochkaräti
- gen Cast\, u.a.: Glenn Close\, Kieran Culkin\, Elle Fanning\, Ralph Fienne
- s\, Kelvin Harrison Jr. & Maya Hawke. Ergänzt durch Newcomer wie Joseph Z
- ada\, Whitney Peak\, Mckenna Grace & Ben Wang. Die Handlung spielt 24 J. v
- or dem ersten Film und beleuchtet die dramatischen 50. Hungerspiele (zweit
- es Quarter Quell) Regie führt erneut Francis Lawrence.<br/>
+DESCRIPTION:DIE TRIBUTE VON PANEM – SUNRISE ON THE REAPING ist das mit S
+ pannung erwartete neue Kapitel des weltweiten Erfolgsphänomens\, basieren
+ d auf den dystopischen Bestsellern von Suzanne Collins.<br/><br/><br/>Der 
+ Film erzählt die Geschichte des jungen Haymitch Abernathy\, der 24 Jahre 
+ vor den Ereignissen von DIE TRIBUTE VON PANEM – THE HUNGER GAMES auserw
+ ählt wird\, um an den 50. Hungerspielen\, dem zweiten sogenannten Jubel-J
+ ubiläum\, teilzunehmen. In einem von Misstrauen und politischer Spannung 
+ zerrissenen Panem wird ein noch erbarmungsloseres Jubiläums-Spiel alles f
+ ür immer verändern.
 URL:https://www.pathe.ch/de/filme-events/the-hunger-games-sunrise-on-the-r
  eaping-49227
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shawshank Redemption
-DTSTART:20260929T040000Z
-DTEND:20260929T040000Z
-UID:the-shawshank-redemption-54989@pathe.ch
-DESCRIPTION:Wegen des Mordes an seiner Frau und deren Liebhaber wird der B
- ankangestellte Andy Dufresne zu lebenslanger Haft im Shawshank-Gefängnis 
- verurteilt – obwohl er seine Unschuld beteuert. Hinter Gittern freundet 
- er sich mit dem erfahrenen Häftling Red an. Über viele Jahre hinweg bewa
- hrt Andy trotz Gewalt\, Ungerechtigkeit und Korruption seine Hoffnung und 
- seinen Wunsch nach Freiheit.
-URL:https://www.pathe.ch/de/filme-events/the-shawshank-redemption-54989
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
 DTSTART:20261007T040000Z
 DTEND:20261007T040000Z
 UID:the-social-reckoning-49904@pathe.ch
-DESCRIPTION:Plot unknown
+DESCRIPTION:Das Urteil steht. Die Abrechnung kommt. THE SOCIAL RECKONING\,
+  ein neues Kapitel des Kultfilms The Social Network
 URL:https://www.pathe.ch/de/filme-events/the-social-reckoning-49904
 END:VEVENT
 BEGIN:VEVENT
@@ -2360,6 +2328,18 @@ DESCRIPTION:In the French countryside\, wild boars have sparked a war betw
  een hunters and farmers. When a bigwig pushes a bankrupt farmer\, he snaps
   and vanishes. A year later\, Fulda takes charge of the investigation.
 URL:https://www.pathe.ch/de/filme-events/too-many-beasts-54816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toy Story 5
+DTSTART:20260617T040000Z
+DTEND:20260617T040000Z
+UID:toy-story-5-38854@pathe.ch
+DESCRIPTION:Die Spielzeughelden Buzz und Woody sind zurück und treffen in
+  TOY STORY 5 auf Lilypad\, ein froschförmiges High-Tech Tablet\, dem im O
+ riginal Greta Lee ihre Stimme leiht. Lilypad stellt Buzz\, Woody\, Jessie 
+ und den Rest der Gang vor völlig neue Herausforderungen\, da mit ihr das 
+ digitale Spielzeugzeitalter im Kinderzimmer eingeläutet wird.
+URL:https://www.pathe.ch/de/filme-events/toy-story-5-38854
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twilight
@@ -2511,20 +2491,34 @@ DESCRIPTION:None
 URL:https://www.pathe.ch/de/filme-events/untitled-wb-nl-event-film-40055
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Verity - Dunkle Geheimnisse
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:verity-dunkle-geheimnisse-50878@pathe.ch
-DESCRIPTION:Basierend auf Colleen Hoovers Bestseller erzählt dieser ebens
- o verführerische wie fesselnde Psychothriller die Geschichte der renommie
- rten Autorin Verity Crawford (Anne Hathaway) und Lowen Ashleigh (Dakota Jo
- hnson)\, einer bislang recht erfolglosen Schriftstellerin\, die auf das ab
- gelegene Anwesen der Crawfords zieht\, um für Verity als Ghostwriterin zu
-  arbeiten. Nachdem Lowen scheinbar Veritys erschreckende autobiografische 
- Aufzeichnungen entdeckt\, gerät sie in einen Strudel verstörender und ve
- rwirrender Geständnisse über Veritys Ehemann Jeremy (Josh Hartnett) – 
- und ringt damit\, Fiktion von Realität\, Manipulation von Anziehung und
-URL:https://www.pathe.ch/de/filme-events/verity-dunkle-geheimnisse-50878
+SUMMARY:Vaiana
+DTSTART:20260708T040000Z
+DTEND:20260708T040000Z
+UID:vaiana-38855@pathe.ch
+DESCRIPTION:In der Realverfilmung des Oscar®-nominierten Animationsabente
+ uers folgt Vaiana dem Ruf des Ozeans und wagt sich zum ersten Mal über da
+ s Riff ihrer Heimatinsel Motunui hinaus. Gemeinsam mit dem berühmt-berüc
+ htigten Halbgott Maui begibt sie sich auf eine abenteuerliche Reise über 
+ die Weiten des Meeres\, um die Zukunft ihres Volkes zu sichern. „Vaiana
+ “ entstand unter der Regie von Emmy®- und Tony Award®-Gewinner Thomas 
+ Kail („Hamilton“). Zuschauer können die beeindruckenden Bilder\, Klä
+ nge und Songs von „Vaiana“ im Juli 2026 exklusiv in den Kinos erleben.
+URL:https://www.pathe.ch/de/filme-events/vaiana-38855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violent Night 2
+DTSTART:20261202T040000Z
+DTEND:20261202T040000Z
+UID:violent-night-2-51580@pathe.ch
+DESCRIPTION:Ausgerechnet Santa Claus (David Harbour) vergisst die Bedeutun
+ g der wahren Weihnacht und landet somit auf der Liste der Unartigen. Seine
+ r Magie beraubt\, muss er einer quirligen Gruppe von Shopping-Center-Mitar
+ beitern helfen\, sich gegen brutale Gangster zu behaupten. Unterstützt vo
+ n Mrs. Claus (die Emmy- und Golden-Globe-nominierte Kristen Bell) und bewa
+ ffnet mit dem Skull Crusher\, garantiert er den Gangstern und ihrem Anfüh
+ rer Mason (der Emmy- und Golden-Globe-nominierte Jared Harris) eine tödli
+ che Bescherung. <br/>
+URL:https://www.pathe.ch/de/filme-events/violent-night-2-51580
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Violette
@@ -2550,8 +2544,8 @@ URL:https://www.pathe.ch/de/filme-events/viqueens-55121
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viva
-DTSTART:20261014T040000Z
-DTEND:20261014T040000Z
+DTSTART:20270113T040000Z
+DTEND:20270113T040000Z
 UID:viva-55433@pathe.ch
 DESCRIPTION:Nora\, 40 ans fait un retour fracassant dans sa vie ! Sa carri
  ère décolle\, son mari\, Tom\, est plus amoureux que jamais\, mais Max e
@@ -2564,7 +2558,11 @@ SUMMARY:Werwulf
 DTSTART:20270106T040000Z
 DTEND:20270106T040000Z
 UID:werwulf-47290@pathe.ch
-DESCRIPTION:None
+DESCRIPTION:WERWULF erzählt die unheilvolle Geschichte von Hingabe\, Verd
+ ammnis und dem Bösen\, das wir in uns tragen – unnachahmlich inszeniert
+  von Ausnahmeregisseur Robert Eggers (The Witch\, Der Leuchtturm\, The Nor
+ thman)\, mit Aaron Taylor-Johnson (Nosferatu)\, Lily-Rose Depp (Nosferatu)
+  sowie Schauspiellegende Willem Dafoe (Der Leuchtturm).
 URL:https://www.pathe.ch/de/filme-events/werwulf-47290
 END:VEVENT
 BEGIN:VEVENT
@@ -2574,6 +2572,14 @@ DTEND:20261014T040000Z
 UID:whalefall-51207@pathe.ch
 DESCRIPTION:Plot unknown
 URL:https://www.pathe.ch/de/filme-events/whalefall-51207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie verhext
+DTSTART:20261125T040000Z
+DTEND:20261125T040000Z
+UID:wie-verhext-50637@pathe.ch
+DESCRIPTION:Plot unknown
+URL:https://www.pathe.ch/de/filme-events/wie-verhext-50637
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wife and Dog
