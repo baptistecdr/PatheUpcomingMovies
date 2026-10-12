@@ -78,6 +78,17 @@ DESCRIPTION:Après un terrible crash d’avion\, James Belmont (Brad Pitt)
 URL:https://www.pathe.ch/fr/films-evenements/heart-of-the-beast-52900
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART:20260930T040000Z
+DTEND:20260930T040000Z
+UID:digger-51445@pathe.ch
+DESCRIPTION:L’homme le plus puissant au monde se lance dans une mission 
+ effrénée pour s'ériger en sauveur de l’humanité avant que la catastr
+ ophe\, qu’il a lui-même déclenchée\, n’anéantisse la planète.<br/
+ ><br/> 
+URL:https://www.pathe.ch/fr/films-evenements/digger-51445
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hope
 DTSTART:20261028T040000Z
 DTEND:20261028T040000Z
@@ -100,17 +111,6 @@ DESCRIPTION:Le prochain film de Christopher Nolan\, L’Odyssée\, est une
 URL:https://www.pathe.ch/fr/films-evenements/l-odyssee-43278
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART:20260930T040000Z
-DTEND:20260930T040000Z
-UID:digger-51445@pathe.ch
-DESCRIPTION:L’homme le plus puissant au monde se lance dans une mission 
- effrénée pour s'ériger en sauveur de l’humanité avant que la catastr
- ophe\, qu’il a lui-même déclenchée\, n’anéantisse la planète.<br/
- ><br/> 
-URL:https://www.pathe.ch/fr/films-evenements/digger-51445
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
 DTSTART:20260729T040000Z
 DTEND:20260729T040000Z
@@ -131,30 +131,6 @@ URL:https://www.pathe.ch/fr/films-evenements/spider-man-brand-new-day-4316
  1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emil and the Detectives
-DTSTART:20260924T040000Z
-DTEND:20260924T040000Z
-UID:emil-and-the-detectives-51206@pathe.ch
-DESCRIPTION:Emil is spending his summer vacation with his grandmother in B
- erlin. But on the train there\, he is robbed by the ruthless con artist Ma
- x Grundeis and a wild adventure begins! Together with his friends Pony\, G
- ustav\, Dienstag\, Anh\, and Jason\, Emil sets off in pursuit and embarks 
- on a fast-paced detective hunt across Berlin.
-URL:https://www.pathe.ch/fr/films-evenements/emil-and-the-detectives-51206
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Pat' Patrouille : Le film mission Dino
-DTSTART:20260805T040000Z
-DTEND:20260805T040000Z
-UID:la-pat-patrouille-le-film-mission-dino-38464@pathe.ch
-DESCRIPTION:The Paw Patrol lands on a mysterious dinosaur island after a s
- torm\, where they meet Rex\, a stranded pup. When Humdinger's reckless min
- ing triggers a volcano\, the team faces their biggest rescue mission yet t
- o save the island.
-URL:https://www.pathe.ch/fr/films-evenements/la-pat-patrouille-le-film-mis
- sion-dino-38464
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resident Evil
 DTSTART:20260916T040000Z
 DTEND:20260916T040000Z
@@ -169,6 +145,60 @@ DESCRIPTION:Bryan (Austin Abrams)\, jeune livreur\, accepte une mission en
  phique saisissante\, qui vous donnera des frissons et vous fera découvrir
   l’horreur sous un jour totalement inédit.
 URL:https://www.pathe.ch/fr/films-evenements/resident-evil-50490
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La maison de nos rêves
+DTSTART:20261007T040000Z
+DTEND:20261007T040000Z
+UID:la-maison-de-nos-reves-55103@pathe.ch
+DESCRIPTION:Benjamin et Amélie\, jeune couple de trentenaires décide d
+ ’acheter la maison de leurs rêves en viager à Nicolette\, une dame qui
+  semble mourante. Mais peu après la vente\, elle va beaucoup mieux et le 
+ couple se demande s’il n’a pas été arnaqué. Bientôt à genoux fina
+ ncièrement\, ils sont forcés de penser au pire.
+URL:https://www.pathe.ch/fr/films-evenements/la-maison-de-nos-reves-55103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ducobu et le fantôme de Saint-Potache
+DTSTART:20261007T040000Z
+DTEND:20261007T040000Z
+UID:ducobu-et-le-fantome-de-saint-potache-48322@pathe.ch
+DESCRIPTION:C’est Halloween\, et Ducobu revient pour une aventure pleine
+  de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau 
+ emménagent dans une maison… hantée par le  fantôme d'Anatole\, le plu
+ s grand cancre de l’histoire de l’école Saint-Potache. Ce fantôme fa
+ rceur va entraîner Ducobu\, Léonie\, leurs parents et Kitrish dans une s
+ érie de péripéties  aussi drôles qu’inattendues. Mais attention : à
+  Halloween\, tout peut arriver…
+URL:https://www.pathe.ch/fr/films-evenements/ducobu-et-le-fantome-de-saint
+ -potache-48322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emil and the Detectives
+DTSTART:20260924T040000Z
+DTEND:20260924T040000Z
+UID:emil-and-the-detectives-51206@pathe.ch
+DESCRIPTION:Emil is spending his summer vacation with his grandmother in B
+ erlin. But on the train there\, he is robbed by the ruthless con artist Ma
+ x Grundeis and a wild adventure begins! Together with his friends Pony\, G
+ ustav\, Dienstag\, Anh\, and Jason\, Emil sets off in pursuit and embarks 
+ on a fast-paced detective hunt across Berlin.
+URL:https://www.pathe.ch/fr/films-evenements/emil-and-the-detectives-51206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lügen über meine Mutter
+DTSTART:20261008T040000Z
+DTEND:20261008T040000Z
+UID:lugen-uber-meine-mutter-55102@pathe.ch
+DESCRIPTION:The story tells of growing up in provincial West Germany in th
+ e 1980s\, in a family where one subject dominates everything: the mother's
+  body weight. Is this beautiful\, strong-willed\, unpredictable woman too 
+ big? Does she really need to lose weight? Yes\, she does. Decides her husb
+ and\, who is increasingly dominated by the obsession that his wife's overw
+ eight is responsible for everything he is being denied: the promotion\, th
+ e social ascent\, the approval in the village community. And the mother is
+  exposed to this\, day after day.<br/>
+URL:https://www.pathe.ch/fr/films-evenements/lugen-uber-meine-mutter-55102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bibi Blocksberg - Die total verhexte Zeitreise
@@ -206,46 +236,31 @@ URL:https://www.pathe.ch/fr/films-evenements/des-minions-et-des-monstres-4
  0833
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La maison de nos rêves
-DTSTART:20261007T040000Z
-DTEND:20261007T040000Z
-UID:la-maison-de-nos-reves-55103@pathe.ch
-DESCRIPTION:Benjamin et Amélie\, jeune couple de trentenaires décide d
- ’acheter la maison de leurs rêves en viager à Nicolette\, une dame qui
-  semble mourante. Mais peu après la vente\, elle va beaucoup mieux et le 
- couple se demande s’il n’a pas été arnaqué. Bientôt à genoux fina
- ncièrement\, ils sont forcés de penser au pire.
-URL:https://www.pathe.ch/fr/films-evenements/la-maison-de-nos-reves-55103
+SUMMARY:La Pat' Patrouille : Le film mission Dino
+DTSTART:20260805T040000Z
+DTEND:20260805T040000Z
+UID:la-pat-patrouille-le-film-mission-dino-38464@pathe.ch
+DESCRIPTION:The Paw Patrol lands on a mysterious dinosaur island after a s
+ torm\, where they meet Rex\, a stranded pup. When Humdinger's reckless min
+ ing triggers a volcano\, the team faces their biggest rescue mission yet t
+ o save the island.
+URL:https://www.pathe.ch/fr/films-evenements/la-pat-patrouille-le-film-mis
+ sion-dino-38464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ducobu et le fantôme de Saint-Potache
-DTSTART:20261007T040000Z
-DTEND:20261007T040000Z
-UID:ducobu-et-le-fantome-de-saint-potache-48322@pathe.ch
-DESCRIPTION:C’est Halloween\, et Ducobu revient pour une aventure pleine
-  de rires et de mystères ! Le professeur Latouche et Mademoiselle Rateau 
- emménagent dans une maison… hantée par le  fantôme d'Anatole\, le plu
- s grand cancre de l’histoire de l’école Saint-Potache. Ce fantôme fa
- rceur va entraîner Ducobu\, Léonie\, leurs parents et Kitrish dans une s
- érie de péripéties  aussi drôles qu’inattendues. Mais attention : à
-  Halloween\, tout peut arriver…
-URL:https://www.pathe.ch/fr/films-evenements/ducobu-et-le-fantome-de-saint
- -potache-48322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lügen über meine Mutter
-DTSTART:20261008T040000Z
-DTEND:20261008T040000Z
-UID:lugen-uber-meine-mutter-55102@pathe.ch
-DESCRIPTION:The story tells of growing up in provincial West Germany in th
- e 1980s\, in a family where one subject dominates everything: the mother's
-  body weight. Is this beautiful\, strong-willed\, unpredictable woman too 
- big? Does she really need to lose weight? Yes\, she does. Decides her husb
- and\, who is increasingly dominated by the obsession that his wife's overw
- eight is responsible for everything he is being denied: the promotion\, th
- e social ascent\, the approval in the village community. And the mother is
-  exposed to this\, day after day.<br/>
-URL:https://www.pathe.ch/fr/films-evenements/lugen-uber-meine-mutter-55102
+SUMMARY:Tombé du ciel
+DTSTART:20260812T040000Z
+DTEND:20260812T040000Z
+UID:tombe-du-ciel-54355@pathe.ch
+DESCRIPTION:Ilyes mene une vie joyeuse dans la banlieue de Roubaix. Seul p
+ robleme : le bac. Apres avoir echoue deux fois\, c'est sa derniere chance 
+ de l'avoir et de rendre enfin fier ses parents. Mais un incendie survient 
+ pendant le bac blanc\, et on l'accuse d'en être à l'origine ... Exclu de
+  son lycee\, il doit quitter son quartier et aller dans le seul etablissem
+ ent qui l'accepte : le pensionnat catholique de Saint-Albert-le-Grand\, en
+  Bourgogne. Entre choc des cultures et quete de redemption\, llyes va devo
+ ir surmonter ses prejuges ... Et ceux des autres.
+URL:https://www.pathe.ch/fr/films-evenements/tombe-du-ciel-54355
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garance
@@ -269,6 +284,54 @@ DESCRIPTION:Tourné de nuit sur les toits de Tel-Aviv\, ce film dévoile e
  isant à tuer massivement des civils palestiniens dans la bande de Gaza.<b
  r/><br/>
 URL:https://www.pathe.ch/fr/films-evenements/naza-55507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:111 - Echoes from Halifax
+DTSTART:20270120T040000Z
+DTEND:20270120T040000Z
+UID:111-echoes-from-halifax-38775@pathe.ch
+DESCRIPTION:Le drame 111 tourne autour du tragique crash de Swissair 111 d
+ ans les eaux froides de l'Atlantique au large de Halifax\, en Nouvelle Éc
+ osse\, le 2 septembre 1998. Le moment de la catastrophe n'est jamais montr
+ é\, mais il est toujours perceptible de manière sous jacente. Nous suivo
+ ns l'évolution des personnes les plus diverses qui sont touchées par l'a
+ ccident et devinons l'ampleur de la tragédie à travers les différentes 
+ conséquences. Le crash sépare les gens et en rapproche d'autres. Il met 
+ fin à des vies et en change d'autres. Et bien que le deuil\, la gestion d
+ e celui-ci ainsi que la mort et la perte soient bien sûr des thèmes impo
+ rtants de ce film\, ce sont les questions sur la vie - qui semble si préc
+ ieuse justement en raison de la connaissance de sa finitude - qui ont insp
+ iré ce film.<br/>
+URL:https://www.pathe.ch/fr/films-evenements/111-echoes-from-halifax-38775
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALWAYS LALISA
+DTSTART:20261012T040000Z
+DTEND:20261012T040000Z
+UID:always-lalisa-55454@pathe.ch
+DESCRIPTION:Always Lalisa est un long-métrage documentaire qui suit la su
+ perstar internationale LISA pendant une année charnière passée loin de 
+ Blackpink\, le groupe phénomène de K-pop qui a fait d'elle l'une des art
+ istes les plus célèbres au monde. Alors que le groupe met ses activités
+  en pause\, LISA entame le véritable premier chapitre de sa carrière sol
+ o\, se confrontant à cette question : trouver sa propre identité en deho
+ rs de Blackpink.<br/><br/>Le film suit LISA alors qu'elle écrit\, enregis
+ tre et sort son premier album solo\,Alter Ego\, fait ses débuts d'actrice
+  dans la troisième saison de The White Lotus et se prépare pour sa premi
+ ère grande prestation en solo au festival musicall Coachella 2025. LISA e
+ st née et a grandi en Thaïlande. Elle a quitté le domicile familial à 
+ l'âge de quatorze ans pour se former au sein du système exigeant de la K
+ -pop en Corée du Sud\, accédant finalement au rang de superstar mondiale
+ . Cependant\, suivre son propre chemin\, en particulier sur le marché de 
+ la musique occidentale\, s'accompagne de nouvelles pressions\, d'une surve
+ illance incessante et du défi consistant à se redéfinir selon ses propr
+ es termes.<br/><br/>Intime\, émouvant et révélateur\, le documentaire A
+ lways Lalisa dépeint une artiste à la croisée des chemins \; l'œuvre r
+ etrace une année faite de prises de risque\, de réinvention et de décou
+ verte de soi\, alors que LISA commence à définir non seulement le procha
+ in chapitre de son parcours\, mais aussi la femme et l'artiste qu'elle asp
+ ire à devenir.
+URL:https://www.pathe.ch/fr/films-evenements/always-lalisa-55454
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das gewisse Etwas
@@ -344,38 +407,30 @@ URL:https://www.pathe.ch/fr/films-evenements/tad-l-explorateur-et-la-lampe
  -magique-49344
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tombé du ciel
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:tombe-du-ciel-54355@pathe.ch
-DESCRIPTION:Ilyes mene une vie joyeuse dans la banlieue de Roubaix. Seul p
- robleme : le bac. Apres avoir echoue deux fois\, c'est sa derniere chance 
- de l'avoir et de rendre enfin fier ses parents. Mais un incendie survient 
- pendant le bac blanc\, et on l'accuse d'en être à l'origine ... Exclu de
-  son lycee\, il doit quitter son quartier et aller dans le seul etablissem
- ent qui l'accepte : le pensionnat catholique de Saint-Albert-le-Grand\, en
-  Bourgogne. Entre choc des cultures et quete de redemption\, llyes va devo
- ir surmonter ses prejuges ... Et ceux des autres.
-URL:https://www.pathe.ch/fr/films-evenements/tombe-du-ciel-54355
+SUMMARY:Arnie & Barney
+DTSTART:20260903T040000Z
+DTEND:20260903T040000Z
+UID:arnie-barney-54820@pathe.ch
+DESCRIPTION:Two clumsy ants with big dreams and zero coordination stumble 
+ through life in the meadow\, causing chaos wherever they go. A slapstick c
+ omedy about friendship\, failure\, and the tiny triumphs that make even an
+ ts feel like heroes.
+URL:https://www.pathe.ch/fr/films-evenements/arnie-barney-54820
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:111 - Echoes from Halifax
-DTSTART:20270120T040000Z
-DTEND:20270120T040000Z
-UID:111-echoes-from-halifax-38775@pathe.ch
-DESCRIPTION:Le drame 111 tourne autour du tragique crash de Swissair 111 d
- ans les eaux froides de l'Atlantique au large de Halifax\, en Nouvelle Éc
- osse\, le 2 septembre 1998. Le moment de la catastrophe n'est jamais montr
- é\, mais il est toujours perceptible de manière sous jacente. Nous suivo
- ns l'évolution des personnes les plus diverses qui sont touchées par l'a
- ccident et devinons l'ampleur de la tragédie à travers les différentes 
- conséquences. Le crash sépare les gens et en rapproche d'autres. Il met 
- fin à des vies et en change d'autres. Et bien que le deuil\, la gestion d
- e celui-ci ainsi que la mort et la perte soient bien sûr des thèmes impo
- rtants de ce film\, ce sont les questions sur la vie - qui semble si préc
- ieuse justement en raison de la connaissance de sa finitude - qui ont insp
- iré ce film.<br/>
-URL:https://www.pathe.ch/fr/films-evenements/111-echoes-from-halifax-38775
+SUMMARY:Fjord
+DTSTART:20260819T040000Z
+DTEND:20260819T040000Z
+UID:fjord-54357@pathe.ch
+DESCRIPTION:Les Gheorghiu\, un couple roumano-norvégien très croyant\, s
+ ’installent avec leurs enfants dans un village isolé au bord d’un fjo
+ rd norvégien. Bien accueillis\, ils se rapprochent rapidement de leurs vo
+ isins\, les Halberg\, tandis que les enfants des deux familles deviennent 
+ inséparables. Mais lorsque le corps enseignant découvre des ecchymoses s
+ ur l’aînée des Gheorghiu\, leur modèle éducatif est soudain remis en
+  question dans une société où la protection de l’enfance est une prio
+ rité absolue.
+URL:https://www.pathe.ch/fr/films-evenements/fjord-54357
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La vie d'une femme
@@ -400,17 +455,37 @@ DESCRIPTION:Gabrielle\, 55 ans\, se consacre corps et âme à son métier.
 URL:https://www.pathe.ch/fr/films-evenements/la-vie-d-une-femme-54481
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Les Ensorceleuses 2
+SUMMARY:L'espèce explosive
+DTSTART:20261007T040000Z
+DTEND:20261007T040000Z
+UID:l-espece-explosive-54816@pathe.ch
+DESCRIPTION:Dans le Nord-Est de la France\, agriculteurs et chasseurs se f
+ ont la guerre. Les sangliers\, trop gros et trop nombreux\, dévastent les
+  cultures. Brun\, un céréalier au bord du gouffre\, craque et disparaît
+ . Un an plus tard\, Fulda\, un gendarme explosif et Stéphane\, une psy en
+  crise\, enquêtent. Ce qu’ils découvrent les dépasse\, ce qui naît e
+ ntre eux aussi.
+URL:https://www.pathe.ch/fr/films-evenements/l-espece-explosive-54816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pressure
 DTSTART:20260909T040000Z
 DTEND:20260909T040000Z
-UID:les-ensorceleuses-2-40524@pathe.ch
-DESCRIPTION:De nouveau interprété par Sandra Bullock et Nicole Kidman\, 
- LES ENSORCELEUSES 2 nous replonge dans un univers malicieux\, dominé par 
- des sortilèges ancestraux. Cette fois\, les sœurs Owens doivent affronte
- r une terrible malédiction qui menace d’anéantir leur famille une fois
-  pour toutes… Un événement cinématographique qui mêle humour\, magie
-  et chaos !
-URL:https://www.pathe.ch/fr/films-evenements/les-ensorceleuses-2-40524
+UID:pressure-51666@pathe.ch
+DESCRIPTION:Dans les 72 heures précédant le D-Day\, tout est prêt - sau
+ f un élément crucial : la météo britannique. James Stagg (Andrew Scott
+ )\, le principal météorologue britannique\, doit établir la prévision 
+ météo la plus décisive de l'histoire et se retrouve pris dans un dilemm
+ e tendu avec l'ensemble de la direction alliée. De mauvaises conditions m
+ étéorologiques pourraient faire échouer la plus grande invasion maritim
+ e de tous les temps\, tandis que tout retard augmente le risque que les se
+ rvices secrets allemands se méfient. La décision finale revient au comma
+ ndant suprême des Alliés\, Dwight D. Eisenhower\, qui ne peut se confier
+  qu'à son proche collaborateur\, le capitaine Kay Summersby\, et est hant
+ é par les souvenirs d'un exercice catastrophique du DDay. Il ne reste que
+  quelques heures - le sort de la guerre et la vie de millions de personnes
+  sont en jeu.<br/>
+URL:https://www.pathe.ch/fr/films-evenements/pressure-51666
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Raison et sentiments
@@ -421,6 +496,19 @@ DESCRIPTION:D'après le chef-d'œuvre de Jane Austen. Découvrez RAISON ET
   SENTIMENTS\, avec Daisy Edgar-Jones (Normal People) et George MacKay (191
  7).
 URL:https://www.pathe.ch/fr/films-evenements/raison-et-sentiments-50704
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toy Story 5
+DTSTART:20260617T040000Z
+DTEND:20260617T040000Z
+UID:toy-story-5-38854@pathe.ch
+DESCRIPTION:Lilypad est une tablette connectée en forme de grenouille\, d
+ oublée dans la version originale par Greta Lee. Dotée des dernières tec
+ hnologies de pointe et prête à tout pour mettre fin au règne des jouets
+  traditionnels\, elle va rapidement s’affirmer comme une redoutable riva
+ le et donner bien du fil à retordre à Buzz\, Woody\, Jessie et toute la 
+ bande…
+URL:https://www.pathe.ch/fr/films-evenements/toy-story-5-38854
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ah Que le Bonheur est Proche!
@@ -440,101 +528,6 @@ DESCRIPTION:Jean-Luc\, acteur d’environ 80 ans\, est ravi. On lui a prop
  paraître.
 URL:https://www.pathe.ch/fr/films-evenements/ah-que-le-bonheur-est-proche-
  54763
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bluey au cinéma : Collection “En Cuisine” 
-DTSTART:20260325T040000Z
-DTEND:20260325T040000Z
-UID:bluey-au-cinema-collection-en-cuisine-51548@pathe.ch
-DESCRIPTION:Bluey au cinéma : Collection “En Cuisine”\, c’est une h
- eure de pur plaisir pour tous les fans de Bluey ! Cette compilation rassem
- ble huit épisodes des trois saisons de la série\, tous centrés sur le p
- laisir de cuisiner. Retrouvez des moments cultes comme Plats à emporter o
- u Le Restaurant de luxe\, et découvrez les talents culinaires de la famil
- le Heeler avec L’Omelette et Le Gâteau canard – la cuisine n’a jama
- is été aussi amusante!
-URL:https://www.pathe.ch/fr/films-evenements/bluey-au-cinema-collection-en
- -cuisine-51548
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charlie et les kangourous
-DTSTART:20260722T040000Z
-DTEND:20260722T040000Z
-UID:charlie-et-les-kangourous-47076@pathe.ch
-DESCRIPTION:Après une panne de voiture\, Chris\, ancien présentateur mé
- téo vedette\, se retrouve bloqué dans une petite ville reculée d’Aust
- ralie. Il y fait la connaissance de Charlie\, une petite fille aborigène 
- de 12 ans passionnée par les kangourous\, et qui partageait cet amour des
-  animaux avec son père aujourd'hui disparu. Une amitié improbable va alo
- rs se nouer entre eux. Ensemble\, ils vont recueillir et soigner des béb
- és kangourous orphelins et leur offrir une seconde chance. Une aventure i
- nspirée d'une incroyable histoire vraie et qui a transformé des vies.
-URL:https://www.pathe.ch/fr/films-evenements/charlie-et-les-kangourous-470
- 76
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fjord
-DTSTART:20260819T040000Z
-DTEND:20260819T040000Z
-UID:fjord-54357@pathe.ch
-DESCRIPTION:Les Gheorghiu\, un couple roumano-norvégien très croyant\, s
- ’installent avec leurs enfants dans un village isolé au bord d’un fjo
- rd norvégien. Bien accueillis\, ils se rapprochent rapidement de leurs vo
- isins\, les Halberg\, tandis que les enfants des deux familles deviennent 
- inséparables. Mais lorsque le corps enseignant découvre des ecchymoses s
- ur l’aînée des Gheorghiu\, leur modèle éducatif est soudain remis en
-  question dans une société où la protection de l’enfance est une prio
- rité absolue.
-URL:https://www.pathe.ch/fr/films-evenements/fjord-54357
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'espèce explosive
-DTSTART:20261007T040000Z
-DTEND:20261007T040000Z
-UID:l-espece-explosive-54816@pathe.ch
-DESCRIPTION:Dans le Nord-Est de la France\, agriculteurs et chasseurs se f
- ont la guerre. Les sangliers\, trop gros et trop nombreux\, dévastent les
-  cultures. Brun\, un céréalier au bord du gouffre\, craque et disparaît
- . Un an plus tard\, Fulda\, un gendarme explosif et Stéphane\, une psy en
-  crise\, enquêtent. Ce qu’ils découvrent les dépasse\, ce qui naît e
- ntre eux aussi.
-URL:https://www.pathe.ch/fr/films-evenements/l-espece-explosive-54816
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mochy
-DTSTART:20261014T040000Z
-DTEND:20261014T040000Z
-UID:mochy-51300@pathe.ch
-DESCRIPTION:Mochy\, le chien le plus moche du monde<br/>Mochy est un jeune
-  chien au grand cœur… mais il n'a pas un physique facile… Ça ne l'em
- pêche pas d’avoir un rêve : participer au concours du plus beau chien.
-  Défiant tous les obstacles\, il va tout faire pour réaliser ce projet f
- ou avec le secret espoir d'y trouver l'humain qui l'aimera pour la vie.
-URL:https://www.pathe.ch/fr/films-evenements/mochy-51300
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toy Story 5
-DTSTART:20260617T040000Z
-DTEND:20260617T040000Z
-UID:toy-story-5-38854@pathe.ch
-DESCRIPTION:Lilypad est une tablette connectée en forme de grenouille\, d
- oublée dans la version originale par Greta Lee. Dotée des dernières tec
- hnologies de pointe et prête à tout pour mettre fin au règne des jouets
-  traditionnels\, elle va rapidement s’affirmer comme une redoutable riva
- le et donner bien du fil à retordre à Buzz\, Woody\, Jessie et toute la 
- bande…
-URL:https://www.pathe.ch/fr/films-evenements/toy-story-5-38854
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arnie & Barney
-DTSTART:20260903T040000Z
-DTEND:20260903T040000Z
-UID:arnie-barney-54820@pathe.ch
-DESCRIPTION:Two clumsy ants with big dreams and zero coordination stumble 
- through life in the meadow\, causing chaos wherever they go. A slapstick c
- omedy about friendship\, failure\, and the tiny triumphs that make even an
- ts feel like heroes.
-URL:https://www.pathe.ch/fr/films-evenements/arnie-barney-54820
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A tombeaux ouverts
@@ -565,38 +558,17 @@ DESCRIPTION:In einer nahen Zukunft repräsentiert die «Methode» eine Ges
 URL:https://www.pathe.ch/fr/films-evenements/corpus-delicti-54910
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pressure
+SUMMARY:Les Ensorceleuses 2
 DTSTART:20260909T040000Z
 DTEND:20260909T040000Z
-UID:pressure-51666@pathe.ch
-DESCRIPTION:Dans les 72 heures précédant le D-Day\, tout est prêt - sau
- f un élément crucial : la météo britannique. James Stagg (Andrew Scott
- )\, le principal météorologue britannique\, doit établir la prévision 
- météo la plus décisive de l'histoire et se retrouve pris dans un dilemm
- e tendu avec l'ensemble de la direction alliée. De mauvaises conditions m
- étéorologiques pourraient faire échouer la plus grande invasion maritim
- e de tous les temps\, tandis que tout retard augmente le risque que les se
- rvices secrets allemands se méfient. La décision finale revient au comma
- ndant suprême des Alliés\, Dwight D. Eisenhower\, qui ne peut se confier
-  qu'à son proche collaborateur\, le capitaine Kay Summersby\, et est hant
- é par les souvenirs d'un exercice catastrophique du DDay. Il ne reste que
-  quelques heures - le sort de la guerre et la vie de millions de personnes
-  sont en jeu.<br/>
-URL:https://www.pathe.ch/fr/films-evenements/pressure-51666
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soudain
-DTSTART:20260812T040000Z
-DTEND:20260812T040000Z
-UID:soudain-52918@pathe.ch
-DESCRIPTION:Directrice d'un établissement pour personnes âgées\, Marie-
- Lou tente d'y instaurer une philosophie de soins innovante basée sur l'é
- coute et la dignité des résidents\, malgré la réticence d’une partie
-  de ses équipes. Sa rencontre avec Mari\, une metteuse en scène japonais
- e qui se bat contre un cancer\, va bouleverser sa trajectoire. En nouant u
- ne amitié profonde\, les deux femmes engagent ensemble un combat pour “
- rendre possible l’impossible”.
-URL:https://www.pathe.ch/fr/films-evenements/soudain-52918
+UID:les-ensorceleuses-2-40524@pathe.ch
+DESCRIPTION:De nouveau interprété par Sandra Bullock et Nicole Kidman\, 
+ LES ENSORCELEUSES 2 nous replonge dans un univers malicieux\, dominé par 
+ des sortilèges ancestraux. Cette fois\, les sœurs Owens doivent affronte
+ r une terrible malédiction qui menace d’anéantir leur famille une fois
+  pour toutes… Un événement cinématographique qui mêle humour\, magie
+  et chaos !
+URL:https://www.pathe.ch/fr/films-evenements/les-ensorceleuses-2-40524
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15/18
@@ -638,35 +610,6 @@ DESCRIPTION:After twenty years spent “chillin’\, tokin’ and bonin’
  ters adversaries who will ultimately threaten his and his child’s very e
  xistence. 
 URL:https://www.pathe.ch/fr/films-evenements/ali-g-who-iz-i-55064
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALWAYS LALISA
-DTSTART:20261012T040000Z
-DTEND:20261012T040000Z
-UID:always-lalisa-55454@pathe.ch
-DESCRIPTION:Always Lalisa est un long-métrage documentaire qui suit la su
- perstar internationale LISA pendant une année charnière passée loin de 
- Blackpink\, le groupe phénomène de K-pop qui a fait d'elle l'une des art
- istes les plus célèbres au monde. Alors que le groupe met ses activités
-  en pause\, LISA entame le véritable premier chapitre de sa carrière sol
- o\, se confrontant à cette question : trouver sa propre identité en deho
- rs de Blackpink.<br/><br/>Le film suit LISA alors qu'elle écrit\, enregis
- tre et sort son premier album solo\,Alter Ego\, fait ses débuts d'actrice
-  dans la troisième saison de The White Lotus et se prépare pour sa premi
- ère grande prestation en solo au festival musicall Coachella 2025. LISA e
- st née et a grandi en Thaïlande. Elle a quitté le domicile familial à 
- l'âge de quatorze ans pour se former au sein du système exigeant de la K
- -pop en Corée du Sud\, accédant finalement au rang de superstar mondiale
- . Cependant\, suivre son propre chemin\, en particulier sur le marché de 
- la musique occidentale\, s'accompagne de nouvelles pressions\, d'une surve
- illance incessante et du défi consistant à se redéfinir selon ses propr
- es termes.<br/><br/>Intime\, émouvant et révélateur\, le documentaire A
- lways Lalisa dépeint une artiste à la croisée des chemins \; l'œuvre r
- etrace une année faite de prises de risque\, de réinvention et de décou
- verte de soi\, alors que LISA commence à définir non seulement le procha
- in chapitre de son parcours\, mais aussi la femme et l'artiste qu'elle asp
- ire à devenir.
-URL:https://www.pathe.ch/fr/films-evenements/always-lalisa-55454
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arc-en-ciel
@@ -1815,6 +1758,18 @@ DESCRIPTION: <br/>Gleb\, puissant cadre d’une province russe\, mène une
  ielle. Pris entre crise intime et bouleversement historique\, Gleb voit pe
  u à peu son monde lui échapper.
 URL:https://www.pathe.ch/fr/films-evenements/minotaur-54520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mochy
+DTSTART:20261014T040000Z
+DTEND:20261014T040000Z
+UID:mochy-51300@pathe.ch
+DESCRIPTION:Mochy\, le chien le plus moche du monde<br/>Mochy est un jeune
+  chien au grand cœur… mais il n'a pas un physique facile… Ça ne l'em
+ pêche pas d’avoir un rêve : participer au concours du plus beau chien.
+  Défiant tous les obstacles\, il va tout faire pour réaliser ce projet f
+ ou avec le secret espoir d'y trouver l'humain qui l'aimera pour la vie.
+URL:https://www.pathe.ch/fr/films-evenements/mochy-51300
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mumbo Jumbo
