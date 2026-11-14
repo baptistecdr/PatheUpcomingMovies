@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v7.0.1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Lint code
-        uses: psf/black@stable
+        uses: psf/black@258e7dbf348bc23cb70b8cdf693481c04634ebcc # stable
         with:
           options: --check
           src: .
